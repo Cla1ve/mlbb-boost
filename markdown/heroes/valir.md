@@ -1,6 +1,6 @@
 ---
 title: "Валир MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Валир, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Валира. Маг, 53,47% побед, тир A."
+description: "Валир, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Валира. Маг, 53,46% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/valir.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-4,0%
+4,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -68,11 +68,11 @@ A
 
 Победы
 
-59,8%
+59,4%
 
 Выбор
 
-23,6%
+24,0%
 
 #### Основные предметы
 
@@ -129,11 +129,11 @@ A
 
 Победы
 
-61,1%
+60,7%
 
 Выбор
 
-3,2%
+3,3%
 
 #### Основные предметы
 
@@ -283,7 +283,7 @@ A
 
 ### Кого контрит Валир
 
-[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ## Скины Валира
 
@@ -313,7 +313,7 @@ A
 
 Какой процент побед у Валира сейчас?
 
-53,47% в Мифической славе за последние 7 дней и 54,04% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+53,46% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Валира?
 
@@ -321,8 +321,8 @@ A
 
 Стоит ли брать Валира в текущей мете?
 
-Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,0% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
+Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,1% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
 
 Какая сборка на Валира лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл снежной королевы» и «Фонарь желаний», обычная эмблема с талантами «Вдохновение», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 59,80% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл снежной королевы» и «Фонарь желаний», обычная эмблема с талантами «Вдохновение», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 59,43% матчей.

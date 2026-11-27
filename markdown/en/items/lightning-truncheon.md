@@ -46,23 +46,23 @@ Parts cost 1,490, assembly adds 760 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/eudora.webp)Eudora56.2%](https://boostmlbb.ru/en/heroes/eudora.html#build)
--   [![](/images/heroes/zetian.webp)Zetian57.1%](https://boostmlbb.ru/en/heroes/zetian.html#build)
--   [![](/images/heroes/selena.webp)Selena56.9%](https://boostmlbb.ru/en/heroes/selena.html#build)
--   [![](/images/heroes/xavier.webp)Xavier58.9%](https://boostmlbb.ru/en/heroes/xavier.html#build)
--   [![](/images/heroes/harley.webp)Harley48.8%](https://boostmlbb.ru/en/heroes/harley.html#build)
--   [![](/images/heroes/valentina.webp)Valentina51.0%](https://boostmlbb.ru/en/heroes/valentina.html#build)
--   [![](/images/heroes/kagura.webp)Kagura54.8%](https://boostmlbb.ru/en/heroes/kagura.html#build)
--   [![](/images/heroes/novaria.webp)Novaria56.0%](https://boostmlbb.ru/en/heroes/novaria.html#build)
--   [![](/images/heroes/kadita.webp)Kadita56.9%](https://boostmlbb.ru/en/heroes/kadita.html#build)
--   [![](/images/heroes/gusion.webp)Gusion55.7%](https://boostmlbb.ru/en/heroes/gusion.html#build)
--   [![](/images/heroes/vexana.webp)Vexana55.2%](https://boostmlbb.ru/en/heroes/vexana.html#build)
--   [![](/images/heroes/yve.webp)Yve58.0%](https://boostmlbb.ru/en/heroes/yve.html#build)
+-   [![](/images/heroes/eudora.webp)Eudora56.3%](https://boostmlbb.ru/en/heroes/eudora.html#build)
+-   [![](/images/heroes/zetian.webp)Zetian57.0%](https://boostmlbb.ru/en/heroes/zetian.html#build)
+-   [![](/images/heroes/selena.webp)Selena57.3%](https://boostmlbb.ru/en/heroes/selena.html#build)
+-   [![](/images/heroes/xavier.webp)Xavier59.4%](https://boostmlbb.ru/en/heroes/xavier.html#build)
+-   [![](/images/heroes/harley.webp)Harley48.6%](https://boostmlbb.ru/en/heroes/harley.html#build)
+-   [![](/images/heroes/valentina.webp)Valentina50.9%](https://boostmlbb.ru/en/heroes/valentina.html#build)
+-   [![](/images/heroes/kagura.webp)Kagura54.7%](https://boostmlbb.ru/en/heroes/kagura.html#build)
+-   [![](/images/heroes/novaria.webp)Novaria53.7%](https://boostmlbb.ru/en/heroes/novaria.html#build)
+-   [![](/images/heroes/kadita.webp)Kadita56.6%](https://boostmlbb.ru/en/heroes/kadita.html#build)
+-   [![](/images/heroes/gusion.webp)Gusion55.5%](https://boostmlbb.ru/en/heroes/gusion.html#build)
+-   [![](/images/heroes/vexana.webp)Vexana55.0%](https://boostmlbb.ru/en/heroes/vexana.html#build)
+-   [![](/images/heroes/yve.webp)Yve57.7%](https://boostmlbb.ru/en/heroes/yve.html#build)
 -   [![](/images/heroes/nana.webp)Nana52.4%](https://boostmlbb.ru/en/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Aurora54.2%](https://boostmlbb.ru/en/heroes/aurora.html#build)
--   [![](/images/heroes/faramis.webp)Faramis57.7%](https://boostmlbb.ru/en/heroes/faramis.html#build)
+-   [![](/images/heroes/aurora.webp)Aurora54.0%](https://boostmlbb.ru/en/heroes/aurora.html#build)
+-   [![](/images/heroes/faramis.webp)Faramis57.8%](https://boostmlbb.ru/en/heroes/faramis.html#build)
 -   [![](/images/heroes/change.webp)Chang'e54.3%](https://boostmlbb.ru/en/heroes/change.html#build)
--   [![](/images/heroes/pharsa.webp)Pharsa52.0%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
+-   [![](/images/heroes/pharsa.webp)Pharsa51.8%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
 
 ## Story
 

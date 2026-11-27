@@ -1,6 +1,6 @@
 ---
 title: "Дигги MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Дигги, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Дигги. Поддержка, 56,02% побед, тир B."
+description: "Дигги, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Дигги. Поддержка, 56,06% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/diggie.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-56,0%
+56,1%
 
 Выбор
 
@@ -27,7 +27,7 @@ B
 
 Баны
 
-5,4%
+5,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -45,11 +45,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
+1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
+2.  **51,4%**![](/images/ranks/Legend.webp)Легенда
+3.  **52,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **55,5%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **55,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -67,11 +67,11 @@ B
 
 Победы
 
-63,0%
+63,2%
 
 Выбор
 
-21,3%
+20,9%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ B
 
 Победы
 
-60,1%
+60,2%
 
 Выбор
 
-13,9%
+14,7%
 
 #### Основные предметы
 
@@ -189,7 +189,7 @@ B
 
 Победы
 
-57,9%
+58,3%
 
 Выбор
 
@@ -334,7 +334,7 @@ B
 
 ### Кого контрит Дигги
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ## Скины Дигги
 
@@ -364,7 +364,7 @@ B
 
 Какой процент побед у Дигги сейчас?
 
-56,02% в Мифической славе за последние 7 дней и 54,39% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+56,06% в Мифической славе за последние 7 дней и 54,42% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Дигги?
 
@@ -372,8 +372,8 @@ B
 
 Стоит ли брать Дигги в текущей мете?
 
-Тир B, 57-е место из 133 героев и 10-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,4% матчей, 56,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 57-е место из 133 героев и 10-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,5% матчей, 56,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Дигги лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Мимолетное время» и «Защитный шлем», эмблема поддержки с талантами «Вдохновение», «Второе дыхание» и «Фокус-метка» и заклинание «Восстановление». С ней выигрывают 63,01% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Мимолетное время» и «Защитный шлем», эмблема поддержки с талантами «Вдохновение», «Второе дыхание» и «Фокус-метка» и заклинание «Восстановление». С ней выигрывают 63,24% матчей.

@@ -1,6 +1,6 @@
 ---
 title: "Karrie MLBB: build, combos and counters | MLBB Boost"
-description: "Karrie in Mobile Legends: ranked build, skill combos, how to play and who counters Karrie. Marksman, 49.04% win rate, tier C."
+description: "Karrie in Mobile Legends: ranked build, skill combos, how to play and who counters Karrie. Marksman, 49.03% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/karrie.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.7%
+0.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-54.2%
+54.3%
 
 Pick rate
 
-10.2%
+10.3%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Fighter
 
 Win rate
 
-54.5%
+54.3%
 
 Pick rate
 
-3.6%
+4.0%
 
 #### Core items
 
@@ -336,7 +336,7 @@ Karrie enters Dual Wield state for 10s, gaining 30% Movement Speed. Each Basic A
 
 ### Who Karrie counters
 
-[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
 
 ## Karrie skins
 
@@ -366,7 +366,7 @@ Level "Phantom Step" first and take the ultimate whenever it is available. Stron
 
 What is Karrie’s win rate right now?
 
-49.04% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 25 November 2026.
+49.03% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Karrie play?
 
@@ -374,8 +374,8 @@ Marksman, played in the Gold Lane.
 
 Is Karrie strong in the current meta?
 
-Tier C, #87 of 133 heroes and #17 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 1.1% of them.
+Tier C, #87 of 133 heroes and #17 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 1.1% of them.
 
 What is the best build for Karrie?
 
-The most popular ranked build: Corrosion Scythe, Golden Staff and Demon Hunter Sword as core items, the Fighter emblem with Swift, Festival of Blood and Quantum Charge, and Flicker. It wins 55.89% of matches.
+The most popular ranked build: Corrosion Scythe, Golden Staff and Demon Hunter Sword as core items, the Fighter emblem with Swift, Festival of Blood and Quantum Charge, and Flicker. It wins 55.90% of matches.

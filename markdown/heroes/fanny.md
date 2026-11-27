@@ -1,6 +1,6 @@
 ---
 title: "Фанни MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Фанни, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фанни. Убийца, 42,96% побед, тир B."
+description: "Фанни, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фанни. Убийца, 42,95% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/fanny.html
 language: ru
 ---
@@ -46,7 +46,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **44,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **43,1%**![](/images/ranks/Legend.webp)Легенда
+2.  **43,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **41,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **42,4%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **42,9%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -68,11 +68,11 @@ B
 
 Победы
 
-47,8%
+47,9%
 
 Выбор
 
-2,0%
+2,2%
 
 #### Основные предметы
 
@@ -129,11 +129,72 @@ B
 
 Победы
 
-45,1%
+44,8%
 
 Выбор
 
-1,9%
+2,0%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
+
+    Золотой метеор
+
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
+Победы
+
+45,4%
+
+Выбор
+
+1,8%
 
 #### Основные предметы
 
@@ -186,67 +247,6 @@ B
 -   ![](/images/mlbb/talents/131.webp)
 
     Нечестивая ярость
-
-
-Победы
-
-51,3%
-
-Выбор
-
-1,7%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3007.webp)
-
-    Клинок семи морей
-
-
-
-    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Пронзающий небеса
-
-
-
-    ](https://boostmlbb.ru/items/sky-piercer.html)
--   [
-
-    ![](/images/mlbb/items/3001.webp)
-
-    Злобный рык
-
-
-
-    ](https://boostmlbb.ru/items/malefic-roar.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20020.webp)Возмездие
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Разрыв
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Кровавое пиршество
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Смертельное воспламенение
 
 
 ## Как играть за Фанни
@@ -334,7 +334,7 @@ B
 
 ### Кого контрит Фанни
 
-[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
+[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
 
 ## Скины Фанни
 
@@ -364,7 +364,7 @@ B
 
 Какой процент побед у Фанни сейчас?
 
-42,96% в Мифической славе за последние 7 дней и 42,71% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+42,95% в Мифической славе за последние 7 дней и 42,74% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Фанни?
 
@@ -376,4 +376,4 @@ B
 
 Какая сборка на Фанни лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Злобный рык» и «Золотой метеор», эмблема убийцы с талантами «Разрыв», «Кровавое пиршество» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 47,81% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Злобный рык» и «Золотой метеор», эмблема убийцы с талантами «Разрыв», «Кровавое пиршество» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 47,94% матчей.

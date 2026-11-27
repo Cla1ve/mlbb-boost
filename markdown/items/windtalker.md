@@ -1,6 +1,6 @@
 ---
 title: "Говорящий с ветром в MLBB: цена 1880, сборка и эффект | MLBB Boost"
-description: "Говорящий с ветром (Windtalker) в Mobile Legends: +35% скорость атаки, +20% шанс крит. удара, +20 скорость передвижения. Пассивка «Тайфун». Собирается из: Кистень грабителя и Нож. Собирают Обсидия, Сан и Мия."
+description: "Говорящий с ветром (Windtalker) в Mobile Legends: +35% скорость атаки, +20% шанс крит. удара, +20 скорость передвижения. Пассивка «Тайфун». Собирается из: Кистень грабителя и Нож. Собирают Обсидия, Мия и Аргус."
 canonical: https://boostmlbb.ru/items/windtalker.html
 language: ru
 ---
@@ -48,19 +48,19 @@ Windtalker
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/obsidia.webp)Обсидия55,3%](https://boostmlbb.ru/heroes/obsidia.html#build)
--   [![](/images/heroes/sun.webp)Сан58,1%](https://boostmlbb.ru/heroes/sun.html#build)
+-   [![](/images/heroes/obsidia.webp)Обсидия55,1%](https://boostmlbb.ru/heroes/obsidia.html#build)
 -   [![](/images/heroes/miya.webp)Мия55,8%](https://boostmlbb.ru/heroes/miya.html#build)
--   [![](/images/heroes/argus.webp)Аргус68,8%](https://boostmlbb.ru/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Мелисса61,2%](https://boostmlbb.ru/heroes/melissa.html#build)
--   [![](/images/heroes/irithel.webp)Иритель58,8%](https://boostmlbb.ru/heroes/irithel.html#build)
--   [![](/images/heroes/layla.webp)Лейла55,0%](https://boostmlbb.ru/heroes/layla.html#build)
--   [![](/images/heroes/natan.webp)Натан54,4%](https://boostmlbb.ru/heroes/natan.html#build)
--   [![](/images/heroes/julian.webp)Джулиан52,7%](https://boostmlbb.ru/heroes/julian.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,3%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
--   [![](/images/heroes/wanwan.webp)Ванван49,3%](https://boostmlbb.ru/heroes/wanwan.html#build)
+-   [![](/images/heroes/argus.webp)Аргус61,5%](https://boostmlbb.ru/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Мелисса61,6%](https://boostmlbb.ru/heroes/melissa.html#build)
+-   [![](/images/heroes/minsitthar.webp)Минситтар56,3%](https://boostmlbb.ru/heroes/minsitthar.html#build)
+-   [![](/images/heroes/irithel.webp)Иритель58,9%](https://boostmlbb.ru/heroes/irithel.html#build)
+-   [![](/images/heroes/layla.webp)Лейла54,9%](https://boostmlbb.ru/heroes/layla.html#build)
+-   [![](/images/heroes/natan.webp)Натан54,2%](https://boostmlbb.ru/heroes/natan.html#build)
+-   [![](/images/heroes/julian.webp)Джулиан52,8%](https://boostmlbb.ru/heroes/julian.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,9%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
+-   [![](/images/heroes/wanwan.webp)Ванван57,5%](https://boostmlbb.ru/heroes/wanwan.html#build)
 -   [![](/images/heroes/roger.webp)Роджер55,3%](https://boostmlbb.ru/heroes/roger.html#build)
--   [![](/images/heroes/zilong.webp)Зилонг53,0%](https://boostmlbb.ru/heroes/zilong.html#build)
+-   [![](/images/heroes/zilong.webp)Зилонг52,8%](https://boostmlbb.ru/heroes/zilong.html#build)
 
 ## История
 
@@ -90,4 +90,4 @@ Windtalker
 
 Каким героям собирать «Говорящий с ветром»?
 
-Предмет есть в популярных сборках 13 героев в рейтинге, среди них Обсидия, Сан, Мия, Аргус, Мелисса и Иритель.
+Предмет есть в популярных сборках 13 героев в рейтинге, среди них Обсидия, Мия, Аргус, Мелисса, Минситтар и Иритель.

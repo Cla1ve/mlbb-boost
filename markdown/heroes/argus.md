@@ -1,6 +1,6 @@
 ---
 title: "Аргус MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Аргус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Аргуса. Боец, 57,39% побед, тир B."
+description: "Аргус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Аргуса. Боец, 57,41% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/argus.html
 language: ru
 ---
@@ -23,7 +23,7 @@ B
 
 Выбор
 
-0,5%
+0,6%
 
 Баны
 
@@ -67,11 +67,72 @@ B
 
 Победы
 
-68,8%
+61,5%
 
 Выбор
 
-2,7%
+2,8%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
+Победы
+
+68,9%
+
+Выбор
+
+2,2%
 
 #### Основные предметы
 
@@ -137,23 +198,14 @@ B
 
 Победы
 
-65,3%
+63,3%
 
 Выбор
 
-2,2%
+1,6%
 
 #### Основные предметы
 
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Коса коррозии
-
-
-
-    ](https://boostmlbb.ru/items/corrosion-scythe.html)
 -   [
 
     ![](/images/mlbb/items/3005.webp)
@@ -174,74 +226,22 @@ B
     ](https://boostmlbb.ru/items/demon-hunter-sword.html)
 -   [
 
-    ![](/images/mlbb/items/3013.webp)
+    ![](/images/mlbb/items/3003.webp)
 
-    Трезубец
-
-
-
-    ](https://boostmlbb.ru/items/sea-halberd.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20070.webp)Окаменение
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
--   ![](/images/mlbb/talents/1211.webp)
-
-    Фатальность
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Охотник за скидками
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Ударная волна
+    Ярость берсерка
 
 
-Победы
 
-61,2%
-
-Выбор
-
-1,8%
-
-#### Основные предметы
-
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
 -   [
 
-    ![](/images/mlbb/items/3005.webp)
+    ![](/images/mlbb/items/3001.webp)
 
-    Говорящий с ветром
-
-
-
-    ](https://boostmlbb.ru/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Коса коррозии
+    Злобный рык
 
 
 
-    ](https://boostmlbb.ru/items/corrosion-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3002.webp)
-
-    Когти Хааса
-
-
-
-    ](https://boostmlbb.ru/items/haas-claws.html)
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 
@@ -357,7 +357,7 @@ B
 
 ### Кто контрит Аргуса
 
-[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
 
 ### Кого контрит Аргус
 
@@ -383,7 +383,7 @@ B
 
 Кто контрит Аргуса в MLBB?
 
-За последние 30 дней Аргуса чаще всего обыгрывают Кэрри, Люнокс, Хелкарт, Арлотт и Сабер.
+За последние 30 дней Аргуса чаще всего обыгрывают Кэрри, Люнокс, Хелкарт, Сабер и Арлотт.
 
 Как играть за Аргуса?
 
@@ -391,7 +391,7 @@ B
 
 Какой процент побед у Аргуса сейчас?
 
-57,39% в Мифической славе за последние 7 дней и 56,86% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+57,41% в Мифической славе за последние 7 дней и 56,88% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Аргуса?
 
@@ -403,4 +403,4 @@ B
 
 Какая сборка на Аргуса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Говорящий с ветром», «Ярость берсерка» и «Когти Хааса», эмблема стрелка с талантами «Фатальность», «Охотник за скидками» и «Боевой клич» и заклинание «Окаменение». С ней выигрывают 68,82% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Говорящий с ветром», «Коса коррозии» и «Когти Хааса», эмблема стрелка с талантами «Фатальность», «Охотник за скидками» и «Боевой клич» и заклинание «Окаменение». С ней выигрывают 61,50% матчей.

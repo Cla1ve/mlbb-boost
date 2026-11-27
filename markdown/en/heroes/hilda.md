@@ -1,6 +1,6 @@
 ---
 title: "Hilda MLBB: build, combos and counters | MLBB Boost"
-description: "Hilda in Mobile Legends: ranked build, skill combos, how to play and who counters Hilda. Tank and fighter, 48.67% win rate, tier C."
+description: "Hilda in Mobile Legends: ranked build, skill combos, how to play and who counters Hilda. Tank and fighter, 48.65% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hilda.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-48.7%
+48.6%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.0%
+4.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,9 +47,9 @@ Ban rate
 
 1.  **54.9%**![](/images/ranks/Epic.webp)Epic
 2.  **53.5%**![](/images/ranks/Legend.webp)Legend
-3.  **52.5%**![](/images/ranks/Mythic.webp)Mythic
+3.  **52.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.2%
+58.4%
 
 Pick rate
 
-6.8%
+7.1%
 
 #### Core items
 
@@ -130,72 +130,11 @@ Tank
 
 Win rate
 
-59.0%
-
-Pick rate
-
-2.9%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2212.webp)
-
-    Thunder Belt
-
-
-
-    ](https://boostmlbb.ru/en/items/thunder-belt.html)
--   [
-
-    ![](/images/mlbb/items/3206.webp)
-
-    Dominance Ice
-
-
-
-    ](https://boostmlbb.ru/en/items/dominance-ice.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Chastise Pauldron
-
-
-
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20050.webp)Revitalize
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Wilderness Blessing
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Concussive Blast
-
-
-Win rate
-
 58.4%
 
 Pick rate
 
-2.5%
+2.6%
 
 #### Core items
 
@@ -236,6 +175,67 @@ Pick rate
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
+Win rate
+
+58.8%
+
+Pick rate
+
+2.4%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
 
 -   ![](/images/mlbb/talents/111.webp)
 
@@ -367,7 +367,7 @@ Level "Art of Hunting" first and take the ultimate whenever it is available. Str
 
 What is Hilda’s win rate right now?
 
-48.67% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 25 November 2026.
+48.65% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Hilda play?
 
@@ -375,8 +375,8 @@ Tank and fighter, played in the EXP Lane or on roam.
 
 Is Hilda strong in the current meta?
 
-Tier C, #77 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.0% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
+Tier C, #75 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.1% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
 
 What is the best build for Hilda?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Oracle as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Revitalize. It wins 58.16% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Oracle as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Revitalize. It wins 58.39% of matches.

@@ -53,19 +53,19 @@ Endless Battle
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/freya.webp)Фрейя60,4%](https://boostmlbb.ru/heroes/freya.html#build)
--   [![](/images/heroes/saber.webp)Сабер59,7%](https://boostmlbb.ru/heroes/saber.html#build)
--   [![](/images/heroes/clint.webp)Клинт51,9%](https://boostmlbb.ru/heroes/clint.html#build)
--   [![](/images/heroes/chou.webp)Чу55,1%](https://boostmlbb.ru/heroes/chou.html#build)
--   [![](/images/heroes/ling.webp)Линг57,9%](https://boostmlbb.ru/heroes/ling.html#build)
--   [![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син53,9%](https://boostmlbb.ru/heroes/yi-sun-shin.html#build)
--   [![](/images/heroes/aldous.webp)Алдос58,5%](https://boostmlbb.ru/heroes/aldous.html#build)
--   [![](/images/heroes/leomord.webp)Леоморд56,6%](https://boostmlbb.ru/heroes/leomord.html#build)
--   [![](/images/heroes/yin.webp)Инь57,7%](https://boostmlbb.ru/heroes/yin.html#build)
--   [![](/images/heroes/ruby.webp)Руби58,7%](https://boostmlbb.ru/heroes/ruby.html#build)
--   [![](/images/heroes/alucard.webp)Алукард59,7%](https://boostmlbb.ru/heroes/alucard.html#build)
--   [![](/images/heroes/martis.webp)Мартис51,0%](https://boostmlbb.ru/heroes/martis.html#build)
--   [![](/images/heroes/lancelot.webp)Ланселот49,0%](https://boostmlbb.ru/heroes/lancelot.html#build)
+-   [![](/images/heroes/freya.webp)Фрейя60,0%](https://boostmlbb.ru/heroes/freya.html#build)
+-   [![](/images/heroes/saber.webp)Сабер59,8%](https://boostmlbb.ru/heroes/saber.html#build)
+-   [![](/images/heroes/clint.webp)Клинт51,8%](https://boostmlbb.ru/heroes/clint.html#build)
+-   [![](/images/heroes/chou.webp)Чу54,9%](https://boostmlbb.ru/heroes/chou.html#build)
+-   [![](/images/heroes/ling.webp)Линг57,8%](https://boostmlbb.ru/heroes/ling.html#build)
+-   [![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син53,6%](https://boostmlbb.ru/heroes/yi-sun-shin.html#build)
+-   [![](/images/heroes/aldous.webp)Алдос59,2%](https://boostmlbb.ru/heroes/aldous.html#build)
+-   [![](/images/heroes/leomord.webp)Леоморд56,4%](https://boostmlbb.ru/heroes/leomord.html#build)
+-   [![](/images/heroes/yin.webp)Инь57,5%](https://boostmlbb.ru/heroes/yin.html#build)
+-   [![](/images/heroes/ruby.webp)Руби58,9%](https://boostmlbb.ru/heroes/ruby.html#build)
+-   [![](/images/heroes/alucard.webp)Алукард59,6%](https://boostmlbb.ru/heroes/alucard.html#build)
+-   [![](/images/heroes/martis.webp)Мартис51,1%](https://boostmlbb.ru/heroes/martis.html#build)
+-   [![](/images/heroes/lancelot.webp)Ланселот49,9%](https://boostmlbb.ru/heroes/lancelot.html#build)
 
 ## История
 

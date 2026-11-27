@@ -54,33 +54,34 @@ Glowing Wand
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/eudora.webp)Эйдора55,6%](https://boostmlbb.ru/heroes/eudora.html#build)
--   [![](/images/heroes/gloo.webp)Глу58,0%](https://boostmlbb.ru/heroes/gloo.html#build)
+-   [![](/images/heroes/eudora.webp)Эйдора55,3%](https://boostmlbb.ru/heroes/eudora.html#build)
+-   [![](/images/heroes/gloo.webp)Глу57,2%](https://boostmlbb.ru/heroes/gloo.html#build)
 -   [![](/images/heroes/zhuxin.webp)Чжусинь56,5%](https://boostmlbb.ru/heroes/zhuxin.html#build)
--   [![](/images/heroes/valir.webp)Валир59,8%](https://boostmlbb.ru/heroes/valir.html#build)
--   [![](/images/heroes/zetian.webp)Цзэтянь57,1%](https://boostmlbb.ru/heroes/zetian.html#build)
--   [![](/images/heroes/selena.webp)Селена53,1%](https://boostmlbb.ru/heroes/selena.html#build)
--   [![](/images/heroes/angela.webp)Ангела56,8%](https://boostmlbb.ru/heroes/angela.html#build)
--   [![](/images/heroes/lylia.webp)Лилия52,7%](https://boostmlbb.ru/heroes/lylia.html#build)
--   [![](/images/heroes/xavier.webp)Ксавьер58,9%](https://boostmlbb.ru/heroes/xavier.html#build)
--   [![](/images/heroes/harley.webp)Харли49,0%](https://boostmlbb.ru/heroes/harley.html#build)
--   [![](/images/heroes/lunox.webp)Люнокс55,4%](https://boostmlbb.ru/heroes/lunox.html#build)
--   [![](/images/heroes/valentina.webp)Валентина51,0%](https://boostmlbb.ru/heroes/valentina.html#build)
+-   [![](/images/heroes/valir.webp)Валир59,4%](https://boostmlbb.ru/heroes/valir.html#build)
+-   [![](/images/heroes/zetian.webp)Цзэтянь57,0%](https://boostmlbb.ru/heroes/zetian.html#build)
+-   [![](/images/heroes/selena.webp)Селена53,2%](https://boostmlbb.ru/heroes/selena.html#build)
+-   [![](/images/heroes/angela.webp)Ангела56,7%](https://boostmlbb.ru/heroes/angela.html#build)
+-   [![](/images/heroes/lylia.webp)Лилия52,4%](https://boostmlbb.ru/heroes/lylia.html#build)
+-   [![](/images/heroes/xavier.webp)Ксавьер59,4%](https://boostmlbb.ru/heroes/xavier.html#build)
+-   [![](/images/heroes/harley.webp)Харли48,9%](https://boostmlbb.ru/heroes/harley.html#build)
+-   [![](/images/heroes/lunox.webp)Люнокс55,7%](https://boostmlbb.ru/heroes/lunox.html#build)
+-   [![](/images/heroes/valentina.webp)Валентина50,9%](https://boostmlbb.ru/heroes/valentina.html#build)
 -   [![](/images/heroes/novaria.webp)Новария56,0%](https://boostmlbb.ru/heroes/novaria.html#build)
--   [![](/images/heroes/cyclops.webp)Циклоп58,2%](https://boostmlbb.ru/heroes/cyclops.html#build)
--   [![](/images/heroes/vexana.webp)Вексана55,2%](https://boostmlbb.ru/heroes/vexana.html#build)
--   [![](/images/heroes/cecilion.webp)Сесилион56,3%](https://boostmlbb.ru/heroes/cecilion.html#build)
--   [![](/images/heroes/yve.webp)Ив58,0%](https://boostmlbb.ru/heroes/yve.html#build)
--   [![](/images/heroes/gord.webp)Горд56,1%](https://boostmlbb.ru/heroes/gord.html#build)
--   [![](/images/heroes/odette.webp)Одетта56,1%](https://boostmlbb.ru/heroes/odette.html#build)
--   [![](/images/heroes/nana.webp)Нана51,2%](https://boostmlbb.ru/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Аврора54,2%](https://boostmlbb.ru/heroes/aurora.html#build)
--   [![](/images/heroes/zhask.webp)Заск58,5%](https://boostmlbb.ru/heroes/zhask.html#build)
+-   [![](/images/heroes/kadita.webp)Кадита55,5%](https://boostmlbb.ru/heroes/kadita.html#build)
+-   [![](/images/heroes/cyclops.webp)Циклоп57,9%](https://boostmlbb.ru/heroes/cyclops.html#build)
+-   [![](/images/heroes/vexana.webp)Вексана55,0%](https://boostmlbb.ru/heroes/vexana.html#build)
+-   [![](/images/heroes/cecilion.webp)Сесилион56,0%](https://boostmlbb.ru/heroes/cecilion.html#build)
+-   [![](/images/heroes/yve.webp)Ив57,7%](https://boostmlbb.ru/heroes/yve.html#build)
+-   [![](/images/heroes/gord.webp)Горд55,9%](https://boostmlbb.ru/heroes/gord.html#build)
+-   [![](/images/heroes/odette.webp)Одетта56,0%](https://boostmlbb.ru/heroes/odette.html#build)
+-   [![](/images/heroes/nana.webp)Нана51,0%](https://boostmlbb.ru/heroes/nana.html#build)
+-   [![](/images/heroes/aurora.webp)Аврора54,0%](https://boostmlbb.ru/heroes/aurora.html#build)
+-   [![](/images/heroes/zhask.webp)Заск58,6%](https://boostmlbb.ru/heroes/zhask.html#build)
 -   [![](/images/heroes/vale.webp)Вэйл55,0%](https://boostmlbb.ru/heroes/vale.html#build)
--   [![](/images/heroes/faramis.webp)Фарамис57,7%](https://boostmlbb.ru/heroes/faramis.html#build)
+-   [![](/images/heroes/faramis.webp)Фарамис57,8%](https://boostmlbb.ru/heroes/faramis.html#build)
 -   [![](/images/heroes/change.webp)Чан'Э54,3%](https://boostmlbb.ru/heroes/change.html#build)
--   [![](/images/heroes/pharsa.webp)Фаша52,0%](https://boostmlbb.ru/heroes/pharsa.html#build)
--   [![](/images/heroes/luo-yi.webp)Ло Йи49,1%](https://boostmlbb.ru/heroes/luo-yi.html#build)
+-   [![](/images/heroes/pharsa.webp)Фаша51,8%](https://boostmlbb.ru/heroes/pharsa.html#build)
+-   [![](/images/heroes/luo-yi.webp)Ло Йи49,0%](https://boostmlbb.ru/heroes/luo-yi.html#build)
 
 ## История
 
@@ -110,4 +111,4 @@ Glowing Wand
 
 Каким героям собирать «Пылающий жезл»?
 
-Предмет есть в популярных сборках 27 героев в рейтинге, среди них Эйдора, Глу, Чжусинь, Валир, Цзэтянь и Селена.
+Предмет есть в популярных сборках 28 героев в рейтинге, среди них Эйдора, Глу, Чжусинь, Валир, Цзэтянь и Селена.

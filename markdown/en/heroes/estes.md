@@ -1,6 +1,6 @@
 ---
 title: "Estes MLBB: build, combos and counters | MLBB Boost"
-description: "Estes in Mobile Legends: ranked build, skill combos, how to play and who counters Estes. Support, 52.58% win rate, tier A."
+description: "Estes in Mobile Legends: ranked build, skill combos, how to play and who counters Estes. Support, 52.62% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/estes.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-32.5%
+32.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.1%
+58.9%
 
 Pick rate
 
-4.7%
+5.3%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-58.9%
+59.0%
 
 Pick rate
 
-4.6%
+4.4%
 
 #### Core items
 
@@ -193,7 +193,7 @@ Win rate
 
 Pick rate
 
-3.9%
+3.7%
 
 #### Core items
 
@@ -332,7 +332,7 @@ Estes casts an enhanced Moonlight Immersion on himself and all nearby allied her
 
 ### Who counters Estes
 
-[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ### Who Estes counters
 
@@ -358,7 +358,7 @@ Estes casts an enhanced Moonlight Immersion on himself and all nearby allied her
 
 Who counters Estes in MLBB?
 
-Over the last 30 days the toughest opponents are Cyclops, Faramis, Alice, Cici and Diggie.
+Over the last 30 days the toughest opponents are Faramis, Cyclops, Alice, Cici and Diggie.
 
 How do you play Estes?
 
@@ -366,7 +366,7 @@ Level "Moonlight Immersion" first and take the ultimate whenever it is available
 
 What is Estes’s win rate right now?
 
-52.58% at Mythical Glory over the last 7 days and 52.75% across all ranks over 30 days, as of 25 November 2026.
+52.62% at Mythical Glory over the last 7 days and 52.76% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Estes play?
 
@@ -374,8 +374,8 @@ Support, played on roam.
 
 Is Estes strong in the current meta?
 
-Tier A, #22 of 133 heroes and #4 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 32.5% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 14.9% of them.
+Tier A, #22 of 133 heroes and #4 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 32.7% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 14.9% of them.
 
 What is the best build for Estes?
 
-The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Fleeting Time as core items, the Support emblem with Inspire, Tenacity and Focusing Mark, and Revitalize. It wins 59.06% of matches.
+The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Fleeting Time as core items, the Support emblem with Inspire, Tenacity and Focusing Mark, and Revitalize. It wins 58.94% of matches.

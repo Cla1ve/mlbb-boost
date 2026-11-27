@@ -43,25 +43,22 @@ Parts cost 820, assembly adds 1,150 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/kimmy.webp)Kimmy49.0%](https://boostmlbb.ru/en/heroes/kimmy.html#build)
--   [![](/images/heroes/zetian.webp)Zetian57.1%](https://boostmlbb.ru/en/heroes/zetian.html#build)
--   [![](/images/heroes/selena.webp)Selena56.9%](https://boostmlbb.ru/en/heroes/selena.html#build)
--   [![](/images/heroes/lunox.webp)Lunox53.4%](https://boostmlbb.ru/en/heroes/lunox.html#build)
--   [![](/images/heroes/guinevere.webp)Guinevere55.9%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
--   [![](/images/heroes/valentina.webp)Valentina51.0%](https://boostmlbb.ru/en/heroes/valentina.html#build)
--   [![](/images/heroes/kagura.webp)Kagura54.8%](https://boostmlbb.ru/en/heroes/kagura.html#build)
+-   [![](/images/heroes/kimmy.webp)Kimmy48.5%](https://boostmlbb.ru/en/heroes/kimmy.html#build)
+-   [![](/images/heroes/zetian.webp)Zetian57.0%](https://boostmlbb.ru/en/heroes/zetian.html#build)
+-   [![](/images/heroes/selena.webp)Selena57.3%](https://boostmlbb.ru/en/heroes/selena.html#build)
+-   [![](/images/heroes/lunox.webp)Lunox53.9%](https://boostmlbb.ru/en/heroes/lunox.html#build)
+-   [![](/images/heroes/valentina.webp)Valentina50.9%](https://boostmlbb.ru/en/heroes/valentina.html#build)
+-   [![](/images/heroes/kagura.webp)Kagura54.7%](https://boostmlbb.ru/en/heroes/kagura.html#build)
 -   [![](/images/heroes/novaria.webp)Novaria56.0%](https://boostmlbb.ru/en/heroes/novaria.html#build)
--   [![](/images/heroes/kadita.webp)Kadita56.9%](https://boostmlbb.ru/en/heroes/kadita.html#build)
--   [![](/images/heroes/vexana.webp)Vexana55.2%](https://boostmlbb.ru/en/heroes/vexana.html#build)
--   [![](/images/heroes/aamon.webp)Aamon54.8%](https://boostmlbb.ru/en/heroes/aamon.html#build)
+-   [![](/images/heroes/vexana.webp)Vexana55.0%](https://boostmlbb.ru/en/heroes/vexana.html#build)
+-   [![](/images/heroes/aamon.webp)Aamon54.6%](https://boostmlbb.ru/en/heroes/aamon.html#build)
 -   [![](/images/heroes/odette.webp)Odette52.3%](https://boostmlbb.ru/en/heroes/odette.html#build)
--   [![](/images/heroes/nana.webp)Nana51.2%](https://boostmlbb.ru/en/heroes/nana.html#build)
--   [![](/images/heroes/zhask.webp)Zhask58.6%](https://boostmlbb.ru/en/heroes/zhask.html#build)
+-   [![](/images/heroes/nana.webp)Nana51.0%](https://boostmlbb.ru/en/heroes/nana.html#build)
+-   [![](/images/heroes/zhask.webp)Zhask58.3%](https://boostmlbb.ru/en/heroes/zhask.html#build)
 -   [![](/images/heroes/vale.webp)Vale55.0%](https://boostmlbb.ru/en/heroes/vale.html#build)
--   [![](/images/heroes/faramis.webp)Faramis57.7%](https://boostmlbb.ru/en/heroes/faramis.html#build)
+-   [![](/images/heroes/faramis.webp)Faramis57.8%](https://boostmlbb.ru/en/heroes/faramis.html#build)
 -   [![](/images/heroes/change.webp)Chang'e54.3%](https://boostmlbb.ru/en/heroes/change.html#build)
--   [![](/images/heroes/pharsa.webp)Pharsa52.0%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
--   [![](/images/heroes/luo-yi.webp)Luo Yi49.9%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
+-   [![](/images/heroes/pharsa.webp)Pharsa51.8%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
 
 ## Story
 
@@ -91,4 +88,4 @@ What does Divine Glaive give?
 
 Which heroes build Divine Glaive?
 
-It is in the popular ranked builds of 19 heroes, among them Kimmy, Zetian, Selena, Lunox, Guinevere and Valentina.
+It is in the popular ranked builds of 16 heroes, among them Kimmy, Zetian, Selena, Lunox, Valentina and Kagura.

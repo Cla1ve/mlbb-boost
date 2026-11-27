@@ -1,6 +1,6 @@
 ---
 title: "Diggie MLBB: build, combos and counters | MLBB Boost"
-description: "Diggie in Mobile Legends: ranked build, skill combos, how to play and who counters Diggie. Support, 56.02% win rate, tier B."
+description: "Diggie in Mobile Legends: ranked build, skill combos, how to play and who counters Diggie. Support, 56.06% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-56.0%
+56.1%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-5.4%
+5.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **51.5%**![](/images/ranks/Legend.webp)Legend
-3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
+1.  **50.9%**![](/images/ranks/Epic.webp)Epic
+2.  **51.4%**![](/images/ranks/Legend.webp)Legend
+3.  **52.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **55.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **55.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-63.0%
+63.2%
 
 Pick rate
 
-21.3%
+20.9%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-60.1%
+60.2%
 
 Pick rate
 
-13.9%
+14.7%
 
 #### Core items
 
@@ -189,7 +189,7 @@ Support
 
 Win rate
 
-57.9%
+58.3%
 
 Pick rate
 
@@ -334,7 +334,7 @@ Diggie removes all debuffs on nearby allied heroes (including himself) and grant
 
 ### Who Diggie counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ## Diggie skins
 
@@ -364,7 +364,7 @@ Level "Auto Alarm Bomb" first and take the ultimate whenever it is available. St
 
 What is Diggie’s win rate right now?
 
-56.02% at Mythical Glory over the last 7 days and 54.39% across all ranks over 30 days, as of 25 November 2026.
+56.06% at Mythical Glory over the last 7 days and 54.42% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Diggie play?
 
@@ -372,8 +372,8 @@ Support, played on roam.
 
 Is Diggie strong in the current meta?
 
-Tier B, #57 of 133 heroes and #10 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.4% of matches, 56.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #57 of 133 heroes and #10 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.5% of matches, 56.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Diggie?
 
-The most popular ranked build: Flask of the Oasis, Fleeting Time and Guardian Helmet as core items, the Support emblem with Inspire, Pull Yourself Together and Focusing Mark, and Revitalize. It wins 63.01% of matches.
+The most popular ranked build: Flask of the Oasis, Fleeting Time and Guardian Helmet as core items, the Support emblem with Inspire, Pull Yourself Together and Focusing Mark, and Revitalize. It wins 63.24% of matches.

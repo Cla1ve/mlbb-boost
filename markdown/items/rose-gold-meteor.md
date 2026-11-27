@@ -54,12 +54,12 @@ Rose Gold Meteor
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/freya.webp)Фрейя60,1%](https://boostmlbb.ru/heroes/freya.html#build)
--   [![](/images/heroes/aulus.webp)Аулус58,6%](https://boostmlbb.ru/heroes/aulus.html#build)
--   [![](/images/heroes/fanny.webp)Фанни47,8%](https://boostmlbb.ru/heroes/fanny.html#build)
+-   [![](/images/heroes/freya.webp)Фрейя60,3%](https://boostmlbb.ru/heroes/freya.html#build)
+-   [![](/images/heroes/aulus.webp)Аулус57,6%](https://boostmlbb.ru/heroes/aulus.html#build)
+-   [![](/images/heroes/fanny.webp)Фанни47,9%](https://boostmlbb.ru/heroes/fanny.html#build)
 -   [![](/images/heroes/dyrroth.webp)Дариус61,0%](https://boostmlbb.ru/heroes/dyrroth.html#build)
--   [![](/images/heroes/aldous.webp)Алдос62,2%](https://boostmlbb.ru/heroes/aldous.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,6%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
+-   [![](/images/heroes/aldous.webp)Алдос62,4%](https://boostmlbb.ru/heroes/aldous.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,2%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
 -   [![](/images/heroes/wanwan.webp)Ванван57,5%](https://boostmlbb.ru/heroes/wanwan.html#build)
 -   [![](/images/heroes/roger.webp)Роджер55,3%](https://boostmlbb.ru/heroes/roger.html#build)
 -   [![](/images/heroes/zilong.webp)Зилонг53,0%](https://boostmlbb.ru/heroes/zilong.html#build)

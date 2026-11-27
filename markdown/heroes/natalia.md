@@ -1,6 +1,6 @@
 ---
 title: "Наталья MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Наталья, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Наталью. Убийца, 50,33% побед, тир D."
+description: "Наталья, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Наталью. Убийца, 50,31% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/natalia.html
 language: ru
 ---
@@ -45,7 +45,7 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **52,0%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **51,8%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -59,7 +59,7 @@ D
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**27 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**28 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие убийцы MLBB**23 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 -   [Лучшие роумеры MLBB**23 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
@@ -69,11 +69,11 @@ D
 
 Победы
 
-60,3%
+60,6%
 
 Выбор
 
-7,7%
+7,6%
 
 #### Основные предметы
 
@@ -134,7 +134,7 @@ D
 
 Выбор
 
-6,7%
+6,5%
 
 #### Основные предметы
 
@@ -191,11 +191,11 @@ D
 
 Победы
 
-55,3%
+55,9%
 
 Выбор
 
-5,3%
+5,1%
 
 #### Основные предметы
 
@@ -344,7 +344,7 @@ D
 
 ### Кого контрит Наталья
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
 
 ## Скины Натальи
 
@@ -374,7 +374,7 @@ D
 
 Какой процент побед у Натальи сейчас?
 
-50,33% в Мифической славе за последние 7 дней и 51,11% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,31% в Мифической славе за последние 7 дней и 51,12% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Натальи?
 
@@ -382,8 +382,8 @@ D
 
 Стоит ли брать Наталью в текущей мете?
 
-Тир D, 103-е место из 133 героев и 23-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир D, 104-е место из 133 героев и 23-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Наталью лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Ярость берсерка» и «Злобный рык», эмблема убийцы с талантами «Фатальность», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 60,31% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Ярость берсерка» и «Злобный рык», эмблема убийцы с талантами «Фатальность», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 60,65% матчей.

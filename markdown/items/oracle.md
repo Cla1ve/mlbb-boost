@@ -48,24 +48,24 @@ Oracle
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/kalea.webp)Калеа55,3%](https://boostmlbb.ru/heroes/kalea.html#build)
--   [![](/images/heroes/alice.webp)Алиса55,0%](https://boostmlbb.ru/heroes/alice.html#build)
--   [![](/images/heroes/esmeralda.webp)Эсмеральда55,5%](https://boostmlbb.ru/heroes/esmeralda.html#build)
--   [![](/images/heroes/sun.webp)Сан59,7%](https://boostmlbb.ru/heroes/sun.html#build)
--   [![](/images/heroes/gloo.webp)Глу58,0%](https://boostmlbb.ru/heroes/gloo.html#build)
+-   [![](/images/heroes/kalea.webp)Калеа51,4%](https://boostmlbb.ru/heroes/kalea.html#build)
+-   [![](/images/heroes/alice.webp)Алиса54,9%](https://boostmlbb.ru/heroes/alice.html#build)
+-   [![](/images/heroes/esmeralda.webp)Эсмеральда55,4%](https://boostmlbb.ru/heroes/esmeralda.html#build)
+-   [![](/images/heroes/sun.webp)Сан59,6%](https://boostmlbb.ru/heroes/sun.html#build)
+-   [![](/images/heroes/gloo.webp)Глу57,2%](https://boostmlbb.ru/heroes/gloo.html#build)
 -   [![](/images/heroes/sora.webp)Сора54,2%](https://boostmlbb.ru/heroes/sora.html#build)
 -   [![](/images/heroes/uranus.webp)Уранус58,6%](https://boostmlbb.ru/heroes/uranus.html#build)
--   [![](/images/heroes/arlott.webp)Арлотт56,4%](https://boostmlbb.ru/heroes/arlott.html#build)
+-   [![](/images/heroes/arlott.webp)Арлотт56,2%](https://boostmlbb.ru/heroes/arlott.html#build)
 -   [![](/images/heroes/phoveus.webp)Фовиус57,1%](https://boostmlbb.ru/heroes/phoveus.html#build)
--   [![](/images/heroes/fredrinn.webp)Фредрин62,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
--   [![](/images/heroes/hilda.webp)Хильда58,2%](https://boostmlbb.ru/heroes/hilda.html#build)
--   [![](/images/heroes/hanzo.webp)Ханзо52,8%](https://boostmlbb.ru/heroes/hanzo.html#build)
--   [![](/images/heroes/thamuz.webp)Тамуз55,9%](https://boostmlbb.ru/heroes/thamuz.html#build)
+-   [![](/images/heroes/fredrinn.webp)Фредрин61,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
+-   [![](/images/heroes/hilda.webp)Хильда58,4%](https://boostmlbb.ru/heroes/hilda.html#build)
+-   [![](/images/heroes/thamuz.webp)Тамуз55,7%](https://boostmlbb.ru/heroes/thamuz.html#build)
 -   [![](/images/heroes/terizla.webp)Тэризла57,1%](https://boostmlbb.ru/heroes/terizla.html#build)
--   [![](/images/heroes/ruby.webp)Руби56,6%](https://boostmlbb.ru/heroes/ruby.html#build)
--   [![](/images/heroes/lapu-lapu.webp)Лапу-Лапу56,3%](https://boostmlbb.ru/heroes/lapu-lapu.html#build)
--   [![](/images/heroes/balmond.webp)Бальмонд53,2%](https://boostmlbb.ru/heroes/balmond.html#build)
--   [![](/images/heroes/mathilda.webp)Матильда53,1%](https://boostmlbb.ru/heroes/mathilda.html#build)
+-   [![](/images/heroes/ruby.webp)Руби56,7%](https://boostmlbb.ru/heroes/ruby.html#build)
+-   [![](/images/heroes/lapu-lapu.webp)Лапу-Лапу56,1%](https://boostmlbb.ru/heroes/lapu-lapu.html#build)
+-   [![](/images/heroes/balmond.webp)Бальмонд52,8%](https://boostmlbb.ru/heroes/balmond.html#build)
+-   [![](/images/heroes/mathilda.webp)Матильда53,2%](https://boostmlbb.ru/heroes/mathilda.html#build)
+-   [![](/images/heroes/chip.webp)Чип53,4%](https://boostmlbb.ru/heroes/chip.html#build)
 
 ## История
 

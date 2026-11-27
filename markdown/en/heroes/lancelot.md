@@ -1,6 +1,6 @@
 ---
 title: "Lancelot MLBB: build, combos and counters | MLBB Boost"
-description: "Lancelot in Mobile Legends: ranked build, skill combos, how to play and who counters Lancelot. Assassin, 42.16% win rate, tier C."
+description: "Lancelot in Mobile Legends: ranked build, skill combos, how to play and who counters Lancelot. Assassin, 42.18% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lancelot.html
 language: en
 ---
@@ -68,72 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-49.0%
+49.9%
 
 Pick rate
 
-9.6%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Brute Force Breastplate
-
-
-
-    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Endless Battle
-
-
-
-    ](https://boostmlbb.ru/en/items/endless-battle.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20020.webp)Retribution
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Seasoned Hunter
-
--   ![](/images/mlbb/talents/531.webp)
-
-    Killing Spree
-
-
-Win rate
-
-50.0%
-
-Pick rate
-
-7.9%
+8.1%
 
 #### Core items
 
@@ -190,11 +129,72 @@ Assassin
 
 Win rate
 
-48.2%
+49.2%
 
 Pick rate
 
-6.7%
+7.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
+Win rate
+
+48.1%
+
+Pick rate
+
+6.5%
 
 #### Core items
 
@@ -328,7 +328,7 @@ After a short delay, Lancelot performs an executioner's strike in the target dir
 
 ### Who counters Lancelot
 
-[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ### Who Lancelot counters
 
@@ -354,7 +354,7 @@ After a short delay, Lancelot performs an executioner's strike in the target dir
 
 Who counters Lancelot in MLBB?
 
-Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, Johnson and X.Borg.
+Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, X.Borg and Johnson.
 
 How do you play Lancelot?
 
@@ -362,7 +362,7 @@ Level "Thorned Rose" first and take the ultimate whenever it is available. Stron
 
 What is Lancelot’s win rate right now?
 
-42.16% at Mythical Glory over the last 7 days and 43.08% across all ranks over 30 days, as of 25 November 2026.
+42.18% at Mythical Glory over the last 7 days and 43.07% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lancelot play?
 
@@ -374,4 +374,4 @@ Tier C, #132 of 133 heroes and #29 among assassins. The tier counts how often th
 
 What is the best build for Lancelot?
 
-The most popular ranked build: War Axe, Brute Force Breastplate and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 49.02% of matches.
+The most popular ranked build: War Axe, Endless Battle and Brute Force Breastplate as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 49.90% of matches.

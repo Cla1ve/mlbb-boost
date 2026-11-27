@@ -1,6 +1,6 @@
 ---
 title: "Ixia MLBB: build, combos and counters | MLBB Boost"
-description: "Ixia in Mobile Legends: ranked build, skill combos, how to play and who counters Ixia. Marksman, 50.55% win rate, tier C."
+description: "Ixia in Mobile Legends: ranked build, skill combos, how to play and who counters Ixia. Marksman, 50.57% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/ixia.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-50.5%
+50.6%
 
 Pick rate
 
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-8.2%
+8.4%
 
 #### Core items
 
@@ -137,11 +137,11 @@ Marksman
 
 Win rate
 
-54.5%
+54.3%
 
 Pick rate
 
-6.2%
+6.4%
 
 #### Core items
 
@@ -375,7 +375,7 @@ Level "Dual Beam" first and take the ultimate whenever it is available. Stronger
 
 What is Ixia’s win rate right now?
 
-50.55% at Mythical Glory over the last 7 days and 50.11% across all ranks over 30 days, as of 25 November 2026.
+50.57% at Mythical Glory over the last 7 days and 50.12% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Ixia play?
 
@@ -383,8 +383,8 @@ Marksman, played in the Gold Lane.
 
 Is Ixia strong in the current meta?
 
-Tier C, #74 of 133 heroes and #14 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #74 of 133 heroes and #14 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Ixia?
 
-The most popular ranked build: Sea Halberd, Corrosion Scythe, Sky Piercer and Malefic Gun as core items, the Marksman emblem with Thrill, Weapons Master and War Cry, and Flicker. It wins 56.12% of matches.
+The most popular ranked build: Sea Halberd, Corrosion Scythe, Sky Piercer and Malefic Gun as core items, the Marksman emblem with Thrill, Weapons Master and War Cry, and Flicker. It wins 56.07% of matches.

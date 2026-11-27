@@ -1,6 +1,6 @@
 ---
 title: "Paquito MLBB: build, combos and counters | MLBB Boost"
-description: "Paquito in Mobile Legends: ranked build, skill combos, how to play and who counters Paquito. Fighter and assassin, 50.14% win rate, tier A."
+description: "Paquito in Mobile Legends: ranked build, skill combos, how to play and who counters Paquito. Fighter and assassin, 50.17% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/paquito.html
 language: en
 ---
@@ -19,7 +19,7 @@ A
 
 Win rate
 
-50.1%
+50.2%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-10.7%
+10.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -48,8 +48,8 @@ Ban rate
 1.  **49.5%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
 3.  **49.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **50.4%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **50.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -69,7 +69,68 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.3%
+53.5%
+
+Pick rate
+
+5.7%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Master Assassin
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
+Win rate
+
+56.2%
 
 Pick rate
 
@@ -130,72 +191,11 @@ Assassin
 
 Win rate
 
-53.8%
+58.2%
 
 Pick rate
 
-4.8%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3009.webp)
-
-    Hunter Strike
-
-
-
-    ](https://boostmlbb.ru/en/items/hunter-strike.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Sea Halberd
-
-
-
-    ](https://boostmlbb.ru/en/items/sea-halberd.html)
--   [
-
-    ![](/images/mlbb/items/3001.webp)
-
-    Malefic Roar
-
-
-
-    ](https://boostmlbb.ru/en/items/malefic-roar.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Rupture
-
--   ![](/images/mlbb/talents/521.webp)
-
-    Master Assassin
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Lethal Ignition
-
-
-Win rate
-
-57.9%
-
-Pick rate
-
-3.0%
+2.6%
 
 #### Core items
 
@@ -343,7 +343,7 @@ He then throws a haymaker, dealing 300 (+90% Total Physical Attack) Physical Dam
 
 ### Who counters Paquito
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ## Paquito skins
 
@@ -365,7 +365,7 @@ He then throws a haymaker, dealing 300 (+90% Total Physical Attack) Physical Dam
 
 Who counters Paquito in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Wanwan and Helcurt.
+Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Helcurt and Benedetta.
 
 How do you play Paquito?
 
@@ -373,7 +373,7 @@ Level "Jab" first and take the ultimate whenever it is available. Stronger early
 
 What is Paquito’s win rate right now?
 
-50.14% at Mythical Glory over the last 7 days and 50.01% across all ranks over 30 days, as of 25 November 2026.
+50.17% at Mythical Glory over the last 7 days and 50.00% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Paquito play?
 
@@ -381,8 +381,8 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Paquito strong in the current meta?
 
-Tier A, #11 of 133 heroes and #5 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.7% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 69.3% of them.
+Tier A, #11 of 133 heroes and #5 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.5% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 69.3% of them.
 
 What is the best build for Paquito?
 
-The most popular ranked build: Hunter Strike, Sky Piercer and Malefic Roar as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Flicker. It wins 56.25% of matches.
+The most popular ranked build: Hunter Strike, Sea Halberd and Malefic Roar as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Flicker. It wins 53.54% of matches.

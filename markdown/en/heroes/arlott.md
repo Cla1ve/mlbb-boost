@@ -1,6 +1,6 @@
 ---
 title: "Arlott MLBB: build, combos and counters | MLBB Boost"
-description: "Arlott in Mobile Legends: ranked build, skill combos, how to play and who counters Arlott. Fighter and assassin, 48.05% win rate, tier B."
+description: "Arlott in Mobile Legends: ranked build, skill combos, how to play and who counters Arlott. Fighter and assassin, 48.04% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **46.5%**![](/images/ranks/Epic.webp)Epic
+1.  **46.6%**![](/images/ranks/Epic.webp)Epic
 2.  **46.4%**![](/images/ranks/Legend.webp)Legend
 3.  **46.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.3%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -68,7 +68,7 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.3%
+56.0%
 
 Pick rate
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-4.2%
+4.1%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Assassin
 
 Win rate
 
-56.4%
+56.2%
 
 Pick rate
 
@@ -368,7 +368,7 @@ Level "Vengeance" first and take the ultimate whenever it is available. Stronger
 
 What is Arlott’s win rate right now?
 
-48.05% at Mythical Glory over the last 7 days and 47.46% across all ranks over 30 days, as of 25 November 2026.
+48.04% at Mythical Glory over the last 7 days and 47.46% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Arlott play?
 
@@ -380,4 +380,4 @@ Tier B, #63 of 133 heroes and #18 among fighters. The tier counts how often the 
 
 What is the best build for Arlott?
 
-The most popular ranked build: Sea Halberd, Sky Piercer and Malefic Roar as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Petrify. It wins 56.26% of matches.
+The most popular ranked build: Sea Halberd, Sky Piercer and Malefic Roar as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Petrify. It wins 56.05% of matches.

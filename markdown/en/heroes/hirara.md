@@ -1,6 +1,6 @@
 ---
 title: "Hirara MLBB: build, combos and counters | MLBB Boost"
-description: "Hirara in Mobile Legends: ranked build, skill combos, how to play and who counters Hirara. Assassin, 49.52% win rate, tier S."
+description: "Hirara in Mobile Legends: ranked build, skill combos, how to play and who counters Hirara. Assassin, 49.53% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/hirara.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-84.5%
+84.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.0%
+56.1%
 
 Pick rate
 
-17.0%
+16.6%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-57.2%
+57.0%
 
 Pick rate
 
-9.2%
+9.3%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Assassin
 
 Win rate
 
-51.4%
+52.6%
 
 Pick rate
 
-6.6%
+6.8%
 
 #### Core items
 
@@ -218,13 +218,13 @@ Pick rate
     ](https://boostmlbb.ru/en/items/war-axe.html)
 -   [
 
-    ![](/images/mlbb/items/3001.webp)
+    ![](/images/mlbb/items/2208.webp)
 
-    Malefic Roar
+    Queen's Wings
 
 
 
-    ](https://boostmlbb.ru/en/items/malefic-roar.html)
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
 
 #### Spell
 
@@ -244,9 +244,9 @@ Assassin
 
     Seasoned Hunter
 
--   ![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-    Impure Rage
+    Killing Spree
 
 
 ## How to play Hirara
@@ -354,7 +354,7 @@ Level "Meisen-e" first and take the ultimate whenever it is available. Stronger 
 
 What is Hirara’s win rate right now?
 
-49.52% at Mythical Glory over the last 7 days and 50.04% across all ranks over 30 days, as of 25 November 2026.
+49.53% at Mythical Glory over the last 7 days and 50.04% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Hirara play?
 
@@ -362,8 +362,8 @@ Assassin, played in the jungle.
 
 Is Hirara strong in the current meta?
 
-Tier S, #4 of 133 heroes and #2 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 84.5% of matches, 49.5% win rate. In professional games over the last month the hero is drafted in 65.0% of them.
+Tier S, #4 of 133 heroes and #2 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 84.4% of matches, 49.5% win rate. In professional games over the last month the hero is drafted in 65.0% of them.
 
 What is the best build for Hirara?
 
-The most popular ranked build: Hunter Strike, Sky Piercer and War Axe as core items, the Assassin emblem with Thrill, Seasoned Hunter and Impure Rage, and Retribution. It wins 55.97% of matches.
+The most popular ranked build: Hunter Strike, Sky Piercer and War Axe as core items, the Assassin emblem with Thrill, Seasoned Hunter and Impure Rage, and Retribution. It wins 56.09% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Great Dragon Spear MLBB: 2,140 gold, recipe and effect | MLBB Boost"
-description: "Great Dragon Spear in Mobile Legends: +70 Physical Attack, +10% Cooldown Reduction, +20% Crit Chance. Unique passive Supreme Warrior. Builds from Legion Sword, Iron Hunting Bow and Javelin. Built by Sun and Natalia."
+description: "Great Dragon Spear in Mobile Legends: +70 Physical Attack, +10% Cooldown Reduction, +20% Crit Chance. Unique passive Supreme Warrior. Builds from Legion Sword, Iron Hunting Bow and Javelin. Built by Natalia."
 canonical: https://boostmlbb.ru/en/items/great-dragon-spear.html
 language: en
 ---
@@ -47,7 +47,6 @@ Parts cost 1,680, assembly adds 460 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/sun.webp)Sun58.1%](https://boostmlbb.ru/en/heroes/sun.html#build)
 -   [![](/images/heroes/natalia.webp)Natalia60.7%](https://boostmlbb.ru/en/heroes/natalia.html#build)
 
 ## Story
@@ -78,4 +77,4 @@ What does Great Dragon Spear give?
 
 Which heroes build Great Dragon Spear?
 
-It is in the popular ranked builds of 2 heroes, among them Sun and Natalia.
+It is in the popular ranked builds of 1 hero, among them Natalia.

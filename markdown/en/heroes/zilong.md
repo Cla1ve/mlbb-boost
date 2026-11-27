@@ -1,6 +1,6 @@
 ---
 title: "Zilong MLBB: build, combos and counters | MLBB Boost"
-description: "Zilong in Mobile Legends: ranked build, skill combos, how to play and who counters Zilong. Fighter and assassin, 44.85% win rate, tier C."
+description: "Zilong in Mobile Legends: ranked build, skill combos, how to play and who counters Zilong. Fighter and assassin, 44.82% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-44.9%
+44.8%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **47.2%**![](/images/ranks/Epic.webp)Epic
 2.  **46.8%**![](/images/ranks/Legend.webp)Legend
-3.  **46.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **46.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **45.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.0%
+52.8%
 
 Pick rate
 
-6.6%
+6.5%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-3.0%
+3.5%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Fighter
 
 Win rate
 
-52.8%
+52.7%
 
 Pick rate
 
-2.2%
+2.0%
 
 #### Core items
 
@@ -369,7 +369,7 @@ Level "Spear Strike" first and take the ultimate whenever it is available. Stron
 
 What is Zilong’s win rate right now?
 
-44.85% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 25 November 2026.
+44.82% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Zilong play?
 
@@ -377,8 +377,8 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Zilong strong in the current meta?
 
-Tier C, #127 of 133 heroes and #44 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 44.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #127 of 133 heroes and #44 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 44.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Zilong?
 
-The most popular ranked build: Windtalker, Haas's Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Master Assassin and Killing Spree, and Inspire. It wins 52.97% of matches.
+The most popular ranked build: Windtalker, Haas's Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Master Assassin and Killing Spree, and Inspire. It wins 52.83% of matches.

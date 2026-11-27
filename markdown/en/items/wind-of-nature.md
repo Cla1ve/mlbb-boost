@@ -1,6 +1,6 @@
 ---
 title: "Wind of Nature MLBB: 1,910 gold, recipe and effect | MLBB Boost"
-description: "Wind of Nature in Mobile Legends: +30 Physical Attack, +20% Attack Speed, +10% Lifesteal. Active Wind Chant. Builds from Regular Spear and Vampire Mallet. Built by Wanwan."
+description: "Wind of Nature in Mobile Legends: +30 Physical Attack, +20% Attack Speed, +10% Lifesteal. Active Wind Chant. Builds from Regular Spear and Vampire Mallet."
 canonical: https://boostmlbb.ru/en/items/wind-of-nature.html
 language: en
 ---
@@ -42,12 +42,6 @@ Upon use, become immune to all Physical Damage for 2s (halved for non-Marksmen).
 
 Parts cost 1,000, assembly adds 910 gold.
 
-## Who builds it
-
-Heroes whose popular ranked build has the item, with the build’s win rate
-
--   [![](/images/heroes/wanwan.webp)Wanwan49.3%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
-
 ## Story
 
 > A gem from the depths of the Azrya Woodlands, rich with natural energy, was forged into a longbow by the Elves to protect their sanctuary, the Moonlit Forest.
@@ -73,7 +67,3 @@ How much does Wind of Nature cost and what does it build from?
 What does Wind of Nature give?
 
 +30 Physical Attack, +20% Attack Speed, +10% Lifesteal. Wind Chant: upon use, become immune to all Physical Damage for 2s (halved for non-Marksmen). 90s cooldown.
-
-Which heroes build Wind of Nature?
-
-It is in the popular ranked builds of 1 hero, among them Wanwan.

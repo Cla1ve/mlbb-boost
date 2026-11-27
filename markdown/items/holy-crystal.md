@@ -1,6 +1,6 @@
 ---
 title: "Священный кристалл в MLBB: цена 3000, сборка и эффект | MLBB Boost"
-description: "Священный кристалл (Holy Crystal) в Mobile Legends: +165 магическая сила. Пассивка «Тайна». Собирается из: Волшебная палочка ×3. Собирают Гвиневра, Новария и Кадита."
+description: "Священный кристалл (Holy Crystal) в Mobile Legends: +165 магическая сила. Пассивка «Тайна». Собирается из: Волшебная палочка ×3. Собирают Новария, Кадита и Карина."
 canonical: https://boostmlbb.ru/items/holy-crystal.html
 language: ru
 ---
@@ -48,17 +48,15 @@ Holy Crystal
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/guinevere.webp)Гвиневра55,9%](https://boostmlbb.ru/heroes/guinevere.html#build)
--   [![](/images/heroes/novaria.webp)Новария54,0%](https://boostmlbb.ru/heroes/novaria.html#build)
--   [![](/images/heroes/kadita.webp)Кадита56,9%](https://boostmlbb.ru/heroes/kadita.html#build)
--   [![](/images/heroes/karina.webp)Карина57,7%](https://boostmlbb.ru/heroes/karina.html#build)
--   [![](/images/heroes/gusion.webp)Госсен55,7%](https://boostmlbb.ru/heroes/gusion.html#build)
+-   [![](/images/heroes/novaria.webp)Новария53,7%](https://boostmlbb.ru/heroes/novaria.html#build)
+-   [![](/images/heroes/kadita.webp)Кадита56,6%](https://boostmlbb.ru/heroes/kadita.html#build)
+-   [![](/images/heroes/karina.webp)Карина56,5%](https://boostmlbb.ru/heroes/karina.html#build)
+-   [![](/images/heroes/gusion.webp)Госсен55,5%](https://boostmlbb.ru/heroes/gusion.html#build)
 -   [![](/images/heroes/harith.webp)Харит55,4%](https://boostmlbb.ru/heroes/harith.html#build)
--   [![](/images/heroes/aamon.webp)Эймон54,8%](https://boostmlbb.ru/heroes/aamon.html#build)
--   [![](/images/heroes/odette.webp)Одетта57,2%](https://boostmlbb.ru/heroes/odette.html#build)
--   [![](/images/heroes/zhask.webp)Заск58,5%](https://boostmlbb.ru/heroes/zhask.html#build)
--   [![](/images/heroes/joy.webp)Джой54,9%](https://boostmlbb.ru/heroes/joy.html#build)
--   [![](/images/heroes/faramis.webp)Фарамис58,6%](https://boostmlbb.ru/heroes/faramis.html#build)
+-   [![](/images/heroes/aamon.webp)Эймон54,6%](https://boostmlbb.ru/heroes/aamon.html#build)
+-   [![](/images/heroes/odette.webp)Одетта57,8%](https://boostmlbb.ru/heroes/odette.html#build)
+-   [![](/images/heroes/zhask.webp)Заск58,6%](https://boostmlbb.ru/heroes/zhask.html#build)
+-   [![](/images/heroes/joy.webp)Джой54,6%](https://boostmlbb.ru/heroes/joy.html#build)
 
 ## История
 
@@ -88,4 +86,4 @@ Holy Crystal
 
 Каким героям собирать «Священный кристалл»?
 
-Предмет есть в популярных сборках 11 героев в рейтинге, среди них Гвиневра, Новария, Кадита, Карина, Госсен и Харит.
+Предмет есть в популярных сборках 9 героев в рейтинге, среди них Новария, Кадита, Карина, Госсен, Харит и Эймон.

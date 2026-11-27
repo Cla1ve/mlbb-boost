@@ -1,6 +1,6 @@
 ---
 title: "Athena's Shield MLBB: 2,150 gold, recipe and effect | MLBB Boost"
-description: "Athena's Shield in Mobile Legends: +900 HP, +48 Magic Defense, +2 HP Regen. Unique passive Shield. Builds from Silence Robe and Vitality Crystal. Built by Carmilla, Atlas and Minotaur."
+description: "Athena's Shield in Mobile Legends: +900 HP, +48 Magic Defense, +2 HP Regen. Unique passive Shield. Builds from Silence Robe and Vitality Crystal. Built by Carmilla, Minotaur and Tigreal."
 canonical: https://boostmlbb.ru/en/items/athenas-shield.html
 language: en
 ---
@@ -46,13 +46,11 @@ Parts cost 1,320, assembly adds 830 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/carmilla.webp)Carmilla58.4%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
--   [![](/images/heroes/atlas.webp)Atlas53.3%](https://boostmlbb.ru/en/heroes/atlas.html#build)
+-   [![](/images/heroes/carmilla.webp)Carmilla58.3%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
 -   [![](/images/heroes/minotaur.webp)Minotaur60.5%](https://boostmlbb.ru/en/heroes/minotaur.html#build)
 -   [![](/images/heroes/tigreal.webp)Tigreal48.4%](https://boostmlbb.ru/en/heroes/tigreal.html#build)
--   [![](/images/heroes/johnson.webp)Johnson52.4%](https://boostmlbb.ru/en/heroes/johnson.html#build)
--   [![](/images/heroes/hylos.webp)Hylos55.0%](https://boostmlbb.ru/en/heroes/hylos.html#build)
--   [![](/images/heroes/franco.webp)Franco46.2%](https://boostmlbb.ru/en/heroes/franco.html#build)
+-   [![](/images/heroes/johnson.webp)Johnson52.3%](https://boostmlbb.ru/en/heroes/johnson.html#build)
+-   [![](/images/heroes/franco.webp)Franco46.3%](https://boostmlbb.ru/en/heroes/franco.html#build)
 
 ## Story
 
@@ -82,4 +80,4 @@ What does Athena's Shield give?
 
 Which heroes build Athena's Shield?
 
-It is in the popular ranked builds of 7 heroes, among them Carmilla, Atlas, Minotaur, Tigreal, Johnson and Hylos.
+It is in the popular ranked builds of 5 heroes, among them Carmilla, Minotaur, Tigreal, Johnson and Franco.

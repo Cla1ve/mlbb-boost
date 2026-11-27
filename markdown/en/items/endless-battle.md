@@ -51,19 +51,19 @@ Parts cost 1,700, assembly adds 630 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/freya.webp)Freya60.4%](https://boostmlbb.ru/en/heroes/freya.html#build)
--   [![](/images/heroes/saber.webp)Saber59.7%](https://boostmlbb.ru/en/heroes/saber.html#build)
--   [![](/images/heroes/clint.webp)Clint51.9%](https://boostmlbb.ru/en/heroes/clint.html#build)
--   [![](/images/heroes/chou.webp)Chou55.1%](https://boostmlbb.ru/en/heroes/chou.html#build)
--   [![](/images/heroes/ling.webp)Ling57.9%](https://boostmlbb.ru/en/heroes/ling.html#build)
--   [![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin53.9%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html#build)
--   [![](/images/heroes/aldous.webp)Aldous58.5%](https://boostmlbb.ru/en/heroes/aldous.html#build)
--   [![](/images/heroes/leomord.webp)Leomord56.6%](https://boostmlbb.ru/en/heroes/leomord.html#build)
--   [![](/images/heroes/yin.webp)Yin57.7%](https://boostmlbb.ru/en/heroes/yin.html#build)
--   [![](/images/heroes/ruby.webp)Ruby58.7%](https://boostmlbb.ru/en/heroes/ruby.html#build)
--   [![](/images/heroes/alucard.webp)Alucard59.7%](https://boostmlbb.ru/en/heroes/alucard.html#build)
--   [![](/images/heroes/martis.webp)Martis51.0%](https://boostmlbb.ru/en/heroes/martis.html#build)
--   [![](/images/heroes/lancelot.webp)Lancelot49.0%](https://boostmlbb.ru/en/heroes/lancelot.html#build)
+-   [![](/images/heroes/freya.webp)Freya60.0%](https://boostmlbb.ru/en/heroes/freya.html#build)
+-   [![](/images/heroes/saber.webp)Saber59.8%](https://boostmlbb.ru/en/heroes/saber.html#build)
+-   [![](/images/heroes/clint.webp)Clint51.8%](https://boostmlbb.ru/en/heroes/clint.html#build)
+-   [![](/images/heroes/chou.webp)Chou54.9%](https://boostmlbb.ru/en/heroes/chou.html#build)
+-   [![](/images/heroes/ling.webp)Ling57.8%](https://boostmlbb.ru/en/heroes/ling.html#build)
+-   [![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin53.6%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html#build)
+-   [![](/images/heroes/aldous.webp)Aldous59.2%](https://boostmlbb.ru/en/heroes/aldous.html#build)
+-   [![](/images/heroes/leomord.webp)Leomord56.4%](https://boostmlbb.ru/en/heroes/leomord.html#build)
+-   [![](/images/heroes/yin.webp)Yin57.5%](https://boostmlbb.ru/en/heroes/yin.html#build)
+-   [![](/images/heroes/ruby.webp)Ruby58.9%](https://boostmlbb.ru/en/heroes/ruby.html#build)
+-   [![](/images/heroes/alucard.webp)Alucard59.6%](https://boostmlbb.ru/en/heroes/alucard.html#build)
+-   [![](/images/heroes/martis.webp)Martis51.1%](https://boostmlbb.ru/en/heroes/martis.html#build)
+-   [![](/images/heroes/lancelot.webp)Lancelot49.9%](https://boostmlbb.ru/en/heroes/lancelot.html#build)
 
 ## Story
 

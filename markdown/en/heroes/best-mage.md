@@ -11,7 +11,7 @@ language: en
 
 # Best MLBB mages
 
-32 heroes · Updated 25 November
+32 heroes · Updated 26 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -251,7 +251,7 @@ A
 
 1.6%
 
-33.4%
+33.1%
 
 24.7%
 
@@ -279,7 +279,7 @@ A
 
 1.3%
 
-4.0%
+4.1%
 
 40.7%
 
@@ -291,7 +291,7 @@ A
 
 50.1%
 
-1.9%
+1.8%
 
 3.2%
 
@@ -303,11 +303,11 @@ A
 
 A
 
-48.3%
+48.4%
 
 1.4%
 
-3.6%
+3.5%
 
 32.9%
 
@@ -331,7 +331,7 @@ B
 
 B
 
-53.4%
+53.3%
 
 1.8%
 
@@ -387,7 +387,7 @@ B
 
 B
 
-50.3%
+50.4%
 
 1.1%
 
@@ -425,6 +425,20 @@ B
 
 17
 
+[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
+
+C
+
+48.7%
+
+0.2%
+
+0.0%
+
+19.7%
+
+18
+
 [![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)
 
 C
@@ -433,23 +447,9 @@ C
 
 0.8%
 
-0.8%
+0.7%
 
 —
-
-18
-
-[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
-
-C
-
-48.6%
-
-0.2%
-
-0.0%
-
-19.7%
 
 19
 
@@ -485,7 +485,7 @@ C
 
 C
 
-51.7%
+51.6%
 
 0.1%
 
@@ -527,7 +527,7 @@ C
 
 C
 
-45.1%
+45.2%
 
 0.9%
 
@@ -551,11 +551,11 @@ C
 
 26
 
-[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 C
 
-51.7%
+51.6%
 
 0.3%
 
@@ -565,11 +565,11 @@ C
 
 27
 
-[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
+[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
 C
 
-51.6%
+51.7%
 
 0.3%
 
@@ -597,7 +597,7 @@ C
 
 D
 
-50.6%
+50.5%
 
 0.1%
 
@@ -639,7 +639,7 @@ D
 
 D
 
-46.2%
+46.3%
 
 0.1%
 
@@ -649,14 +649,14 @@ D
 
 ## What they build most
 
--   [![](/images/mlbb/items/3105.webp)Glowing Wand21 of 32](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [![](/images/mlbb/items/3101.webp)Divine Glaive13 of 32](https://boostmlbb.ru/en/items/divine-glaive.html)
--   [![](/images/mlbb/items/3110.webp)Lightning Truncheon13 of 32](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3105.webp)Glowing Wand20 of 32](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3110.webp)Lightning Truncheon12 of 32](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3101.webp)Divine Glaive11 of 32](https://boostmlbb.ru/en/items/divine-glaive.html)
 -   [![](/images/mlbb/items/3111.webp)Genius Wand8 of 32](https://boostmlbb.ru/en/items/genius-wand.html)
--   [![](/images/mlbb/items/2106.webp)Enchanted Talisman6 of 32](https://boostmlbb.ru/en/items/enchanted-talisman.html)
--   [![](/images/mlbb/items/2014.webp)Sky Piercer5 of 32](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [![](/images/mlbb/items/2112.webp)Wishing Lantern7 of 32](https://boostmlbb.ru/en/items/wishing-lantern.html)
+-   [![](/images/mlbb/items/2014.webp)Sky Piercer6 of 32](https://boostmlbb.ru/en/items/sky-piercer.html)
 
-The three core items of every hero’s most common build. Spell: Flicker on 23 and Purify on 3. Mage on 19, Assassin on 8.
+The three core items of every hero’s most common build. Spell: Flicker on 22 and Flameshot on 4. Mage on 18, Assassin on 9.
 
 ## Who to pick solo
 
@@ -688,7 +688,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best mage in MLBB right now?
 
-Alice: tier A, 50.3% win rate, banned in 8.3% of Mythical Glory games over 7 days. Esmeralda and Kimmy follow. Data as of 25 November 2026.
+Alice: tier A, 50.3% win rate, banned in 8.3% of Mythical Glory games over 7 days. Esmeralda and Kimmy follow. Data as of 26 November 2026.
 
 Which of the mages should a beginner pick?
 
@@ -696,12 +696,12 @@ Zetian, Vexana and Vale are the easiest to play: their difficulty on the in-game
 
 Which mages get banned most?
 
-Eudora (33.4%), Alice (8.3%) and Valir (4.0%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Eudora (33.1%), Alice (8.3%) and Valir (4.1%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many mages are there in Mobile Legends?
 
-32 of 133 heroes as of 25 November 2026. The list has every hero with the Mage role.
+32 of 133 heroes as of 26 November 2026. The list has every hero with the Mage role.
 
 Which items do mages build most often?
 
-The most common builds most often include Glowing Wand (21 of 32), Divine Glaive (13 of 32) and Lightning Truncheon (13 of 32). Every hero’s full build is on its page, in the Build tab.
+The most common builds most often include Glowing Wand (20 of 32), Lightning Truncheon (12 of 32) and Divine Glaive (11 of 32). Every hero’s full build is on its page, in the Build tab.

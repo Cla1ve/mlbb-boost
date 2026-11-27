@@ -52,11 +52,11 @@ Parts cost 1,720, assembly adds 190 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/carmilla.webp)Carmilla57.6%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
--   [![](/images/heroes/gloo.webp)Gloo58.0%](https://boostmlbb.ru/en/heroes/gloo.html#build)
+-   [![](/images/heroes/carmilla.webp)Carmilla57.4%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
+-   [![](/images/heroes/gloo.webp)Gloo57.2%](https://boostmlbb.ru/en/heroes/gloo.html#build)
 -   [![](/images/heroes/khufra.webp)Khufra61.7%](https://boostmlbb.ru/en/heroes/khufra.html#build)
--   [![](/images/heroes/balmond.webp)Balmond53.3%](https://boostmlbb.ru/en/heroes/balmond.html#build)
--   [![](/images/heroes/baxia.webp)Baxia55.6%](https://boostmlbb.ru/en/heroes/baxia.html#build)
+-   [![](/images/heroes/balmond.webp)Balmond53.2%](https://boostmlbb.ru/en/heroes/balmond.html#build)
+-   [![](/images/heroes/baxia.webp)Baxia54.9%](https://boostmlbb.ru/en/heroes/baxia.html#build)
 
 ## Story
 

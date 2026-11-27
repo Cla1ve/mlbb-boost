@@ -1,6 +1,6 @@
 ---
 title: "Dyrroth MLBB: build, combos and counters | MLBB Boost"
-description: "Dyrroth in Mobile Legends: ranked build, skill combos, how to play and who counters Dyrroth. Fighter, 51.43% win rate, tier B."
+description: "Dyrroth in Mobile Legends: ranked build, skill combos, how to play and who counters Dyrroth. Fighter, 51.42% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.9%
+1.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.0%
+55.9%
 
 Pick rate
 
-1.9%
+2.4%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-1.4%
+1.5%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Assassin
 
 Win rate
 
-54.3%
+54.1%
 
 Pick rate
 
@@ -379,7 +379,7 @@ Level "Burst Strike" first and take the ultimate whenever it is available. Stron
 
 What is Dyrroth’s win rate right now?
 
-51.43% at Mythical Glory over the last 7 days and 49.33% across all ranks over 30 days, as of 25 November 2026.
+51.42% at Mythical Glory over the last 7 days and 49.34% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Dyrroth play?
 
@@ -387,8 +387,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Dyrroth strong in the current meta?
 
-Tier B, #52 of 133 heroes and #15 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
+Tier B, #52 of 133 heroes and #15 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.0% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Dyrroth?
 
-The most popular ranked build: War Axe, Hunter Strike and Brute Force Breastplate as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Petrify. It wins 56.01% of matches.
+The most popular ranked build: War Axe, Hunter Strike and Brute Force Breastplate as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Petrify. It wins 55.90% of matches.

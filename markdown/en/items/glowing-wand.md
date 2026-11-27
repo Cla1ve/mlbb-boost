@@ -52,33 +52,34 @@ Parts cost 1,200, assembly adds 850 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/eudora.webp)Eudora55.6%](https://boostmlbb.ru/en/heroes/eudora.html#build)
--   [![](/images/heroes/gloo.webp)Gloo58.0%](https://boostmlbb.ru/en/heroes/gloo.html#build)
+-   [![](/images/heroes/eudora.webp)Eudora55.3%](https://boostmlbb.ru/en/heroes/eudora.html#build)
+-   [![](/images/heroes/gloo.webp)Gloo57.2%](https://boostmlbb.ru/en/heroes/gloo.html#build)
 -   [![](/images/heroes/zhuxin.webp)Zhuxin56.5%](https://boostmlbb.ru/en/heroes/zhuxin.html#build)
--   [![](/images/heroes/valir.webp)Valir59.8%](https://boostmlbb.ru/en/heroes/valir.html#build)
--   [![](/images/heroes/zetian.webp)Zetian57.1%](https://boostmlbb.ru/en/heroes/zetian.html#build)
--   [![](/images/heroes/selena.webp)Selena53.1%](https://boostmlbb.ru/en/heroes/selena.html#build)
--   [![](/images/heroes/angela.webp)Angela56.8%](https://boostmlbb.ru/en/heroes/angela.html#build)
--   [![](/images/heroes/lylia.webp)Lylia52.7%](https://boostmlbb.ru/en/heroes/lylia.html#build)
--   [![](/images/heroes/xavier.webp)Xavier58.9%](https://boostmlbb.ru/en/heroes/xavier.html#build)
--   [![](/images/heroes/harley.webp)Harley49.0%](https://boostmlbb.ru/en/heroes/harley.html#build)
--   [![](/images/heroes/lunox.webp)Lunox55.4%](https://boostmlbb.ru/en/heroes/lunox.html#build)
--   [![](/images/heroes/valentina.webp)Valentina51.0%](https://boostmlbb.ru/en/heroes/valentina.html#build)
+-   [![](/images/heroes/valir.webp)Valir59.4%](https://boostmlbb.ru/en/heroes/valir.html#build)
+-   [![](/images/heroes/zetian.webp)Zetian57.0%](https://boostmlbb.ru/en/heroes/zetian.html#build)
+-   [![](/images/heroes/selena.webp)Selena53.2%](https://boostmlbb.ru/en/heroes/selena.html#build)
+-   [![](/images/heroes/angela.webp)Angela56.7%](https://boostmlbb.ru/en/heroes/angela.html#build)
+-   [![](/images/heroes/lylia.webp)Lylia52.4%](https://boostmlbb.ru/en/heroes/lylia.html#build)
+-   [![](/images/heroes/xavier.webp)Xavier59.4%](https://boostmlbb.ru/en/heroes/xavier.html#build)
+-   [![](/images/heroes/harley.webp)Harley48.9%](https://boostmlbb.ru/en/heroes/harley.html#build)
+-   [![](/images/heroes/lunox.webp)Lunox55.7%](https://boostmlbb.ru/en/heroes/lunox.html#build)
+-   [![](/images/heroes/valentina.webp)Valentina50.9%](https://boostmlbb.ru/en/heroes/valentina.html#build)
 -   [![](/images/heroes/novaria.webp)Novaria56.0%](https://boostmlbb.ru/en/heroes/novaria.html#build)
--   [![](/images/heroes/cyclops.webp)Cyclops58.2%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
--   [![](/images/heroes/vexana.webp)Vexana55.2%](https://boostmlbb.ru/en/heroes/vexana.html#build)
--   [![](/images/heroes/cecilion.webp)Cecilion56.3%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
--   [![](/images/heroes/yve.webp)Yve58.0%](https://boostmlbb.ru/en/heroes/yve.html#build)
--   [![](/images/heroes/gord.webp)Gord56.1%](https://boostmlbb.ru/en/heroes/gord.html#build)
--   [![](/images/heroes/odette.webp)Odette56.1%](https://boostmlbb.ru/en/heroes/odette.html#build)
--   [![](/images/heroes/nana.webp)Nana51.2%](https://boostmlbb.ru/en/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Aurora54.2%](https://boostmlbb.ru/en/heroes/aurora.html#build)
--   [![](/images/heroes/zhask.webp)Zhask58.5%](https://boostmlbb.ru/en/heroes/zhask.html#build)
+-   [![](/images/heroes/kadita.webp)Kadita55.5%](https://boostmlbb.ru/en/heroes/kadita.html#build)
+-   [![](/images/heroes/cyclops.webp)Cyclops57.9%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
+-   [![](/images/heroes/vexana.webp)Vexana55.0%](https://boostmlbb.ru/en/heroes/vexana.html#build)
+-   [![](/images/heroes/cecilion.webp)Cecilion56.0%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
+-   [![](/images/heroes/yve.webp)Yve57.7%](https://boostmlbb.ru/en/heroes/yve.html#build)
+-   [![](/images/heroes/gord.webp)Gord55.9%](https://boostmlbb.ru/en/heroes/gord.html#build)
+-   [![](/images/heroes/odette.webp)Odette56.0%](https://boostmlbb.ru/en/heroes/odette.html#build)
+-   [![](/images/heroes/nana.webp)Nana51.0%](https://boostmlbb.ru/en/heroes/nana.html#build)
+-   [![](/images/heroes/aurora.webp)Aurora54.0%](https://boostmlbb.ru/en/heroes/aurora.html#build)
+-   [![](/images/heroes/zhask.webp)Zhask58.6%](https://boostmlbb.ru/en/heroes/zhask.html#build)
 -   [![](/images/heroes/vale.webp)Vale55.0%](https://boostmlbb.ru/en/heroes/vale.html#build)
--   [![](/images/heroes/faramis.webp)Faramis57.7%](https://boostmlbb.ru/en/heroes/faramis.html#build)
+-   [![](/images/heroes/faramis.webp)Faramis57.8%](https://boostmlbb.ru/en/heroes/faramis.html#build)
 -   [![](/images/heroes/change.webp)Chang'e54.3%](https://boostmlbb.ru/en/heroes/change.html#build)
--   [![](/images/heroes/pharsa.webp)Pharsa52.0%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
--   [![](/images/heroes/luo-yi.webp)Luo Yi49.1%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
+-   [![](/images/heroes/pharsa.webp)Pharsa51.8%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
+-   [![](/images/heroes/luo-yi.webp)Luo Yi49.0%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
 
 ## Story
 
@@ -108,4 +109,4 @@ What does Glowing Wand give?
 
 Which heroes build Glowing Wand?
 
-It is in the popular ranked builds of 27 heroes, among them Eudora, Gloo, Zhuxin, Valir, Zetian and Selena.
+It is in the popular ranked builds of 28 heroes, among them Eudora, Gloo, Zhuxin, Valir, Zetian and Selena.

@@ -51,11 +51,11 @@ Parts cost 1,400, assembly adds 1,100 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/masha.webp)Masha63.7%](https://boostmlbb.ru/en/heroes/masha.html#build)
--   [![](/images/heroes/belerick.webp)Belerick61.7%](https://boostmlbb.ru/en/heroes/belerick.html#build)
--   [![](/images/heroes/diggie.webp)Diggie63.0%](https://boostmlbb.ru/en/heroes/diggie.html#build)
--   [![](/images/heroes/akai.webp)Akai55.4%](https://boostmlbb.ru/en/heroes/akai.html#build)
--   [![](/images/heroes/lolita.webp)Lolita59.4%](https://boostmlbb.ru/en/heroes/lolita.html#build)
+-   [![](/images/heroes/masha.webp)Masha63.0%](https://boostmlbb.ru/en/heroes/masha.html#build)
+-   [![](/images/heroes/belerick.webp)Belerick61.4%](https://boostmlbb.ru/en/heroes/belerick.html#build)
+-   [![](/images/heroes/diggie.webp)Diggie63.2%](https://boostmlbb.ru/en/heroes/diggie.html#build)
+-   [![](/images/heroes/akai.webp)Akai55.3%](https://boostmlbb.ru/en/heroes/akai.html#build)
+-   [![](/images/heroes/lolita.webp)Lolita58.4%](https://boostmlbb.ru/en/heroes/lolita.html#build)
 
 ## Story
 

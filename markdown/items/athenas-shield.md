@@ -1,6 +1,6 @@
 ---
 title: "Щит валькирии в MLBB: цена 2150, сборка и эффект | MLBB Boost"
-description: "Щит валькирии (Athena's Shield) в Mobile Legends: +900 оз, +48 магическая защита, +2 регенерация оз. Пассивка «Щит». Собирается из: Роба тишины и Кристалл здоровья. Собирают Кармилла, Атлас и Минотавр."
+description: "Щит валькирии (Athena's Shield) в Mobile Legends: +900 оз, +48 магическая защита, +2 регенерация оз. Пассивка «Щит». Собирается из: Роба тишины и Кристалл здоровья. Собирают Кармилла, Минотавр и Тигрил."
 canonical: https://boostmlbb.ru/items/athenas-shield.html
 language: ru
 ---
@@ -48,13 +48,11 @@ Athena's Shield
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/carmilla.webp)Кармилла58,4%](https://boostmlbb.ru/heroes/carmilla.html#build)
--   [![](/images/heroes/atlas.webp)Атлас53,3%](https://boostmlbb.ru/heroes/atlas.html#build)
+-   [![](/images/heroes/carmilla.webp)Кармилла58,3%](https://boostmlbb.ru/heroes/carmilla.html#build)
 -   [![](/images/heroes/minotaur.webp)Минотавр60,5%](https://boostmlbb.ru/heroes/minotaur.html#build)
 -   [![](/images/heroes/tigreal.webp)Тигрил48,4%](https://boostmlbb.ru/heroes/tigreal.html#build)
--   [![](/images/heroes/johnson.webp)Джонсон52,4%](https://boostmlbb.ru/heroes/johnson.html#build)
--   [![](/images/heroes/hylos.webp)Хилос55,0%](https://boostmlbb.ru/heroes/hylos.html#build)
--   [![](/images/heroes/franco.webp)Франко46,2%](https://boostmlbb.ru/heroes/franco.html#build)
+-   [![](/images/heroes/johnson.webp)Джонсон52,3%](https://boostmlbb.ru/heroes/johnson.html#build)
+-   [![](/images/heroes/franco.webp)Франко46,3%](https://boostmlbb.ru/heroes/franco.html#build)
 
 ## История
 
@@ -84,4 +82,4 @@ Athena's Shield
 
 Каким героям собирать «Щит валькирии»?
 
-Предмет есть в популярных сборках 7 героев в рейтинге, среди них Кармилла, Атлас, Минотавр, Тигрил, Джонсон и Хилос.
+Предмет есть в популярных сборках 5 героев в рейтинге, среди них Кармилла, Минотавр, Тигрил, Джонсон и Франко.

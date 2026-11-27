@@ -1,6 +1,6 @@
 ---
 title: "Злобный рык в MLBB: цена 2060, сборка и эффект | MLBB Boost"
-description: "Злобный рык (Malefic Roar) в Mobile Legends: +60 физическая атака. Пассивка «Пробивание брони». Собирается из: Меч легионера. Собирают Нолан, Хирара и Аулус."
+description: "Злобный рык (Malefic Roar) в Mobile Legends: +60 физическая атака. Пассивка «Пробивание брони». Собирается из: Меч легионера. Собирают Нолан, Аулус и Пакито."
 canonical: https://boostmlbb.ru/items/malefic-roar.html
 language: ru
 ---
@@ -51,21 +51,21 @@ Malefic Roar
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/nolan.webp)Нолан51,8%](https://boostmlbb.ru/heroes/nolan.html#build)
--   [![](/images/heroes/hirara.webp)Хирара51,4%](https://boostmlbb.ru/heroes/hirara.html#build)
--   [![](/images/heroes/aulus.webp)Аулус53,4%](https://boostmlbb.ru/heroes/aulus.html#build)
--   [![](/images/heroes/paquito.webp)Пакито56,3%](https://boostmlbb.ru/heroes/paquito.html#build)
--   [![](/images/heroes/fanny.webp)Фанни47,8%](https://boostmlbb.ru/heroes/fanny.html#build)
--   [![](/images/heroes/chou.webp)Чу51,3%](https://boostmlbb.ru/heroes/chou.html#build)
--   [![](/images/heroes/arlott.webp)Арлотт56,3%](https://boostmlbb.ru/heroes/arlott.html#build)
+-   [![](/images/heroes/nolan.webp)Нолан51,9%](https://boostmlbb.ru/heroes/nolan.html#build)
+-   [![](/images/heroes/aulus.webp)Аулус52,7%](https://boostmlbb.ru/heroes/aulus.html#build)
+-   [![](/images/heroes/paquito.webp)Пакито53,5%](https://boostmlbb.ru/heroes/paquito.html#build)
+-   [![](/images/heroes/fanny.webp)Фанни47,9%](https://boostmlbb.ru/heroes/fanny.html#build)
+-   [![](/images/heroes/chou.webp)Чу51,2%](https://boostmlbb.ru/heroes/chou.html#build)
+-   [![](/images/heroes/argus.webp)Аргус63,3%](https://boostmlbb.ru/heroes/argus.html#build)
+-   [![](/images/heroes/arlott.webp)Арлотт56,0%](https://boostmlbb.ru/heroes/arlott.html#build)
 -   [![](/images/heroes/hayabusa.webp)Хаябуса51,4%](https://boostmlbb.ru/heroes/hayabusa.html#build)
--   [![](/images/heroes/benedetta.webp)Бенедетта54,6%](https://boostmlbb.ru/heroes/benedetta.html#build)
--   [![](/images/heroes/aldous.webp)Алдос58,5%](https://boostmlbb.ru/heroes/aldous.html#build)
+-   [![](/images/heroes/benedetta.webp)Бенедетта54,3%](https://boostmlbb.ru/heroes/benedetta.html#build)
+-   [![](/images/heroes/aldous.webp)Алдос59,2%](https://boostmlbb.ru/heroes/aldous.html#build)
 -   [![](/images/heroes/granger.webp)Грейнджер46,3%](https://boostmlbb.ru/heroes/granger.html#build)
--   [![](/images/heroes/natalia.webp)Наталья60,3%](https://boostmlbb.ru/heroes/natalia.html#build)
+-   [![](/images/heroes/bane.webp)Бэйн51,6%](https://boostmlbb.ru/heroes/bane.html#build)
+-   [![](/images/heroes/natalia.webp)Наталья60,6%](https://boostmlbb.ru/heroes/natalia.html#build)
 -   [![](/images/heroes/yin.webp)Инь53,7%](https://boostmlbb.ru/heroes/yin.html#build)
--   [![](/images/heroes/bane.webp)Бэйн51,7%](https://boostmlbb.ru/heroes/bane.html#build)
--   [![](/images/heroes/jawhead.webp)Кусака57,0%](https://boostmlbb.ru/heroes/jawhead.html#build)
+-   [![](/images/heroes/jawhead.webp)Кусака57,1%](https://boostmlbb.ru/heroes/jawhead.html#build)
 
 ## История
 
@@ -95,4 +95,4 @@ Malefic Roar
 
 Каким героям собирать «Злобный рык»?
 
-Предмет есть в популярных сборках 15 героев в рейтинге, среди них Нолан, Хирара, Аулус, Пакито, Фанни и Чу.
+Предмет есть в популярных сборках 15 героев в рейтинге, среди них Нолан, Аулус, Пакито, Фанни, Чу и Аргус.

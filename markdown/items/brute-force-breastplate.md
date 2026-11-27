@@ -48,22 +48,22 @@ Brute Force Breastplate
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/aulus.webp)Аулус53,4%](https://boostmlbb.ru/heroes/aulus.html#build)
--   [![](/images/heroes/alice.webp)Алиса55,0%](https://boostmlbb.ru/heroes/alice.html#build)
--   [![](/images/heroes/valir.webp)Валир61,1%](https://boostmlbb.ru/heroes/valir.html#build)
--   [![](/images/heroes/barats.webp)Бартс59,5%](https://boostmlbb.ru/heroes/barats.html#build)
--   [![](/images/heroes/cici.webp)Чичи58,6%](https://boostmlbb.ru/heroes/cici.html#build)
--   [![](/images/heroes/kaja.webp)Кайя55,1%](https://boostmlbb.ru/heroes/kaja.html#build)
--   [![](/images/heroes/saber.webp)Сабер57,0%](https://boostmlbb.ru/heroes/saber.html#build)
--   [![](/images/heroes/sora.webp)Сора53,9%](https://boostmlbb.ru/heroes/sora.html#build)
--   [![](/images/heroes/dyrroth.webp)Дариус56,0%](https://boostmlbb.ru/heroes/dyrroth.html#build)
--   [![](/images/heroes/guinevere.webp)Гвиневра56,6%](https://boostmlbb.ru/heroes/guinevere.html#build)
--   [![](/images/heroes/fredrinn.webp)Фредрин62,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
--   [![](/images/heroes/yve.webp)Ив55,7%](https://boostmlbb.ru/heroes/yve.html#build)
--   [![](/images/heroes/hanzo.webp)Ханзо53,9%](https://boostmlbb.ru/heroes/hanzo.html#build)
--   [![](/images/heroes/x-borg.webp)Икс.Борг55,2%](https://boostmlbb.ru/heroes/x-borg.html#build)
--   [![](/images/heroes/leomord.webp)Леоморд56,6%](https://boostmlbb.ru/heroes/leomord.html#build)
--   [![](/images/heroes/lancelot.webp)Ланселот49,0%](https://boostmlbb.ru/heroes/lancelot.html#build)
+-   [![](/images/heroes/aulus.webp)Аулус52,7%](https://boostmlbb.ru/heroes/aulus.html#build)
+-   [![](/images/heroes/alice.webp)Алиса54,9%](https://boostmlbb.ru/heroes/alice.html#build)
+-   [![](/images/heroes/valir.webp)Валир60,7%](https://boostmlbb.ru/heroes/valir.html#build)
+-   [![](/images/heroes/barats.webp)Бартс59,4%](https://boostmlbb.ru/heroes/barats.html#build)
+-   [![](/images/heroes/cici.webp)Чичи58,3%](https://boostmlbb.ru/heroes/cici.html#build)
+-   [![](/images/heroes/kaja.webp)Кайя54,7%](https://boostmlbb.ru/heroes/kaja.html#build)
+-   [![](/images/heroes/saber.webp)Сабер57,3%](https://boostmlbb.ru/heroes/saber.html#build)
+-   [![](/images/heroes/sora.webp)Сора53,7%](https://boostmlbb.ru/heroes/sora.html#build)
+-   [![](/images/heroes/dyrroth.webp)Дариус55,9%](https://boostmlbb.ru/heroes/dyrroth.html#build)
+-   [![](/images/heroes/guinevere.webp)Гвиневра57,3%](https://boostmlbb.ru/heroes/guinevere.html#build)
+-   [![](/images/heroes/fredrinn.webp)Фредрин61,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
+-   [![](/images/heroes/yve.webp)Ив52,5%](https://boostmlbb.ru/heroes/yve.html#build)
+-   [![](/images/heroes/hanzo.webp)Ханзо53,8%](https://boostmlbb.ru/heroes/hanzo.html#build)
+-   [![](/images/heroes/x-borg.webp)Икс.Борг55,0%](https://boostmlbb.ru/heroes/x-borg.html#build)
+-   [![](/images/heroes/leomord.webp)Леоморд56,4%](https://boostmlbb.ru/heroes/leomord.html#build)
+-   [![](/images/heroes/lancelot.webp)Ланселот49,9%](https://boostmlbb.ru/heroes/lancelot.html#build)
 
 ## История
 

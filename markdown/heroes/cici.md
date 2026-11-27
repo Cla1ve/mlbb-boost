@@ -1,6 +1,6 @@
 ---
 title: "Чичи MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Чичи, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чичи. Боец, 48,53% побед, тир B."
+description: "Чичи, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чичи. Боец, 48,47% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/cici.html
 language: ru
 ---
@@ -46,7 +46,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,1%**![](/images/ranks/Legend.webp)Легенда
+2.  **50,0%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,3%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,9%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -67,11 +67,11 @@ B
 
 Победы
 
-58,6%
+58,3%
 
 Выбор
 
-13,2%
+14,6%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ B
 
 Победы
 
-59,0%
+58,9%
 
 Выбор
 
-7,5%
+7,3%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ B
 
 Победы
 
-56,7%
+56,5%
 
 Выбор
 
-2,6%
+2,0%
 
 #### Основные предметы
 
@@ -335,7 +335,7 @@ B
 
 ### Кого контрит Чичи
 
-[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Скины Чичи
 
@@ -365,7 +365,7 @@ B
 
 Какой процент побед у Чичи сейчас?
 
-48,53% в Мифической славе за последние 7 дней и 49,32% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,47% в Мифической славе за последние 7 дней и 49,30% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Чичи?
 
@@ -377,4 +377,4 @@ B
 
 Какая сборка на Чичи лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Кираса грубой силы» и «Удар охотника», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Месть». С ней выигрывают 58,65% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Кираса грубой силы» и «Удар охотника», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Месть». С ней выигрывают 58,31% матчей.

@@ -49,10 +49,10 @@ Parts cost 1,400, assembly adds 640 gold.
 Heroes whose popular ranked build has the item, with the build’s win rate
 
 -   [![](/images/heroes/zhuxin.webp)Zhuxin56.5%](https://boostmlbb.ru/en/heroes/zhuxin.html#build)
--   [![](/images/heroes/valir.webp)Valir59.8%](https://boostmlbb.ru/en/heroes/valir.html#build)
--   [![](/images/heroes/rafaela.webp)Rafaela57.2%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
--   [![](/images/heroes/yve.webp)Yve58.0%](https://boostmlbb.ru/en/heroes/yve.html#build)
--   [![](/images/heroes/gord.webp)Gord58.0%](https://boostmlbb.ru/en/heroes/gord.html#build)
+-   [![](/images/heroes/valir.webp)Valir59.4%](https://boostmlbb.ru/en/heroes/valir.html#build)
+-   [![](/images/heroes/rafaela.webp)Rafaela57.0%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
+-   [![](/images/heroes/yve.webp)Yve57.7%](https://boostmlbb.ru/en/heroes/yve.html#build)
+-   [![](/images/heroes/gord.webp)Gord57.8%](https://boostmlbb.ru/en/heroes/gord.html#build)
 
 ## Story
 

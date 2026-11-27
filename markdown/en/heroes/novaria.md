@@ -68,72 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.0%
+53.7%
 
 Pick rate
 
-4.5%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Glowing Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [
-
-    ![](/images/mlbb/items/3110.webp)
-
-    Lightning Truncheon
-
-
-
-    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Divine Glaive
-
-
-
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Inspire
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Wilderness Blessing
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
-
-
-Win rate
-
-54.0%
-
-Pick rate
-
-3.8%
+3.7%
 
 #### Core items
 
@@ -190,7 +129,68 @@ Assassin
 
 Win rate
 
-55.3%
+56.0%
+
+Pick rate
+
+3.4%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
+Win rate
+
+53.3%
 
 Pick rate
 
@@ -228,21 +228,21 @@ Pick rate
 
 #### Spell
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/spells/20140.webp)Flameshot
 
 #### Emblem and talents
 
-![](/images/mlbb/emblems/20005.webp)
+![](/images/mlbb/emblems/20006.webp)
 
-Assassin
+Mage
 
--   ![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-    Rupture
+    Inspire
 
--   ![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-    Wilderness Blessing
+    Weapons Master
 
 -   ![](/images/mlbb/talents/131.webp)
 
@@ -359,7 +359,7 @@ Level "Astral Recall" first and take the ultimate whenever it is available. Stro
 
 What is Novaria’s win rate right now?
 
-48.29% at Mythical Glory over the last 7 days and 49.43% across all ranks over 30 days, as of 25 November 2026.
+48.29% at Mythical Glory over the last 7 days and 49.40% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Novaria play?
 
@@ -371,4 +371,4 @@ Tier B, #60 of 133 heroes and #15 among mages. The tier counts how often the her
 
 What is the best build for Novaria?
 
-The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 55.99% of matches.
+The most popular ranked build: Sky Piercer, Lightning Truncheon and Holy Crystal as core items, the Assassin emblem with Rupture, Wilderness Blessing and Impure Rage, and Flameshot. It wins 53.72% of matches.

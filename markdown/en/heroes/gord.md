@@ -1,6 +1,6 @@
 ---
 title: "Gord MLBB: build, combos and counters | MLBB Boost"
-description: "Gord in Mobile Legends: ranked build, skill combos, how to play and who counters Gord. Mage, 51.93% win rate, tier C."
+description: "Gord in Mobile Legends: ranked build, skill combos, how to play and who counters Gord. Mage, 51.92% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gord.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.1%
+55.9%
 
 Pick rate
 
-6.1%
+6.0%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-58.0%
+57.8%
 
 Pick rate
 
-4.0%
+3.9%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Common
 
 Win rate
 
-56.7%
+56.6%
 
 Pick rate
 
@@ -362,7 +362,7 @@ Level "Mystic Injunction" first and take the ultimate whenever it is available. 
 
 What is Gord’s win rate right now?
 
-51.93% at Mythical Glory over the last 7 days and 52.57% across all ranks over 30 days, as of 25 November 2026.
+51.92% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Gord play?
 
@@ -374,4 +374,4 @@ Tier C, #88 of 133 heroes and #22 among mages. The tier counts how often the her
 
 What is the best build for Gord?
 
-The most popular ranked build: Glowing Wand, Sky Piercer and Wishing Lantern as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 56.07% of matches.
+The most popular ranked build: Glowing Wand, Sky Piercer and Wishing Lantern as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 55.85% of matches.

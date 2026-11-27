@@ -1,6 +1,6 @@
 ---
 title: "Chang'e MLBB: build, combos and counters | MLBB Boost"
-description: "Chang'e in Mobile Legends: ranked build, skill combos, how to play and who counters Chang'e. Mage, 46.04% win rate, tier C."
+description: "Chang'e in Mobile Legends: ranked build, skill combos, how to play and who counters Chang'e. Mage, 46.03% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **51.2%**![](/images/ranks/Epic.webp)Epic
 2.  **49.9%**![](/images/ranks/Legend.webp)Legend
-3.  **48.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -72,7 +72,7 @@ Win rate
 
 Pick rate
 
-4.4%
+5.3%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-52.1%
+52.2%
 
 Pick rate
 
-4.0%
+3.7%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-50.6%
+50.9%
 
 Pick rate
 
-2.1%
+1.8%
 
 #### Core items
 
@@ -369,7 +369,7 @@ Level "Starmoon Shockwave" first and take the ultimate whenever it is available.
 
 What is Chang'e’s win rate right now?
 
-46.04% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 25 November 2026.
+46.03% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Chang'e play?
 
@@ -381,4 +381,4 @@ Tier C, #120 of 133 heroes and #30 among mages. The tier counts how often the he
 
 What is the best build for Chang'e?
 
-The most popular ranked build: Lightning Truncheon, Glowing Wand and Divine Glaive as core items, the Mage emblem with Thrill, Bargain Hunter and Impure Rage, and Flicker. It wins 54.25% of matches.
+The most popular ranked build: Lightning Truncheon, Glowing Wand and Divine Glaive as core items, the Mage emblem with Thrill, Bargain Hunter and Impure Rage, and Flicker. It wins 54.27% of matches.

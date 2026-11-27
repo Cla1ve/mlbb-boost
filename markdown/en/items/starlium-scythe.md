@@ -49,8 +49,8 @@ Parts cost 1,870, assembly adds 250 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/selena.webp)Selena56.9%](https://boostmlbb.ru/en/heroes/selena.html#build)
--   [![](/images/heroes/karina.webp)Karina57.7%](https://boostmlbb.ru/en/heroes/karina.html#build)
+-   [![](/images/heroes/selena.webp)Selena53.2%](https://boostmlbb.ru/en/heroes/selena.html#build)
+-   [![](/images/heroes/karina.webp)Karina56.5%](https://boostmlbb.ru/en/heroes/karina.html#build)
 -   [![](/images/heroes/harith.webp)Harith55.4%](https://boostmlbb.ru/en/heroes/harith.html#build)
 
 ## Story

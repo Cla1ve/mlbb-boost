@@ -1,6 +1,6 @@
 ---
 title: "Sea Halberd MLBB: 2,050 gold, recipe and effect | MLBB Boost"
-description: "Sea Halberd in Mobile Legends: +80 Physical Attack, +20% Attack Speed. Unique passive Lifebane. Builds from Legion Sword and Regular Spear. Built by Paquito, Lesley and Argus."
+description: "Sea Halberd in Mobile Legends: +80 Physical Attack, +20% Attack Speed. Unique passive Lifebane. Builds from Legion Sword and Regular Spear. Built by Paquito, Lesley and Arlott."
 canonical: https://boostmlbb.ru/en/items/sea-halberd.html
 language: en
 ---
@@ -53,19 +53,18 @@ Parts cost 1,510, assembly adds 540 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/paquito.webp)Paquito53.8%](https://boostmlbb.ru/en/heroes/paquito.html#build)
--   [![](/images/heroes/lesley.webp)Lesley53.1%](https://boostmlbb.ru/en/heroes/lesley.html#build)
--   [![](/images/heroes/argus.webp)Argus65.3%](https://boostmlbb.ru/en/heroes/argus.html#build)
--   [![](/images/heroes/arlott.webp)Arlott56.3%](https://boostmlbb.ru/en/heroes/arlott.html#build)
--   [![](/images/heroes/beatrix.webp)Beatrix51.7%](https://boostmlbb.ru/en/heroes/beatrix.html#build)
+-   [![](/images/heroes/paquito.webp)Paquito53.5%](https://boostmlbb.ru/en/heroes/paquito.html#build)
+-   [![](/images/heroes/lesley.webp)Lesley52.8%](https://boostmlbb.ru/en/heroes/lesley.html#build)
+-   [![](/images/heroes/arlott.webp)Arlott56.0%](https://boostmlbb.ru/en/heroes/arlott.html#build)
+-   [![](/images/heroes/beatrix.webp)Beatrix51.5%](https://boostmlbb.ru/en/heroes/beatrix.html#build)
 -   [![](/images/heroes/ixia.webp)Ixia56.1%](https://boostmlbb.ru/en/heroes/ixia.html#build)
--   [![](/images/heroes/granger.webp)Granger39.7%](https://boostmlbb.ru/en/heroes/granger.html#build)
--   [![](/images/heroes/natalia.webp)Natalia55.3%](https://boostmlbb.ru/en/heroes/natalia.html#build)
--   [![](/images/heroes/yin.webp)Yin57.7%](https://boostmlbb.ru/en/heroes/yin.html#build)
--   [![](/images/heroes/bane.webp)Bane53.0%](https://boostmlbb.ru/en/heroes/bane.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.3%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
--   [![](/images/heroes/martis.webp)Martis51.0%](https://boostmlbb.ru/en/heroes/martis.html#build)
--   [![](/images/heroes/jawhead.webp)Jawhead50.5%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
+-   [![](/images/heroes/granger.webp)Granger39.6%](https://boostmlbb.ru/en/heroes/granger.html#build)
+-   [![](/images/heroes/bane.webp)Bane50.5%](https://boostmlbb.ru/en/heroes/bane.html#build)
+-   [![](/images/heroes/natalia.webp)Natalia55.9%](https://boostmlbb.ru/en/heroes/natalia.html#build)
+-   [![](/images/heroes/yin.webp)Yin53.3%](https://boostmlbb.ru/en/heroes/yin.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.9%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
+-   [![](/images/heroes/martis.webp)Martis48.8%](https://boostmlbb.ru/en/heroes/martis.html#build)
+-   [![](/images/heroes/jawhead.webp)Jawhead50.4%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
 
 ## Story
 
@@ -95,4 +94,4 @@ What does Sea Halberd give?
 
 Which heroes build Sea Halberd?
 
-It is in the popular ranked builds of 13 heroes, among them Paquito, Lesley, Argus, Arlott, Beatrix and Ixia.
+It is in the popular ranked builds of 12 heroes, among them Paquito, Lesley, Arlott, Beatrix, Ixia and Granger.

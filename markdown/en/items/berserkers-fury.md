@@ -47,16 +47,17 @@ Parts cost 1,550, assembly adds 840 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/bruno.webp)Bruno59.7%](https://boostmlbb.ru/en/heroes/bruno.html#build)
--   [![](/images/heroes/lesley.webp)Lesley53.1%](https://boostmlbb.ru/en/heroes/lesley.html#build)
+-   [![](/images/heroes/bruno.webp)Bruno61.6%](https://boostmlbb.ru/en/heroes/bruno.html#build)
+-   [![](/images/heroes/lesley.webp)Lesley57.0%](https://boostmlbb.ru/en/heroes/lesley.html#build)
 -   [![](/images/heroes/miya.webp)Miya55.8%](https://boostmlbb.ru/en/heroes/miya.html#build)
--   [![](/images/heroes/argus.webp)Argus68.8%](https://boostmlbb.ru/en/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Melissa61.2%](https://boostmlbb.ru/en/heroes/melissa.html#build)
--   [![](/images/heroes/ling.webp)Ling57.9%](https://boostmlbb.ru/en/heroes/ling.html#build)
--   [![](/images/heroes/irithel.webp)Irithel58.8%](https://boostmlbb.ru/en/heroes/irithel.html#build)
--   [![](/images/heroes/layla.webp)Layla55.0%](https://boostmlbb.ru/en/heroes/layla.html#build)
--   [![](/images/heroes/natalia.webp)Natalia60.3%](https://boostmlbb.ru/en/heroes/natalia.html#build)
--   [![](/images/heroes/zilong.webp)Zilong53.0%](https://boostmlbb.ru/en/heroes/zilong.html#build)
+-   [![](/images/heroes/argus.webp)Argus68.9%](https://boostmlbb.ru/en/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Melissa61.6%](https://boostmlbb.ru/en/heroes/melissa.html#build)
+-   [![](/images/heroes/ling.webp)Ling57.8%](https://boostmlbb.ru/en/heroes/ling.html#build)
+-   [![](/images/heroes/irithel.webp)Irithel58.9%](https://boostmlbb.ru/en/heroes/irithel.html#build)
+-   [![](/images/heroes/layla.webp)Layla54.9%](https://boostmlbb.ru/en/heroes/layla.html#build)
+-   [![](/images/heroes/natalia.webp)Natalia60.6%](https://boostmlbb.ru/en/heroes/natalia.html#build)
+-   [![](/images/heroes/wanwan.webp)Wanwan61.8%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
+-   [![](/images/heroes/zilong.webp)Zilong52.8%](https://boostmlbb.ru/en/heroes/zilong.html#build)
 
 ## Story
 
@@ -86,4 +87,4 @@ What does Berserker's Fury give?
 
 Which heroes build Berserker's Fury?
 
-It is in the popular ranked builds of 10 heroes, among them Bruno, Lesley, Miya, Argus, Melissa and Ling.
+It is in the popular ranked builds of 11 heroes, among them Bruno, Lesley, Miya, Argus, Melissa and Ling.

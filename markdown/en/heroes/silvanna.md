@@ -1,6 +1,6 @@
 ---
 title: "Silvanna MLBB: build, combos and counters | MLBB Boost"
-description: "Silvanna in Mobile Legends: ranked build, skill combos, how to play and who counters Silvanna. Fighter, 50.29% win rate, tier C."
+description: "Silvanna in Mobile Legends: ranked build, skill combos, how to play and who counters Silvanna. Fighter, 50.28% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
@@ -46,10 +46,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **52.1%**![](/images/ranks/Epic.webp)Epic
-2.  **52.3%**![](/images/ranks/Legend.webp)Legend
-3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
+2.  **52.4%**![](/images/ranks/Legend.webp)Legend
+3.  **52.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-3.6%
+4.9%
 
 #### Core items
 
@@ -132,7 +132,7 @@ Win rate
 
 Pick rate
 
-3.4%
+3.3%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Mage
 
 Win rate
 
-57.4%
+57.2%
 
 Pick rate
 
-1.6%
+2.4%
 
 #### Core items
 
@@ -235,13 +235,13 @@ Pick rate
 
 Mage
 
--   ![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-    Thrill
+    Swift
 
--   ![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-    Master Assassin
+    Weapons Master
 
 -   ![](/images/mlbb/talents/631.webp)
 
@@ -342,7 +342,7 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
 ### Who Silvanna counters
 
-[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
 ## Silvanna skins
 
@@ -372,7 +372,7 @@ Level "Spiral Strangling" first and take the ultimate whenever it is available. 
 
 What is Silvanna’s win rate right now?
 
-50.29% at Mythical Glory over the last 7 days and 51.38% across all ranks over 30 days, as of 25 November 2026.
+50.28% at Mythical Glory over the last 7 days and 51.39% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Silvanna play?
 
@@ -384,4 +384,4 @@ Tier C, #83 of 133 heroes and #25 among fighters. The tier counts how often the 
 
 What is the best build for Silvanna?
 
-The most popular ranked build: Genius Wand, Feather of Heaven and Concentrated Energy as core items, the Mage emblem with Rupture, Master Assassin and Lethal Ignition, and Petrify. It wins 56.86% of matches.
+The most popular ranked build: Genius Wand, Feather of Heaven and Concentrated Energy as core items, the Mage emblem with Rupture, Master Assassin and Lethal Ignition, and Petrify. It wins 56.85% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Brody MLBB: build, combos and counters | MLBB Boost"
-description: "Brody in Mobile Legends: ranked build, skill combos, how to play and who counters Brody. Marksman, 49.90% win rate, tier B."
+description: "Brody in Mobile Legends: ranked build, skill combos, how to play and who counters Brody. Marksman, 49.92% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/brody.html
 language: en
 ---
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.4%
+53.3%
 
 Pick rate
 
-19.2%
+19.0%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Assassin
 
 Win rate
 
-57.3%
+57.0%
 
 Pick rate
 
-7.8%
+7.9%
 
 #### Core items
 
@@ -189,7 +189,7 @@ Fighter
 
 Win rate
 
-56.3%
+55.9%
 
 Pick rate
 
@@ -371,7 +371,7 @@ Level "Abyss Impact" first and take the ultimate whenever it is available. Stron
 
 What is Brody’s win rate right now?
 
-49.90% at Mythical Glory over the last 7 days and 49.98% across all ranks over 30 days, as of 25 November 2026.
+49.92% at Mythical Glory over the last 7 days and 49.98% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Brody play?
 
@@ -383,4 +383,4 @@ Tier B, #42 of 133 heroes and #6 among marksmen. The tier counts how often the h
 
 What is the best build for Brody?
 
-The most popular ranked build: Blade of the Heptaseas, Sky Piercer and Malefic Gun as core items, the Assassin emblem with Rupture, Tenacity and Quantum Charge, and Flicker. It wins 53.41% of matches.
+The most popular ranked build: Blade of the Heptaseas, Sky Piercer and Malefic Gun as core items, the Assassin emblem with Rupture, Tenacity and Quantum Charge, and Flicker. It wins 53.34% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Baxia MLBB: build, combos and counters | MLBB Boost"
-description: "Baxia in Mobile Legends: ranked build, skill combos, how to play and who counters Baxia. Tank, 45.94% win rate, tier D."
+description: "Baxia in Mobile Legends: ranked build, skill combos, how to play and who counters Baxia. Tank, 45.99% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-45.9%
+46.0%
 
 Pick rate
 
@@ -48,8 +48,8 @@ Ban rate
 1.  **48.6%**![](/images/ranks/Epic.webp)Epic
 2.  **47.0%**![](/images/ranks/Legend.webp)Legend
 3.  **45.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **44.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **45.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -69,72 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.6%
+51.8%
 
 Pick rate
 
-4.4%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3201.webp)
-
-    Cursed Helmet
-
-
-
-    ](https://boostmlbb.ru/en/items/cursed-helmet.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Chastise Pauldron
-
-
-
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
--   [
-
-    ![](/images/mlbb/items/3210.webp)
-
-    Radiant Armor
-
-
-
-    ](https://boostmlbb.ru/en/items/radiant-armor.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20020.webp)Retribution
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Seasoned Hunter
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Concussive Blast
-
-
-Win rate
-
-51.3%
-
-Pick rate
-
-4.3%
+4.0%
 
 #### Core items
 
@@ -191,11 +130,11 @@ Tank
 
 Win rate
 
-55.5%
+54.9%
 
 Pick rate
 
-3.3%
+3.6%
 
 #### Core items
 
@@ -240,6 +179,67 @@ Tank
 -   ![](/images/mlbb/talents/311.webp)
 
     Vitality
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
+Win rate
+
+55.1%
+
+Pick rate
+
+3.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
+
+    Cursed Helmet
+
+
+
+    ](https://boostmlbb.ru/en/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
+
+    Radiant Armor
+
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
 
 -   ![](/images/mlbb/talents/122.webp)
 
@@ -336,7 +336,7 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 
 ### Who counters Baxia
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
 ### Who Baxia counters
 
@@ -362,7 +362,7 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 
 Who counters Baxia in MLBB?
 
-Over the last 30 days the toughest opponents are Obsidia, Alice, Lukas, Saber and Zhask.
+Over the last 30 days the toughest opponents are Obsidia, Alice, Saber, Lukas and Zhask.
 
 How do you play Baxia?
 
@@ -370,7 +370,7 @@ Level "Shield of Spirit" first and take the ultimate whenever it is available. E
 
 What is Baxia’s win rate right now?
 
-45.94% at Mythical Glory over the last 7 days and 45.86% across all ranks over 30 days, as of 25 November 2026.
+45.99% at Mythical Glory over the last 7 days and 45.83% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Baxia play?
 
@@ -378,8 +378,8 @@ Tank, played in the jungle or on roam.
 
 Is Baxia strong in the current meta?
 
-Tier D, #133 of 133 heroes and #25 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 45.9% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
+Tier D, #133 of 133 heroes and #25 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.0% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Baxia?
 
-The most popular ranked build: Cursed Helmet, Chastise Pauldron and Radiant Armor as core items, the Tank emblem with Thrill, Seasoned Hunter and Concussive Blast, and Retribution. It wins 55.60% of matches.
+The most popular ranked build: Antique Cuirass, Radiant Armor and Immortality as core items, the Tank emblem with Thrill, Seasoned Hunter and Concussive Blast, and Retribution. It wins 51.76% of matches.

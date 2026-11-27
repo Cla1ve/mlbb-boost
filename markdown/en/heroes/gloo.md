@@ -1,6 +1,6 @@
 ---
 title: "Gloo MLBB: build, combos and counters | MLBB Boost"
-description: "Gloo in Mobile Legends: ranked build, skill combos, how to play and who counters Gloo. Tank, 50.01% win rate, tier A."
+description: "Gloo in Mobile Legends: ranked build, skill combos, how to play and who counters Gloo. Tank, 50.06% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/gloo.html
 language: en
 ---
@@ -19,7 +19,7 @@ A
 
 Win rate
 
-50.0%
+50.1%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-35.7%
+35.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.5%**![](/images/ranks/Epic.webp)Epic
-2.  **55.9%**![](/images/ranks/Legend.webp)Legend
-3.  **55.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **54.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **55.4%**![](/images/ranks/Epic.webp)Epic
+2.  **55.8%**![](/images/ranks/Legend.webp)Legend
+3.  **55.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **54.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.0%
+57.2%
 
 Pick rate
 
-14.8%
+15.2%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Common
 
 Win rate
 
-60.4%
+59.7%
 
 Pick rate
 
-5.9%
+6.0%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Common
 
 Win rate
 
-61.4%
+60.6%
 
 Pick rate
 
-3.4%
+3.2%
 
 #### Core items
 
@@ -338,7 +338,7 @@ While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra
 
 ### Who counters Gloo
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 ### Who Gloo counters
 
@@ -364,7 +364,7 @@ While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra
 
 Who counters Gloo in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Nana and Chang'e.
+Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Chang'e and Nana.
 
 How do you play Gloo?
 
@@ -372,7 +372,7 @@ Level "Slam, Slam" first and take the ultimate whenever it is available. Stronge
 
 What is Gloo’s win rate right now?
 
-50.01% at Mythical Glory over the last 7 days and 53.17% across all ranks over 30 days, as of 25 November 2026.
+50.06% at Mythical Glory over the last 7 days and 53.08% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Gloo play?
 
@@ -380,8 +380,8 @@ Tank, played in the EXP Lane or on roam.
 
 Is Gloo strong in the current meta?
 
-Tier A, #18 of 133 heroes and #7 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 35.7% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 26.6% of them.
+Tier A, #18 of 133 heroes and #7 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 35.4% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 26.6% of them.
 
 What is the best build for Gloo?
 
-The most popular ranked build: Cursed Helmet, Glowing Wand and Oracle as core items, the Common emblem with Agility, Wilderness Blessing and Brave Smite, and Flameshot. It wins 57.95% of matches.
+The most popular ranked build: Cursed Helmet, Glowing Wand and Oracle as core items, the Common emblem with Agility, Wilderness Blessing and Brave Smite, and Flameshot. It wins 57.17% of matches.

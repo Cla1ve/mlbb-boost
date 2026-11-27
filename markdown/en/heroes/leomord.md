@@ -1,6 +1,6 @@
 ---
 title: "Leomord MLBB: build, combos and counters | MLBB Boost"
-description: "Leomord in Mobile Legends: ranked build, skill combos, how to play and who counters Leomord. Fighter, 50.00% win rate, tier C."
+description: "Leomord in Mobile Legends: ranked build, skill combos, how to play and who counters Leomord. Fighter, 49.99% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/leomord.html
 language: en
 ---
@@ -59,8 +59,8 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**26 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**31 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**27 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**32 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.6%
+56.4%
 
 Pick rate
 
-21.2%
+23.4%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-55.1%
+55.2%
 
 Pick rate
 
-7.7%
+6.2%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Assassin
 
 Win rate
 
-58.5%
+58.6%
 
 Pick rate
 
-3.4%
+3.1%
 
 #### Core items
 
@@ -373,7 +373,7 @@ Level "Momentum" first and take the ultimate whenever it is available. Even thro
 
 What is Leomord’s win rate right now?
 
-50.00% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 25 November 2026.
+49.99% at Mythical Glory over the last 7 days and 50.02% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Leomord play?
 
@@ -381,8 +381,8 @@ Fighter, played in the jungle.
 
 Is Leomord strong in the current meta?
 
-Tier C, #101 of 133 heroes and #31 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
+Tier C, #103 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Leomord?
 
-The most popular ranked build: War Axe, Brute Force Breastplate and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 56.62% of matches.
+The most popular ranked build: War Axe, Brute Force Breastplate and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 56.38% of matches.

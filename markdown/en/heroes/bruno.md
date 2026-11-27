@@ -1,6 +1,6 @@
 ---
 title: "Bruno MLBB: build, combos and counters | MLBB Boost"
-description: "Bruno in Mobile Legends: ranked build, skill combos, how to play and who counters Bruno. Marksman, 54.36% win rate, tier A."
+description: "Bruno in Mobile Legends: ranked build, skill combos, how to play and who counters Bruno. Marksman, 54.41% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/bruno.html
 language: en
 ---
@@ -67,11 +67,72 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.7%
+61.6%
 
 Pick rate
 
-5.4%
+5.1%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
+
+    Malefic Gun
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
+Win rate
+
+59.6%
+
+Pick rate
+
+4.5%
 
 #### Core items
 
@@ -128,11 +189,11 @@ Marksman
 
 Win rate
 
-59.3%
+59.1%
 
 Pick rate
 
-4.6%
+4.2%
 
 #### Core items
 
@@ -181,67 +242,6 @@ Marksman
 -   ![](/images/mlbb/talents/521.webp)
 
     Master Assassin
-
--   ![](/images/mlbb/talents/132.webp)
-
-    Quantum Charge
-
-
-Win rate
-
-61.7%
-
-Pick rate
-
-4.5%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3002.webp)
-
-    Haas's Claws
-
-
-
-    ](https://boostmlbb.ru/en/items/haas-claws.html)
--   [
-
-    ![](/images/mlbb/items/3003.webp)
-
-    Berserker's Fury
-
-
-
-    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
--   [
-
-    ![](/images/mlbb/items/3015.webp)
-
-    Malefic Gun
-
-
-
-    ](https://boostmlbb.ru/en/items/malefic-gun.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/1211.webp)
-
-    Fatal
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Bargain Hunter
 
 -   ![](/images/mlbb/talents/132.webp)
 
@@ -369,7 +369,7 @@ Level "Volley Shot" first and take the ultimate whenever it is available. Even t
 
 What is Bruno’s win rate right now?
 
-54.36% at Mythical Glory over the last 7 days and 53.83% across all ranks over 30 days, as of 25 November 2026.
+54.41% at Mythical Glory over the last 7 days and 53.85% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Bruno play?
 
@@ -381,4 +381,4 @@ Tier A, #23 of 133 heroes and #3 among marksmen. The tier counts how often the h
 
 What is the best build for Bruno?
 
-The most popular ranked build: Haas's Claws, Berserker's Fury and Malefic Gun as core items, the Marksman emblem with Fatal, Master Assassin and Quantum Charge, and Aegis. It wins 59.71% of matches.
+The most popular ranked build: Haas's Claws, Berserker's Fury and Malefic Gun as core items, the Fighter emblem with Fatal, Bargain Hunter and Quantum Charge, and Flicker. It wins 61.61% of matches.

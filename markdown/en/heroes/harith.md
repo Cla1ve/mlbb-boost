@@ -1,6 +1,6 @@
 ---
 title: "Harith MLBB: build, combos and counters | MLBB Boost"
-description: "Harith in Mobile Legends: ranked build, skill combos, how to play and who counters Harith. Mage, 48.65% win rate, tier C."
+description: "Harith in Mobile Legends: ranked build, skill combos, how to play and who counters Harith. Mage, 48.71% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-48.6%
+48.7%
 
 Pick rate
 
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **45.6%**![](/images/ranks/Epic.webp)Epic
+1.  **45.7%**![](/images/ranks/Epic.webp)Epic
 2.  **45.0%**![](/images/ranks/Legend.webp)Legend
 3.  **44.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -59,7 +59,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**18 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mages**17 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
 
 ## Build
 
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-27.3%
+27.7%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Mage
 
 Win rate
 
-54.4%
+54.3%
 
 Pick rate
 
-9.6%
+10.2%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Mage
 
 Win rate
 
-49.9%
+50.3%
 
 Pick rate
 
-3.5%
+3.2%
 
 #### Core items
 
@@ -335,7 +335,7 @@ When Harith comes into contact with the rift using Chrono Dash, he absorbs its e
 
 ### Who counters Harith
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)
 
 ### Who Harith counters
 
@@ -361,7 +361,7 @@ When Harith comes into contact with the rift using Chrono Dash, he absorbs its e
 
 Who counters Harith in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Karina, Johnson, Lapu-Lapu and Suyou.
+Over the last 30 days the toughest opponents are Lolita, Karina, Johnson, Suyou and Lapu-Lapu.
 
 How do you play Harith?
 
@@ -369,7 +369,7 @@ Level "Synchro Fission" first and take the ultimate whenever it is available. St
 
 What is Harith’s win rate right now?
 
-48.65% at Mythical Glory over the last 7 days and 47.03% across all ranks over 30 days, as of 25 November 2026.
+48.71% at Mythical Glory over the last 7 days and 47.07% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Harith play?
 
@@ -377,8 +377,8 @@ Mage, played in the Gold Lane.
 
 Is Harith strong in the current meta?
 
-Tier C, #72 of 133 heroes and #18 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 19.7% of them.
+Tier C, #71 of 133 heroes and #17 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 19.7% of them.
 
 What is the best build for Harith?
 
-The most popular ranked build: Starlium Scythe, Feather of Heaven and Holy Crystal as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Purify. It wins 55.38% of matches.
+The most popular ranked build: Starlium Scythe, Feather of Heaven and Holy Crystal as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Purify. It wins 55.39% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Инь MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Инь, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Иня. Боец и убийца, 49,95% побед, тир C."
+description: "Инь, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Иня. Боец и убийца, 49,94% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/yin.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-50,0%
+49,9%
 
 Выбор
 
@@ -59,8 +59,8 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**28 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие бойцы MLBB**32 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие лесники MLBB**29 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие бойцы MLBB**33 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 -   [Лучшие убийцы MLBB**24 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
@@ -69,72 +69,11 @@ C
 
 Победы
 
-57,7%
+53,3%
 
 Выбор
 
-2,8%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    Топор войны
-
-
-
-    ](https://boostmlbb.ru/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Трезубец
-
-
-
-    ](https://boostmlbb.ru/items/sea-halberd.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Бесконечная битва
-
-
-
-    ](https://boostmlbb.ru/items/endless-battle.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20070.webp)Окаменение
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Трепет
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Мастер оружий
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Нечестивая ярость
-
-
-Победы
-
-53,5%
-
-Выбор
-
-2,7%
+3,0%
 
 #### Основные предметы
 
@@ -195,7 +134,7 @@ C
 
 Выбор
 
-1,7%
+2,9%
 
 #### Основные предметы
 
@@ -248,6 +187,67 @@ C
 -   ![](/images/mlbb/talents/331.webp)
 
     Ударная волна
+
+
+Победы
+
+57,5%
+
+Выбор
+
+2,3%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
 
 
 ## Как играть за Иня
@@ -346,7 +346,7 @@ C
 
 ### Кого контрит Инь
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ## Скины Иня
 
@@ -376,7 +376,7 @@ C
 
 Какой процент побед у Иня сейчас?
 
-49,95% в Мифической славе за последние 7 дней и 49,67% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,94% в Мифической славе за последние 7 дней и 49,68% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Иня?
 
@@ -384,8 +384,8 @@ C
 
 Стоит ли брать Иня в текущей мете?
 
-Тир C, 104-е место из 133 героев и 32-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 105-е место из 133 героев и 33-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Иня лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Трезубец» и «Бесконечная битва», эмблема бойца с талантами «Трепет», «Мастер оружий» и «Нечестивая ярость» и заклинание «Окаменение». С ней выигрывают 57,66% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Трезубец» и «Топор войны», эмблема убийцы с талантами «Трепет», «Мастер оружий» и «Нечестивая ярость» и заклинание «Окаменение». С ней выигрывают 53,33% матчей.

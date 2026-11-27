@@ -1,6 +1,6 @@
 ---
 title: "Шипованная броня в MLBB: цена 1910, сборка и эффект | MLBB Boost"
-description: "Шипованная броня (Blade Armor) в Mobile Legends: +20% снижение крит. урона, +80 физическая защита. Пассивка «Шипы». Собирается из: Стальные ножные латы и Кожаная броня ×2. Собирают Джонсон, Халид и Грок."
+description: "Шипованная броня (Blade Armor) в Mobile Legends: +20% снижение крит. урона, +80 физическая защита. Пассивка «Шипы». Собирается из: Стальные ножные латы и Кожаная броня ×2. Собирают Джонсон, Тэризла и Халид."
 canonical: https://boostmlbb.ru/items/blade-armor.html
 language: ru
 ---
@@ -47,9 +47,10 @@ Blade Armor
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/johnson.webp)Джонсон55,6%](https://boostmlbb.ru/heroes/johnson.html#build)
--   [![](/images/heroes/khaleed.webp)Халид54,3%](https://boostmlbb.ru/heroes/khaleed.html#build)
--   [![](/images/heroes/grock.webp)Грок54,3%](https://boostmlbb.ru/heroes/grock.html#build)
+-   [![](/images/heroes/johnson.webp)Джонсон55,9%](https://boostmlbb.ru/heroes/johnson.html#build)
+-   [![](/images/heroes/terizla.webp)Тэризла57,0%](https://boostmlbb.ru/heroes/terizla.html#build)
+-   [![](/images/heroes/khaleed.webp)Халид54,6%](https://boostmlbb.ru/heroes/khaleed.html#build)
+-   [![](/images/heroes/grock.webp)Грок54,4%](https://boostmlbb.ru/heroes/grock.html#build)
 
 ## История
 
@@ -79,4 +80,4 @@ Blade Armor
 
 Каким героям собирать «Шипованная броня»?
 
-Предмет есть в популярных сборках 3 героев в рейтинге, среди них Джонсон, Халид и Грок.
+Предмет есть в популярных сборках 4 героев в рейтинге, среди них Джонсон, Тэризла, Халид и Грок.

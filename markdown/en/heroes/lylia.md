@@ -49,7 +49,7 @@ Ban rate
 2.  **50.6%**![](/images/ranks/Legend.webp)Legend
 3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-52.7%
+52.4%
 
 Pick rate
 
-8.0%
+8.3%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-51.9%
+51.6%
 
 Pick rate
 
-5.8%
+5.9%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-51.6%
+51.4%
 
 Pick rate
 
-4.7%
+4.6%
 
 #### Core items
 
@@ -339,7 +339,11 @@ She also gains 20% Movement Speed for 2s.
 
 ### Who counters Lylia
 
-[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
+[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
+
+### Who Lylia counters
+
+[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
 
 ## Lylia skins
 
@@ -361,7 +365,7 @@ She also gains 20% Movement Speed for 2s.
 
 Who counters Lylia in MLBB?
 
-Over the last 30 days the toughest opponents are Johnson, Alpha, Hanabi, Barats and Alice.
+Over the last 30 days the toughest opponents are Johnson, Hanabi, Alpha, Barats and Alice.
 
 How do you play Lylia?
 
@@ -369,7 +373,7 @@ Level "Shadow Energy" first and take the ultimate whenever it is available. Stro
 
 What is Lylia’s win rate right now?
 
-47.60% at Mythical Glory over the last 7 days and 49.23% across all ranks over 30 days, as of 25 November 2026.
+47.60% at Mythical Glory over the last 7 days and 49.20% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lylia play?
 
@@ -381,4 +385,4 @@ Tier B, #36 of 133 heroes and #9 among mages. The tier counts how often the hero
 
 What is the best build for Lylia?
 
-The most popular ranked build: Enchanted Talisman, Glowing Wand and Wishing Lantern as core items, the Mage emblem with Inspire, Bargain Hunter and Lethal Ignition, and Purify. It wins 52.74% of matches.
+The most popular ranked build: Enchanted Talisman, Glowing Wand and Wishing Lantern as core items, the Mage emblem with Inspire, Bargain Hunter and Lethal Ignition, and Purify. It wins 52.36% of matches.

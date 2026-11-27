@@ -52,12 +52,12 @@ Parts cost 1,330, assembly adds 700 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/freya.webp)Freya60.1%](https://boostmlbb.ru/en/heroes/freya.html#build)
--   [![](/images/heroes/aulus.webp)Aulus58.6%](https://boostmlbb.ru/en/heroes/aulus.html#build)
--   [![](/images/heroes/fanny.webp)Fanny47.8%](https://boostmlbb.ru/en/heroes/fanny.html#build)
+-   [![](/images/heroes/freya.webp)Freya60.3%](https://boostmlbb.ru/en/heroes/freya.html#build)
+-   [![](/images/heroes/aulus.webp)Aulus57.6%](https://boostmlbb.ru/en/heroes/aulus.html#build)
+-   [![](/images/heroes/fanny.webp)Fanny47.9%](https://boostmlbb.ru/en/heroes/fanny.html#build)
 -   [![](/images/heroes/dyrroth.webp)Dyrroth61.0%](https://boostmlbb.ru/en/heroes/dyrroth.html#build)
--   [![](/images/heroes/aldous.webp)Aldous62.2%](https://boostmlbb.ru/en/heroes/aldous.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.6%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
+-   [![](/images/heroes/aldous.webp)Aldous62.4%](https://boostmlbb.ru/en/heroes/aldous.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.2%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
 -   [![](/images/heroes/wanwan.webp)Wanwan57.5%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
 -   [![](/images/heroes/roger.webp)Roger55.3%](https://boostmlbb.ru/en/heroes/roger.html#build)
 -   [![](/images/heroes/zilong.webp)Zilong53.0%](https://boostmlbb.ru/en/heroes/zilong.html#build)

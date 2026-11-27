@@ -1,6 +1,6 @@
 ---
 title: "Carmilla MLBB: build, combos and counters | MLBB Boost"
-description: "Carmilla in Mobile Legends: ranked build, skill combos, how to play and who counters Carmilla. Tank and support, 52.18% win rate, tier S."
+description: "Carmilla in Mobile Legends: ranked build, skill combos, how to play and who counters Carmilla. Tank and support, 52.20% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/carmilla.html
 language: en
 ---
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **54.1%**![](/images/ranks/Epic.webp)Epic
 2.  **54.5%**![](/images/ranks/Legend.webp)Legend
-3.  **54.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **54.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.6%
+57.4%
 
 Pick rate
 
-7.6%
+7.8%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Tank
 
 Win rate
 
-58.4%
+58.3%
 
 Pick rate
 
-6.5%
+5.7%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Tank
 
 Win rate
 
-57.2%
+57.0%
 
 Pick rate
 
-3.3%
+3.0%
 
 #### Core items
 
@@ -365,7 +365,7 @@ Level "Crimson Flower" first and take the ultimate whenever it is available. Str
 
 What is Carmilla’s win rate right now?
 
-52.18% at Mythical Glory over the last 7 days and 53.20% across all ranks over 30 days, as of 25 November 2026.
+52.20% at Mythical Glory over the last 7 days and 53.18% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Carmilla play?
 
@@ -377,4 +377,4 @@ Tier S, #9 of 133 heroes and #2 among tanks. The tier counts how often the hero 
 
 What is the best build for Carmilla?
 
-The most popular ranked build: Cursed Helmet, Dominance Ice and Antique Cuirass as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Petrify. It wins 57.60% of matches.
+The most popular ranked build: Cursed Helmet, Dominance Ice and Antique Cuirass as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Petrify. It wins 57.42% of matches.

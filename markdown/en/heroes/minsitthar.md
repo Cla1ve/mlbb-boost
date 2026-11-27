@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **53.6%**![](/images/ranks/Epic.webp)Epic
+1.  **53.7%**![](/images/ranks/Epic.webp)Epic
 2.  **52.8%**![](/images/ranks/Legend.webp)Legend
-3.  **52.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **52.8%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -67,72 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.6%
-
-Pick rate
-
-9.5%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Corrosion Scythe
-
-
-
-    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
--   [
-
-    ![](/images/mlbb/items/2006.webp)
-
-    Demon Hunter Sword
-
-
-
-    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
--   [
-
-    ![](/images/mlbb/items/2009.webp)
-
-    Golden Staff
-
-
-
-    ](https://boostmlbb.ru/en/items/golden-staff.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
--   ![](/images/mlbb/talents/112.webp)
-
-    Swift
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/1231.webp)
-
-    Weakness Finder
-
-
-Win rate
-
 58.9%
 
 Pick rate
 
-8.7%
+7.9%
 
 #### Core items
 
@@ -189,11 +128,11 @@ Fighter
 
 Win rate
 
-60.7%
+59.8%
 
 Pick rate
 
-2.5%
+7.5%
 
 #### Core items
 
@@ -239,9 +178,70 @@ Marksman
 
     Swift
 
--   ![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-    Pull Yourself Together
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
+Win rate
+
+56.3%
+
+Pick rate
+
+3.7%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Master Assassin
 
 -   ![](/images/mlbb/talents/1231.webp)
 
@@ -364,7 +364,7 @@ Level "Shield Assault" first and take the ultimate whenever it is available. Str
 
 What is Minsitthar’s win rate right now?
 
-52.11% at Mythical Glory over the last 7 days and 52.15% across all ranks over 30 days, as of 25 November 2026.
+52.11% at Mythical Glory over the last 7 days and 52.18% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Minsitthar play?
 
@@ -376,4 +376,4 @@ Tier B, #67 of 133 heroes and #20 among fighters. The tier counts how often the 
 
 What is the best build for Minsitthar?
 
-The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Marksman emblem with Swift, Festival of Blood and Weakness Finder, and Flicker. It wins 59.59% of matches.
+The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Fighter emblem with Swift, Master Assassin and Weakness Finder, and Flicker. It wins 58.92% of matches.

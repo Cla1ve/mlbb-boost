@@ -1,6 +1,6 @@
 ---
 title: "Blade Armor MLBB: 1,910 gold, recipe and effect | MLBB Boost"
-description: "Blade Armor in Mobile Legends: +20% Crit Damage Reduction, +80 Physical Defense. Unique passive Bladed Armor. Builds from Steel Legplates and Leather Jerkin ×2. Built by Johnson, Khaleed and Grock."
+description: "Blade Armor in Mobile Legends: +20% Crit Damage Reduction, +80 Physical Defense. Unique passive Bladed Armor. Builds from Steel Legplates and Leather Jerkin ×2. Built by Johnson, Terizla and Khaleed."
 canonical: https://boostmlbb.ru/en/items/blade-armor.html
 language: en
 ---
@@ -45,9 +45,10 @@ Parts cost 1,070, assembly adds 840 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/johnson.webp)Johnson55.6%](https://boostmlbb.ru/en/heroes/johnson.html#build)
--   [![](/images/heroes/khaleed.webp)Khaleed54.3%](https://boostmlbb.ru/en/heroes/khaleed.html#build)
--   [![](/images/heroes/grock.webp)Grock54.3%](https://boostmlbb.ru/en/heroes/grock.html#build)
+-   [![](/images/heroes/johnson.webp)Johnson55.9%](https://boostmlbb.ru/en/heroes/johnson.html#build)
+-   [![](/images/heroes/terizla.webp)Terizla57.0%](https://boostmlbb.ru/en/heroes/terizla.html#build)
+-   [![](/images/heroes/khaleed.webp)Khaleed54.6%](https://boostmlbb.ru/en/heroes/khaleed.html#build)
+-   [![](/images/heroes/grock.webp)Grock54.4%](https://boostmlbb.ru/en/heroes/grock.html#build)
 
 ## Story
 
@@ -77,4 +78,4 @@ What does Blade Armor give?
 
 Which heroes build Blade Armor?
 
-It is in the popular ranked builds of 3 heroes, among them Johnson, Khaleed and Grock.
+It is in the popular ranked builds of 4 heroes, among them Johnson, Terizla, Khaleed and Grock.

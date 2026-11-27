@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.3%**![](/images/ranks/Legend.webp)Legend
+1.  **50.7%**![](/images/ranks/Epic.webp)Epic
+2.  **50.4%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **46.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -73,7 +73,7 @@ Win rate
 
 Pick rate
 
-13.8%
+13.9%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Assassin
 
 Win rate
 
-56.7%
+56.5%
 
 Pick rate
 
-6.2%
+5.7%
 
 #### Core items
 
@@ -195,7 +195,7 @@ Win rate
 
 Pick rate
 
-4.3%
+4.0%
 
 #### Core items
 
@@ -372,7 +372,7 @@ Level "Open Fire" first and take the ultimate whenever it is available. Even thr
 
 What is Roger’s win rate right now?
 
-46.34% at Mythical Glory over the last 7 days and 48.30% across all ranks over 30 days, as of 25 November 2026.
+46.34% at Mythical Glory over the last 7 days and 48.28% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Roger play?
 
@@ -384,4 +384,4 @@ Tier D, #126 of 133 heroes and #43 among fighters. The tier counts how often the
 
 What is the best build for Roger?
 
-The most popular ranked build: Windtalker, Sky Piercer and Rose Gold Meteor as core items, the Assassin emblem with Swift, Seasoned Hunter and Killing Spree, and Retribution. It wins 55.25% of matches.
+The most popular ranked build: Windtalker, Sky Piercer and Rose Gold Meteor as core items, the Assassin emblem with Swift, Seasoned Hunter and Killing Spree, and Retribution. It wins 55.26% of matches.

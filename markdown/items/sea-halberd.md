@@ -1,6 +1,6 @@
 ---
 title: "Трезубец в MLBB: цена 2050, сборка и эффект | MLBB Boost"
-description: "Трезубец (Sea Halberd) в Mobile Legends: +80 физическая атака, +20% скорость атаки. Пассивка «Гибель жизни». Собирается из: Меч легионера и Обычное копье. Собирают Пакито, Лесли и Аргус."
+description: "Трезубец (Sea Halberd) в Mobile Legends: +80 физическая атака, +20% скорость атаки. Пассивка «Гибель жизни». Собирается из: Меч легионера и Обычное копье. Собирают Пакито, Лесли и Арлотт."
 canonical: https://boostmlbb.ru/items/sea-halberd.html
 language: ru
 ---
@@ -55,19 +55,18 @@ Sea Halberd
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/paquito.webp)Пакито53,8%](https://boostmlbb.ru/heroes/paquito.html#build)
--   [![](/images/heroes/lesley.webp)Лесли53,1%](https://boostmlbb.ru/heroes/lesley.html#build)
--   [![](/images/heroes/argus.webp)Аргус65,3%](https://boostmlbb.ru/heroes/argus.html#build)
--   [![](/images/heroes/arlott.webp)Арлотт56,3%](https://boostmlbb.ru/heroes/arlott.html#build)
--   [![](/images/heroes/beatrix.webp)Беатрис51,7%](https://boostmlbb.ru/heroes/beatrix.html#build)
+-   [![](/images/heroes/paquito.webp)Пакито53,5%](https://boostmlbb.ru/heroes/paquito.html#build)
+-   [![](/images/heroes/lesley.webp)Лесли52,8%](https://boostmlbb.ru/heroes/lesley.html#build)
+-   [![](/images/heroes/arlott.webp)Арлотт56,0%](https://boostmlbb.ru/heroes/arlott.html#build)
+-   [![](/images/heroes/beatrix.webp)Беатрис51,5%](https://boostmlbb.ru/heroes/beatrix.html#build)
 -   [![](/images/heroes/ixia.webp)Иксия56,1%](https://boostmlbb.ru/heroes/ixia.html#build)
--   [![](/images/heroes/granger.webp)Грейнджер39,7%](https://boostmlbb.ru/heroes/granger.html#build)
--   [![](/images/heroes/natalia.webp)Наталья55,3%](https://boostmlbb.ru/heroes/natalia.html#build)
--   [![](/images/heroes/yin.webp)Инь57,7%](https://boostmlbb.ru/heroes/yin.html#build)
--   [![](/images/heroes/bane.webp)Бэйн53,0%](https://boostmlbb.ru/heroes/bane.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,3%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
--   [![](/images/heroes/martis.webp)Мартис51,0%](https://boostmlbb.ru/heroes/martis.html#build)
--   [![](/images/heroes/jawhead.webp)Кусака50,5%](https://boostmlbb.ru/heroes/jawhead.html#build)
+-   [![](/images/heroes/granger.webp)Грейнджер39,6%](https://boostmlbb.ru/heroes/granger.html#build)
+-   [![](/images/heroes/bane.webp)Бэйн50,5%](https://boostmlbb.ru/heroes/bane.html#build)
+-   [![](/images/heroes/natalia.webp)Наталья55,9%](https://boostmlbb.ru/heroes/natalia.html#build)
+-   [![](/images/heroes/yin.webp)Инь53,3%](https://boostmlbb.ru/heroes/yin.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,9%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
+-   [![](/images/heroes/martis.webp)Мартис48,8%](https://boostmlbb.ru/heroes/martis.html#build)
+-   [![](/images/heroes/jawhead.webp)Кусака50,4%](https://boostmlbb.ru/heroes/jawhead.html#build)
 
 ## История
 
@@ -97,4 +96,4 @@ Sea Halberd
 
 Каким героям собирать «Трезубец»?
 
-Предмет есть в популярных сборках 13 героев в рейтинге, среди них Пакито, Лесли, Аргус, Арлотт, Беатрис и Иксия.
+Предмет есть в популярных сборках 12 героев в рейтинге, среди них Пакито, Лесли, Арлотт, Беатрис, Иксия и Грейнджер.

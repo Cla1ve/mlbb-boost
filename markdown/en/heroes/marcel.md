@@ -1,6 +1,6 @@
 ---
 title: "Marcel MLBB: build, combos and counters | MLBB Boost"
-description: "Marcel in Mobile Legends: ranked build, skill combos, how to play and who counters Marcel. Support, 56.99% win rate, tier S."
+description: "Marcel in Mobile Legends: ranked build, skill combos, how to play and who counters Marcel. Support, 56.93% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/marcel.html
 language: en
 ---
@@ -19,7 +19,7 @@ S
 
 Win rate
 
-57.0%
+56.9%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-70.0%
+69.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,8 +45,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.6%**![](/images/ranks/Epic.webp)Epic
-2.  **56.9%**![](/images/ranks/Legend.webp)Legend
+1.  **55.5%**![](/images/ranks/Epic.webp)Epic
+2.  **56.8%**![](/images/ranks/Legend.webp)Legend
 3.  **57.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **57.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **57.3%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-64.6%
+64.5%
 
 Pick rate
 
-11.7%
+11.5%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-57.9%
+58.0%
 
 Pick rate
 
-10.8%
+11.1%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Support
 
 Win rate
 
-64.1%
+63.9%
 
 Pick rate
 
-9.3%
+9.9%
 
 #### Core items
 
@@ -343,7 +343,7 @@ Allied heroes with the Platinum Snap shield can move freely within the area.
 
 ### Who Marcel counters
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ## Marcel skins
 
@@ -373,7 +373,7 @@ Level "Framed Moment" first and take the ultimate whenever it is available. Stro
 
 What is Marcel’s win rate right now?
 
-56.99% at Mythical Glory over the last 7 days and 57.39% across all ranks over 30 days, as of 25 November 2026.
+56.93% at Mythical Glory over the last 7 days and 57.37% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Marcel play?
 
@@ -381,8 +381,8 @@ Support, played on roam.
 
 Is Marcel strong in the current meta?
 
-Tier S, #2 of 133 heroes and #1 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 70.0% of matches, 57.0% win rate. In professional games over the last month the hero is drafted in 87.7% of them.
+Tier S, #2 of 133 heroes and #1 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 69.9% of matches, 56.9% win rate. In professional games over the last month the hero is drafted in 87.7% of them.
 
 What is the best build for Marcel?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Flask of the Oasis as core items, the Support emblem with Agility, Wilderness Blessing and Concussive Blast, and Revitalize. It wins 64.63% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Flask of the Oasis as core items, the Support emblem with Agility, Wilderness Blessing and Concussive Blast, and Revitalize. It wins 64.46% of matches.

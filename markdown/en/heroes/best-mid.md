@@ -11,7 +11,7 @@ language: en
 
 # Best MLBB mid laners
 
-29 heroes · Updated 25 November
+29 heroes · Updated 26 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -91,7 +91,7 @@ Pick rate
 
 Ban rate
 
-33.4%
+33.1%
 
 [
 
@@ -223,7 +223,7 @@ A
 
 1.6%
 
-33.4%
+33.1%
 
 24.7%
 
@@ -251,7 +251,7 @@ A
 
 1.3%
 
-4.0%
+4.1%
 
 40.7%
 
@@ -263,7 +263,7 @@ A
 
 50.1%
 
-1.9%
+1.8%
 
 3.2%
 
@@ -275,11 +275,11 @@ A
 
 A
 
-48.3%
+48.4%
 
 1.4%
 
-3.6%
+3.5%
 
 32.9%
 
@@ -303,7 +303,7 @@ B
 
 B
 
-53.4%
+53.3%
 
 1.8%
 
@@ -359,7 +359,7 @@ B
 
 B
 
-50.3%
+50.4%
 
 1.1%
 
@@ -419,7 +419,7 @@ C
 
 0.8%
 
-0.8%
+0.7%
 
 —
 
@@ -457,7 +457,7 @@ C
 
 C
 
-51.7%
+51.6%
 
 0.1%
 
@@ -499,7 +499,7 @@ C
 
 C
 
-45.1%
+45.2%
 
 0.9%
 
@@ -555,7 +555,7 @@ C
 
 D
 
-50.6%
+50.5%
 
 0.1%
 
@@ -597,7 +597,7 @@ D
 
 D
 
-46.2%
+46.3%
 
 0.1%
 
@@ -607,14 +607,14 @@ D
 
 ## What they build most
 
--   [![](/images/mlbb/items/3105.webp)Glowing Wand21 of 29](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [![](/images/mlbb/items/3110.webp)Lightning Truncheon14 of 29](https://boostmlbb.ru/en/items/lightning-truncheon.html)
--   [![](/images/mlbb/items/3101.webp)Divine Glaive13 of 29](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [![](/images/mlbb/items/3105.webp)Glowing Wand20 of 29](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3110.webp)Lightning Truncheon13 of 29](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3101.webp)Divine Glaive11 of 29](https://boostmlbb.ru/en/items/divine-glaive.html)
 -   [![](/images/mlbb/items/3111.webp)Genius Wand9 of 29](https://boostmlbb.ru/en/items/genius-wand.html)
--   [![](/images/mlbb/items/2014.webp)Sky Piercer5 of 29](https://boostmlbb.ru/en/items/sky-piercer.html)
--   [![](/images/mlbb/items/2106.webp)Enchanted Talisman5 of 29](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [![](/images/mlbb/items/2112.webp)Wishing Lantern7 of 29](https://boostmlbb.ru/en/items/wishing-lantern.html)
+-   [![](/images/mlbb/items/2014.webp)Sky Piercer6 of 29](https://boostmlbb.ru/en/items/sky-piercer.html)
 
-The three core items of every hero’s most common build. Spell: Flicker on 22 and Flameshot on 3. Mage on 19, Assassin on 7.
+The three core items of every hero’s most common build. Spell: Flicker on 21 and Flameshot on 4. Mage on 18, Assassin on 8.
 
 ## Who to pick solo
 
@@ -646,7 +646,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best mid laner in MLBB right now?
 
-Kimmy: tier A, 48.1% win rate, banned in 0.5% of Mythical Glory games over 7 days. Eudora and Zhuxin follow. Data as of 25 November 2026.
+Kimmy: tier A, 48.1% win rate, banned in 0.5% of Mythical Glory games over 7 days. Eudora and Zhuxin follow. Data as of 26 November 2026.
 
 Which of the mid laners should a beginner pick?
 
@@ -654,12 +654,12 @@ Zetian, Vexana and Vale are the easiest to play: their difficulty on the in-game
 
 Which mid laners get banned most?
 
-Eudora (33.4%), Valir (4.0%) and Selena (3.6%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Eudora (33.1%), Valir (4.1%) and Selena (3.5%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many mid laners are there in Mobile Legends?
 
-29 of 133 heroes as of 25 November 2026. The list has every hero that plays the mid lane, according to the game.
+29 of 133 heroes as of 26 November 2026. The list has every hero that plays the mid lane, according to the game.
 
 Which items do mid laners build most often?
 
-The most common builds most often include Glowing Wand (21 of 29), Lightning Truncheon (14 of 29) and Divine Glaive (13 of 29). Every hero’s full build is on its page, in the Build tab.
+The most common builds most often include Glowing Wand (20 of 29), Lightning Truncheon (13 of 29) and Divine Glaive (11 of 29). Every hero’s full build is on its page, in the Build tab.

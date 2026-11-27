@@ -51,11 +51,12 @@ Parts cost 1,390, assembly adds 730 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/bruno.webp)Bruno59.7%](https://boostmlbb.ru/en/heroes/bruno.html#build)
--   [![](/images/heroes/lesley.webp)Lesley53.1%](https://boostmlbb.ru/en/heroes/lesley.html#build)
--   [![](/images/heroes/clint.webp)Clint51.9%](https://boostmlbb.ru/en/heroes/clint.html#build)
--   [![](/images/heroes/brody.webp)Brody53.4%](https://boostmlbb.ru/en/heroes/brody.html#build)
--   [![](/images/heroes/beatrix.webp)Beatrix51.7%](https://boostmlbb.ru/en/heroes/beatrix.html#build)
+-   [![](/images/heroes/bruno.webp)Bruno61.6%](https://boostmlbb.ru/en/heroes/bruno.html#build)
+-   [![](/images/heroes/lesley.webp)Lesley57.0%](https://boostmlbb.ru/en/heroes/lesley.html#build)
+-   [![](/images/heroes/clint.webp)Clint51.8%](https://boostmlbb.ru/en/heroes/clint.html#build)
+-   [![](/images/heroes/brody.webp)Brody53.3%](https://boostmlbb.ru/en/heroes/brody.html#build)
+-   [![](/images/heroes/melissa.webp)Melissa60.3%](https://boostmlbb.ru/en/heroes/melissa.html#build)
+-   [![](/images/heroes/beatrix.webp)Beatrix51.5%](https://boostmlbb.ru/en/heroes/beatrix.html#build)
 -   [![](/images/heroes/ixia.webp)Ixia56.1%](https://boostmlbb.ru/en/heroes/ixia.html#build)
 
 ## Story
@@ -86,4 +87,4 @@ What does Malefic Gun give?
 
 Which heroes build Malefic Gun?
 
-It is in the popular ranked builds of 6 heroes, among them Bruno, Lesley, Clint, Brody, Beatrix and Ixia.
+It is in the popular ranked builds of 7 heroes, among them Bruno, Lesley, Clint, Brody, Melissa and Beatrix.

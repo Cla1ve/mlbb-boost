@@ -47,7 +47,7 @@ Ban rate
 
 1.  **50.9%**![](/images/ranks/Epic.webp)Epic
 2.  **50.2%**![](/images/ranks/Legend.webp)Legend
-3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.0%
+54.9%
 
 Pick rate
 
-21.9%
+22.0%
 
 #### Core items
 
@@ -102,67 +102,6 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/haas-claws.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
--   ![](/images/mlbb/talents/1211.webp)
-
-    Fatal
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Bargain Hunter
-
--   ![](/images/mlbb/talents/132.webp)
-
-    Quantum Charge
-
-
-Win rate
-
-55.8%
-
-Pick rate
-
-4.2%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3005.webp)
-
-    Windtalker
-
-
-
-    ](https://boostmlbb.ru/en/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/3002.webp)
-
-    Haas's Claws
-
-
-
-    ](https://boostmlbb.ru/en/items/haas-claws.html)
--   [
-
-    ![](/images/mlbb/items/3003.webp)
-
-    Berserker's Fury
-
-
-
-    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 
 #### Spell
 
@@ -190,6 +129,67 @@ Assassin
 Win rate
 
 55.6%
+
+Pick rate
+
+4.1%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
+Win rate
+
+55.5%
 
 Pick rate
 
@@ -366,7 +366,7 @@ Level "Malefic Bomb" first and take the ultimate whenever it is available. Stron
 
 What is Layla’s win rate right now?
 
-48.27% at Mythical Glory over the last 7 days and 49.42% across all ranks over 30 days, as of 25 November 2026.
+48.27% at Mythical Glory over the last 7 days and 49.43% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Layla play?
 
@@ -374,8 +374,8 @@ Marksman, played in the Gold Lane.
 
 Is Layla strong in the current meta?
 
-Tier C, #79 of 133 heroes and #16 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #80 of 133 heroes and #16 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Layla?
 
-The most popular ranked build: Windtalker, Berserker's Fury and Haas's Claws as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Flicker. It wins 55.02% of matches.
+The most popular ranked build: Windtalker, Berserker's Fury and Haas's Claws as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Flicker. It wins 54.85% of matches.

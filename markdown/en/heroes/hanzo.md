@@ -1,6 +1,6 @@
 ---
 title: "Hanzo MLBB: build, combos and counters | MLBB Boost"
-description: "Hanzo in Mobile Legends: ranked build, skill combos, how to play and who counters Hanzo. Assassin, 49.28% win rate, tier C."
+description: "Hanzo in Mobile Legends: ranked build, skill combos, how to play and who counters Hanzo. Assassin, 49.25% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
@@ -49,7 +49,7 @@ Ban rate
 2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.9%
+53.8%
 
 Pick rate
 
-5.5%
+5.3%
 
 #### Core items
 
@@ -129,72 +129,11 @@ Support
 
 Win rate
 
-52.8%
+54.6%
 
 Pick rate
 
-2.8%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2212.webp)
-
-    Thunder Belt
-
-
-
-    ](https://boostmlbb.ru/en/items/thunder-belt.html)
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Brute Force Breastplate
-
-
-
-    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3204.webp)
-
-    Oracle
-
-
-
-    ](https://boostmlbb.ru/en/items/oracle.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20020.webp)Retribution
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Inspire
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Wilderness Blessing
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Concussive Blast
-
-
-Win rate
-
-55.4%
-
-Pick rate
-
-2.6%
+3.2%
 
 #### Core items
 
@@ -247,6 +186,67 @@ Support
 -   ![](/images/mlbb/talents/133.webp)
 
     War Cry
+
+
+Win rate
+
+49.6%
+
+Pick rate
+
+2.8%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
 
 
 ## How to play Hanzo
@@ -337,7 +337,7 @@ While in Hanekage form, Hanzo's body is invincible, while Hanekage ignores obsta
 
 ### Who Hanzo counters
 
-[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Hanzo skins
 
@@ -367,7 +367,7 @@ Level "Ninjutsu: Demon Feast" first and take the ultimate whenever it is availab
 
 What is Hanzo’s win rate right now?
 
-49.28% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 25 November 2026.
+49.25% at Mythical Glory over the last 7 days and 49.90% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Hanzo play?
 
@@ -379,4 +379,4 @@ Tier C, #90 of 133 heroes and #20 among assassins. The tier counts how often the
 
 What is the best build for Hanzo?
 
-The most popular ranked build: Thunder Belt, Golden Staff and Brute Force Breastplate as core items, the Support emblem with Inspire, Wilderness Blessing and Concussive Blast, and Retribution. It wins 53.88% of matches.
+The most popular ranked build: Thunder Belt, Golden Staff and Brute Force Breastplate as core items, the Support emblem with Inspire, Wilderness Blessing and Concussive Blast, and Retribution. It wins 53.80% of matches.

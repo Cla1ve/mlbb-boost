@@ -1,6 +1,6 @@
 ---
 title: "Nolan MLBB: build, combos and counters | MLBB Boost"
-description: "Nolan in Mobile Legends: ranked build, skill combos, how to play and who counters Nolan. Assassin, 50.45% win rate, tier S."
+description: "Nolan in Mobile Legends: ranked build, skill combos, how to play and who counters Nolan. Assassin, 50.49% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-39.5%
+40.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -68,72 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-51.8%
+51.9%
 
 Pick rate
 
-13.7%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3009.webp)
-
-    Hunter Strike
-
-
-
-    ](https://boostmlbb.ru/en/items/hunter-strike.html)
--   [
-
-    ![](/images/mlbb/items/3007.webp)
-
-    Blade of the Heptaseas
-
-
-
-    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
--   [
-
-    ![](/images/mlbb/items/3001.webp)
-
-    Malefic Roar
-
-
-
-    ](https://boostmlbb.ru/en/items/malefic-roar.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20020.webp)Retribution
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Seasoned Hunter
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
-
-
-Win rate
-
-51.8%
-
-Pick rate
-
-13.6%
+15.3%
 
 #### Core items
 
@@ -190,11 +129,72 @@ Assassin
 
 Win rate
 
-53.2%
+51.7%
 
 Pick rate
 
-6.7%
+14.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
+Win rate
+
+53.3%
+
+Pick rate
+
+6.5%
 
 #### Core items
 
@@ -366,7 +366,7 @@ Level "Expansion" first and take the ultimate whenever it is available. Stronger
 
 What is Nolan’s win rate right now?
 
-50.45% at Mythical Glory over the last 7 days and 49.74% across all ranks over 30 days, as of 25 November 2026.
+50.49% at Mythical Glory over the last 7 days and 49.75% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Nolan play?
 
@@ -374,8 +374,8 @@ Assassin, played in the jungle.
 
 Is Nolan strong in the current meta?
 
-Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 39.5% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
+Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 40.5% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
 
 What is the best build for Nolan?
 
-The most popular ranked build: Hunter Strike, Blade of the Heptaseas and Malefic Roar as core items, the Assassin emblem with Thrill, Seasoned Hunter and Impure Rage, and Retribution. It wins 51.76% of matches.
+The most popular ranked build: Hunter Strike, Blade of the Heptaseas and Malefic Roar as core items, the Assassin emblem with Thrill, Seasoned Hunter and Lethal Ignition, and Retribution. It wins 51.89% of matches.

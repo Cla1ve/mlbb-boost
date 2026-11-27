@@ -1,6 +1,6 @@
 ---
 title: "Селена MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Селена, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Селену. Убийца и маг, 48,32% побед, тир A."
+description: "Селена, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Селену. Убийца и маг, 48,35% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/selena.html
 language: ru
 ---
@@ -19,7 +19,7 @@ A
 
 Победы
 
-48,3%
+48,4%
 
 Выбор
 
@@ -27,7 +27,7 @@ A
 
 Баны
 
-3,6%
+3,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -46,7 +46,7 @@ A
 ### Победы по рангам, 30 дней
 
 1.  **50,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
+2.  **49,0%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -69,72 +69,11 @@ A
 
 Победы
 
-56,9%
+53,2%
 
 Выбор
 
-5,1%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3106.webp)
-
-    Старлиумовая коса
-
-
-
-    ](https://boostmlbb.ru/items/starlium-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3110.webp)
-
-    Жезл молний
-
-
-
-    ](https://boostmlbb.ru/items/lightning-truncheon.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Божественный меч
-
-
-
-    ](https://boostmlbb.ru/items/divine-glaive.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Вдохновение
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Благословение природы
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Смертельное воспламенение
-
-
-Победы
-
-53,1%
-
-Выбор
-
-3,6%
+4,8%
 
 #### Основные предметы
 
@@ -191,11 +130,72 @@ A
 
 Победы
 
-54,5%
+57,3%
 
 Выбор
 
-2,1%
+4,1%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
+
+    Старлиумовая коса
+
+
+
+    ](https://boostmlbb.ru/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+
+
+    ](https://boostmlbb.ru/items/divine-glaive.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
+Победы
+
+54,4%
+
+Выбор
+
+2,0%
 
 #### Основные предметы
 
@@ -343,7 +343,7 @@ A
 
 ### Кто контрит Селену
 
-[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ### Кого контрит Селена
 
@@ -369,7 +369,7 @@ A
 
 Кто контрит Селену в MLBB?
 
-За последние 30 дней Селену чаще всего обыгрывают Бенедетта, Иксия, Икс.Борг, Беатрис и Инь.
+За последние 30 дней Селену чаще всего обыгрывают Бенедетта, Иксия, Икс.Борг, Беатрис и Хелкарт.
 
 Как играть за Селену?
 
@@ -377,7 +377,7 @@ A
 
 Какой процент побед у Селены сейчас?
 
-48,32% в Мифической славе за последние 7 дней и 48,42% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,35% в Мифической славе за последние 7 дней и 48,44% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Селены?
 
@@ -385,8 +385,8 @@ A
 
 Стоит ли брать Селену в текущей мете?
 
-Тир A, 25-е место из 133 героев и 4-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,6% матчей, 48,3% побед. В профессиональных матчах за месяц героя драфтуют в 32,9% катков.
+Тир A, 25-е место из 133 героев и 4-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,5% матчей, 48,4% побед. В профессиональных матчах за месяц героя драфтуют в 32,9% катков.
 
 Какая сборка на Селену лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Старлиумовая коса», «Жезл молний» и «Божественный меч», эмблема мага с талантами «Вдохновение», «Благословение природы» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 56,94% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Старлиумовая коса», «Пылающий жезл» и «Фонарь желаний», эмблема мага с талантами «Вдохновение», «Благословение природы» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 53,21% матчей.

@@ -1,6 +1,6 @@
 ---
 title: "Yin MLBB: build, combos and counters | MLBB Boost"
-description: "Yin in Mobile Legends: ranked build, skill combos, how to play and who counters Yin. Fighter and assassin, 49.95% win rate, tier C."
+description: "Yin in Mobile Legends: ranked build, skill combos, how to play and who counters Yin. Fighter and assassin, 49.94% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yin.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-50.0%
+49.9%
 
 Pick rate
 
@@ -59,8 +59,8 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**28 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**32 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**29 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**33 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB assassins**24 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
@@ -69,72 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.7%
+53.3%
 
 Pick rate
 
-2.8%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Sea Halberd
-
-
-
-    ](https://boostmlbb.ru/en/items/sea-halberd.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Endless Battle
-
-
-
-    ](https://boostmlbb.ru/en/items/endless-battle.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20070.webp)Petrify
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Weapons Master
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
-
-
-Win rate
-
-53.5%
-
-Pick rate
-
-2.7%
+3.0%
 
 #### Core items
 
@@ -195,7 +134,7 @@ Win rate
 
 Pick rate
 
-1.7%
+2.9%
 
 #### Core items
 
@@ -248,6 +187,67 @@ Assassin
 -   ![](/images/mlbb/talents/331.webp)
 
     Concussive Blast
+
+
+Win rate
+
+57.5%
+
+Pick rate
+
+2.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
 
 
 ## How to play Yin
@@ -346,7 +346,7 @@ If Yin fails to pull his target into the domain, the skill will enter a 3s coold
 
 ### Who Yin counters
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Yin skins
 
@@ -376,7 +376,7 @@ Level "Charged Punch" first and take the ultimate whenever it is available. Stro
 
 What is Yin’s win rate right now?
 
-49.95% at Mythical Glory over the last 7 days and 49.67% across all ranks over 30 days, as of 25 November 2026.
+49.94% at Mythical Glory over the last 7 days and 49.68% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Yin play?
 
@@ -384,8 +384,8 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Yin strong in the current meta?
 
-Tier C, #104 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #105 of 133 heroes and #33 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Yin?
 
-The most popular ranked build: War Axe, Sea Halberd and Endless Battle as core items, the Fighter emblem with Thrill, Weapons Master and Impure Rage, and Petrify. It wins 57.66% of matches.
+The most popular ranked build: Hunter Strike, Sea Halberd and War Axe as core items, the Assassin emblem with Thrill, Weapons Master and Impure Rage, and Petrify. It wins 53.33% of matches.

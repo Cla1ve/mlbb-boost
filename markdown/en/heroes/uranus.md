@@ -46,7 +46,7 @@ Ban rate
 
 1.  **51.7%**![](/images/ranks/Epic.webp)Epic
 2.  **50.9%**![](/images/ranks/Legend.webp)Legend
-3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -70,7 +70,7 @@ Win rate
 
 Pick rate
 
-6.4%
+5.5%
 
 #### Core items
 
@@ -127,11 +127,11 @@ Common
 
 Win rate
 
-60.2%
+60.0%
 
 Pick rate
 
-3.0%
+2.9%
 
 #### Core items
 
@@ -188,14 +188,23 @@ Common
 
 Win rate
 
-56.4%
+57.1%
 
 Pick rate
 
-2.2%
+2.7%
 
 #### Core items
 
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 -   [
 
     ![](/images/mlbb/items/3204.webp)
@@ -207,22 +216,13 @@ Pick rate
     ](https://boostmlbb.ru/en/items/oracle.html)
 -   [
 
-    ![](/images/mlbb/items/3203.webp)
+    ![](/images/mlbb/items/3210.webp)
 
-    Antique Cuirass
-
-
-
-    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Chastise Pauldron
+    Radiant Armor
 
 
 
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
 
 #### Spell
 
@@ -242,9 +242,9 @@ Common
 
     Tenacity
 
--   ![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-    Concussive Blast
+    Brave Smite
 
 
 ## How to play Uranus
@@ -332,7 +332,7 @@ Uranus directly gains 5 stacks of Radiance, increasing shields received and HP R
 
 ### Who counters Uranus
 
-[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ### Who Uranus counters
 
@@ -358,7 +358,7 @@ Uranus directly gains 5 stacks of Radiance, increasing shields received and HP R
 
 Who counters Uranus in MLBB?
 
-Over the last 30 days the toughest opponents are Argus, Gatotkaca, Yin, Granger and Zhask.
+Over the last 30 days the toughest opponents are Argus, Gatotkaca, Yin, Zhask and Diggie.
 
 How do you play Uranus?
 
@@ -366,7 +366,7 @@ Level "Ionic Edge" first and take the ultimate whenever it is available. Stronge
 
 What is Uranus’s win rate right now?
 
-48.70% at Mythical Glory over the last 7 days and 49.36% across all ranks over 30 days, as of 25 November 2026.
+48.70% at Mythical Glory over the last 7 days and 49.38% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Uranus play?
 
@@ -378,4 +378,4 @@ Tier B, #39 of 133 heroes and #10 among tanks. The tier counts how often the her
 
 What is the best build for Uranus?
 
-The most popular ranked build: Thunder Belt, Oracle and Dominance Ice as core items, the Common emblem with Agility, Tenacity and Concussive Blast, and Revitalize. It wins 58.65% of matches.
+The most popular ranked build: Thunder Belt, Oracle and Dominance Ice as core items, the Common emblem with Agility, Tenacity and Concussive Blast, and Revitalize. It wins 58.63% of matches.

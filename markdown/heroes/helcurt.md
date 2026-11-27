@@ -1,6 +1,6 @@
 ---
 title: "Хелкарт MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Хелкарт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хелкарта. Убийца, 46,75% побед, тир C."
+description: "Хелкарт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хелкарта. Убийца, 46,74% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-46,8%
+46,7%
 
 Выбор
 
@@ -46,7 +46,7 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **48,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
+2.  **48,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **46,4%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -73,7 +73,7 @@ C
 
 Выбор
 
-5,0%
+6,4%
 
 #### Основные предметы
 
@@ -134,7 +134,7 @@ C
 
 Выбор
 
-4,8%
+4,3%
 
 #### Основные предметы
 
@@ -191,11 +191,11 @@ C
 
 Победы
 
-53,2%
+53,0%
 
 Выбор
 
-3,0%
+3,4%
 
 #### Основные предметы
 
@@ -344,7 +344,7 @@ C
 
 ### Кого контрит Хелкарт
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
 
 ## Скины Хелкарта
 
@@ -374,7 +374,7 @@ C
 
 Какой процент побед у Хелкарта сейчас?
 
-46,75% в Мифической славе за последние 7 дней и 47,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+46,74% в Мифической славе за последние 7 дней и 47,71% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Хелкарта?
 
@@ -382,8 +382,8 @@ C
 
 Стоит ли брать Хелкарта в текущей мете?
 
-Тир C, 98-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 98-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Хелкарта лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Удар охотника» и «Меч охотника на демонов», эмблема убийцы с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 51,89% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Удар охотника» и «Меч охотника на демонов», эмблема убийцы с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 51,94% матчей.

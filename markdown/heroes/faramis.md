@@ -1,6 +1,6 @@
 ---
 title: "Фарамис MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Фарамис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фарамиса. Маг и поддержка, 50,60% побед, тир D."
+description: "Фарамис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фарамиса. Маг и поддержка, 50,55% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/faramis.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-50,6%
+50,5%
 
 Выбор
 
@@ -48,8 +48,8 @@ D
 1.  **48,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,2%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **50,5%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -69,11 +69,11 @@ D
 
 Победы
 
-57,7%
+57,8%
 
 Выбор
 
-2,6%
+2,5%
 
 #### Основные предметы
 
@@ -130,11 +130,11 @@ D
 
 Победы
 
-54,3%
+54,1%
 
 Выбор
 
-1,4%
+1,5%
 
 #### Основные предметы
 
@@ -191,11 +191,11 @@ D
 
 Победы
 
-58,6%
+57,3%
 
 Выбор
 
-1,3%
+1,2%
 
 #### Основные предметы
 
@@ -210,22 +210,22 @@ D
     ](https://boostmlbb.ru/items/glowing-wand.html)
 -   [
 
-    ![](/images/mlbb/items/3102.webp)
+    ![](/images/mlbb/items/3110.webp)
 
-    Священный кристалл
+    Жезл молний
 
 
 
-    ](https://boostmlbb.ru/items/holy-crystal.html)
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
 -   [
 
-    ![](/images/mlbb/items/3108.webp)
+    ![](/images/mlbb/items/3111.webp)
 
-    Кровавые крылья
+    Палочка гения
 
 
 
-    ](https://boostmlbb.ru/items/blood-wings.html)
+    ](https://boostmlbb.ru/items/genius-wand.html)
 
 #### Заклинание
 
@@ -233,13 +233,13 @@ D
 
 #### Эмблема и таланты
 
-![](/images/mlbb/emblems/20005.webp)
+![](/images/mlbb/emblems/20006.webp)
 
-Эмблема убийцы
+Эмблема мага
 
--   ![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-    Разрыв
+    Вдохновение
 
 -   ![](/images/mlbb/talents/1221.webp)
 
@@ -340,7 +340,7 @@ D
 
 ### Кого контрит Фарамис
 
-[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## Скины Фарамиса
 
@@ -370,7 +370,7 @@ D
 
 Какой процент побед у Фарамиса сейчас?
 
-50,60% в Мифической славе за последние 7 дней и 50,71% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,55% в Мифической славе за последние 7 дней и 50,69% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Фарамиса?
 
@@ -378,8 +378,8 @@ D
 
 Стоит ли брать Фарамиса в текущей мете?
 
-Тир D, 118-е место из 133 героев и 29-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
+Тир D, 118-е место из 133 героев и 29-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
 
 Какая сборка на Фарамиса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл молний» и «Божественный меч», эмблема мага с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 57,71% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл молний» и «Божественный меч», эмблема мага с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 57,79% матчей.

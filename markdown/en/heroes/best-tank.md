@@ -11,11 +11,11 @@ language: en
 
 # Best MLBB tanks
 
-25 heroes · Updated 25 November
+25 heroes · Updated 26 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Masha, Carmilla and Belerick lead the tanks right now. Masha wins 58.8% of Mythical Glory games over 7 days and is banned in 67.2% of them. The list has 25 heroes, 9 of them in tier S or A.
+Masha, Carmilla and Belerick lead the tanks right now. Masha wins 58.8% of Mythical Glory games over 7 days and is banned in 66.8% of them. The list has 25 heroes, 9 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -37,7 +37,7 @@ Pick rate
 
 Ban rate
 
-67.2%
+66.8%
 
 [
 
@@ -145,7 +145,7 @@ Pick rate
 
 Ban rate
 
-56.6%
+56.7%
 
 [
 
@@ -209,7 +209,7 @@ S
 
 0.7%
 
-67.2%
+66.8%
 
 100.0%
 
@@ -237,7 +237,7 @@ S
 
 1.7%
 
-56.6%
+56.7%
 
 38.0%
 
@@ -251,7 +251,7 @@ A
 
 1.0%
 
-8.3%
+8.2%
 
 75.1%
 
@@ -289,11 +289,11 @@ A
 
 A
 
-50.0%
+50.1%
 
 0.7%
 
-35.7%
+35.4%
 
 26.6%
 
@@ -317,7 +317,7 @@ A
 
 A
 
-53.5%
+53.6%
 
 1.4%
 
@@ -345,11 +345,11 @@ B
 
 B
 
-54.8%
+54.9%
 
 0.6%
 
-4.0%
+4.1%
 
 3.6%
 
@@ -363,7 +363,7 @@ B
 
 1.6%
 
-4.9%
+5.0%
 
 —
 
@@ -373,7 +373,7 @@ B
 
 C
 
-52.4%
+52.5%
 
 0.5%
 
@@ -387,11 +387,11 @@ C
 
 C
 
-48.7%
+48.6%
 
 0.4%
 
-4.0%
+4.1%
 
 3.5%
 
@@ -411,20 +411,6 @@ C
 
 16
 
-[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
-
-C
-
-52.4%
-
-0.3%
-
-0.1%
-
-—
-
-17
-
 [![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
 C
@@ -434,6 +420,20 @@ C
 0.5%
 
 0.7%
+
+—
+
+17
+
+[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
+
+C
+
+52.4%
+
+0.3%
+
+0.1%
 
 —
 
@@ -513,7 +513,7 @@ D
 
 D
 
-48.3%
+48.2%
 
 0.1%
 
@@ -541,7 +541,7 @@ C
 
 D
 
-45.9%
+46.0%
 
 0.1%
 
@@ -551,14 +551,14 @@ D
 
 ## What they build most
 
--   [![](/images/mlbb/items/3206.webp)Dominance Ice14 of 25](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [![](/images/mlbb/items/3206.webp)Dominance Ice13 of 25](https://boostmlbb.ru/en/items/dominance-ice.html)
 -   [![](/images/mlbb/items/2212.webp)Thunder Belt7 of 25](https://boostmlbb.ru/en/items/thunder-belt.html)
 -   [![](/images/mlbb/items/3204.webp)Oracle7 of 25](https://boostmlbb.ru/en/items/oracle.html)
--   [![](/images/mlbb/items/3203.webp)Antique Cuirass5 of 25](https://boostmlbb.ru/en/items/antique-cuirass.html)
+-   [![](/images/mlbb/items/3203.webp)Antique Cuirass6 of 25](https://boostmlbb.ru/en/items/antique-cuirass.html)
 -   [![](/images/mlbb/items/2208.webp)Queen's Wings4 of 25](https://boostmlbb.ru/en/items/queens-wings.html)
 -   [![](/images/mlbb/items/3109.webp)Fleeting Time4 of 25](https://boostmlbb.ru/en/items/fleeting-time.html)
 
-The three core items of every hero’s most common build. Spell: Flicker on 8 and Revitalize on 6. Tank on 14, Support on 6.
+The three core items of every hero’s most common build. Spell: Flicker on 8 and Revitalize on 6. Tank on 15, Support on 5.
 
 ## Who to pick solo
 
@@ -579,7 +579,7 @@ How many heroes of this list it beats, by official counters.
 2.  [![](/images/heroes/silvanna.webp)Silvanna6 of 25](https://boostmlbb.ru/en/heroes/silvanna.html)
 3.  [![](/images/heroes/zilong.webp)Zilong6 of 25](https://boostmlbb.ru/en/heroes/zilong.html)
 4.  [![](/images/heroes/alucard.webp)Alucard5 of 25](https://boostmlbb.ru/en/heroes/alucard.html)
-5.  [![](/images/heroes/saber.webp)Saber5 of 25](https://boostmlbb.ru/en/heroes/saber.html)
+5.  [![](/images/heroes/lolita.webp)Lolita5 of 25](https://boostmlbb.ru/en/heroes/lolita.html)
 6.  [![](/images/heroes/argus.webp)Argus4 of 25](https://boostmlbb.ru/en/heroes/argus.html)
 
 **We can rank up on any of the tanks**The calculator shows the price
@@ -590,7 +590,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best tank in MLBB right now?
 
-Masha: tier S, 58.8% win rate, banned in 67.2% of Mythical Glory games over 7 days. Carmilla and Belerick follow. Data as of 25 November 2026.
+Masha: tier S, 58.8% win rate, banned in 66.8% of Mythical Glory games over 7 days. Carmilla and Belerick follow. Data as of 26 November 2026.
 
 Which of the tanks should a beginner pick?
 
@@ -598,12 +598,12 @@ Carmilla, Belerick and Tigreal are the easiest to play: their difficulty on the 
 
 Which tanks get banned most?
 
-Masha (67.2%), Belerick (56.6%) and Carmilla (37.3%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Masha (66.8%), Belerick (56.7%) and Carmilla (37.3%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many tanks are there in Mobile Legends?
 
-25 of 133 heroes as of 25 November 2026. The list has every hero with the Tank role.
+25 of 133 heroes as of 26 November 2026. The list has every hero with the Tank role.
 
 Which items do tanks build most often?
 
-The most common builds most often include Dominance Ice (14 of 25), Thunder Belt (7 of 25) and Oracle (7 of 25). Every hero’s full build is on its page, in the Build tab.
+The most common builds most often include Dominance Ice (13 of 25), Thunder Belt (7 of 25) and Oracle (7 of 25). Every hero’s full build is on its page, in the Build tab.

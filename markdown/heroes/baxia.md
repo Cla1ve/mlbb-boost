@@ -1,6 +1,6 @@
 ---
 title: "Баксий MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Баксий, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Баксия. Танк, 45,94% побед, тир D."
+description: "Баксий, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Баксия. Танк, 45,99% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/baxia.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-45,9%
+46,0%
 
 Выбор
 
@@ -48,8 +48,8 @@ D
 1.  **48,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **47,0%**![](/images/ranks/Legend.webp)Легенда
 3.  **45,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **44,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **44,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **45,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -69,72 +69,11 @@ D
 
 Победы
 
-55,6%
+51,8%
 
 Выбор
 
-4,4%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3201.webp)
-
-    Проклятый шлем
-
-
-
-    ](https://boostmlbb.ru/items/cursed-helmet.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Наплечник наказания
-
-
-
-    ](https://boostmlbb.ru/items/chastise-pauldron.html)
--   [
-
-    ![](/images/mlbb/items/3210.webp)
-
-    Сияющая броня
-
-
-
-    ](https://boostmlbb.ru/items/radiant-armor.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20020.webp)Возмездие
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Трепет
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Опытный охотник
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Ударная волна
-
-
-Победы
-
-51,3%
-
-Выбор
-
-4,3%
+4,0%
 
 #### Основные предметы
 
@@ -191,11 +130,11 @@ D
 
 Победы
 
-55,5%
+54,9%
 
 Выбор
 
-3,3%
+3,6%
 
 #### Основные предметы
 
@@ -240,6 +179,67 @@ D
 -   ![](/images/mlbb/talents/311.webp)
 
     Живучесть
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
+Победы
+
+55,1%
+
+Выбор
+
+3,5%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
+
+    Проклятый шлем
+
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
+
+    Сияющая броня
+
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
 
 -   ![](/images/mlbb/talents/122.webp)
 
@@ -336,7 +336,7 @@ D
 
 ### Кто контрит Баксия
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 ### Кого контрит Баксий
 
@@ -362,7 +362,7 @@ D
 
 Кто контрит Баксия в MLBB?
 
-За последние 30 дней Баксия чаще всего обыгрывают Обсидия, Алиса, Лукас, Сабер и Заск.
+За последние 30 дней Баксия чаще всего обыгрывают Обсидия, Алиса, Сабер, Лукас и Заск.
 
 Как играть за Баксия?
 
@@ -370,7 +370,7 @@ D
 
 Какой процент побед у Баксия сейчас?
 
-45,94% в Мифической славе за последние 7 дней и 45,86% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+45,99% в Мифической славе за последние 7 дней и 45,83% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Баксия?
 
@@ -378,8 +378,8 @@ D
 
 Стоит ли брать Баксия в текущей мете?
 
-Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,9% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на Баксия лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Проклятый шлем», «Наплечник наказания» и «Сияющая броня», эмблема танка с талантами «Трепет», «Опытный охотник» и «Ударная волна» и заклинание «Возмездие». С ней выигрывают 55,60% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Древняя кираса», «Сияющая броня» и «Бессмертие», эмблема танка с талантами «Трепет», «Опытный охотник» и «Ударная волна» и заклинание «Возмездие». С ней выигрывают 51,76% матчей.

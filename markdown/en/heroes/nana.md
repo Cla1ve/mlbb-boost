@@ -1,6 +1,6 @@
 ---
 title: "Nana MLBB: build, combos and counters | MLBB Boost"
-description: "Nana in Mobile Legends: ranked build, skill combos, how to play and who counters Nana. Mage, 45.14% win rate, tier C."
+description: "Nana in Mobile Legends: ranked build, skill combos, how to play and who counters Nana. Mage, 45.18% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-45.1%
+45.2%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **49.9%**![](/images/ranks/Epic.webp)Epic
 2.  **48.5%**![](/images/ranks/Legend.webp)Legend
-3.  **47.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **47.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,11 +68,11 @@ Build 1Build 2
 
 Win rate
 
-51.2%
+51.0%
 
 Pick rate
 
-15.6%
+15.5%
 
 #### Core items
 
@@ -274,7 +274,7 @@ Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
 ### Who counters Nana
 
-[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
+[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ### Who Nana counters
 
@@ -300,7 +300,7 @@ Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
 Who counters Nana in MLBB?
 
-Over the last 30 days the toughest opponents are Odette, Lolita, Saber, Dyrroth and Melissa.
+Over the last 30 days the toughest opponents are Odette, Saber, Lolita, Dyrroth and Melissa.
 
 How do you play Nana?
 
@@ -308,7 +308,7 @@ Level "Magic Boomerang" first and take the ultimate whenever it is available. Ev
 
 What is Nana’s win rate right now?
 
-45.14% at Mythical Glory over the last 7 days and 47.22% across all ranks over 30 days, as of 25 November 2026.
+45.18% at Mythical Glory over the last 7 days and 47.22% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Nana play?
 
@@ -316,8 +316,8 @@ Mage, played in the Mid Lane.
 
 Is Nana strong in the current meta?
 
-Tier C, #97 of 133 heroes and #24 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 45.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #97 of 133 heroes and #24 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 45.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Nana?
 
-The most popular ranked build: Glowing Wand, Divine Glaive and Wishing Lantern as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flameshot. It wins 51.18% of matches.
+The most popular ranked build: Glowing Wand, Divine Glaive and Wishing Lantern as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flameshot. It wins 51.00% of matches.

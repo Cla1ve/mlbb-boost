@@ -33,7 +33,7 @@ Total**6,250 ₽**
 
 **about 6 h**median Mythic order
 
-**1,324**reviews on Telegram
+**1,325**reviews on Telegram
 
 **120 ₽**per Mythic star
 
@@ -140,11 +140,11 @@ Account boost prices; time is the median of completed orders on that stretch.
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-V
+K
 
 Booster
 
-VenomSkie.
+Kris
 
 Verified booster
 
@@ -152,21 +152,19 @@ Verified booster
 
 Client rating
 
-On a hero
+Role
 
-StartМифическая честь, 26⭐
+StartМифическая честь, 44⭐
 
-TargetМифическая честь, 45⭐
+TargetМифическая слава, 60⭐
 
-Спасибо за буст
+Все супер! Быстро и без проблем, очень благодарю бустера
 
-HeroОбсидия
-
-Time12ч 33м после оплаты
+Time6ч 19м после оплаты
 
 26 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2300)
+[Open review](https://t.me/Cla1ve_boost/2301)
 
 C
 

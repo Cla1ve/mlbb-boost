@@ -1,6 +1,6 @@
 ---
 title: "Yve MLBB: build, combos and counters | MLBB Boost"
-description: "Yve in Mobile Legends: ranked build, skill combos, how to play and who counters Yve. Mage, 51.68% win rate, tier C."
+description: "Yve in Mobile Legends: ranked build, skill combos, how to play and who counters Yve. Mage, 51.64% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-51.7%
+51.6%
 
 Pick rate
 
@@ -45,9 +45,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.1%**![](/images/ranks/Epic.webp)Epic
-2.  **51.4%**![](/images/ranks/Legend.webp)Legend
-3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
+1.  **52.2%**![](/images/ranks/Epic.webp)Epic
+2.  **51.5%**![](/images/ranks/Legend.webp)Legend
+3.  **51.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.0%
+57.7%
 
 Pick rate
 
-6.4%
+5.2%
 
 #### Core items
 
@@ -129,72 +129,11 @@ Common
 
 Win rate
 
-55.7%
+52.5%
 
 Pick rate
 
-2.1%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Glowing Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [
-
-    ![](/images/mlbb/items/2112.webp)
-
-    Wishing Lantern
-
-
-
-    ](https://boostmlbb.ru/en/items/wishing-lantern.html)
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Brute Force Breastplate
-
-
-
-    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20001.webp)
-
-Common
-
--   ![](/images/mlbb/talents/811.webp)
-
-    Agility
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Bargain Hunter
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
-
-
-Win rate
-
-52.1%
-
-Pick rate
-
-1.7%
+3.2%
 
 #### Core items
 
@@ -239,6 +178,67 @@ Common
 -   ![](/images/mlbb/talents/811.webp)
 
     Agility
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
+Win rate
+
+57.4%
+
+Pick rate
+
+2.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
+
+    Ice Queen Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/ice-queen-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
 
 -   ![](/images/mlbb/talents/621.webp)
 
@@ -371,7 +371,7 @@ Level "Void Blast" first and take the ultimate whenever it is available. Stronge
 
 What is Yve’s win rate right now?
 
-51.68% at Mythical Glory over the last 7 days and 52.16% across all ranks over 30 days, as of 25 November 2026.
+51.64% at Mythical Glory over the last 7 days and 52.13% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Yve play?
 
@@ -379,8 +379,8 @@ Mage, played in the Mid Lane.
 
 Is Yve strong in the current meta?
 
-Tier C, #85 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
+Tier C, #85 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
 
 What is the best build for Yve?
 
-The most popular ranked build: Glowing Wand, Ice Queen Wand and Lightning Truncheon as core items, the Common emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 58.04% of matches.
+The most popular ranked build: Glowing Wand, Ice Queen Wand and Lightning Truncheon as core items, the Common emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 57.73% of matches.

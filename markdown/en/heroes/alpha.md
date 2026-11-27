@@ -1,6 +1,6 @@
 ---
 title: "Alpha MLBB: build, combos and counters | MLBB Boost"
-description: "Alpha in Mobile Legends: ranked build, skill combos, how to play and who counters Alpha. Fighter, 48.14% win rate, tier C."
+description: "Alpha in Mobile Legends: ranked build, skill combos, how to play and who counters Alpha. Fighter, 48.09% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alpha.html
 language: en
 ---
@@ -129,7 +129,7 @@ Fighter
 
 Win rate
 
-58.3%
+58.4%
 
 Pick rate
 
@@ -190,11 +190,11 @@ Fighter
 
 Win rate
 
-60.2%
+60.0%
 
 Pick rate
 
-1.2%
+1.7%
 
 #### Core items
 
@@ -369,7 +369,7 @@ Level "Force Swing" first and take the ultimate whenever it is available. Strong
 
 What is Alpha’s win rate right now?
 
-48.14% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 25 November 2026.
+48.09% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Alpha play?
 
@@ -381,4 +381,4 @@ Tier C, #86 of 133 heroes and #26 among fighters. The tier counts how often the 
 
 What is the best build for Alpha?
 
-The most popular ranked build: War Axe, Sky Piercer and Queen's Wings as core items, the Fighter emblem with Thrill, Seasoned Hunter and Impure Rage, and Vengeance. It wins 54.96% of matches.
+The most popular ranked build: War Axe, Sky Piercer and Queen's Wings as core items, the Fighter emblem with Thrill, Seasoned Hunter and Impure Rage, and Vengeance. It wins 55.01% of matches.

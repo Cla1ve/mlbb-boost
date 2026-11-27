@@ -1,6 +1,6 @@
 ---
 title: "Клинт MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Клинт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Клинта. Стрелок, 50,18% побед, тир B."
+description: "Клинт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Клинта. Стрелок, 50,16% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/clint.html
 language: ru
 ---
@@ -46,9 +46,9 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **47,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,3%**![](/images/ranks/Legend.webp)Легенда
+2.  **49,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -67,11 +67,11 @@ B
 
 Победы
 
-51,9%
+51,8%
 
 Выбор
 
-5,3%
+6,7%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ B
 
 Победы
 
-55,9%
+56,1%
 
 Выбор
 
-4,6%
+3,1%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ B
 
 Победы
 
-55,5%
+55,2%
 
 Выбор
 
-3,6%
+2,8%
 
 #### Основные предметы
 
@@ -335,7 +335,7 @@ B
 
 ### Кто контрит Клинта
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Кого контрит Клинт
 
@@ -361,7 +361,7 @@ B
 
 Кто контрит Клинта в MLBB?
 
-За последние 30 дней Клинта чаще всего обыгрывают Лолита, Карина, Белерик, Марсель и Баксий.
+За последние 30 дней Клинта чаще всего обыгрывают Лолита, Карина, Белерик, Баксий и Люнокс.
 
 Как играть за Клинта?
 
@@ -369,7 +369,7 @@ B
 
 Какой процент побед у Клинта сейчас?
 
-50,18% в Мифической славе за последние 7 дней и 50,30% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,16% в Мифической славе за последние 7 дней и 50,28% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Клинта?
 
@@ -381,4 +381,4 @@ B
 
 Какая сборка на Клинта лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Бесконечная битва» и «Губительный пулемет», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Квантовый заряд» и заклинание «Вспышка». С ней выигрывают 51,90% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Бесконечная битва» и «Губительный пулемет», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Квантовый заряд» и заклинание «Вспышка». С ней выигрывают 51,77% матчей.

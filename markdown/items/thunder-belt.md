@@ -49,21 +49,21 @@ Thunder Belt
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/masha.webp)Маша63,7%](https://boostmlbb.ru/heroes/masha.html#build)
--   [![](/images/heroes/marcel.webp)Марсель64,6%](https://boostmlbb.ru/heroes/marcel.html#build)
--   [![](/images/heroes/belerick.webp)Белерик61,7%](https://boostmlbb.ru/heroes/belerick.html#build)
--   [![](/images/heroes/sun.webp)Сан59,7%](https://boostmlbb.ru/heroes/sun.html#build)
+-   [![](/images/heroes/masha.webp)Маша63,0%](https://boostmlbb.ru/heroes/masha.html#build)
+-   [![](/images/heroes/marcel.webp)Марсель64,5%](https://boostmlbb.ru/heroes/marcel.html#build)
+-   [![](/images/heroes/belerick.webp)Белерик61,4%](https://boostmlbb.ru/heroes/belerick.html#build)
+-   [![](/images/heroes/sun.webp)Сан59,6%](https://boostmlbb.ru/heroes/sun.html#build)
 -   [![](/images/heroes/kaja.webp)Кайя55,8%](https://boostmlbb.ru/heroes/kaja.html#build)
 -   [![](/images/heroes/uranus.webp)Уранус58,6%](https://boostmlbb.ru/heroes/uranus.html#build)
--   [![](/images/heroes/badang.webp)Баданг57,3%](https://boostmlbb.ru/heroes/badang.html#build)
+-   [![](/images/heroes/badang.webp)Баданг57,5%](https://boostmlbb.ru/heroes/badang.html#build)
 -   [![](/images/heroes/khufra.webp)Хуфра61,7%](https://boostmlbb.ru/heroes/khufra.html#build)
--   [![](/images/heroes/phoveus.webp)Фовиус56,2%](https://boostmlbb.ru/heroes/phoveus.html#build)
--   [![](/images/heroes/hilda.webp)Хильда58,2%](https://boostmlbb.ru/heroes/hilda.html#build)
--   [![](/images/heroes/aldous.webp)Алдос62,0%](https://boostmlbb.ru/heroes/aldous.html#build)
--   [![](/images/heroes/gatotkaca.webp)Гатоткача57,1%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
--   [![](/images/heroes/hanzo.webp)Ханзо53,9%](https://boostmlbb.ru/heroes/hanzo.html#build)
+-   [![](/images/heroes/phoveus.webp)Фовиус56,1%](https://boostmlbb.ru/heroes/phoveus.html#build)
+-   [![](/images/heroes/hilda.webp)Хильда58,4%](https://boostmlbb.ru/heroes/hilda.html#build)
+-   [![](/images/heroes/aldous.webp)Алдос62,2%](https://boostmlbb.ru/heroes/aldous.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Гатоткача57,3%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/hanzo.webp)Ханзо53,8%](https://boostmlbb.ru/heroes/hanzo.html#build)
 -   [![](/images/heroes/khaleed.webp)Халид55,7%](https://boostmlbb.ru/heroes/khaleed.html#build)
--   [![](/images/heroes/hylos.webp)Хилос55,0%](https://boostmlbb.ru/heroes/hylos.html#build)
+-   [![](/images/heroes/hylos.webp)Хилос54,9%](https://boostmlbb.ru/heroes/hylos.html#build)
 -   [![](/images/heroes/grock.webp)Грок51,0%](https://boostmlbb.ru/heroes/grock.html#build)
 
 ## История

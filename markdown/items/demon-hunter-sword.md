@@ -54,18 +54,17 @@ Demon Hunter Sword
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/obsidia.webp)Обсидия57,6%](https://boostmlbb.ru/heroes/obsidia.html#build)
--   [![](/images/heroes/sun.webp)Сан58,2%](https://boostmlbb.ru/heroes/sun.html#build)
--   [![](/images/heroes/badang.webp)Баданг57,6%](https://boostmlbb.ru/heroes/badang.html#build)
--   [![](/images/heroes/hanabi.webp)Ханаби59,5%](https://boostmlbb.ru/heroes/hanabi.html#build)
--   [![](/images/heroes/moskov.webp)Москов55,5%](https://boostmlbb.ru/heroes/moskov.html#build)
--   [![](/images/heroes/claude.webp)Клауд53,6%](https://boostmlbb.ru/heroes/claude.html#build)
--   [![](/images/heroes/argus.webp)Аргус65,3%](https://boostmlbb.ru/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Мелисса54,3%](https://boostmlbb.ru/heroes/melissa.html#build)
--   [![](/images/heroes/minsitthar.webp)Минситтар59,6%](https://boostmlbb.ru/heroes/minsitthar.html#build)
+-   [![](/images/heroes/obsidia.webp)Обсидия57,2%](https://boostmlbb.ru/heroes/obsidia.html#build)
+-   [![](/images/heroes/sun.webp)Сан58,3%](https://boostmlbb.ru/heroes/sun.html#build)
+-   [![](/images/heroes/badang.webp)Баданг57,5%](https://boostmlbb.ru/heroes/badang.html#build)
+-   [![](/images/heroes/hanabi.webp)Ханаби59,4%](https://boostmlbb.ru/heroes/hanabi.html#build)
+-   [![](/images/heroes/moskov.webp)Москов55,4%](https://boostmlbb.ru/heroes/moskov.html#build)
+-   [![](/images/heroes/claude.webp)Клауд53,5%](https://boostmlbb.ru/heroes/claude.html#build)
+-   [![](/images/heroes/argus.webp)Аргус63,3%](https://boostmlbb.ru/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Мелисса54,4%](https://boostmlbb.ru/heroes/melissa.html#build)
+-   [![](/images/heroes/minsitthar.webp)Минситтар58,9%](https://boostmlbb.ru/heroes/minsitthar.html#build)
 -   [![](/images/heroes/karrie.webp)Кэрри55,9%](https://boostmlbb.ru/heroes/karrie.html#build)
 -   [![](/images/heroes/helcurt.webp)Хелкарт51,9%](https://boostmlbb.ru/heroes/helcurt.html#build)
--   [![](/images/heroes/wanwan.webp)Ванван49,3%](https://boostmlbb.ru/heroes/wanwan.html#build)
 
 ## История
 
@@ -95,4 +94,4 @@ Demon Hunter Sword
 
 Каким героям собирать «Меч охотника на демонов»?
 
-Предмет есть в популярных сборках 12 героев в рейтинге, среди них Обсидия, Сан, Баданг, Ханаби, Москов и Клауд.
+Предмет есть в популярных сборках 11 героев в рейтинге, среди них Обсидия, Сан, Баданг, Ханаби, Москов и Клауд.

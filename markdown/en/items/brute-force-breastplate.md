@@ -46,22 +46,22 @@ Parts cost 1,370, assembly adds 700 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/aulus.webp)Aulus53.4%](https://boostmlbb.ru/en/heroes/aulus.html#build)
--   [![](/images/heroes/alice.webp)Alice55.0%](https://boostmlbb.ru/en/heroes/alice.html#build)
--   [![](/images/heroes/valir.webp)Valir61.1%](https://boostmlbb.ru/en/heroes/valir.html#build)
--   [![](/images/heroes/barats.webp)Barats59.5%](https://boostmlbb.ru/en/heroes/barats.html#build)
--   [![](/images/heroes/cici.webp)Cici58.6%](https://boostmlbb.ru/en/heroes/cici.html#build)
--   [![](/images/heroes/kaja.webp)Kaja55.1%](https://boostmlbb.ru/en/heroes/kaja.html#build)
--   [![](/images/heroes/saber.webp)Saber57.0%](https://boostmlbb.ru/en/heroes/saber.html#build)
--   [![](/images/heroes/sora.webp)Sora53.9%](https://boostmlbb.ru/en/heroes/sora.html#build)
--   [![](/images/heroes/dyrroth.webp)Dyrroth56.0%](https://boostmlbb.ru/en/heroes/dyrroth.html#build)
--   [![](/images/heroes/guinevere.webp)Guinevere56.6%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
--   [![](/images/heroes/fredrinn.webp)Fredrinn62.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
--   [![](/images/heroes/yve.webp)Yve55.7%](https://boostmlbb.ru/en/heroes/yve.html#build)
--   [![](/images/heroes/hanzo.webp)Hanzo53.9%](https://boostmlbb.ru/en/heroes/hanzo.html#build)
--   [![](/images/heroes/x-borg.webp)X.Borg55.2%](https://boostmlbb.ru/en/heroes/x-borg.html#build)
--   [![](/images/heroes/leomord.webp)Leomord56.6%](https://boostmlbb.ru/en/heroes/leomord.html#build)
--   [![](/images/heroes/lancelot.webp)Lancelot49.0%](https://boostmlbb.ru/en/heroes/lancelot.html#build)
+-   [![](/images/heroes/aulus.webp)Aulus52.7%](https://boostmlbb.ru/en/heroes/aulus.html#build)
+-   [![](/images/heroes/alice.webp)Alice54.9%](https://boostmlbb.ru/en/heroes/alice.html#build)
+-   [![](/images/heroes/valir.webp)Valir60.7%](https://boostmlbb.ru/en/heroes/valir.html#build)
+-   [![](/images/heroes/barats.webp)Barats59.4%](https://boostmlbb.ru/en/heroes/barats.html#build)
+-   [![](/images/heroes/cici.webp)Cici58.3%](https://boostmlbb.ru/en/heroes/cici.html#build)
+-   [![](/images/heroes/kaja.webp)Kaja54.7%](https://boostmlbb.ru/en/heroes/kaja.html#build)
+-   [![](/images/heroes/saber.webp)Saber57.3%](https://boostmlbb.ru/en/heroes/saber.html#build)
+-   [![](/images/heroes/sora.webp)Sora53.7%](https://boostmlbb.ru/en/heroes/sora.html#build)
+-   [![](/images/heroes/dyrroth.webp)Dyrroth55.9%](https://boostmlbb.ru/en/heroes/dyrroth.html#build)
+-   [![](/images/heroes/guinevere.webp)Guinevere57.3%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
+-   [![](/images/heroes/fredrinn.webp)Fredrinn61.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
+-   [![](/images/heroes/yve.webp)Yve52.5%](https://boostmlbb.ru/en/heroes/yve.html#build)
+-   [![](/images/heroes/hanzo.webp)Hanzo53.8%](https://boostmlbb.ru/en/heroes/hanzo.html#build)
+-   [![](/images/heroes/x-borg.webp)X.Borg55.0%](https://boostmlbb.ru/en/heroes/x-borg.html#build)
+-   [![](/images/heroes/leomord.webp)Leomord56.4%](https://boostmlbb.ru/en/heroes/leomord.html#build)
+-   [![](/images/heroes/lancelot.webp)Lancelot49.9%](https://boostmlbb.ru/en/heroes/lancelot.html#build)
 
 ## Story
 

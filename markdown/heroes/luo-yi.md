@@ -1,6 +1,6 @@
 ---
 title: "Ло Йи MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ло Йи, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ло Йи. Маг, 46,24% побед, тир D."
+description: "Ло Йи, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ло Йи. Маг, 46,25% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/luo-yi.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-46,2%
+46,3%
 
 Выбор
 
@@ -68,11 +68,11 @@ D
 
 Победы
 
-49,1%
+49,0%
 
 Выбор
 
-5,7%
+5,2%
 
 #### Основные предметы
 
@@ -129,7 +129,68 @@ D
 
 Победы
 
-50,4%
+48,7%
+
+Выбор
+
+2,3%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
+Победы
+
+49,9%
 
 Выбор
 
@@ -182,67 +243,6 @@ D
 -   ![](/images/mlbb/talents/621.webp)
 
     Охотник за скидками
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Смертельное воспламенение
-
-
-Победы
-
-49,9%
-
-Выбор
-
-1,6%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2106.webp)
-
-    Зачарованный талисман
-
-
-
-    ](https://boostmlbb.ru/items/enchanted-talisman.html)
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Пылающий жезл
-
-
-
-    ](https://boostmlbb.ru/items/glowing-wand.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Божественный меч
-
-
-
-    ](https://boostmlbb.ru/items/divine-glaive.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Разрыв
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Мастер оружий
 
 -   ![](/images/mlbb/talents/631.webp)
 
@@ -337,7 +337,7 @@ D
 
 ### Кто контрит Ло Йи
 
-[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
 
 ### Кого контрит Ло Йи
 
@@ -363,7 +363,7 @@ D
 
 Кто контрит Ло Йи в MLBB?
 
-За последние 30 дней Ло Йи чаще всего обыгрывают Эстес, Фарамис, Баксий, Фредрин и Уранус.
+За последние 30 дней Ло Йи чаще всего обыгрывают Эстес, Фарамис, Баксий, Уранус и Фредрин.
 
 Как играть за Ло Йи?
 
@@ -371,7 +371,7 @@ D
 
 Какой процент побед у Ло Йи сейчас?
 
-46,24% в Мифической славе за последние 7 дней и 47,24% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+46,25% в Мифической славе за последние 7 дней и 47,23% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Ло Йи?
 
@@ -379,8 +379,8 @@ D
 
 Стоит ли брать Ло Йи в текущей мете?
 
-Тир D, 131-е место из 133 героев и 32-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 46,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир D, 131-е место из 133 героев и 32-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 46,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Ло Йи лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Пронзающий небеса», «Зачарованный талисман» и «Пылающий жезл», эмблема мага с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 49,15% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Пронзающий небеса», «Зачарованный талисман» и «Пылающий жезл», эмблема мага с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 49,01% матчей.

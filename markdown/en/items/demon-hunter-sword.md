@@ -52,18 +52,17 @@ Parts cost 1,280, assembly adds 900 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/obsidia.webp)Obsidia57.6%](https://boostmlbb.ru/en/heroes/obsidia.html#build)
--   [![](/images/heroes/sun.webp)Sun58.2%](https://boostmlbb.ru/en/heroes/sun.html#build)
--   [![](/images/heroes/badang.webp)Badang57.6%](https://boostmlbb.ru/en/heroes/badang.html#build)
--   [![](/images/heroes/hanabi.webp)Hanabi59.5%](https://boostmlbb.ru/en/heroes/hanabi.html#build)
--   [![](/images/heroes/moskov.webp)Moskov55.5%](https://boostmlbb.ru/en/heroes/moskov.html#build)
--   [![](/images/heroes/claude.webp)Claude53.6%](https://boostmlbb.ru/en/heroes/claude.html#build)
--   [![](/images/heroes/argus.webp)Argus65.3%](https://boostmlbb.ru/en/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Melissa54.3%](https://boostmlbb.ru/en/heroes/melissa.html#build)
--   [![](/images/heroes/minsitthar.webp)Minsitthar59.6%](https://boostmlbb.ru/en/heroes/minsitthar.html#build)
+-   [![](/images/heroes/obsidia.webp)Obsidia57.2%](https://boostmlbb.ru/en/heroes/obsidia.html#build)
+-   [![](/images/heroes/sun.webp)Sun58.3%](https://boostmlbb.ru/en/heroes/sun.html#build)
+-   [![](/images/heroes/badang.webp)Badang57.5%](https://boostmlbb.ru/en/heroes/badang.html#build)
+-   [![](/images/heroes/hanabi.webp)Hanabi59.4%](https://boostmlbb.ru/en/heroes/hanabi.html#build)
+-   [![](/images/heroes/moskov.webp)Moskov55.4%](https://boostmlbb.ru/en/heroes/moskov.html#build)
+-   [![](/images/heroes/claude.webp)Claude53.5%](https://boostmlbb.ru/en/heroes/claude.html#build)
+-   [![](/images/heroes/argus.webp)Argus63.3%](https://boostmlbb.ru/en/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Melissa54.4%](https://boostmlbb.ru/en/heroes/melissa.html#build)
+-   [![](/images/heroes/minsitthar.webp)Minsitthar58.9%](https://boostmlbb.ru/en/heroes/minsitthar.html#build)
 -   [![](/images/heroes/karrie.webp)Karrie55.9%](https://boostmlbb.ru/en/heroes/karrie.html#build)
 -   [![](/images/heroes/helcurt.webp)Helcurt51.9%](https://boostmlbb.ru/en/heroes/helcurt.html#build)
--   [![](/images/heroes/wanwan.webp)Wanwan49.3%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
 
 ## Story
 
@@ -93,4 +92,4 @@ What does Demon Hunter Sword give?
 
 Which heroes build Demon Hunter Sword?
 
-It is in the popular ranked builds of 12 heroes, among them Obsidia, Sun, Badang, Hanabi, Moskov and Claude.
+It is in the popular ranked builds of 11 heroes, among them Obsidia, Sun, Badang, Hanabi, Moskov and Claude.

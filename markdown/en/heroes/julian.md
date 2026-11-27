@@ -1,6 +1,6 @@
 ---
 title: "Julian MLBB: build, combos and counters | MLBB Boost"
-description: "Julian in Mobile Legends: ranked build, skill combos, how to play and who counters Julian. Fighter and assassin, 49.26% win rate, tier C."
+description: "Julian in Mobile Legends: ranked build, skill combos, how to play and who counters Julian. Fighter and assassin, 49.27% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/julian.html
 language: en
 ---
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-52.7%
+52.8%
 
 Pick rate
 
-6.5%
+5.8%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Mage
 
 Win rate
 
-50.9%
+50.8%
 
 Pick rate
 
-4.4%
+5.3%
 
 #### Core items
 
@@ -191,11 +191,11 @@ Mage
 
 Win rate
 
-48.5%
+55.6%
 
 Pick rate
 
-2.3%
+1.9%
 
 #### Core items
 
@@ -229,7 +229,7 @@ Pick rate
 
 #### Spell
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/spells/20030.webp)Inspire
 
 #### Emblem and talents
 
@@ -237,13 +237,13 @@ Pick rate
 
 Mage
 
--   ![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-    Thrill
+    Swift
 
--   ![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-    Seasoned Hunter
+    Weapons Master
 
 -   ![](/images/mlbb/talents/631.webp)
 
@@ -368,7 +368,7 @@ Level "Scythe" first and take the ultimate whenever it is available. Even throug
 
 What is Julian’s win rate right now?
 
-49.26% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 25 November 2026.
+49.27% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Julian play?
 
@@ -380,4 +380,4 @@ Tier C, #95 of 133 heroes and #30 among fighters. The tier counts how often the 
 
 What is the best build for Julian?
 
-The most popular ranked build: Feather of Heaven, Concentrated Energy and Windtalker as core items, the Mage emblem with Swift, Seasoned Hunter and Lethal Ignition, and Inspire. It wins 52.66% of matches.
+The most popular ranked build: Feather of Heaven, Concentrated Energy and Windtalker as core items, the Mage emblem with Swift, Seasoned Hunter and Lethal Ignition, and Inspire. It wins 52.77% of matches.

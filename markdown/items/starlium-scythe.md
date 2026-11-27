@@ -51,8 +51,8 @@ Starlium Scythe
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/selena.webp)Селена56,9%](https://boostmlbb.ru/heroes/selena.html#build)
--   [![](/images/heroes/karina.webp)Карина57,7%](https://boostmlbb.ru/heroes/karina.html#build)
+-   [![](/images/heroes/selena.webp)Селена53,2%](https://boostmlbb.ru/heroes/selena.html#build)
+-   [![](/images/heroes/karina.webp)Карина56,5%](https://boostmlbb.ru/heroes/karina.html#build)
 -   [![](/images/heroes/harith.webp)Харит55,4%](https://boostmlbb.ru/heroes/harith.html#build)
 
 ## История

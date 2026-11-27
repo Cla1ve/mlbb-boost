@@ -1,6 +1,6 @@
 ---
 title: "Cecilion MLBB: build, combos and counters | MLBB Boost"
-description: "Cecilion in Mobile Legends: ranked build, skill combos, how to play and who counters Cecilion. Mage, 50.61% win rate, tier C."
+description: "Cecilion in Mobile Legends: ranked build, skill combos, how to play and who counters Cecilion. Mage, 50.60% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
@@ -68,133 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.3%
+55.4%
 
 Pick rate
 
-2.5%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3113.webp)
-
-    Clock of Destiny
-
-
-
-    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
--   [
-
-    ![](/images/mlbb/items/2106.webp)
-
-    Enchanted Talisman
-
-
-
-    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Glowing Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/glowing-wand.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Inspire
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Bargain Hunter
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
-
-
-Win rate
-
-54.6%
-
-Pick rate
-
-2.2%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3113.webp)
-
-    Clock of Destiny
-
-
-
-    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
--   [
-
-    ![](/images/mlbb/items/2106.webp)
-
-    Enchanted Talisman
-
-
-
-    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
--   [
-
-    ![](/images/mlbb/items/2112.webp)
-
-    Wishing Lantern
-
-
-
-    ](https://boostmlbb.ru/en/items/wishing-lantern.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20001.webp)
-
-Common
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Inspire
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Bargain Hunter
-
--   ![](/images/mlbb/talents/134.webp)
-
-    Temporal Reign
-
-
-Win rate
-
-55.6%
-
-Pick rate
-
-2.0%
+3.1%
 
 #### Core items
 
@@ -243,6 +121,128 @@ Mage
 -   ![](/images/mlbb/talents/121.webp)
 
     Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
+Win rate
+
+55.8%
+
+Pick rate
+
+2.2%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
+
+    Clock of Destiny
+
+
+
+    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
+
+    Wishing Lantern
+
+
+
+    ](https://boostmlbb.ru/en/items/wishing-lantern.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
+Win rate
+
+56.0%
+
+Pick rate
+
+2.0%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
+
+    Clock of Destiny
+
+
+
+    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
 
 -   ![](/images/mlbb/talents/131.webp)
 
@@ -344,7 +344,7 @@ Carmilla can choose to leave Cecilion and charge at the target location, gaining
 
 ### Who counters Cecilion
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Cecilion skins
 
@@ -366,7 +366,7 @@ Carmilla can choose to leave Cecilion and charge at the target location, gaining
 
 Who counters Cecilion in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Hylos and Fredrinn.
+Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Fredrinn and Hylos.
 
 How do you play Cecilion?
 
@@ -374,7 +374,7 @@ Level "Bats Feast" first and take the ultimate whenever it is available. Even th
 
 What is Cecilion’s win rate right now?
 
-50.61% at Mythical Glory over the last 7 days and 50.87% across all ranks over 30 days, as of 25 November 2026.
+50.60% at Mythical Glory over the last 7 days and 50.85% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Cecilion play?
 
@@ -382,8 +382,8 @@ Mage, played in the Mid Lane.
 
 Is Cecilion strong in the current meta?
 
-Tier C, #76 of 133 heroes and #20 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
+Tier C, #77 of 133 heroes and #20 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Cecilion?
 
-The most popular ranked build: Clock of Destiny, Enchanted Talisman and Glowing Wand as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Flicker. It wins 56.31% of matches.
+The most popular ranked build: Clock of Destiny, Enchanted Talisman and Wishing Lantern as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 55.40% of matches.

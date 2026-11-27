@@ -51,25 +51,22 @@ Parts cost 1,330, assembly adds 770 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/carmilla.webp)Carmilla58.4%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
--   [![](/images/heroes/belerick.webp)Belerick61.1%](https://boostmlbb.ru/en/heroes/belerick.html#build)
--   [![](/images/heroes/atlas.webp)Atlas56.3%](https://boostmlbb.ru/en/heroes/atlas.html#build)
--   [![](/images/heroes/alice.webp)Alice58.8%](https://boostmlbb.ru/en/heroes/alice.html#build)
--   [![](/images/heroes/minotaur.webp)Minotaur63.5%](https://boostmlbb.ru/en/heroes/minotaur.html#build)
+-   [![](/images/heroes/carmilla.webp)Carmilla58.3%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
+-   [![](/images/heroes/belerick.webp)Belerick61.2%](https://boostmlbb.ru/en/heroes/belerick.html#build)
+-   [![](/images/heroes/atlas.webp)Atlas55.8%](https://boostmlbb.ru/en/heroes/atlas.html#build)
+-   [![](/images/heroes/minotaur.webp)Minotaur63.4%](https://boostmlbb.ru/en/heroes/minotaur.html#build)
 -   [![](/images/heroes/sora.webp)Sora56.8%](https://boostmlbb.ru/en/heroes/sora.html#build)
--   [![](/images/heroes/uranus.webp)Uranus56.4%](https://boostmlbb.ru/en/heroes/uranus.html#build)
--   [![](/images/heroes/badang.webp)Badang57.3%](https://boostmlbb.ru/en/heroes/badang.html#build)
--   [![](/images/heroes/khufra.webp)Khufra60.9%](https://boostmlbb.ru/en/heroes/khufra.html#build)
--   [![](/images/heroes/fredrinn.webp)Fredrinn60.5%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
--   [![](/images/heroes/hilda.webp)Hilda59.0%](https://boostmlbb.ru/en/heroes/hilda.html#build)
--   [![](/images/heroes/akai.webp)Akai56.5%](https://boostmlbb.ru/en/heroes/akai.html#build)
+-   [![](/images/heroes/badang.webp)Badang57.5%](https://boostmlbb.ru/en/heroes/badang.html#build)
+-   [![](/images/heroes/khufra.webp)Khufra60.6%](https://boostmlbb.ru/en/heroes/khufra.html#build)
+-   [![](/images/heroes/fredrinn.webp)Fredrinn60.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
+-   [![](/images/heroes/hilda.webp)Hilda58.8%](https://boostmlbb.ru/en/heroes/hilda.html#build)
+-   [![](/images/heroes/akai.webp)Akai56.3%](https://boostmlbb.ru/en/heroes/akai.html#build)
 -   [![](/images/heroes/khaleed.webp)Khaleed55.7%](https://boostmlbb.ru/en/heroes/khaleed.html#build)
--   [![](/images/heroes/hylos.webp)Hylos55.0%](https://boostmlbb.ru/en/heroes/hylos.html#build)
 -   [![](/images/heroes/grock.webp)Grock51.0%](https://boostmlbb.ru/en/heroes/grock.html#build)
--   [![](/images/heroes/lolita.webp)Lolita59.4%](https://boostmlbb.ru/en/heroes/lolita.html#build)
--   [![](/images/heroes/balmond.webp)Balmond53.2%](https://boostmlbb.ru/en/heroes/balmond.html#build)
--   [![](/images/heroes/chip.webp)Chip53.2%](https://boostmlbb.ru/en/heroes/chip.html#build)
--   [![](/images/heroes/baxia.webp)Baxia55.6%](https://boostmlbb.ru/en/heroes/baxia.html#build)
+-   [![](/images/heroes/lolita.webp)Lolita58.4%](https://boostmlbb.ru/en/heroes/lolita.html#build)
+-   [![](/images/heroes/balmond.webp)Balmond52.8%](https://boostmlbb.ru/en/heroes/balmond.html#build)
+-   [![](/images/heroes/chip.webp)Chip53.0%](https://boostmlbb.ru/en/heroes/chip.html#build)
+-   [![](/images/heroes/baxia.webp)Baxia54.9%](https://boostmlbb.ru/en/heroes/baxia.html#build)
 
 ## Story
 
@@ -99,4 +96,4 @@ What does Chastise Pauldron give?
 
 Which heroes build Chastise Pauldron?
 
-It is in the popular ranked builds of 19 heroes, among them Carmilla, Belerick, Atlas, Alice, Minotaur and Sora.
+It is in the popular ranked builds of 16 heroes, among them Carmilla, Belerick, Atlas, Minotaur, Sora and Badang.

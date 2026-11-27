@@ -1,6 +1,6 @@
 ---
 title: "Holy Crystal MLBB: 3,000 gold, recipe and effect | MLBB Boost"
-description: "Holy Crystal in Mobile Legends: +165 Magic Power. Unique passive Mystery. Builds from Magic Wand ×3. Built by Guinevere, Novaria and Kadita."
+description: "Holy Crystal in Mobile Legends: +165 Magic Power. Unique passive Mystery. Builds from Magic Wand ×3. Built by Novaria, Kadita and Karina."
 canonical: https://boostmlbb.ru/en/items/holy-crystal.html
 language: en
 ---
@@ -46,17 +46,15 @@ Parts cost 2,460, assembly adds 540 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/guinevere.webp)Guinevere55.9%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
--   [![](/images/heroes/novaria.webp)Novaria54.0%](https://boostmlbb.ru/en/heroes/novaria.html#build)
--   [![](/images/heroes/kadita.webp)Kadita56.9%](https://boostmlbb.ru/en/heroes/kadita.html#build)
--   [![](/images/heroes/karina.webp)Karina57.7%](https://boostmlbb.ru/en/heroes/karina.html#build)
--   [![](/images/heroes/gusion.webp)Gusion55.7%](https://boostmlbb.ru/en/heroes/gusion.html#build)
+-   [![](/images/heroes/novaria.webp)Novaria53.7%](https://boostmlbb.ru/en/heroes/novaria.html#build)
+-   [![](/images/heroes/kadita.webp)Kadita56.6%](https://boostmlbb.ru/en/heroes/kadita.html#build)
+-   [![](/images/heroes/karina.webp)Karina56.5%](https://boostmlbb.ru/en/heroes/karina.html#build)
+-   [![](/images/heroes/gusion.webp)Gusion55.5%](https://boostmlbb.ru/en/heroes/gusion.html#build)
 -   [![](/images/heroes/harith.webp)Harith55.4%](https://boostmlbb.ru/en/heroes/harith.html#build)
--   [![](/images/heroes/aamon.webp)Aamon54.8%](https://boostmlbb.ru/en/heroes/aamon.html#build)
--   [![](/images/heroes/odette.webp)Odette57.2%](https://boostmlbb.ru/en/heroes/odette.html#build)
--   [![](/images/heroes/zhask.webp)Zhask58.5%](https://boostmlbb.ru/en/heroes/zhask.html#build)
--   [![](/images/heroes/joy.webp)Joy54.9%](https://boostmlbb.ru/en/heroes/joy.html#build)
--   [![](/images/heroes/faramis.webp)Faramis58.6%](https://boostmlbb.ru/en/heroes/faramis.html#build)
+-   [![](/images/heroes/aamon.webp)Aamon54.6%](https://boostmlbb.ru/en/heroes/aamon.html#build)
+-   [![](/images/heroes/odette.webp)Odette57.8%](https://boostmlbb.ru/en/heroes/odette.html#build)
+-   [![](/images/heroes/zhask.webp)Zhask58.6%](https://boostmlbb.ru/en/heroes/zhask.html#build)
+-   [![](/images/heroes/joy.webp)Joy54.6%](https://boostmlbb.ru/en/heroes/joy.html#build)
 
 ## Story
 
@@ -86,4 +84,4 @@ What does Holy Crystal give?
 
 Which heroes build Holy Crystal?
 
-It is in the popular ranked builds of 11 heroes, among them Guinevere, Novaria, Kadita, Karina, Gusion and Harith.
+It is in the popular ranked builds of 9 heroes, among them Novaria, Kadita, Karina, Gusion, Harith and Aamon.

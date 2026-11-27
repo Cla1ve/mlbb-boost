@@ -48,8 +48,8 @@ Immortality
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
 -   [![](/images/heroes/belerick.webp)Белерик56,2%](https://boostmlbb.ru/heroes/belerick.html#build)
--   [![](/images/heroes/x-borg.webp)Икс.Борг51,7%](https://boostmlbb.ru/heroes/x-borg.html#build)
--   [![](/images/heroes/baxia.webp)Баксий51,3%](https://boostmlbb.ru/heroes/baxia.html#build)
+-   [![](/images/heroes/x-borg.webp)Икс.Борг52,0%](https://boostmlbb.ru/heroes/x-borg.html#build)
+-   [![](/images/heroes/baxia.webp)Баксий51,8%](https://boostmlbb.ru/heroes/baxia.html#build)
 
 ## История
 

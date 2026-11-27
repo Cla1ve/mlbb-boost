@@ -1,6 +1,6 @@
 ---
 title: "Cyclops MLBB: build, combos and counters | MLBB Boost"
-description: "Cyclops in Mobile Legends: ranked build, skill combos, how to play and who counters Cyclops. Mage, 51.13% win rate, tier C."
+description: "Cyclops in Mobile Legends: ranked build, skill combos, how to play and who counters Cyclops. Mage, 51.10% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.8%
+0.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -59,7 +59,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**17 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mages**18 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
 -   [Best MLBB mid laners**16 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.2%
+57.9%
 
 Pick rate
 
-5.7%
+5.9%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-61.8%
+61.9%
 
 Pick rate
 
-4.6%
+4.9%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-57.5%
+57.3%
 
 Pick rate
 
-3.8%
+3.7%
 
 #### Core items
 
@@ -363,7 +363,7 @@ Level "Planets Attack" first and take the ultimate whenever it is available. Str
 
 What is Cyclops’s win rate right now?
 
-51.13% at Mythical Glory over the last 7 days and 51.72% across all ranks over 30 days, as of 25 November 2026.
+51.10% at Mythical Glory over the last 7 days and 51.72% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Cyclops play?
 
@@ -371,8 +371,8 @@ Mage, played in the Mid Lane.
 
 Is Cyclops strong in the current meta?
 
-Tier C, #71 of 133 heroes and #17 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 51.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #72 of 133 heroes and #18 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 51.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Cyclops?
 
-The most popular ranked build: Enchanted Talisman, Concentrated Energy and Glowing Wand as core items, the Mage emblem with Inspire, Festival of Blood and Impure Rage, and Flicker. It wins 58.16% of matches.
+The most popular ranked build: Enchanted Talisman, Concentrated Energy and Glowing Wand as core items, the Mage emblem with Inspire, Festival of Blood and Impure Rage, and Flicker. It wins 57.88% of matches.

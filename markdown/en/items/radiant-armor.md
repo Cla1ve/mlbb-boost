@@ -1,6 +1,6 @@
 ---
 title: "Radiant Armor MLBB: 1,880 gold, recipe and effect | MLBB Boost"
-description: "Radiant Armor in Mobile Legends: +950 HP, +40 Magic Defense, +12 HP Regen. Unique passive Holy Blessing. Builds from Silence Robe, Magic Resist Cloak and Healing Necklace. Built by Atlas, Tigreal and Gatotkaca."
+description: "Radiant Armor in Mobile Legends: +950 HP, +40 Magic Defense, +12 HP Regen. Unique passive Holy Blessing. Builds from Silence Robe, Magic Resist Cloak and Healing Necklace. Built by Atlas, Uranus and Tigreal."
 canonical: https://boostmlbb.ru/en/items/radiant-armor.html
 language: en
 ---
@@ -47,13 +47,14 @@ Parts cost 1,380, assembly adds 500 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/atlas.webp)Atlas52.4%](https://boostmlbb.ru/en/heroes/atlas.html#build)
+-   [![](/images/heroes/atlas.webp)Atlas52.0%](https://boostmlbb.ru/en/heroes/atlas.html#build)
+-   [![](/images/heroes/uranus.webp)Uranus57.1%](https://boostmlbb.ru/en/heroes/uranus.html#build)
 -   [![](/images/heroes/tigreal.webp)Tigreal49.4%](https://boostmlbb.ru/en/heroes/tigreal.html#build)
--   [![](/images/heroes/gatotkaca.webp)Gatotkaca51.1%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Gatotkaca50.8%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
 -   [![](/images/heroes/edith.webp)Edith60.9%](https://boostmlbb.ru/en/heroes/edith.html#build)
 -   [![](/images/heroes/grock.webp)Grock51.0%](https://boostmlbb.ru/en/heroes/grock.html#build)
--   [![](/images/heroes/lolita.webp)Lolita60.9%](https://boostmlbb.ru/en/heroes/lolita.html#build)
--   [![](/images/heroes/baxia.webp)Baxia55.6%](https://boostmlbb.ru/en/heroes/baxia.html#build)
+-   [![](/images/heroes/lolita.webp)Lolita60.4%](https://boostmlbb.ru/en/heroes/lolita.html#build)
+-   [![](/images/heroes/baxia.webp)Baxia51.8%](https://boostmlbb.ru/en/heroes/baxia.html#build)
 
 ## Story
 
@@ -83,4 +84,4 @@ What does Radiant Armor give?
 
 Which heroes build Radiant Armor?
 
-It is in the popular ranked builds of 7 heroes, among them Atlas, Tigreal, Gatotkaca, Edith, Grock and Lolita.
+It is in the popular ranked builds of 8 heroes, among them Atlas, Uranus, Tigreal, Gatotkaca, Edith and Grock.

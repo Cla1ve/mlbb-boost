@@ -1,6 +1,6 @@
 ---
 title: "Tigreal MLBB: build, combos and counters | MLBB Boost"
-description: "Tigreal in Mobile Legends: ranked build, skill combos, how to play and who counters Tigreal. Tank, 45.08% win rate, tier B."
+description: "Tigreal in Mobile Legends: ranked build, skill combos, how to play and who counters Tigreal. Tank, 45.10% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/tigreal.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.9%
+5.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,8 +46,8 @@ Ban rate
 
 1.  **48.8%**![](/images/ranks/Epic.webp)Epic
 2.  **46.2%**![](/images/ranks/Legend.webp)Legend
-3.  **44.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **45.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **45.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-8.2%
+10.4%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Tank
 
 Win rate
 
-49.1%
+49.5%
 
 Pick rate
 
-7.9%
+6.4%
 
 #### Core items
 
@@ -193,7 +193,7 @@ Win rate
 
 Pick rate
 
-3.7%
+4.1%
 
 #### Core items
 
@@ -368,7 +368,7 @@ Level "Attack Wave" first and take the ultimate whenever it is available. Strong
 
 What is Tigreal’s win rate right now?
 
-45.08% at Mythical Glory over the last 7 days and 45.28% across all ranks over 30 days, as of 25 November 2026.
+45.10% at Mythical Glory over the last 7 days and 45.30% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Tigreal play?
 
@@ -376,8 +376,8 @@ Tank, played on roam.
 
 Is Tigreal strong in the current meta?
 
-Tier B, #69 of 133 heroes and #12 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.9% of matches, 45.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #69 of 133 heroes and #12 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.0% of matches, 45.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Tigreal?
 
-The most popular ranked build: Fleeting Time, Dominance Ice and Athena's Shield as core items, the Tank emblem with Agility, Pull Yourself Together and Concussive Blast, and Flicker. It wins 48.39% of matches.
+The most popular ranked build: Fleeting Time, Dominance Ice and Athena's Shield as core items, the Tank emblem with Agility, Pull Yourself Together and Concussive Blast, and Flicker. It wins 48.38% of matches.

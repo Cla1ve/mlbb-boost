@@ -53,11 +53,12 @@ Malefic Gun
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/bruno.webp)Бруно59,7%](https://boostmlbb.ru/heroes/bruno.html#build)
--   [![](/images/heroes/lesley.webp)Лесли53,1%](https://boostmlbb.ru/heroes/lesley.html#build)
--   [![](/images/heroes/clint.webp)Клинт51,9%](https://boostmlbb.ru/heroes/clint.html#build)
--   [![](/images/heroes/brody.webp)Броуди53,4%](https://boostmlbb.ru/heroes/brody.html#build)
--   [![](/images/heroes/beatrix.webp)Беатрис51,7%](https://boostmlbb.ru/heroes/beatrix.html#build)
+-   [![](/images/heroes/bruno.webp)Бруно61,6%](https://boostmlbb.ru/heroes/bruno.html#build)
+-   [![](/images/heroes/lesley.webp)Лесли57,0%](https://boostmlbb.ru/heroes/lesley.html#build)
+-   [![](/images/heroes/clint.webp)Клинт51,8%](https://boostmlbb.ru/heroes/clint.html#build)
+-   [![](/images/heroes/brody.webp)Броуди53,3%](https://boostmlbb.ru/heroes/brody.html#build)
+-   [![](/images/heroes/melissa.webp)Мелисса60,3%](https://boostmlbb.ru/heroes/melissa.html#build)
+-   [![](/images/heroes/beatrix.webp)Беатрис51,5%](https://boostmlbb.ru/heroes/beatrix.html#build)
 -   [![](/images/heroes/ixia.webp)Иксия56,1%](https://boostmlbb.ru/heroes/ixia.html#build)
 
 ## История
@@ -88,4 +89,4 @@ Malefic Gun
 
 Каким героям собирать «Губительный пулемет»?
 
-Предмет есть в популярных сборках 6 героев в рейтинге, среди них Бруно, Лесли, Клинт, Броуди, Беатрис и Иксия.
+Предмет есть в популярных сборках 7 героев в рейтинге, среди них Бруно, Лесли, Клинт, Броуди, Мелисса и Беатрис.

@@ -47,17 +47,17 @@ Parts cost 1,620, assembly adds 400 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/alice.webp)Alice55.0%](https://boostmlbb.ru/en/heroes/alice.html#build)
--   [![](/images/heroes/kimmy.webp)Kimmy54.3%](https://boostmlbb.ru/en/heroes/kimmy.html#build)
--   [![](/images/heroes/harley.webp)Harley49.0%](https://boostmlbb.ru/en/heroes/harley.html#build)
--   [![](/images/heroes/guinevere.webp)Guinevere56.6%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
--   [![](/images/heroes/karina.webp)Karina57.7%](https://boostmlbb.ru/en/heroes/karina.html#build)
--   [![](/images/heroes/cyclops.webp)Cyclops58.2%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
+-   [![](/images/heroes/alice.webp)Alice54.9%](https://boostmlbb.ru/en/heroes/alice.html#build)
+-   [![](/images/heroes/kimmy.webp)Kimmy53.8%](https://boostmlbb.ru/en/heroes/kimmy.html#build)
+-   [![](/images/heroes/harley.webp)Harley48.9%](https://boostmlbb.ru/en/heroes/harley.html#build)
+-   [![](/images/heroes/guinevere.webp)Guinevere57.3%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
+-   [![](/images/heroes/karina.webp)Karina58.0%](https://boostmlbb.ru/en/heroes/karina.html#build)
+-   [![](/images/heroes/cyclops.webp)Cyclops57.9%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
 -   [![](/images/heroes/silvanna.webp)Silvanna56.9%](https://boostmlbb.ru/en/heroes/silvanna.html#build)
--   [![](/images/heroes/gatotkaca.webp)Gatotkaca55.1%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
--   [![](/images/heroes/natan.webp)Natan54.4%](https://boostmlbb.ru/en/heroes/natan.html#build)
--   [![](/images/heroes/julian.webp)Julian52.7%](https://boostmlbb.ru/en/heroes/julian.html#build)
--   [![](/images/heroes/joy.webp)Joy54.9%](https://boostmlbb.ru/en/heroes/joy.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Gatotkaca55.0%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/natan.webp)Natan54.2%](https://boostmlbb.ru/en/heroes/natan.html#build)
+-   [![](/images/heroes/julian.webp)Julian52.8%](https://boostmlbb.ru/en/heroes/julian.html#build)
+-   [![](/images/heroes/joy.webp)Joy54.6%](https://boostmlbb.ru/en/heroes/joy.html#build)
 
 ## Story
 

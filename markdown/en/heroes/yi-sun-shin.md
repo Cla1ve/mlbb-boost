@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-1.5%
+1.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.9%
+53.6%
 
 Pick rate
 
-14.9%
+14.7%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Assassin
 
 Win rate
 
-54.7%
+54.2%
 
 Pick rate
 
-10.3%
+13.6%
 
 #### Core items
 
@@ -191,11 +191,11 @@ Assassin
 
 Win rate
 
-53.5%
+53.7%
 
 Pick rate
 
-8.8%
+7.6%
 
 #### Core items
 
@@ -375,7 +375,7 @@ Level "Traceless" first and take the ultimate whenever it is available. Stronger
 
 What is Yi Sun-shin’s win rate right now?
 
-48.52% at Mythical Glory over the last 7 days and 49.05% across all ranks over 30 days, as of 25 November 2026.
+48.52% at Mythical Glory over the last 7 days and 49.03% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Yi Sun-shin play?
 
@@ -383,8 +383,8 @@ Assassin and marksman, played in the jungle.
 
 Is Yi Sun-shin strong in the current meta?
 
-Tier B, #66 of 133 heroes and #15 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
+Tier B, #66 of 133 heroes and #15 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
 
 What is the best build for Yi Sun-shin?
 
-The most popular ranked build: Hunter Strike, War Axe and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 53.88% of matches.
+The most popular ranked build: Hunter Strike, War Axe and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 53.59% of matches.

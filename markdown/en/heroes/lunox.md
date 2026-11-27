@@ -1,6 +1,6 @@
 ---
 title: "Lunox MLBB: build, combos and counters | MLBB Boost"
-description: "Lunox in Mobile Legends: ranked build, skill combos, how to play and who counters Lunox. Mage, 51.90% win rate, tier B."
+description: "Lunox in Mobile Legends: ranked build, skill combos, how to play and who counters Lunox. Mage, 51.91% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lunox.html
 language: en
 ---
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.0%**![](/images/ranks/Epic.webp)Epic
-2.  **50.1%**![](/images/ranks/Legend.webp)Legend
+1.  **50.1%**![](/images/ranks/Epic.webp)Epic
+2.  **50.2%**![](/images/ranks/Legend.webp)Legend
 3.  **50.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **51.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,7 +68,7 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.4%
+53.9%
 
 Pick rate
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-55.4%
+55.7%
 
 Pick rate
 
-3.9%
+3.6%
 
 #### Core items
 
@@ -194,7 +194,7 @@ Win rate
 
 Pick rate
 
-2.4%
+3.0%
 
 #### Core items
 
@@ -352,7 +352,7 @@ When Power of Chaos is dominant, she can cast Darkening to blink in a target dir
 
 ### Who Lunox counters
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
 
 ## Lunox skins
 
@@ -382,7 +382,7 @@ Level "Starlight Pulse" first and take the ultimate whenever it is available. St
 
 What is Lunox’s win rate right now?
 
-51.90% at Mythical Glory over the last 7 days and 50.95% across all ranks over 30 days, as of 25 November 2026.
+51.91% at Mythical Glory over the last 7 days and 51.04% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lunox play?
 
@@ -394,4 +394,4 @@ Tier B, #51 of 133 heroes and #12 among mages. The tier counts how often the her
 
 What is the best build for Lunox?
 
-The most popular ranked build: Sky Piercer, Divine Glaive and Genius Wand as core items, the Assassin emblem with Rupture, Bargain Hunter and Impure Rage, and Flicker. It wins 53.43% of matches.
+The most popular ranked build: Sky Piercer, Divine Glaive and Genius Wand as core items, the Assassin emblem with Rupture, Bargain Hunter and Impure Rage, and Flicker. It wins 53.94% of matches.

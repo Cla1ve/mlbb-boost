@@ -1,6 +1,6 @@
 ---
 title: "Cici MLBB: build, combos and counters | MLBB Boost"
-description: "Cici in Mobile Legends: ranked build, skill combos, how to play and who counters Cici. Fighter, 48.53% win rate, tier B."
+description: "Cici in Mobile Legends: ranked build, skill combos, how to play and who counters Cici. Fighter, 48.47% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.0%**![](/images/ranks/Epic.webp)Epic
-2.  **50.1%**![](/images/ranks/Legend.webp)Legend
+2.  **50.0%**![](/images/ranks/Legend.webp)Legend
 3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.6%
+58.3%
 
 Pick rate
 
-13.2%
+14.6%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-59.0%
+58.9%
 
 Pick rate
 
-7.5%
+7.3%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Fighter
 
 Win rate
 
-56.7%
+56.5%
 
 Pick rate
 
-2.6%
+2.0%
 
 #### Core items
 
@@ -335,7 +335,7 @@ During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the 
 
 ### Who Cici counters
 
-[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Cici skins
 
@@ -365,7 +365,7 @@ Level "Yo-Yo Blitz" first and take the ultimate whenever it is available. Even t
 
 What is Cici’s win rate right now?
 
-48.53% at Mythical Glory over the last 7 days and 49.32% across all ranks over 30 days, as of 25 November 2026.
+48.47% at Mythical Glory over the last 7 days and 49.30% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Cici play?
 
@@ -377,4 +377,4 @@ Tier B, #29 of 133 heroes and #10 among fighters. The tier counts how often the 
 
 What is the best build for Cici?
 
-The most popular ranked build: War Axe, Brute Force Breastplate and Hunter Strike as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Vengeance. It wins 58.65% of matches.
+The most popular ranked build: War Axe, Brute Force Breastplate and Hunter Strike as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Vengeance. It wins 58.31% of matches.

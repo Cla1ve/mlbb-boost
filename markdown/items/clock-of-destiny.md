@@ -1,6 +1,6 @@
 ---
 title: "Часы судьбы в MLBB: цена 2030, сборка и эффект | MLBB Boost"
-description: "Часы судьбы (Clock of Destiny) в Mobile Legends: +45 магическая сила, +400 оз, +400 мана. Пассивка «Судьба». Собирается из: Элегантный самоцвет и Книга мудрости. Собирают Чжусинь, Сесилион и Хилос."
+description: "Часы судьбы (Clock of Destiny) в Mobile Legends: +45 магическая сила, +400 оз, +400 мана. Пассивка «Судьба». Собирается из: Элегантный самоцвет и Книга мудрости. Собирают Алиса, Чжусинь и Сесилион."
 canonical: https://boostmlbb.ru/items/clock-of-destiny.html
 language: ru
 ---
@@ -55,9 +55,10 @@ Clock of Destiny
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
+-   [![](/images/heroes/alice.webp)Алиса57,8%](https://boostmlbb.ru/heroes/alice.html#build)
 -   [![](/images/heroes/zhuxin.webp)Чжусинь56,5%](https://boostmlbb.ru/heroes/zhuxin.html#build)
--   [![](/images/heroes/cecilion.webp)Сесилион56,3%](https://boostmlbb.ru/heroes/cecilion.html#build)
--   [![](/images/heroes/hylos.webp)Хилос55,0%](https://boostmlbb.ru/heroes/hylos.html#build)
+-   [![](/images/heroes/cecilion.webp)Сесилион55,4%](https://boostmlbb.ru/heroes/cecilion.html#build)
+-   [![](/images/heroes/hylos.webp)Хилос54,9%](https://boostmlbb.ru/heroes/hylos.html#build)
 
 ## История
 
@@ -87,4 +88,4 @@ Clock of Destiny
 
 Каким героям собирать «Часы судьбы»?
 
-Предмет есть в популярных сборках 3 героев в рейтинге, среди них Чжусинь, Сесилион и Хилос.
+Предмет есть в популярных сборках 4 героев в рейтинге, среди них Алиса, Чжусинь, Сесилион и Хилос.

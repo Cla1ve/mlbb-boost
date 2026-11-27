@@ -1,6 +1,6 @@
 ---
 title: "Крылья королевы в MLBB: цена 2250, сборка и эффект | MLBB Boost"
-description: "Крылья королевы (Queen's Wings) в Mobile Legends: +750 оз, +30 адаптивная атака, +10% сокращение перезарядки. Пассивка «Демонизация». Собирается из: Перчатки эксперта, Пояс Ареса и Кольцо героя. Собирают Бартс, Лукас и Су Ё."
+description: "Крылья королевы (Queen's Wings) в Mobile Legends: +750 оз, +30 адаптивная атака, +10% сокращение перезарядки. Пассивка «Демонизация». Собирается из: Перчатки эксперта, Пояс Ареса и Кольцо героя. Собирают Хирара, Бартс и Лукас."
 canonical: https://boostmlbb.ru/items/queens-wings.html
 language: ru
 ---
@@ -55,24 +55,25 @@ Queen's Wings
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/barats.webp)Бартс59,5%](https://boostmlbb.ru/heroes/barats.html#build)
--   [![](/images/heroes/lukas.webp)Лукас55,4%](https://boostmlbb.ru/heroes/lukas.html#build)
+-   [![](/images/heroes/hirara.webp)Хирара52,6%](https://boostmlbb.ru/heroes/hirara.html#build)
+-   [![](/images/heroes/barats.webp)Бартс59,4%](https://boostmlbb.ru/heroes/barats.html#build)
+-   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Су Ё53,5%](https://boostmlbb.ru/heroes/suyou.html#build)
 -   [![](/images/heroes/sora.webp)Сора54,2%](https://boostmlbb.ru/heroes/sora.html#build)
--   [![](/images/heroes/rafaela.webp)Рафаэль62,4%](https://boostmlbb.ru/heroes/rafaela.html#build)
--   [![](/images/heroes/yu-zhong.webp)Чонг55,4%](https://boostmlbb.ru/heroes/yu-zhong.html#build)
--   [![](/images/heroes/guinevere.webp)Гвиневра56,6%](https://boostmlbb.ru/heroes/guinevere.html#build)
+-   [![](/images/heroes/rafaela.webp)Рафаэль61,9%](https://boostmlbb.ru/heroes/rafaela.html#build)
+-   [![](/images/heroes/yu-zhong.webp)Чонг55,1%](https://boostmlbb.ru/heroes/yu-zhong.html#build)
+-   [![](/images/heroes/guinevere.webp)Гвиневра57,3%](https://boostmlbb.ru/heroes/guinevere.html#build)
 -   [![](/images/heroes/phoveus.webp)Фовиус57,1%](https://boostmlbb.ru/heroes/phoveus.html#build)
--   [![](/images/heroes/cyclops.webp)Циклоп61,8%](https://boostmlbb.ru/heroes/cyclops.html#build)
--   [![](/images/heroes/fredrinn.webp)Фредрин62,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
+-   [![](/images/heroes/cyclops.webp)Циклоп61,9%](https://boostmlbb.ru/heroes/cyclops.html#build)
+-   [![](/images/heroes/fredrinn.webp)Фредрин61,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
 -   [![](/images/heroes/alpha.webp)Альфа55,0%](https://boostmlbb.ru/heroes/alpha.html#build)
--   [![](/images/heroes/gatotkaca.webp)Гатоткача55,1%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
--   [![](/images/heroes/thamuz.webp)Тамуз57,3%](https://boostmlbb.ru/heroes/thamuz.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Гатоткача55,0%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/thamuz.webp)Тамуз57,1%](https://boostmlbb.ru/heroes/thamuz.html#build)
 -   [![](/images/heroes/terizla.webp)Тэризла57,1%](https://boostmlbb.ru/heroes/terizla.html#build)
--   [![](/images/heroes/ruby.webp)Руби58,7%](https://boostmlbb.ru/heroes/ruby.html#build)
--   [![](/images/heroes/martis.webp)Мартис57,1%](https://boostmlbb.ru/heroes/martis.html#build)
+-   [![](/images/heroes/ruby.webp)Руби56,7%](https://boostmlbb.ru/heroes/ruby.html#build)
+-   [![](/images/heroes/martis.webp)Мартис57,0%](https://boostmlbb.ru/heroes/martis.html#build)
 -   [![](/images/heroes/lapu-lapu.webp)Лапу-Лапу54,6%](https://boostmlbb.ru/heroes/lapu-lapu.html#build)
--   [![](/images/heroes/balmond.webp)Бальмонд53,3%](https://boostmlbb.ru/heroes/balmond.html#build)
+-   [![](/images/heroes/balmond.webp)Бальмонд53,2%](https://boostmlbb.ru/heroes/balmond.html#build)
 
 ## История
 
@@ -102,4 +103,4 @@ Queen's Wings
 
 Каким героям собирать «Крылья королевы»?
 
-Предмет есть в популярных сборках 18 героев в рейтинге, среди них Бартс, Лукас, Су Ё, Сора, Рафаэль и Чонг.
+Предмет есть в популярных сборках 19 героев в рейтинге, среди них Хирара, Бартс, Лукас, Су Ё, Сора и Рафаэль.

@@ -1,6 +1,6 @@
 ---
 title: "Freya MLBB: build, combos and counters | MLBB Boost"
-description: "Freya in Mobile Legends: ranked build, skill combos, how to play and who counters Freya. Fighter, 51.82% win rate, tier S."
+description: "Freya in Mobile Legends: ranked build, skill combos, how to play and who counters Freya. Fighter, 51.88% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
@@ -19,7 +19,7 @@ S
 
 Win rate
 
-51.8%
+51.9%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-11.5%
+11.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,10 +46,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **47.5%**![](/images/ranks/Epic.webp)Epic
-2.  **47.6%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
+2.  **47.7%**![](/images/ranks/Legend.webp)Legend
+3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,72 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-60.1%
+60.0%
 
 Pick rate
 
-6.3%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2009.webp)
-
-    Golden Staff
-
-
-
-    ](https://boostmlbb.ru/en/items/golden-staff.html)
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3012.webp)
-
-    Rose Gold Meteor
-
-
-
-    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20190.webp)Vengeance
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/133.webp)
-
-    War Cry
-
-
-Win rate
-
-60.4%
-
-Pick rate
-
-5.6%
+7.4%
 
 #### Core items
 
@@ -190,11 +129,72 @@ Fighter
 
 Win rate
 
-58.0%
+60.3%
 
 Pick rate
 
-3.0%
+5.7%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
+
+    Rose Gold Meteor
+
+
+
+    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
+Win rate
+
+59.5%
+
+Pick rate
+
+2.0%
 
 #### Core items
 
@@ -371,7 +371,7 @@ Level "Valkyrie Slash" first and take the ultimate whenever it is available. Str
 
 What is Freya’s win rate right now?
 
-51.82% at Mythical Glory over the last 7 days and 49.54% across all ranks over 30 days, as of 25 November 2026.
+51.88% at Mythical Glory over the last 7 days and 49.61% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Freya play?
 
@@ -379,8 +379,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Freya strong in the current meta?
 
-Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.5% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
+Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.6% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
 
 What is the best build for Freya?
 
-The most popular ranked build: Golden Staff, War Axe and Rose Gold Meteor as core items, the Fighter emblem with Thrill, Festival of Blood and War Cry, and Vengeance. It wins 60.06% of matches.
+The most popular ranked build: Golden Staff, War Axe and Endless Battle as core items, the Fighter emblem with Thrill, Festival of Blood and War Cry, and Vengeance. It wins 60.00% of matches.

@@ -11,13 +11,13 @@ language: en
 
 ●●●●●
 
-1324 Reviews
+1325 Reviews
 
 99% Positive ratings
 
 ### All reviews on Telegram!
 
-1324 published reviews with screenshots
+1325 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
 
@@ -31,7 +31,33 @@ You can leave a review only after a purchase
 
 ## Latest customer reviews
 
-1324 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+1325 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+
+K
+
+Booster
+
+Kris
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+Role
+
+StartМифическая честь, 44⭐
+
+TargetМифическая слава, 60⭐
+
+Все супер! Быстро и без проблем, очень благодарю бустера
+
+Time6ч 19м после оплаты
+
+26 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2301)
 
 V
 
@@ -1610,29 +1636,3 @@ Time22д 23ч 40м после оплаты
 31 October 2026
 
 [Open review](https://t.me/Cla1ve_boost/2160)
-
-I
-
-Booster
-
-Izy
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-Standard
-
-StartМифическая честь, 28⭐
-
-TargetМифическая честь, 33⭐
-
-Быстро , четко , без лишней суеты , все объяснил , рассказал и сделал как надо
-
-Time1ч 39м после оплаты
-
-31 October 2026
-
-[Open review](https://t.me/Cla1ve_boost/2159)

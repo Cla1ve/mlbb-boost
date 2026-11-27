@@ -47,7 +47,7 @@ Ban rate
 
 1.  **48.0%**![](/images/ranks/Epic.webp)Epic
 2.  **48.1%**![](/images/ranks/Legend.webp)Legend
-3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -70,11 +70,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-49.0%
+48.9%
 
 Pick rate
 
-1.4%
+1.5%
 
 #### Core items
 
@@ -131,7 +131,7 @@ Assassin
 
 Win rate
 
-48.8%
+48.6%
 
 Pick rate
 
@@ -192,7 +192,7 @@ Assassin
 
 Win rate
 
-45.1%
+47.8%
 
 Pick rate
 
@@ -200,15 +200,6 @@ Pick rate
 
 #### Core items
 
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Sky Piercer
-
-
-
-    ](https://boostmlbb.ru/en/items/sky-piercer.html)
 -   [
 
     ![](/images/mlbb/items/3111.webp)
@@ -220,13 +211,22 @@ Pick rate
     ](https://boostmlbb.ru/en/items/genius-wand.html)
 -   [
 
-    ![](/images/mlbb/items/3110.webp)
+    ![](/images/mlbb/items/3103.webp)
 
-    Lightning Truncheon
+    Concentrated Energy
 
 
 
-    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
 
 #### Spell
 
@@ -246,9 +246,9 @@ Assassin
 
     Seasoned Hunter
 
--   ![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-    Lethal Ignition
+    Impure Rage
 
 
 ## How to play Harley
@@ -370,7 +370,7 @@ Level "Poker Trick" first and take the ultimate whenever it is available. Strong
 
 What is Harley’s win rate right now?
 
-48.77% at Mythical Glory over the last 7 days and 48.26% across all ranks over 30 days, as of 25 November 2026.
+48.77% at Mythical Glory over the last 7 days and 48.28% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Harley play?
 
@@ -382,4 +382,4 @@ Tier B, #44 of 133 heroes and #9 among assassins. The tier counts how often the 
 
 What is the best build for Harley?
 
-The most popular ranked build: Concentrated Energy, Genius Wand and Glowing Wand as core items, the Assassin emblem with Rupture, Seasoned Hunter and Impure Rage, and Flameshot. It wins 48.97% of matches.
+The most popular ranked build: Concentrated Energy, Genius Wand and Glowing Wand as core items, the Assassin emblem with Rupture, Seasoned Hunter and Impure Rage, and Flameshot. It wins 48.89% of matches.

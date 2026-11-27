@@ -1,6 +1,6 @@
 ---
 title: "Phoveus MLBB: build, combos and counters | MLBB Boost"
-description: "Phoveus in Mobile Legends: ranked build, skill combos, how to play and who counters Phoveus. Fighter, 48.55% win rate, tier B."
+description: "Phoveus in Mobile Legends: ranked build, skill combos, how to play and who counters Phoveus. Fighter, 48.56% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-48.5%
+48.6%
 
 Pick rate
 
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-6.0%
+5.1%
 
 #### Core items
 
@@ -128,7 +128,68 @@ Fighter
 
 Win rate
 
-57.5%
+56.1%
+
+Pick rate
+
+2.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
+
+    Antique Cuirass
+
+
+
+    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
+Win rate
+
+57.4%
 
 Pick rate
 
@@ -163,67 +224,6 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/oracle.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20190.webp)Vengeance
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/731.webp)
-
-    Brave Smite
-
-
-Win rate
-
-56.2%
-
-Pick rate
-
-1.9%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2212.webp)
-
-    Thunder Belt
-
-
-
-    ](https://boostmlbb.ru/en/items/thunder-belt.html)
--   [
-
-    ![](/images/mlbb/items/3206.webp)
-
-    Dominance Ice
-
-
-
-    ](https://boostmlbb.ru/en/items/dominance-ice.html)
--   [
-
-    ![](/images/mlbb/items/3203.webp)
-
-    Antique Cuirass
-
-
-
-    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
 
 #### Spell
 
@@ -337,7 +337,7 @@ Infernal Pursuit can only be used when there are enemies with Sinner's Mark near
 
 ### Who Phoveus counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
 
 ## Phoveus skins
 
@@ -367,7 +367,7 @@ Level "Demonic Impact" first and take the ultimate whenever it is available. Eve
 
 What is Phoveus’s win rate right now?
 
-48.55% at Mythical Glory over the last 7 days and 48.22% across all ranks over 30 days, as of 25 November 2026.
+48.56% at Mythical Glory over the last 7 days and 48.23% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Phoveus play?
 
@@ -375,8 +375,8 @@ Fighter, played in the EXP Lane.
 
 Is Phoveus strong in the current meta?
 
-Tier B, #65 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
+Tier B, #65 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
 
 What is the best build for Phoveus?
 
-The most popular ranked build: War Axe, Oracle and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Vengeance. It wins 57.13% of matches.
+The most popular ranked build: War Axe, Oracle and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Vengeance. It wins 57.12% of matches.

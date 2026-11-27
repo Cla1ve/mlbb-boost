@@ -1,6 +1,6 @@
 ---
 title: "Antique Cuirass MLBB: 2,170 gold, recipe and effect | MLBB Boost"
-description: "Antique Cuirass in Mobile Legends: +920 HP, +40 Physical Defense, +4 HP Regen. Unique passive Deter. Builds from Ares Belt and Dreadnaught Armor. Built by Carmilla, Atlas and Uranus."
+description: "Antique Cuirass in Mobile Legends: +920 HP, +40 Physical Defense, +4 HP Regen. Unique passive Deter. Builds from Ares Belt and Dreadnaught Armor. Built by Carmilla, Atlas and Badang."
 canonical: https://boostmlbb.ru/en/items/antique-cuirass.html
 language: en
 ---
@@ -47,20 +47,18 @@ Parts cost 1,430, assembly adds 740 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/carmilla.webp)Carmilla57.6%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
--   [![](/images/heroes/atlas.webp)Atlas56.3%](https://boostmlbb.ru/en/heroes/atlas.html#build)
--   [![](/images/heroes/uranus.webp)Uranus56.4%](https://boostmlbb.ru/en/heroes/uranus.html#build)
--   [![](/images/heroes/badang.webp)Badang57.2%](https://boostmlbb.ru/en/heroes/badang.html#build)
--   [![](/images/heroes/khufra.webp)Khufra59.2%](https://boostmlbb.ru/en/heroes/khufra.html#build)
--   [![](/images/heroes/diggie.webp)Diggie57.9%](https://boostmlbb.ru/en/heroes/diggie.html#build)
--   [![](/images/heroes/phoveus.webp)Phoveus56.2%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
--   [![](/images/heroes/gatotkaca.webp)Gatotkaca51.1%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
--   [![](/images/heroes/johnson.webp)Johnson55.6%](https://boostmlbb.ru/en/heroes/johnson.html#build)
--   [![](/images/heroes/hylos.webp)Hylos55.0%](https://boostmlbb.ru/en/heroes/hylos.html#build)
--   [![](/images/heroes/grock.webp)Grock54.4%](https://boostmlbb.ru/en/heroes/grock.html#build)
--   [![](/images/heroes/chip.webp)Chip53.2%](https://boostmlbb.ru/en/heroes/chip.html#build)
--   [![](/images/heroes/franco.webp)Franco44.0%](https://boostmlbb.ru/en/heroes/franco.html#build)
--   [![](/images/heroes/baxia.webp)Baxia51.3%](https://boostmlbb.ru/en/heroes/baxia.html#build)
+-   [![](/images/heroes/carmilla.webp)Carmilla57.4%](https://boostmlbb.ru/en/heroes/carmilla.html#build)
+-   [![](/images/heroes/atlas.webp)Atlas55.8%](https://boostmlbb.ru/en/heroes/atlas.html#build)
+-   [![](/images/heroes/badang.webp)Badang57.3%](https://boostmlbb.ru/en/heroes/badang.html#build)
+-   [![](/images/heroes/khufra.webp)Khufra59.3%](https://boostmlbb.ru/en/heroes/khufra.html#build)
+-   [![](/images/heroes/diggie.webp)Diggie58.3%](https://boostmlbb.ru/en/heroes/diggie.html#build)
+-   [![](/images/heroes/phoveus.webp)Phoveus56.1%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Gatotkaca50.8%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/johnson.webp)Johnson55.9%](https://boostmlbb.ru/en/heroes/johnson.html#build)
+-   [![](/images/heroes/grock.webp)Grock54.0%](https://boostmlbb.ru/en/heroes/grock.html#build)
+-   [![](/images/heroes/chip.webp)Chip53.0%](https://boostmlbb.ru/en/heroes/chip.html#build)
+-   [![](/images/heroes/franco.webp)Franco44.3%](https://boostmlbb.ru/en/heroes/franco.html#build)
+-   [![](/images/heroes/baxia.webp)Baxia51.8%](https://boostmlbb.ru/en/heroes/baxia.html#build)
 
 ## Story
 
@@ -90,4 +88,4 @@ What does Antique Cuirass give?
 
 Which heroes build Antique Cuirass?
 
-It is in the popular ranked builds of 14 heroes, among them Carmilla, Atlas, Uranus, Badang, Khufra and Diggie.
+It is in the popular ranked builds of 12 heroes, among them Carmilla, Atlas, Badang, Khufra, Diggie and Phoveus.

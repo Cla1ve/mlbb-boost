@@ -1,6 +1,6 @@
 ---
 title: "Selena MLBB: build, combos and counters | MLBB Boost"
-description: "Selena in Mobile Legends: ranked build, skill combos, how to play and who counters Selena. Assassin and mage, 48.32% win rate, tier A."
+description: "Selena in Mobile Legends: ranked build, skill combos, how to play and who counters Selena. Assassin and mage, 48.35% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
@@ -19,7 +19,7 @@ A
 
 Win rate
 
-48.3%
+48.4%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-3.6%
+3.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.3%**![](/images/ranks/Epic.webp)Epic
-2.  **48.9%**![](/images/ranks/Legend.webp)Legend
+2.  **49.0%**![](/images/ranks/Legend.webp)Legend
 3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -69,72 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.9%
+53.2%
 
 Pick rate
 
-5.1%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3106.webp)
-
-    Starlium Scythe
-
-
-
-    ](https://boostmlbb.ru/en/items/starlium-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3110.webp)
-
-    Lightning Truncheon
-
-
-
-    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Divine Glaive
-
-
-
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Inspire
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Wilderness Blessing
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Lethal Ignition
-
-
-Win rate
-
-53.1%
-
-Pick rate
-
-3.6%
+4.8%
 
 #### Core items
 
@@ -191,11 +130,72 @@ Mage
 
 Win rate
 
-54.5%
+57.3%
 
 Pick rate
 
-2.1%
+4.1%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
+
+    Starlium Scythe
+
+
+
+    ](https://boostmlbb.ru/en/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
+Win rate
+
+54.4%
+
+Pick rate
+
+2.0%
 
 #### Core items
 
@@ -343,7 +343,7 @@ Cooldown **5.5 s**
 
 ### Who counters Selena
 
-[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
+[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ### Who Selena counters
 
@@ -369,7 +369,7 @@ Cooldown **5.5 s**
 
 Who counters Selena in MLBB?
 
-Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatrix and Yin.
+Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatrix and Helcurt.
 
 How do you play Selena?
 
@@ -377,7 +377,7 @@ Level "Abyssal Trap" first and take the ultimate whenever it is available. Stron
 
 What is Selena’s win rate right now?
 
-48.32% at Mythical Glory over the last 7 days and 48.42% across all ranks over 30 days, as of 25 November 2026.
+48.35% at Mythical Glory over the last 7 days and 48.44% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Selena play?
 
@@ -385,8 +385,8 @@ Assassin and mage, played in the Mid Lane.
 
 Is Selena strong in the current meta?
 
-Tier A, #25 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.6% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
+Tier A, #25 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.5% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
 
 What is the best build for Selena?
 
-The most popular ranked build: Starlium Scythe, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Inspire, Wilderness Blessing and Lethal Ignition, and Flicker. It wins 56.94% of matches.
+The most popular ranked build: Starlium Scythe, Glowing Wand and Wishing Lantern as core items, the Mage emblem with Inspire, Wilderness Blessing and Lethal Ignition, and Flicker. It wins 53.21% of matches.

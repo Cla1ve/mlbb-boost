@@ -1,6 +1,6 @@
 ---
 title: "Belerick MLBB: build, combos and counters | MLBB Boost"
-description: "Belerick in Mobile Legends: ranked build, skill combos, how to play and who counters Belerick. Tank, 50.45% win rate, tier S."
+description: "Belerick in Mobile Legends: ranked build, skill combos, how to play and who counters Belerick. Tank, 50.47% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/belerick.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-56.6%
+56.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **56.0%**![](/images/ranks/Epic.webp)Epic
 2.  **54.6%**![](/images/ranks/Legend.webp)Legend
-3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-61.7%
+61.4%
 
 Pick rate
 
-2.3%
+3.0%
 
 #### Core items
 
@@ -129,7 +129,7 @@ Tank
 
 Win rate
 
-61.1%
+61.2%
 
 Pick rate
 
@@ -194,7 +194,7 @@ Win rate
 
 Pick rate
 
-1.7%
+1.4%
 
 #### Core items
 
@@ -368,7 +368,7 @@ Level "Ancient Seed" first and take the ultimate whenever it is available. Stron
 
 What is Belerick’s win rate right now?
 
-50.45% at Mythical Glory over the last 7 days and 51.84% across all ranks over 30 days, as of 25 November 2026.
+50.47% at Mythical Glory over the last 7 days and 51.84% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Belerick play?
 
@@ -376,8 +376,8 @@ Tank, played on roam.
 
 Is Belerick strong in the current meta?
 
-Tier S, #10 of 133 heroes and #3 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 56.6% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 38.0% of them.
+Tier S, #10 of 133 heroes and #3 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 56.7% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 38.0% of them.
 
 What is the best build for Belerick?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Guardian Helmet as core items, the Tank emblem with Vitality, Wilderness Blessing and Brave Smite, and Vengeance. It wins 61.66% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Guardian Helmet as core items, the Tank emblem with Vitality, Wilderness Blessing and Brave Smite, and Vengeance. It wins 61.37% of matches.

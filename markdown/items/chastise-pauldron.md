@@ -53,25 +53,22 @@ Chastise Pauldron
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/carmilla.webp)Кармилла58,4%](https://boostmlbb.ru/heroes/carmilla.html#build)
--   [![](/images/heroes/belerick.webp)Белерик61,1%](https://boostmlbb.ru/heroes/belerick.html#build)
--   [![](/images/heroes/atlas.webp)Атлас56,3%](https://boostmlbb.ru/heroes/atlas.html#build)
--   [![](/images/heroes/alice.webp)Алиса58,8%](https://boostmlbb.ru/heroes/alice.html#build)
--   [![](/images/heroes/minotaur.webp)Минотавр63,5%](https://boostmlbb.ru/heroes/minotaur.html#build)
+-   [![](/images/heroes/carmilla.webp)Кармилла58,3%](https://boostmlbb.ru/heroes/carmilla.html#build)
+-   [![](/images/heroes/belerick.webp)Белерик61,2%](https://boostmlbb.ru/heroes/belerick.html#build)
+-   [![](/images/heroes/atlas.webp)Атлас55,8%](https://boostmlbb.ru/heroes/atlas.html#build)
+-   [![](/images/heroes/minotaur.webp)Минотавр63,4%](https://boostmlbb.ru/heroes/minotaur.html#build)
 -   [![](/images/heroes/sora.webp)Сора56,8%](https://boostmlbb.ru/heroes/sora.html#build)
--   [![](/images/heroes/uranus.webp)Уранус56,4%](https://boostmlbb.ru/heroes/uranus.html#build)
--   [![](/images/heroes/badang.webp)Баданг57,3%](https://boostmlbb.ru/heroes/badang.html#build)
--   [![](/images/heroes/khufra.webp)Хуфра60,9%](https://boostmlbb.ru/heroes/khufra.html#build)
--   [![](/images/heroes/fredrinn.webp)Фредрин60,5%](https://boostmlbb.ru/heroes/fredrinn.html#build)
--   [![](/images/heroes/hilda.webp)Хильда59,0%](https://boostmlbb.ru/heroes/hilda.html#build)
--   [![](/images/heroes/akai.webp)Акай56,5%](https://boostmlbb.ru/heroes/akai.html#build)
+-   [![](/images/heroes/badang.webp)Баданг57,5%](https://boostmlbb.ru/heroes/badang.html#build)
+-   [![](/images/heroes/khufra.webp)Хуфра60,6%](https://boostmlbb.ru/heroes/khufra.html#build)
+-   [![](/images/heroes/fredrinn.webp)Фредрин60,1%](https://boostmlbb.ru/heroes/fredrinn.html#build)
+-   [![](/images/heroes/hilda.webp)Хильда58,8%](https://boostmlbb.ru/heroes/hilda.html#build)
+-   [![](/images/heroes/akai.webp)Акай56,3%](https://boostmlbb.ru/heroes/akai.html#build)
 -   [![](/images/heroes/khaleed.webp)Халид55,7%](https://boostmlbb.ru/heroes/khaleed.html#build)
--   [![](/images/heroes/hylos.webp)Хилос55,0%](https://boostmlbb.ru/heroes/hylos.html#build)
 -   [![](/images/heroes/grock.webp)Грок51,0%](https://boostmlbb.ru/heroes/grock.html#build)
--   [![](/images/heroes/lolita.webp)Лолита59,4%](https://boostmlbb.ru/heroes/lolita.html#build)
--   [![](/images/heroes/balmond.webp)Бальмонд53,2%](https://boostmlbb.ru/heroes/balmond.html#build)
--   [![](/images/heroes/chip.webp)Чип53,2%](https://boostmlbb.ru/heroes/chip.html#build)
--   [![](/images/heroes/baxia.webp)Баксий55,6%](https://boostmlbb.ru/heroes/baxia.html#build)
+-   [![](/images/heroes/lolita.webp)Лолита58,4%](https://boostmlbb.ru/heroes/lolita.html#build)
+-   [![](/images/heroes/balmond.webp)Бальмонд52,8%](https://boostmlbb.ru/heroes/balmond.html#build)
+-   [![](/images/heroes/chip.webp)Чип53,0%](https://boostmlbb.ru/heroes/chip.html#build)
+-   [![](/images/heroes/baxia.webp)Баксий54,9%](https://boostmlbb.ru/heroes/baxia.html#build)
 
 ## История
 
@@ -101,4 +98,4 @@ Chastise Pauldron
 
 Каким героям собирать «Наплечник наказания»?
 
-Предмет есть в популярных сборках 19 героев в рейтинге, среди них Кармилла, Белерик, Атлас, Алиса, Минотавр и Сора.
+Предмет есть в популярных сборках 16 героев в рейтинге, среди них Кармилла, Белерик, Атлас, Минотавр, Сора и Баданг.

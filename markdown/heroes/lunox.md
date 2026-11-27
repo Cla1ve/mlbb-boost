@@ -1,6 +1,6 @@
 ---
 title: "Люнокс MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Люнокс, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Люнокс. Маг, 51,90% побед, тир B."
+description: "Люнокс, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Люнокс. Маг, 51,91% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lunox.html
 language: ru
 ---
@@ -45,11 +45,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,1%**![](/images/ranks/Legend.webp)Легенда
+1.  **50,1%**![](/images/ranks/Epic.webp)Эпик
+2.  **50,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **51,1%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -68,7 +68,7 @@ B
 
 Победы
 
-53,4%
+53,9%
 
 Выбор
 
@@ -129,11 +129,11 @@ B
 
 Победы
 
-55,4%
+55,7%
 
 Выбор
 
-3,9%
+3,6%
 
 #### Основные предметы
 
@@ -194,7 +194,7 @@ B
 
 Выбор
 
-2,4%
+3,0%
 
 #### Основные предметы
 
@@ -352,7 +352,7 @@ B
 
 ### Кого контрит Люнокс
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)
 
 ## Скины Люнокс
 
@@ -382,7 +382,7 @@ B
 
 Какой процент побед у Люнокс сейчас?
 
-51,90% в Мифической славе за последние 7 дней и 50,95% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,91% в Мифической славе за последние 7 дней и 51,04% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Люнокс?
 
@@ -394,4 +394,4 @@ B
 
 Какая сборка на Люнокс лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Пронзающий небеса», «Божественный меч» и «Палочка гения», эмблема убийцы с талантами «Разрыв», «Охотник за скидками» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 53,43% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Пронзающий небеса», «Божественный меч» и «Палочка гения», эмблема убийцы с талантами «Разрыв», «Охотник за скидками» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 53,94% матчей.

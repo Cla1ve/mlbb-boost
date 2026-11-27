@@ -47,7 +47,7 @@ Ban rate
 
 1.  **51.0%**![](/images/ranks/Epic.webp)Epic
 2.  **49.9%**![](/images/ranks/Legend.webp)Legend
-3.  **49.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-51.7%
+51.5%
 
 Pick rate
 
-5.9%
+6.5%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Marksman
 
 Win rate
 
-56.0%
+55.7%
 
 Pick rate
 
-5.1%
+4.8%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Marksman
 
 Win rate
 
-54.5%
+54.4%
 
 Pick rate
 
-3.3%
+3.9%
 
 #### Core items
 
@@ -382,7 +382,7 @@ Level "Renner's Apathy" first and take the ultimate whenever it is available. Ev
 
 What is Beatrix’s win rate right now?
 
-50.52% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 25 November 2026.
+50.52% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Beatrix play?
 
@@ -394,4 +394,4 @@ Tier C, #70 of 133 heroes and #13 among marksmen. The tier counts how often the 
 
 What is the best build for Beatrix?
 
-The most popular ranked build: Blade of Despair, Malefic Gun and Sea Halberd as core items, the Marksman emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 51.69% of matches.
+The most popular ranked build: Blade of Despair, Malefic Gun and Sea Halberd as core items, the Marksman emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 51.55% of matches.

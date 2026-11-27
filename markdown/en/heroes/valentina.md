@@ -1,6 +1,6 @@
 ---
 title: "Valentina MLBB: build, combos and counters | MLBB Boost"
-description: "Valentina in Mobile Legends: ranked build, skill combos, how to play and who counters Valentina. Mage, 44.64% win rate, tier B."
+description: "Valentina in Mobile Legends: ranked build, skill combos, how to play and who counters Valentina. Mage, 44.60% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/valentina.html
 language: en
 ---
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **42.4%**![](/images/ranks/Epic.webp)Epic
+1.  **42.5%**![](/images/ranks/Epic.webp)Epic
 2.  **42.3%**![](/images/ranks/Legend.webp)Legend
-3.  **42.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **42.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **44.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **45.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-51.0%
+50.9%
 
 Pick rate
 
-7.8%
+7.1%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-49.2%
+48.8%
 
 Pick rate
 
-5.6%
+6.7%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-52.7%
+52.4%
 
 Pick rate
 
-4.8%
+4.4%
 
 #### Core items
 
@@ -340,11 +340,11 @@ If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Powe
 
 ### Who counters Valentina
 
-[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)
 
 ### Who Valentina counters
 
-[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
+[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Valentina skins
 
@@ -366,7 +366,7 @@ If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Powe
 
 Who counters Valentina in MLBB?
 
-Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lukas and Lolita.
+Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lolita and Lukas.
 
 How do you play Valentina?
 
@@ -374,7 +374,7 @@ Level "Shadow Strike" first and take the ultimate whenever it is available. Even
 
 What is Valentina’s win rate right now?
 
-44.64% at Mythical Glory over the last 7 days and 44.64% across all ranks over 30 days, as of 25 November 2026.
+44.60% at Mythical Glory over the last 7 days and 44.61% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Valentina play?
 
@@ -386,4 +386,4 @@ Tier B, #55 of 133 heroes and #13 among mages. The tier counts how often the her
 
 What is the best build for Valentina?
 
-The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 51.00% of matches.
+The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 50.85% of matches.

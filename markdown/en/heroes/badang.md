@@ -1,6 +1,6 @@
 ---
 title: "Badang MLBB: build, combos and counters | MLBB Boost"
-description: "Badang in Mobile Legends: ranked build, skill combos, how to play and who counters Badang. Fighter, 49.91% win rate, tier B."
+description: "Badang in Mobile Legends: ranked build, skill combos, how to play and who counters Badang. Fighter, 49.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/badang.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-5.0%
+5.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -68,7 +68,7 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.3%
+57.5%
 
 Pick rate
 
@@ -129,11 +129,11 @@ Support
 
 Win rate
 
-57.2%
+57.3%
 
 Pick rate
 
-1.4%
+1.5%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Support
 
 Win rate
 
-57.6%
+57.5%
 
 Pick rate
 
-1.2%
+1.1%
 
 #### Core items
 
@@ -366,7 +366,7 @@ Level "Fist Wind" first and take the ultimate whenever it is available. Even thr
 
 What is Badang’s win rate right now?
 
-49.91% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 25 November 2026.
+49.90% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Badang play?
 
@@ -374,8 +374,8 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Badang strong in the current meta?
 
-Tier B, #43 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.0% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
+Tier B, #43 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.1% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
 
 What is the best build for Badang?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Chastise Pauldron as core items, the Support emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 57.33% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Chastise Pauldron as core items, the Support emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 57.45% of matches.

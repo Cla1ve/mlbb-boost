@@ -1,6 +1,6 @@
 ---
 title: "Hanabi MLBB: build, combos and counters | MLBB Boost"
-description: "Hanabi in Mobile Legends: ranked build, skill combos, how to play and who counters Hanabi. Marksman, 51.40% win rate, tier B."
+description: "Hanabi in Mobile Legends: ranked build, skill combos, how to play and who counters Hanabi. Marksman, 51.44% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.5%
+59.4%
 
 Pick rate
 
-13.7%
+14.3%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-58.7%
+58.9%
 
 Pick rate
 
-8.8%
+10.3%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Marksman
 
 Win rate
 
-58.6%
+59.3%
 
 Pick rate
 
-8.4%
+7.6%
 
 #### Core items
 
@@ -208,15 +208,6 @@ Pick rate
     ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
 -   [
 
-    ![](/images/mlbb/items/2009.webp)
-
-    Golden Staff
-
-
-
-    ](https://boostmlbb.ru/en/items/golden-staff.html)
--   [
-
     ![](/images/mlbb/items/2006.webp)
 
     Demon Hunter Sword
@@ -224,6 +215,15 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
 
 #### Spell
 
@@ -243,9 +243,9 @@ Fighter
 
     Bargain Hunter
 
--   ![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-    Quantum Charge
+    Weakness Finder
 
 
 ## How to play Hanabi
@@ -336,7 +336,7 @@ Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physi
 
 ### Who Hanabi counters
 
-[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Hanabi skins
 
@@ -366,7 +366,7 @@ Level "Ninjutsu: Soul Scroll" first and take the ultimate whenever it is availab
 
 What is Hanabi’s win rate right now?
 
-51.40% at Mythical Glory over the last 7 days and 52.70% across all ranks over 30 days, as of 25 November 2026.
+51.44% at Mythical Glory over the last 7 days and 52.72% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Hanabi play?
 
@@ -378,4 +378,4 @@ Tier B, #45 of 133 heroes and #7 among marksmen. The tier counts how often the h
 
 What is the best build for Hanabi?
 
-The most popular ranked build: Corrosion Scythe, Golden Staff and Demon Hunter Sword as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Aegis. It wins 59.46% of matches.
+The most popular ranked build: Corrosion Scythe, Golden Staff and Demon Hunter Sword as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Aegis. It wins 59.44% of matches.

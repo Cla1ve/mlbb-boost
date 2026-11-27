@@ -1,6 +1,6 @@
 ---
 title: "Ванван MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ванван, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ванван. Стрелок, 47,11% побед, тир D."
+description: "Ванван, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ванван. Стрелок, 47,07% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/wanwan.html
 language: ru
 ---
@@ -45,9 +45,9 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **45,7%**![](/images/ranks/Epic.webp)Эпик
+1.  **45,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,0%**![](/images/ranks/Mythic.webp)Мифик
+3.  **47,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,3%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **47,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -63,77 +63,7 @@ D
 
 ## Сборка
 
-Сборка 1Сборка 2Сборка 3
-
-Победы
-
-49,3%
-
-Выбор
-
-3,8%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Коса коррозии
-
-
-
-    ](https://boostmlbb.ru/items/corrosion-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3005.webp)
-
-    Говорящий с ветром
-
-
-
-    ](https://boostmlbb.ru/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/2006.webp)
-
-    Меч охотника на демонов
-
-
-
-    ](https://boostmlbb.ru/items/demon-hunter-sword.html)
--   [
-
-    ![](/images/mlbb/items/2011.webp)
-
-    Ветер природы
-
-
-
-    ](https://boostmlbb.ru/items/wind-of-nature.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20030.webp)Вдохновение
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
--   ![](/images/mlbb/talents/112.webp)
-
-    Проворность
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Мастер оружий
-
--   ![](/images/mlbb/talents/1231.webp)
-
-    Точно в цель
-
+Сборка 1Сборка 2
 
 Победы
 
@@ -141,7 +71,7 @@ D
 
 Выбор
 
-3,1%
+3,8%
 
 #### Основные предметы
 
@@ -207,11 +137,11 @@ D
 
 Победы
 
-58,9%
+61,8%
 
 Выбор
 
-3,0%
+2,3%
 
 #### Основные предметы
 
@@ -235,15 +165,6 @@ D
     ](https://boostmlbb.ru/items/windtalker.html)
 -   [
 
-    ![](/images/mlbb/items/3012.webp)
-
-    Золотой метеор
-
-
-
-    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
--   [
-
     ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
@@ -251,6 +172,15 @@ D
 
 
     ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
 
 #### Заклинание
 
@@ -266,9 +196,9 @@ D
 
     Проворность
 
--   ![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-    Мастер оружий
+    Охотник за скидками
 
 -   ![](/images/mlbb/talents/1231.webp)
 
@@ -359,7 +289,7 @@ D
 
 ### Кого контрит Ванван
 
-[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Скины Ванван
 
@@ -389,7 +319,7 @@ D
 
 Какой процент побед у Ванван сейчас?
 
-47,11% в Мифической славе за последние 7 дней и 47,52% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,07% в Мифической славе за последние 7 дней и 47,50% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Ванван?
 
@@ -401,4 +331,4 @@ D
 
 Какая сборка на Ванван лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Говорящий с ветром», «Меч охотника на демонов» и «Ветер природы», эмблема стрелка с талантами «Проворность», «Мастер оружий» и «Точно в цель» и заклинание «Вдохновение». С ней выигрывают 49,34% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Говорящий с ветром», «Золотой метеор» и «Когти Хааса», эмблема стрелка с талантами «Проворность», «Мастер-убийца» и «Точно в цель» и заклинание «Вдохновение». С ней выигрывают 57,47% матчей.

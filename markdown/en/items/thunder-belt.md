@@ -47,21 +47,21 @@ Parts cost 1,140, assembly adds 680 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/masha.webp)Masha63.7%](https://boostmlbb.ru/en/heroes/masha.html#build)
--   [![](/images/heroes/marcel.webp)Marcel64.6%](https://boostmlbb.ru/en/heroes/marcel.html#build)
--   [![](/images/heroes/belerick.webp)Belerick61.7%](https://boostmlbb.ru/en/heroes/belerick.html#build)
--   [![](/images/heroes/sun.webp)Sun59.7%](https://boostmlbb.ru/en/heroes/sun.html#build)
+-   [![](/images/heroes/masha.webp)Masha63.0%](https://boostmlbb.ru/en/heroes/masha.html#build)
+-   [![](/images/heroes/marcel.webp)Marcel64.5%](https://boostmlbb.ru/en/heroes/marcel.html#build)
+-   [![](/images/heroes/belerick.webp)Belerick61.4%](https://boostmlbb.ru/en/heroes/belerick.html#build)
+-   [![](/images/heroes/sun.webp)Sun59.6%](https://boostmlbb.ru/en/heroes/sun.html#build)
 -   [![](/images/heroes/kaja.webp)Kaja55.8%](https://boostmlbb.ru/en/heroes/kaja.html#build)
 -   [![](/images/heroes/uranus.webp)Uranus58.6%](https://boostmlbb.ru/en/heroes/uranus.html#build)
--   [![](/images/heroes/badang.webp)Badang57.3%](https://boostmlbb.ru/en/heroes/badang.html#build)
+-   [![](/images/heroes/badang.webp)Badang57.5%](https://boostmlbb.ru/en/heroes/badang.html#build)
 -   [![](/images/heroes/khufra.webp)Khufra61.7%](https://boostmlbb.ru/en/heroes/khufra.html#build)
--   [![](/images/heroes/phoveus.webp)Phoveus56.2%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
--   [![](/images/heroes/hilda.webp)Hilda58.2%](https://boostmlbb.ru/en/heroes/hilda.html#build)
--   [![](/images/heroes/aldous.webp)Aldous62.0%](https://boostmlbb.ru/en/heroes/aldous.html#build)
--   [![](/images/heroes/gatotkaca.webp)Gatotkaca57.1%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
--   [![](/images/heroes/hanzo.webp)Hanzo53.9%](https://boostmlbb.ru/en/heroes/hanzo.html#build)
+-   [![](/images/heroes/phoveus.webp)Phoveus56.1%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
+-   [![](/images/heroes/hilda.webp)Hilda58.4%](https://boostmlbb.ru/en/heroes/hilda.html#build)
+-   [![](/images/heroes/aldous.webp)Aldous62.2%](https://boostmlbb.ru/en/heroes/aldous.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Gatotkaca57.3%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/hanzo.webp)Hanzo53.8%](https://boostmlbb.ru/en/heroes/hanzo.html#build)
 -   [![](/images/heroes/khaleed.webp)Khaleed55.7%](https://boostmlbb.ru/en/heroes/khaleed.html#build)
--   [![](/images/heroes/hylos.webp)Hylos55.0%](https://boostmlbb.ru/en/heroes/hylos.html#build)
+-   [![](/images/heroes/hylos.webp)Hylos54.9%](https://boostmlbb.ru/en/heroes/hylos.html#build)
 -   [![](/images/heroes/grock.webp)Grock51.0%](https://boostmlbb.ru/en/heroes/grock.html#build)
 
 ## Story

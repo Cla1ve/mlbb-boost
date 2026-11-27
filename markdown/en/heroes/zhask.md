@@ -1,6 +1,6 @@
 ---
 title: "Zhask MLBB: build, combos and counters | MLBB Boost"
-description: "Zhask in Mobile Legends: ranked build, skill combos, how to play and who counters Zhask. Mage, 51.67% win rate, tier C."
+description: "Zhask in Mobile Legends: ranked build, skill combos, how to play and who counters Zhask. Mage, 51.71% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zhask.html
 language: en
 ---
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **52.7%**![](/images/ranks/Epic.webp)Epic
 2.  **53.1%**![](/images/ranks/Legend.webp)Legend
-3.  **53.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **53.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -59,7 +59,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**26 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mages**27 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
 -   [Best MLBB mid laners**24 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.5%
+58.6%
 
 Pick rate
 
-5.6%
+5.7%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-58.6%
+58.3%
 
 Pick rate
 
-3.6%
+4.0%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-55.1%
+58.3%
 
 Pick rate
 
-2.8%
+2.6%
 
 #### Core items
 
@@ -218,13 +218,13 @@ Pick rate
     ](https://boostmlbb.ru/en/items/glowing-wand.html)
 -   [
 
-    ![](/images/mlbb/items/3101.webp)
+    ![](/images/mlbb/items/3102.webp)
 
-    Divine Glaive
+    Holy Crystal
 
 
 
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 
@@ -240,9 +240,9 @@ Mage
 
     Rupture
 
--   ![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-    Weapons Master
+    Bargain Hunter
 
 -   ![](/images/mlbb/talents/131.webp)
 
@@ -386,7 +386,7 @@ Level "Nightmaric Spawn" first and take the ultimate whenever it is available. S
 
 What is Zhask’s win rate right now?
 
-51.67% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 25 November 2026.
+51.71% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Zhask play?
 
@@ -394,8 +394,8 @@ Mage, played in the Mid Lane.
 
 Is Zhask strong in the current meta?
 
-Tier C, #105 of 133 heroes and #26 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #106 of 133 heroes and #27 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Zhask?
 
-The most popular ranked build: Glowing Wand, Genius Wand and Holy Crystal as core items, the Mage emblem with Rupture, Bargain Hunter and Impure Rage, and Flicker. It wins 58.52% of matches.
+The most popular ranked build: Glowing Wand, Genius Wand and Holy Crystal as core items, the Mage emblem with Rupture, Bargain Hunter and Impure Rage, and Flicker. It wins 58.57% of matches.

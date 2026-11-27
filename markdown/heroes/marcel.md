@@ -1,6 +1,6 @@
 ---
 title: "Марсель MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Марсель, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Марселя. Поддержка, 56,99% побед, тир S."
+description: "Марсель, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Марселя. Поддержка, 56,93% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/marcel.html
 language: ru
 ---
@@ -19,7 +19,7 @@ S
 
 Победы
 
-57,0%
+56,9%
 
 Выбор
 
@@ -27,7 +27,7 @@ S
 
 Баны
 
-70,0%
+69,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -45,8 +45,8 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **55,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **56,9%**![](/images/ranks/Legend.webp)Легенда
+1.  **55,5%**![](/images/ranks/Epic.webp)Эпик
+2.  **56,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **57,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **57,9%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **57,3%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -67,11 +67,11 @@ S
 
 Победы
 
-64,6%
+64,5%
 
 Выбор
 
-11,7%
+11,5%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ S
 
 Победы
 
-57,9%
+58,0%
 
 Выбор
 
-10,8%
+11,1%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ S
 
 Победы
 
-64,1%
+63,9%
 
 Выбор
 
-9,3%
+9,9%
 
 #### Основные предметы
 
@@ -343,7 +343,7 @@ S
 
 ### Кого контрит Марсель
 
-[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ## Скины Марселя
 
@@ -373,7 +373,7 @@ S
 
 Какой процент побед у Марселя сейчас?
 
-56,99% в Мифической славе за последние 7 дней и 57,39% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+56,93% в Мифической славе за последние 7 дней и 57,37% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Марселя?
 
@@ -381,8 +381,8 @@ S
 
 Стоит ли брать Марселя в текущей мете?
 
-Тир S, 2-е место из 133 героев и 1-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 70,0% матчей, 57,0% побед. В профессиональных матчах за месяц героя драфтуют в 87,7% катков.
+Тир S, 2-е место из 133 героев и 1-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 69,9% матчей, 56,9% побед. В профессиональных матчах за месяц героя драфтуют в 87,7% катков.
 
 Какая сборка на Марселя лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Господство льда» и «Фляга Оазиса», эмблема поддержки с талантами «Ловкость», «Благословение природы» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 64,63% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Господство льда» и «Фляга Оазиса», эмблема поддержки с талантами «Ловкость», «Благословение природы» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 64,46% матчей.

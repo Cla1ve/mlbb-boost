@@ -1,6 +1,6 @@
 ---
 title: "Barats MLBB: build, combos and counters | MLBB Boost"
-description: "Barats in Mobile Legends: ranked build, skill combos, how to play and who counters Barats. Tank and fighter, 51.56% win rate, tier A."
+description: "Barats in Mobile Legends: ranked build, skill combos, how to play and who counters Barats. Tank and fighter, 51.59% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/barats.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.5%
+59.4%
 
 Pick rate
 
-5.8%
+6.5%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Fighter
 
 Win rate
 
-61.1%
+60.6%
 
 Pick rate
 
-4.1%
+3.9%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Common
 
 Win rate
 
-55.5%
+55.6%
 
 Pick rate
 
@@ -367,7 +367,7 @@ Level "So-Called Teamwork" first and take the ultimate whenever it is available.
 
 What is Barats’s win rate right now?
 
-51.56% at Mythical Glory over the last 7 days and 51.66% across all ranks over 30 days, as of 25 November 2026.
+51.59% at Mythical Glory over the last 7 days and 51.65% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Barats play?
 
@@ -379,4 +379,4 @@ Tier A, #24 of 133 heroes and #8 among tanks. The tier counts how often the hero
 
 What is the best build for Barats?
 
-The most popular ranked build: War Axe, Queen's Wings and Brute Force Breastplate as core items, the Fighter emblem with Thrill, Festival of Blood and Concussive Blast, and Flicker. It wins 59.47% of matches.
+The most popular ranked build: War Axe, Queen's Wings and Brute Force Breastplate as core items, the Fighter emblem with Thrill, Festival of Blood and Concussive Blast, and Flicker. It wins 59.35% of matches.

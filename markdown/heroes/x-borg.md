@@ -1,6 +1,6 @@
 ---
 title: "Икс.Борг MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Икс.Борг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Икс.Борга. Боец, 49,00% побед, тир C."
+description: "Икс.Борг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Икс.Борга. Боец, 48,98% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/x-borg.html
 language: ru
 ---
@@ -67,11 +67,11 @@ C
 
 Победы
 
-55,2%
+55,0%
 
 Выбор
 
-6,0%
+6,6%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ C
 
 Победы
 
-54,9%
+55,3%
 
 Выбор
 
-2,4%
+2,1%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ C
 
 Победы
 
-51,7%
+52,0%
 
 Выбор
 
-1,7%
+1,6%
 
 #### Основные предметы
 
@@ -336,11 +336,11 @@ C
 
 ### Кто контрит Икс.Борга
 
-[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
 ### Кого контрит Икс.Борг
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
 
 ## Скины Икс.Борга
 
@@ -362,7 +362,7 @@ C
 
 Кто контрит Икс.Борга в MLBB?
 
-За последние 30 дней Икс.Борга чаще всего обыгрывают Баксий, Бартс, Тэризла, Фовиус и Хилос.
+За последние 30 дней Икс.Борга чаще всего обыгрывают Баксий, Бартс, Тэризла, Фовиус и Мартис.
 
 Как играть за Икс.Борга?
 
@@ -370,7 +370,7 @@ C
 
 Какой процент побед у Икс.Борга сейчас?
 
-49,00% в Мифической славе за последние 7 дней и 49,94% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,98% в Мифической славе за последние 7 дней и 49,94% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Икс.Борга?
 
@@ -382,4 +382,4 @@ C
 
 Какая сборка на Икс.Борга лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Господство льда» и «Кираса грубой силы», эмблема танка с талантами «Ловкость», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 55,18% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Господство льда» и «Кираса грубой силы», эмблема танка с талантами «Ловкость», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 55,02% матчей.

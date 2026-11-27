@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие бойцы MLBB
 
-44 героя · Обновлено 25 ноября
+44 героя · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди бойцов сейчас лидируют Маша, Фрейя и Калеа. Маша: 58,8% побед и бан в 67,2% матчей Мифической славы за 7 дней. В списке 44 героя, из них 7 в тире S или A.
+Среди бойцов сейчас лидируют Маша, Фрейя и Калеа. Маша: 58,8% побед и бан в 66,8% матчей Мифической славы за 7 дней. В списке 44 героя, из них 7 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -37,7 +37,7 @@ S
 
 Баны
 
-67,2%
+66,8%
 
 [
 
@@ -83,7 +83,7 @@ S
 
 Победы
 
-51,8%
+51,9%
 
 Выбор
 
@@ -91,7 +91,7 @@ S
 
 Баны
 
-11,5%
+11,6%
 
 [
 
@@ -111,13 +111,13 @@ S
 
 ](https://boostmlbb.ru/items/war-axe.html)[
 
-![](/images/mlbb/items/3012.webp)
+![](/images/mlbb/items/3004.webp)
 
-Золотой метеор
+Бесконечная битва
 
 
 
-](https://boostmlbb.ru/items/rose-gold-meteor.html)
+](https://boostmlbb.ru/items/endless-battle.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -149,13 +149,13 @@ S
 
 [
 
-![](/images/mlbb/items/3204.webp)
+![](/images/mlbb/items/3109.webp)
 
-Оракул
+Мимолетное время
 
 
 
-](https://boostmlbb.ru/items/oracle.html)[
+](https://boostmlbb.ru/items/fleeting-time.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
@@ -165,13 +165,13 @@ S
 
 ](https://boostmlbb.ru/items/dominance-ice.html)[
 
-![](/images/mlbb/items/3109.webp)
+![](/images/mlbb/items/3204.webp)
 
-Мимолетное время
+Оракул
 
 
 
-](https://boostmlbb.ru/items/fleeting-time.html)
+](https://boostmlbb.ru/items/oracle.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -209,7 +209,7 @@ S
 
 0,7%
 
-67,2%
+66,8%
 
 100,0%
 
@@ -219,11 +219,11 @@ S
 
 S
 
-51,8%
+51,9%
 
 1,3%
 
-11,5%
+11,6%
 
 98,4%
 
@@ -251,7 +251,7 @@ S
 
 0,8%
 
-19,8%
+18,6%
 
 77,8%
 
@@ -261,11 +261,11 @@ S
 
 A
 
-50,1%
+50,2%
 
 1,4%
 
-10,7%
+10,5%
 
 69,3%
 
@@ -279,7 +279,7 @@ B
 
 1,5%
 
-58,5%
+59,0%
 
 —
 
@@ -303,11 +303,11 @@ A
 
 A
 
-50,9%
+50,8%
 
 0,9%
 
-30,8%
+29,7%
 
 2,9%
 
@@ -377,7 +377,7 @@ B
 
 1,5%
 
-5,0%
+5,1%
 
 2,7%
 
@@ -405,7 +405,7 @@ B
 
 1,1%
 
-0,9%
+1,0%
 
 5,2%
 
@@ -417,7 +417,7 @@ B
 
 51,3%
 
-1,0%
+1,1%
 
 1,3%
 
@@ -431,7 +431,7 @@ B
 
 57,4%
 
-0,5%
+0,6%
 
 0,6%
 
@@ -457,7 +457,7 @@ B
 
 B
 
-48,5%
+48,6%
 
 0,3%
 
@@ -485,7 +485,7 @@ B
 
 C
 
-52,4%
+52,5%
 
 0,5%
 
@@ -499,11 +499,11 @@ C
 
 C
 
-48,7%
+48,6%
 
 0,4%
 
-4,0%
+4,1%
 
 3,5%
 
@@ -601,7 +601,7 @@ C
 
 0,6%
 
-0,4%
+0,5%
 
 1,7%
 
@@ -621,6 +621,20 @@ C
 
 31
 
+[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
+
+C
+
+51,6%
+
+0,3%
+
+0,1%
+
+—
+
+32
+
 [![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 C
@@ -633,13 +647,13 @@ C
 
 1,0%
 
-32
+33
 
 [![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 C
 
-50,0%
+49,9%
 
 0,3%
 
@@ -647,7 +661,7 @@ C
 
 —
 
-33
+34
 
 [![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
 
@@ -660,20 +674,6 @@ C
 0,1%
 
 0,5%
-
-34
-
-[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
-
-C
-
-51,6%
-
-0,3%
-
-0,1%
-
-—
 
 35
 
@@ -765,7 +765,7 @@ C
 
 C
 
-47,5%
+47,6%
 
 0,3%
 
@@ -779,7 +779,7 @@ C
 
 C
 
-45,1%
+45,0%
 
 0,3%
 
@@ -807,7 +807,7 @@ D
 
 C
 
-44,9%
+44,8%
 
 0,3%
 
@@ -819,12 +819,12 @@ C
 
 -   [![](/images/mlbb/items/2013.webp)Топор войныу 21 из 44](https://boostmlbb.ru/items/war-axe.html)
 -   [![](/images/mlbb/items/2208.webp)Крылья королевыу 15 из 44](https://boostmlbb.ru/items/queens-wings.html)
--   [![](/images/mlbb/items/3009.webp)Удар охотникау 10 из 44](https://boostmlbb.ru/items/hunter-strike.html)
--   [![](/images/mlbb/items/3204.webp)Оракулу 8 из 44](https://boostmlbb.ru/items/oracle.html)
+-   [![](/images/mlbb/items/3009.webp)Удар охотникау 11 из 44](https://boostmlbb.ru/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3204.webp)Оракулу 9 из 44](https://boostmlbb.ru/items/oracle.html)
 -   [![](/images/mlbb/items/3208.webp)Кираса грубой силыу 8 из 44](https://boostmlbb.ru/items/brute-force-breastplate.html)
 -   [![](/images/mlbb/items/3001.webp)Злобный рыку 7 из 44](https://boostmlbb.ru/items/malefic-roar.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 18 и «Месть» у 9. Эмблема убийцы у 14, эмблема бойца у 14.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 18 и «Месть» у 9. Эмблема бойца у 15, эмблема убийцы у 14.
 
 ## Кого брать в соло
 
@@ -832,10 +832,10 @@ C
 
 1.  [![](/images/heroes/argus.webp)Аргус57,1%](https://boostmlbb.ru/heroes/argus.html)
 2.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
-3.  [![](/images/heroes/aulus.webp)Аулус52,8%](https://boostmlbb.ru/heroes/aulus.html)
-4.  [![](/images/heroes/minsitthar.webp)Минситтар52,8%](https://boostmlbb.ru/heroes/minsitthar.html)
-5.  [![](/images/heroes/benedetta.webp)Бенедетта52,7%](https://boostmlbb.ru/heroes/benedetta.html)
-6.  [![](/images/heroes/aldous.webp)Алдос52,6%](https://boostmlbb.ru/heroes/aldous.html)
+3.  [![](/images/heroes/minsitthar.webp)Минситтар52,8%](https://boostmlbb.ru/heroes/minsitthar.html)
+4.  [![](/images/heroes/aulus.webp)Аулус52,8%](https://boostmlbb.ru/heroes/aulus.html)
+5.  [![](/images/heroes/aldous.webp)Алдос52,7%](https://boostmlbb.ru/heroes/aldous.html)
+6.  [![](/images/heroes/benedetta.webp)Бенедетта52,7%](https://boostmlbb.ru/heroes/benedetta.html)
 
 ## Кто обыгрывает бойцов
 
@@ -843,9 +843,9 @@ C
 
 1.  [![](/images/heroes/saber.webp)Сабер11 из 44](https://boostmlbb.ru/heroes/saber.html)
 2.  [![](/images/heroes/helcurt.webp)Хелкарт9 из 44](https://boostmlbb.ru/heroes/helcurt.html)
-3.  [![](/images/heroes/natalia.webp)Наталья7 из 44](https://boostmlbb.ru/heroes/natalia.html)
-4.  [![](/images/heroes/odette.webp)Одетта7 из 44](https://boostmlbb.ru/heroes/odette.html)
-5.  [![](/images/heroes/phoveus.webp)Фовиус7 из 44](https://boostmlbb.ru/heroes/phoveus.html)
+3.  [![](/images/heroes/phoveus.webp)Фовиус8 из 44](https://boostmlbb.ru/heroes/phoveus.html)
+4.  [![](/images/heroes/lolita.webp)Лолита7 из 44](https://boostmlbb.ru/heroes/lolita.html)
+5.  [![](/images/heroes/natalia.webp)Наталья7 из 44](https://boostmlbb.ru/heroes/natalia.html)
 6.  [![](/images/heroes/x-borg.webp)Икс.Борг7 из 44](https://boostmlbb.ru/heroes/x-borg.html)
 
 **Поднимем ранг на любом из бойцов**Цена считается в калькуляторе
@@ -856,7 +856,7 @@ C
 
 Кто лучший боец в MLBB сейчас?
 
-Маша: тир S, 58,8% побед, бан в 67,2% матчей Мифической славы за 7 дней. Следом идут Фрейя и Калеа. Данные на 25 ноября 2026 года.
+Маша: тир S, 58,8% побед, бан в 66,8% матчей Мифической славы за 7 дней. Следом идут Фрейя и Калеа. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди бойцов?
 
@@ -864,12 +864,12 @@ C
 
 Каких бойцов чаще всего банят?
 
-Маша (67,2%), Сан (58,5%) и Лукас (30,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Маша (66,8%), Сан (59,0%) и Лукас (29,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько бойцов в Mobile Legends?
 
-44 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Боец».
+44 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Боец».
 
 Какие предметы чаще всего собирают на бойцах?
 
-В самой частой сборке героя чаще всего встречаются «Топор войны» (у 21 из 44), «Крылья королевы» (у 15 из 44) и «Удар охотника» (у 10 из 44). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Топор войны» (у 21 из 44), «Крылья королевы» (у 15 из 44) и «Удар охотника» (у 11 из 44). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

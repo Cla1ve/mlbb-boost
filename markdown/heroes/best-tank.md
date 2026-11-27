@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие танки MLBB
 
-25 героев · Обновлено 25 ноября
+25 героев · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди танков сейчас лидируют Маша, Кармилла и Белерик. Маша: 58,8% побед и бан в 67,2% матчей Мифической славы за 7 дней. В списке 25 героев, из них 9 в тире S или A.
+Среди танков сейчас лидируют Маша, Кармилла и Белерик. Маша: 58,8% побед и бан в 66,8% матчей Мифической славы за 7 дней. В списке 25 героев, из них 9 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -37,7 +37,7 @@ S
 
 Баны
 
-67,2%
+66,8%
 
 [
 
@@ -145,7 +145,7 @@ S
 
 Баны
 
-56,6%
+56,7%
 
 [
 
@@ -209,7 +209,7 @@ S
 
 0,7%
 
-67,2%
+66,8%
 
 100,0%
 
@@ -237,7 +237,7 @@ S
 
 1,7%
 
-56,6%
+56,7%
 
 38,0%
 
@@ -251,7 +251,7 @@ A
 
 1,0%
 
-8,3%
+8,2%
 
 75,1%
 
@@ -289,11 +289,11 @@ A
 
 A
 
-50,0%
+50,1%
 
 0,7%
 
-35,7%
+35,4%
 
 26,6%
 
@@ -317,7 +317,7 @@ A
 
 A
 
-53,5%
+53,6%
 
 1,4%
 
@@ -345,11 +345,11 @@ B
 
 B
 
-54,8%
+54,9%
 
 0,6%
 
-4,0%
+4,1%
 
 3,6%
 
@@ -363,7 +363,7 @@ B
 
 1,6%
 
-4,9%
+5,0%
 
 —
 
@@ -373,7 +373,7 @@ B
 
 C
 
-52,4%
+52,5%
 
 0,5%
 
@@ -387,11 +387,11 @@ C
 
 C
 
-48,7%
+48,6%
 
 0,4%
 
-4,0%
+4,1%
 
 3,5%
 
@@ -411,20 +411,6 @@ C
 
 16
 
-[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
-
-C
-
-52,4%
-
-0,3%
-
-0,1%
-
-—
-
-17
-
 [![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
 C
@@ -434,6 +420,20 @@ C
 0,5%
 
 0,7%
+
+—
+
+17
+
+[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
+
+C
+
+52,4%
+
+0,3%
+
+0,1%
 
 —
 
@@ -513,7 +513,7 @@ D
 
 D
 
-48,3%
+48,2%
 
 0,1%
 
@@ -541,7 +541,7 @@ C
 
 D
 
-45,9%
+46,0%
 
 0,1%
 
@@ -551,14 +551,14 @@ D
 
 ## Что собирают чаще всего
 
--   [![](/images/mlbb/items/3206.webp)Господство льдау 14 из 25](https://boostmlbb.ru/items/dominance-ice.html)
+-   [![](/images/mlbb/items/3206.webp)Господство льдау 13 из 25](https://boostmlbb.ru/items/dominance-ice.html)
 -   [![](/images/mlbb/items/2212.webp)Штормовой поясу 7 из 25](https://boostmlbb.ru/items/thunder-belt.html)
 -   [![](/images/mlbb/items/3204.webp)Оракулу 7 из 25](https://boostmlbb.ru/items/oracle.html)
--   [![](/images/mlbb/items/3203.webp)Древняя кирасау 5 из 25](https://boostmlbb.ru/items/antique-cuirass.html)
+-   [![](/images/mlbb/items/3203.webp)Древняя кирасау 6 из 25](https://boostmlbb.ru/items/antique-cuirass.html)
 -   [![](/images/mlbb/items/2208.webp)Крылья королевыу 4 из 25](https://boostmlbb.ru/items/queens-wings.html)
 -   [![](/images/mlbb/items/3109.webp)Мимолетное времяу 4 из 25](https://boostmlbb.ru/items/fleeting-time.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 8 и «Восстановление» у 6. Эмблема танка у 14, эмблема поддержки у 6.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 8 и «Восстановление» у 6. Эмблема танка у 15, эмблема поддержки у 5.
 
 ## Кого брать в соло
 
@@ -579,7 +579,7 @@ D
 2.  [![](/images/heroes/silvanna.webp)Сильвана6 из 25](https://boostmlbb.ru/heroes/silvanna.html)
 3.  [![](/images/heroes/zilong.webp)Зилонг6 из 25](https://boostmlbb.ru/heroes/zilong.html)
 4.  [![](/images/heroes/alucard.webp)Алукард5 из 25](https://boostmlbb.ru/heroes/alucard.html)
-5.  [![](/images/heroes/saber.webp)Сабер5 из 25](https://boostmlbb.ru/heroes/saber.html)
+5.  [![](/images/heroes/lolita.webp)Лолита5 из 25](https://boostmlbb.ru/heroes/lolita.html)
 6.  [![](/images/heroes/argus.webp)Аргус4 из 25](https://boostmlbb.ru/heroes/argus.html)
 
 **Поднимем ранг на любом из танков**Цена считается в калькуляторе
@@ -590,7 +590,7 @@ D
 
 Кто лучший танк в MLBB сейчас?
 
-Маша: тир S, 58,8% побед, бан в 67,2% матчей Мифической славы за 7 дней. Следом идут Кармилла и Белерик. Данные на 25 ноября 2026 года.
+Маша: тир S, 58,8% побед, бан в 66,8% матчей Мифической славы за 7 дней. Следом идут Кармилла и Белерик. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди танков?
 
@@ -598,12 +598,12 @@ D
 
 Каких танков чаще всего банят?
 
-Маша (67,2%), Белерик (56,6%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Маша (66,8%), Белерик (56,7%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько танков в Mobile Legends?
 
-25 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Танк».
+25 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Танк».
 
 Какие предметы чаще всего собирают на танках?
 
-В самой частой сборке героя чаще всего встречаются «Господство льда» (у 14 из 25), «Штормовой пояс» (у 7 из 25) и «Оракул» (у 7 из 25). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Господство льда» (у 13 из 25), «Штормовой пояс» (у 7 из 25) и «Оракул» (у 7 из 25). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

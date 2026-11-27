@@ -1,6 +1,6 @@
 ---
 title: "Grock MLBB: build, combos and counters | MLBB Boost"
-description: "Grock in Mobile Legends: ranked build, skill combos, how to play and who counters Grock. Tank and fighter, 45.79% win rate, tier C."
+description: "Grock in Mobile Legends: ranked build, skill combos, how to play and who counters Grock. Tank and fighter, 45.84% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
@@ -49,7 +49,7 @@ Ban rate
 2.  **47.9%**![](/images/ranks/Legend.webp)Legend
 3.  **47.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **46.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **45.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -73,7 +73,7 @@ Win rate
 
 Pick rate
 
-6.5%
+7.2%
 
 #### Core items
 
@@ -130,7 +130,7 @@ Tank
 
 Win rate
 
-54.3%
+54.4%
 
 Pick rate
 
@@ -191,11 +191,11 @@ Tank
 
 Win rate
 
-54.4%
+54.0%
 
 Pick rate
 
-2.6%
+3.8%
 
 #### Core items
 
@@ -369,7 +369,7 @@ Level "Mighty Swing" first and take the ultimate whenever it is available. Stron
 
 What is Grock’s win rate right now?
 
-45.79% at Mythical Glory over the last 7 days and 46.61% across all ranks over 30 days, as of 25 November 2026.
+45.84% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Grock play?
 
@@ -381,4 +381,4 @@ Tier C, #119 of 133 heroes and #21 among tanks. The tier counts how often the he
 
 What is the best build for Grock?
 
-The most popular ranked build: Thunder Belt, Radiant Armor and Chastise Pauldron as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 51.05% of matches.
+The most popular ranked build: Thunder Belt, Radiant Armor and Chastise Pauldron as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 51.00% of matches.

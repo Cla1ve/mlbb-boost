@@ -1,6 +1,6 @@
 ---
 title: "Joy MLBB: build, combos and counters | MLBB Boost"
-description: "Joy in Mobile Legends: ranked build, skill combos, how to play and who counters Joy. Assassin, 49.34% win rate, tier D."
+description: "Joy in Mobile Legends: ranked build, skill combos, how to play and who counters Joy. Assassin, 49.41% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/joy.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-49.3%
+49.4%
 
 Pick rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.9%
+54.6%
 
 Pick rate
 
-16.6%
+17.6%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-56.9%
+56.3%
 
 Pick rate
 
-12.6%
+13.3%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-51.9%
+52.6%
 
 Pick rate
 
-4.8%
+3.3%
 
 #### Core items
 
@@ -331,7 +331,7 @@ This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat
 
 ### Who counters Joy
 
-[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)
 
 ### Who Joy counters
 
@@ -357,7 +357,7 @@ This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat
 
 Who counters Joy in MLBB?
 
-Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Hanabi.
+Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Lylia.
 
 How do you play Joy?
 
@@ -365,7 +365,7 @@ Level "Meow, Rhythm of Joy!" first and take the ultimate whenever it is availabl
 
 What is Joy’s win rate right now?
 
-49.34% at Mythical Glory over the last 7 days and 48.78% across all ranks over 30 days, as of 25 November 2026.
+49.41% at Mythical Glory over the last 7 days and 48.77% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Joy play?
 
@@ -373,8 +373,8 @@ Assassin, played in the jungle.
 
 Is Joy strong in the current meta?
 
-Tier D, #115 of 133 heroes and #26 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
+Tier D, #115 of 133 heroes and #26 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Joy?
 
-The most popular ranked build: Genius Wand, Concentrated Energy and Holy Crystal as core items, the Mage emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 54.92% of matches.
+The most popular ranked build: Genius Wand, Concentrated Energy and Holy Crystal as core items, the Mage emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 54.63% of matches.

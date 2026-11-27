@@ -48,23 +48,23 @@ Lightning Truncheon
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/eudora.webp)Эйдора56,2%](https://boostmlbb.ru/heroes/eudora.html#build)
--   [![](/images/heroes/zetian.webp)Цзэтянь57,1%](https://boostmlbb.ru/heroes/zetian.html#build)
--   [![](/images/heroes/selena.webp)Селена56,9%](https://boostmlbb.ru/heroes/selena.html#build)
--   [![](/images/heroes/xavier.webp)Ксавьер58,9%](https://boostmlbb.ru/heroes/xavier.html#build)
--   [![](/images/heroes/harley.webp)Харли48,8%](https://boostmlbb.ru/heroes/harley.html#build)
--   [![](/images/heroes/valentina.webp)Валентина51,0%](https://boostmlbb.ru/heroes/valentina.html#build)
--   [![](/images/heroes/kagura.webp)Кагура54,8%](https://boostmlbb.ru/heroes/kagura.html#build)
--   [![](/images/heroes/novaria.webp)Новария56,0%](https://boostmlbb.ru/heroes/novaria.html#build)
--   [![](/images/heroes/kadita.webp)Кадита56,9%](https://boostmlbb.ru/heroes/kadita.html#build)
--   [![](/images/heroes/gusion.webp)Госсен55,7%](https://boostmlbb.ru/heroes/gusion.html#build)
--   [![](/images/heroes/vexana.webp)Вексана55,2%](https://boostmlbb.ru/heroes/vexana.html#build)
--   [![](/images/heroes/yve.webp)Ив58,0%](https://boostmlbb.ru/heroes/yve.html#build)
+-   [![](/images/heroes/eudora.webp)Эйдора56,3%](https://boostmlbb.ru/heroes/eudora.html#build)
+-   [![](/images/heroes/zetian.webp)Цзэтянь57,0%](https://boostmlbb.ru/heroes/zetian.html#build)
+-   [![](/images/heroes/selena.webp)Селена57,3%](https://boostmlbb.ru/heroes/selena.html#build)
+-   [![](/images/heroes/xavier.webp)Ксавьер59,4%](https://boostmlbb.ru/heroes/xavier.html#build)
+-   [![](/images/heroes/harley.webp)Харли48,6%](https://boostmlbb.ru/heroes/harley.html#build)
+-   [![](/images/heroes/valentina.webp)Валентина50,9%](https://boostmlbb.ru/heroes/valentina.html#build)
+-   [![](/images/heroes/kagura.webp)Кагура54,7%](https://boostmlbb.ru/heroes/kagura.html#build)
+-   [![](/images/heroes/novaria.webp)Новария53,7%](https://boostmlbb.ru/heroes/novaria.html#build)
+-   [![](/images/heroes/kadita.webp)Кадита56,6%](https://boostmlbb.ru/heroes/kadita.html#build)
+-   [![](/images/heroes/gusion.webp)Госсен55,5%](https://boostmlbb.ru/heroes/gusion.html#build)
+-   [![](/images/heroes/vexana.webp)Вексана55,0%](https://boostmlbb.ru/heroes/vexana.html#build)
+-   [![](/images/heroes/yve.webp)Ив57,7%](https://boostmlbb.ru/heroes/yve.html#build)
 -   [![](/images/heroes/nana.webp)Нана52,4%](https://boostmlbb.ru/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Аврора54,2%](https://boostmlbb.ru/heroes/aurora.html#build)
--   [![](/images/heroes/faramis.webp)Фарамис57,7%](https://boostmlbb.ru/heroes/faramis.html#build)
+-   [![](/images/heroes/aurora.webp)Аврора54,0%](https://boostmlbb.ru/heroes/aurora.html#build)
+-   [![](/images/heroes/faramis.webp)Фарамис57,8%](https://boostmlbb.ru/heroes/faramis.html#build)
 -   [![](/images/heroes/change.webp)Чан'Э54,3%](https://boostmlbb.ru/heroes/change.html#build)
--   [![](/images/heroes/pharsa.webp)Фаша52,0%](https://boostmlbb.ru/heroes/pharsa.html#build)
+-   [![](/images/heroes/pharsa.webp)Фаша51,8%](https://boostmlbb.ru/heroes/pharsa.html#build)
 
 ## История
 

@@ -47,13 +47,13 @@ Parts cost 1,820, assembly adds 1,190 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/lesley.webp)Lesley57.2%](https://boostmlbb.ru/en/heroes/lesley.html#build)
--   [![](/images/heroes/chou.webp)Chou51.3%](https://boostmlbb.ru/en/heroes/chou.html#build)
--   [![](/images/heroes/beatrix.webp)Beatrix51.7%](https://boostmlbb.ru/en/heroes/beatrix.html#build)
--   [![](/images/heroes/benedetta.webp)Benedetta57.4%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
--   [![](/images/heroes/alpha.webp)Alpha60.2%](https://boostmlbb.ru/en/heroes/alpha.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.3%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
--   [![](/images/heroes/alucard.webp)Alucard59.7%](https://boostmlbb.ru/en/heroes/alucard.html#build)
+-   [![](/images/heroes/lesley.webp)Lesley57.0%](https://boostmlbb.ru/en/heroes/lesley.html#build)
+-   [![](/images/heroes/chou.webp)Chou51.2%](https://boostmlbb.ru/en/heroes/chou.html#build)
+-   [![](/images/heroes/beatrix.webp)Beatrix51.5%](https://boostmlbb.ru/en/heroes/beatrix.html#build)
+-   [![](/images/heroes/benedetta.webp)Benedetta57.5%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
+-   [![](/images/heroes/alpha.webp)Alpha60.0%](https://boostmlbb.ru/en/heroes/alpha.html#build)
+-   [![](/images/heroes/alucard.webp)Alucard59.6%](https://boostmlbb.ru/en/heroes/alucard.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.9%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
 
 ## Story
 
@@ -83,4 +83,4 @@ What does Blade of Despair give?
 
 Which heroes build Blade of Despair?
 
-It is in the popular ranked builds of 7 heroes, among them Lesley, Chou, Beatrix, Benedetta, Alpha and Popol and Kupa.
+It is in the popular ranked builds of 7 heroes, among them Lesley, Chou, Beatrix, Benedetta, Alpha and Alucard.

@@ -1,6 +1,6 @@
 ---
 title: "Древняя кираса в MLBB: цена 2170, сборка и эффект | MLBB Boost"
-description: "Древняя кираса (Antique Cuirass) в Mobile Legends: +920 оз, +40 физическая защита, +4 регенерация оз. Пассивка «Сдерживание». Собирается из: Пояс Ареса и Броня неустрашимости. Собирают Кармилла, Атлас и Уранус."
+description: "Древняя кираса (Antique Cuirass) в Mobile Legends: +920 оз, +40 физическая защита, +4 регенерация оз. Пассивка «Сдерживание». Собирается из: Пояс Ареса и Броня неустрашимости. Собирают Кармилла, Атлас и Баданг."
 canonical: https://boostmlbb.ru/items/antique-cuirass.html
 language: ru
 ---
@@ -49,20 +49,18 @@ Antique Cuirass
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/carmilla.webp)Кармилла57,6%](https://boostmlbb.ru/heroes/carmilla.html#build)
--   [![](/images/heroes/atlas.webp)Атлас56,3%](https://boostmlbb.ru/heroes/atlas.html#build)
--   [![](/images/heroes/uranus.webp)Уранус56,4%](https://boostmlbb.ru/heroes/uranus.html#build)
--   [![](/images/heroes/badang.webp)Баданг57,2%](https://boostmlbb.ru/heroes/badang.html#build)
--   [![](/images/heroes/khufra.webp)Хуфра59,2%](https://boostmlbb.ru/heroes/khufra.html#build)
--   [![](/images/heroes/diggie.webp)Дигги57,9%](https://boostmlbb.ru/heroes/diggie.html#build)
--   [![](/images/heroes/phoveus.webp)Фовиус56,2%](https://boostmlbb.ru/heroes/phoveus.html#build)
--   [![](/images/heroes/gatotkaca.webp)Гатоткача51,1%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
--   [![](/images/heroes/johnson.webp)Джонсон55,6%](https://boostmlbb.ru/heroes/johnson.html#build)
--   [![](/images/heroes/hylos.webp)Хилос55,0%](https://boostmlbb.ru/heroes/hylos.html#build)
--   [![](/images/heroes/grock.webp)Грок54,4%](https://boostmlbb.ru/heroes/grock.html#build)
--   [![](/images/heroes/chip.webp)Чип53,2%](https://boostmlbb.ru/heroes/chip.html#build)
--   [![](/images/heroes/franco.webp)Франко44,0%](https://boostmlbb.ru/heroes/franco.html#build)
--   [![](/images/heroes/baxia.webp)Баксий51,3%](https://boostmlbb.ru/heroes/baxia.html#build)
+-   [![](/images/heroes/carmilla.webp)Кармилла57,4%](https://boostmlbb.ru/heroes/carmilla.html#build)
+-   [![](/images/heroes/atlas.webp)Атлас55,8%](https://boostmlbb.ru/heroes/atlas.html#build)
+-   [![](/images/heroes/badang.webp)Баданг57,3%](https://boostmlbb.ru/heroes/badang.html#build)
+-   [![](/images/heroes/khufra.webp)Хуфра59,3%](https://boostmlbb.ru/heroes/khufra.html#build)
+-   [![](/images/heroes/diggie.webp)Дигги58,3%](https://boostmlbb.ru/heroes/diggie.html#build)
+-   [![](/images/heroes/phoveus.webp)Фовиус56,1%](https://boostmlbb.ru/heroes/phoveus.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Гатоткача50,8%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/johnson.webp)Джонсон55,9%](https://boostmlbb.ru/heroes/johnson.html#build)
+-   [![](/images/heroes/grock.webp)Грок54,0%](https://boostmlbb.ru/heroes/grock.html#build)
+-   [![](/images/heroes/chip.webp)Чип53,0%](https://boostmlbb.ru/heroes/chip.html#build)
+-   [![](/images/heroes/franco.webp)Франко44,3%](https://boostmlbb.ru/heroes/franco.html#build)
+-   [![](/images/heroes/baxia.webp)Баксий51,8%](https://boostmlbb.ru/heroes/baxia.html#build)
 
 ## История
 
@@ -92,4 +90,4 @@ Antique Cuirass
 
 Каким героям собирать «Древняя кираса»?
 
-Предмет есть в популярных сборках 14 героев в рейтинге, среди них Кармилла, Атлас, Уранус, Баданг, Хуфра и Дигги.
+Предмет есть в популярных сборках 12 героев в рейтинге, среди них Кармилла, Атлас, Баданг, Хуфра, Дигги и Фовиус.

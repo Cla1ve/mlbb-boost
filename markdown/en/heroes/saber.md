@@ -1,6 +1,6 @@
 ---
 title: "Saber MLBB: build, combos and counters | MLBB Boost"
-description: "Saber in Mobile Legends: ranked build, skill combos, how to play and who counters Saber. Assassin, 53.73% win rate, tier B."
+description: "Saber in Mobile Legends: ranked build, skill combos, how to play and who counters Saber. Assassin, 53.71% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/saber.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-13.3%
+13.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.7%
+59.8%
 
 Pick rate
 
-18.4%
+18.9%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Assassin
 
 Win rate
 
-57.0%
+57.3%
 
 Pick rate
 
-4.7%
+4.8%
 
 #### Core items
 
@@ -191,7 +191,7 @@ Fighter
 
 Win rate
 
-60.4%
+60.5%
 
 Pick rate
 
@@ -365,7 +365,7 @@ Level "Orbiting Swords" first and take the ultimate whenever it is available. St
 
 What is Saber’s win rate right now?
 
-53.73% at Mythical Glory over the last 7 days and 51.28% across all ranks over 30 days, as of 25 November 2026.
+53.71% at Mythical Glory over the last 7 days and 51.29% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Saber play?
 
@@ -373,8 +373,8 @@ Assassin, played in the jungle or on roam.
 
 Is Saber strong in the current meta?
 
-Tier B, #32 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.3% of matches, 53.7% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
+Tier B, #32 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.6% of matches, 53.7% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Saber?
 
-The most popular ranked build: Hunter Strike, War Axe and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 59.67% of matches.
+The most popular ranked build: Hunter Strike, War Axe and Endless Battle as core items, the Assassin emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 59.75% of matches.

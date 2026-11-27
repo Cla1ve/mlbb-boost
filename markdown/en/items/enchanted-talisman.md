@@ -54,17 +54,17 @@ Parts cost 1,890, assembly adds 180 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/esmeralda.webp)Esmeralda55.5%](https://boostmlbb.ru/en/heroes/esmeralda.html#build)
--   [![](/images/heroes/estes.webp)Estes59.1%](https://boostmlbb.ru/en/heroes/estes.html#build)
--   [![](/images/heroes/rafaela.webp)Rafaela57.2%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
--   [![](/images/heroes/angela.webp)Angela56.8%](https://boostmlbb.ru/en/heroes/angela.html#build)
--   [![](/images/heroes/lylia.webp)Lylia52.7%](https://boostmlbb.ru/en/heroes/lylia.html#build)
--   [![](/images/heroes/xavier.webp)Xavier58.9%](https://boostmlbb.ru/en/heroes/xavier.html#build)
--   [![](/images/heroes/cyclops.webp)Cyclops58.2%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
--   [![](/images/heroes/cecilion.webp)Cecilion56.3%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
--   [![](/images/heroes/faramis.webp)Faramis54.3%](https://boostmlbb.ru/en/heroes/faramis.html#build)
--   [![](/images/heroes/mathilda.webp)Mathilda52.5%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
--   [![](/images/heroes/luo-yi.webp)Luo Yi49.1%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
+-   [![](/images/heroes/esmeralda.webp)Esmeralda55.4%](https://boostmlbb.ru/en/heroes/esmeralda.html#build)
+-   [![](/images/heroes/estes.webp)Estes58.9%](https://boostmlbb.ru/en/heroes/estes.html#build)
+-   [![](/images/heroes/rafaela.webp)Rafaela57.0%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
+-   [![](/images/heroes/angela.webp)Angela56.7%](https://boostmlbb.ru/en/heroes/angela.html#build)
+-   [![](/images/heroes/lylia.webp)Lylia52.4%](https://boostmlbb.ru/en/heroes/lylia.html#build)
+-   [![](/images/heroes/xavier.webp)Xavier59.4%](https://boostmlbb.ru/en/heroes/xavier.html#build)
+-   [![](/images/heroes/cyclops.webp)Cyclops57.9%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
+-   [![](/images/heroes/cecilion.webp)Cecilion55.4%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
+-   [![](/images/heroes/faramis.webp)Faramis54.1%](https://boostmlbb.ru/en/heroes/faramis.html#build)
+-   [![](/images/heroes/mathilda.webp)Mathilda52.4%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
+-   [![](/images/heroes/luo-yi.webp)Luo Yi49.0%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
 
 ## Story
 

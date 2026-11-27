@@ -1,6 +1,6 @@
 ---
 title: "Aulus MLBB: build, combos and counters | MLBB Boost"
-description: "Aulus in Mobile Legends: ranked build, skill combos, how to play and who counters Aulus. Fighter, 53.08% win rate, tier S."
+description: "Aulus in Mobile Legends: ranked build, skill combos, how to play and who counters Aulus. Fighter, 53.10% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-19.8%
+18.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,8 +46,8 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.5%**![](/images/ranks/Epic.webp)Epic
-2.  **52.4%**![](/images/ranks/Legend.webp)Legend
-3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
+2.  **52.3%**![](/images/ranks/Legend.webp)Legend
+3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **54.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **53.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,11 +68,72 @@ Build 1Build 2Build 3
 
 Win rate
 
+52.7%
+
+Pick rate
+
+2.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
+Win rate
+
 53.4%
 
 Pick rate
 
-3.2%
+2.4%
 
 #### Core items
 
@@ -129,11 +190,11 @@ Assassin
 
 Win rate
 
-58.6%
+57.6%
 
 Pick rate
 
-2.5%
+2.4%
 
 #### Core items
 
@@ -182,67 +243,6 @@ Fighter
 -   ![](/images/mlbb/talents/721.webp)
 
     Festival of Blood
-
--   ![](/images/mlbb/talents/531.webp)
-
-    Killing Spree
-
-
-Win rate
-
-53.3%
-
-Pick rate
-
-2.2%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Brute Force Breastplate
-
-
-
-    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3001.webp)
-
-    Malefic Roar
-
-
-
-    ](https://boostmlbb.ru/en/items/malefic-roar.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20190.webp)Vengeance
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Rupture
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Seasoned Hunter
 
 -   ![](/images/mlbb/talents/531.webp)
 
@@ -373,7 +373,7 @@ Level "The Power of Axe" first and take the ultimate whenever it is available. S
 
 What is Aulus’s win rate right now?
 
-53.08% at Mythical Glory over the last 7 days and 53.40% across all ranks over 30 days, as of 25 November 2026.
+53.10% at Mythical Glory over the last 7 days and 53.38% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Aulus play?
 
@@ -381,8 +381,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Aulus strong in the current meta?
 
-Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 19.8% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
+Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 18.6% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
 
 What is the best build for Aulus?
 
-The most popular ranked build: War Axe, Brute Force Breastplate and Malefic Roar as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Vengeance. It wins 53.44% of matches.
+The most popular ranked build: War Axe, Brute Force Breastplate and Malefic Roar as core items, the Fighter emblem with Rupture, Seasoned Hunter and Killing Spree, and Vengeance. It wins 52.74% of matches.

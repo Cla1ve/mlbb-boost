@@ -1,6 +1,6 @@
 ---
 title: "Одетта MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Одетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Одетту. Маг, 51,15% побед, тир C."
+description: "Одетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Одетту. Маг, 51,14% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/odette.html
 language: ru
 ---
@@ -72,7 +72,7 @@ C
 
 Выбор
 
-5,6%
+5,7%
 
 #### Основные предметы
 
@@ -129,11 +129,11 @@ C
 
 Победы
 
-57,2%
+57,8%
 
 Выбор
 
-3,7%
+3,4%
 
 #### Основные предметы
 
@@ -190,11 +190,11 @@ C
 
 Победы
 
-56,1%
+56,0%
 
 Выбор
 
-1,4%
+1,9%
 
 #### Основные предметы
 
@@ -333,11 +333,11 @@ C
 
 ### Кто контрит Одетту
 
-[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
 
 ### Кого контрит Одетта
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
 
 ## Скины Одетты
 
@@ -359,7 +359,7 @@ C
 
 Кто контрит Одетту в MLBB?
 
-За последние 30 дней Одетту чаще всего обыгрывают Кайя, Матильда, Фарамис, Чип и Марсель.
+За последние 30 дней Одетту чаще всего обыгрывают Кайя, Матильда, Фарамис, Чип и Рафаэль.
 
 Как играть за Одетту?
 
@@ -367,7 +367,7 @@ C
 
 Какой процент побед у Одетты сейчас?
 
-51,15% в Мифической славе за последние 7 дней и 49,73% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,14% в Мифической славе за последние 7 дней и 49,75% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Одетты?
 
@@ -379,4 +379,4 @@ C
 
 Какая сборка на Одетту лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Божественный меч» и «Зимняя корона», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 52,27% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Божественный меч» и «Зимняя корона», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 52,33% матчей.

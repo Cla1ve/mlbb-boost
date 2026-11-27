@@ -1,6 +1,6 @@
 ---
 title: "Faramis MLBB: build, combos and counters | MLBB Boost"
-description: "Faramis in Mobile Legends: ranked build, skill combos, how to play and who counters Faramis. Mage and support, 50.60% win rate, tier D."
+description: "Faramis in Mobile Legends: ranked build, skill combos, how to play and who counters Faramis. Mage and support, 50.55% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/faramis.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-50.6%
+50.5%
 
 Pick rate
 
@@ -48,8 +48,8 @@ Ban rate
 1.  **48.5%**![](/images/ranks/Epic.webp)Epic
 2.  **48.9%**![](/images/ranks/Legend.webp)Legend
 3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **50.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.7%
+57.8%
 
 Pick rate
 
-2.6%
+2.5%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Mage
 
 Win rate
 
-54.3%
+54.1%
 
 Pick rate
 
-1.4%
+1.5%
 
 #### Core items
 
@@ -191,11 +191,11 @@ Mage
 
 Win rate
 
-58.6%
+57.3%
 
 Pick rate
 
-1.3%
+1.2%
 
 #### Core items
 
@@ -210,22 +210,22 @@ Pick rate
     ](https://boostmlbb.ru/en/items/glowing-wand.html)
 -   [
 
-    ![](/images/mlbb/items/3102.webp)
+    ![](/images/mlbb/items/3110.webp)
 
-    Holy Crystal
+    Lightning Truncheon
 
 
 
-    ](https://boostmlbb.ru/en/items/holy-crystal.html)
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
 -   [
 
-    ![](/images/mlbb/items/3108.webp)
+    ![](/images/mlbb/items/3111.webp)
 
-    Blood Wings
+    Genius Wand
 
 
 
-    ](https://boostmlbb.ru/en/items/blood-wings.html)
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
 
 #### Spell
 
@@ -233,13 +233,13 @@ Pick rate
 
 #### Emblem and talents
 
-![](/images/mlbb/emblems/20005.webp)
+![](/images/mlbb/emblems/20006.webp)
 
-Assassin
+Mage
 
--   ![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-    Rupture
+    Inspire
 
 -   ![](/images/mlbb/talents/1221.webp)
 
@@ -340,7 +340,7 @@ Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes withi
 
 ### Who Faramis counters
 
-[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Faramis skins
 
@@ -370,7 +370,7 @@ Level "Ghost Bursters" first and take the ultimate whenever it is available. Eve
 
 What is Faramis’s win rate right now?
 
-50.60% at Mythical Glory over the last 7 days and 50.71% across all ranks over 30 days, as of 25 November 2026.
+50.55% at Mythical Glory over the last 7 days and 50.69% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Faramis play?
 
@@ -378,8 +378,8 @@ Mage and support, played in the Mid Lane or on roam.
 
 Is Faramis strong in the current meta?
 
-Tier D, #118 of 133 heroes and #29 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
+Tier D, #118 of 133 heroes and #29 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Faramis?
 
-The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 57.71% of matches.
+The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 57.79% of matches.

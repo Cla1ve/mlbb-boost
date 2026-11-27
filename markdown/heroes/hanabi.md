@@ -1,6 +1,6 @@
 ---
 title: "Ханаби MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ханаби, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханаби. Стрелок, 51,40% побед, тир B."
+description: "Ханаби, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханаби. Стрелок, 51,44% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/hanabi.html
 language: ru
 ---
@@ -67,11 +67,11 @@ B
 
 Победы
 
-59,5%
+59,4%
 
 Выбор
 
-13,7%
+14,3%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ B
 
 Победы
 
-58,7%
+58,9%
 
 Выбор
 
-8,8%
+10,3%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ B
 
 Победы
 
-58,6%
+59,3%
 
 Выбор
 
-8,4%
+7,6%
 
 #### Основные предметы
 
@@ -208,15 +208,6 @@ B
     ](https://boostmlbb.ru/items/corrosion-scythe.html)
 -   [
 
-    ![](/images/mlbb/items/2009.webp)
-
-    Золотой посох
-
-
-
-    ](https://boostmlbb.ru/items/golden-staff.html)
--   [
-
     ![](/images/mlbb/items/2006.webp)
 
     Меч охотника на демонов
@@ -224,6 +215,15 @@ B
 
 
     ](https://boostmlbb.ru/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
 
 #### Заклинание
 
@@ -243,9 +243,9 @@ B
 
     Охотник за скидками
 
--   ![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-    Квантовый заряд
+    Точно в цель
 
 
 ## Как играть за Ханаби
@@ -336,7 +336,7 @@ B
 
 ### Кого контрит Ханаби
 
-[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## Скины Ханаби
 
@@ -366,7 +366,7 @@ B
 
 Какой процент побед у Ханаби сейчас?
 
-51,40% в Мифической славе за последние 7 дней и 52,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,44% в Мифической славе за последние 7 дней и 52,72% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Ханаби?
 
@@ -378,4 +378,4 @@ B
 
 Какая сборка на Ханаби лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Золотой посох» и «Меч охотника на демонов», эмблема бойца с талантами «Проворность», «Охотник за скидками» и «Точно в цель» и заклинание «Эгида». С ней выигрывают 59,46% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Золотой посох» и «Меч охотника на демонов», эмблема бойца с талантами «Проворность», «Охотник за скидками» и «Точно в цель» и заклинание «Эгида». С ней выигрывают 59,44% матчей.

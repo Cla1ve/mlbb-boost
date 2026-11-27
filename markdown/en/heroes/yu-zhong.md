@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.4%
+55.1%
 
 Pick rate
 
-6.5%
+6.4%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-61.3%
+61.0%
 
 Pick rate
 
-3.9%
+4.1%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Fighter
 
 Win rate
 
-59.6%
+59.4%
 
 Pick rate
 
-2.5%
+2.4%
 
 #### Core items
 
@@ -346,7 +346,7 @@ Upon exiting the Black Dragon Form, Yu Zhong enters Dragonoid Form, gaining incr
 
 ### Who counters Yu Zhong
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ## Yu Zhong skins
 
@@ -368,7 +368,7 @@ Upon exiting the Black Dragon Form, Yu Zhong enters Dragonoid Form, gaining incr
 
 Who counters Yu Zhong in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Minsitthar, Silvanna, Popol and Kupa and Atlas.
+Over the last 30 days the toughest opponents are Gloo, Silvanna, Minsitthar, Popol and Kupa and Atlas.
 
 How do you play Yu Zhong?
 
@@ -376,7 +376,7 @@ Level "Dragon Tail" first and take the ultimate whenever it is available. Even t
 
 What is Yu Zhong’s win rate right now?
 
-48.69% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 25 November 2026.
+48.69% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Yu Zhong play?
 
@@ -388,4 +388,4 @@ Tier B, #40 of 133 heroes and #12 among fighters. The tier counts how often the 
 
 What is the best build for Yu Zhong?
 
-The most popular ranked build: War Axe, Hunter Strike and Queen's Wings as core items, the Fighter emblem with Rupture, Festival of Blood and War Cry, and Petrify. It wins 55.35% of matches.
+The most popular ranked build: War Axe, Hunter Strike and Queen's Wings as core items, the Fighter emblem with Rupture, Festival of Blood and War Cry, and Petrify. It wins 55.13% of matches.

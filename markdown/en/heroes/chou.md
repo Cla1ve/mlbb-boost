@@ -1,6 +1,6 @@
 ---
 title: "Chou MLBB: build, combos and counters | MLBB Boost"
-description: "Chou in Mobile Legends: ranked build, skill combos, how to play and who counters Chou. Fighter, 44.65% win rate, tier B."
+description: "Chou in Mobile Legends: ranked build, skill combos, how to play and who counters Chou. Fighter, 44.62% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-51.3%
+51.2%
 
 Pick rate
 
-5.8%
+5.7%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-55.1%
+54.9%
 
 Pick rate
 
-3.9%
+3.8%
 
 #### Core items
 
@@ -194,7 +194,7 @@ Win rate
 
 Pick rate
 
-3.3%
+3.5%
 
 #### Core items
 
@@ -361,7 +361,7 @@ Level "Jeet Kune Do" first and take the ultimate whenever it is available. Stron
 
 What is Chou’s win rate right now?
 
-44.65% at Mythical Glory over the last 7 days and 45.09% across all ranks over 30 days, as of 25 November 2026.
+44.62% at Mythical Glory over the last 7 days and 45.08% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Chou play?
 
@@ -373,4 +373,4 @@ Tier B, #47 of 133 heroes and #14 among fighters. The tier counts how often the 
 
 What is the best build for Chou?
 
-The most popular ranked build: Blade of the Heptaseas, Blade of Despair and Malefic Roar as core items, the Assassin emblem with Thrill, Master Assassin and Concussive Blast, and Flicker. It wins 51.31% of matches.
+The most popular ranked build: Blade of the Heptaseas, Blade of Despair and Malefic Roar as core items, the Assassin emblem with Thrill, Master Assassin and Concussive Blast, and Flicker. It wins 51.17% of matches.

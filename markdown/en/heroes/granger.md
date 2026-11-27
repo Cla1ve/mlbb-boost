@@ -1,6 +1,6 @@
 ---
 title: "Granger MLBB: build, combos and counters | MLBB Boost"
-description: "Granger in Mobile Legends: ranked build, skill combos, how to play and who counters Granger. Marksman, 44.03% win rate, tier C."
+description: "Granger in Mobile Legends: ranked build, skill combos, how to play and who counters Granger. Marksman, 44.02% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/granger.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.9%
+1.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **43.1%**![](/images/ranks/Epic.webp)Epic
 2.  **41.7%**![](/images/ranks/Legend.webp)Legend
-3.  **41.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **41.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **41.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-30.2%
+27.6%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Assassin
 
 Win rate
 
-46.1%
+45.6%
 
 Pick rate
 
-10.9%
+13.5%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Assassin
 
 Win rate
 
-39.7%
+39.6%
 
 Pick rate
 
-3.4%
+3.2%
 
 #### Core items
 
@@ -339,7 +339,7 @@ Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldow
 
 ### Who Granger counters
 
-[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
 
 ## Granger skins
 
@@ -369,7 +369,7 @@ Level "Rhapsody" first and take the ultimate whenever it is available. Stronger 
 
 What is Granger’s win rate right now?
 
-44.03% at Mythical Glory over the last 7 days and 42.95% across all ranks over 30 days, as of 25 November 2026.
+44.02% at Mythical Glory over the last 7 days and 42.93% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Granger play?
 
@@ -377,8 +377,8 @@ Marksman, played in the Gold Lane.
 
 Is Granger strong in the current meta?
 
-Tier C, #92 of 133 heroes and #18 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 44.0% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
+Tier C, #92 of 133 heroes and #18 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.0% of matches, 44.0% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
 
 What is the best build for Granger?
 
-The most popular ranked build: Hunter Strike, Sky Piercer and Malefic Roar as core items, the Assassin emblem with Thrill, Festival of Blood and Impure Rage, and Flicker. It wins 46.34% of matches.
+The most popular ranked build: Hunter Strike, Sky Piercer and Malefic Roar as core items, the Assassin emblem with Thrill, Festival of Blood and Impure Rage, and Flicker. It wins 46.25% of matches.

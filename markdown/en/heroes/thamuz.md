@@ -1,6 +1,6 @@
 ---
 title: "Thamuz MLBB: build, combos and counters | MLBB Boost"
-description: "Thamuz in Mobile Legends: ranked build, skill combos, how to play and who counters Thamuz. Fighter, 48.34% win rate, tier C."
+description: "Thamuz in Mobile Legends: ranked build, skill combos, how to play and who counters Thamuz. Fighter, 48.33% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/thamuz.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.4%
+0.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -68,11 +68,11 @@ Build 1Build 2
 
 Win rate
 
-55.9%
+55.7%
 
 Pick rate
 
-15.5%
+15.8%
 
 #### Core items
 
@@ -129,7 +129,7 @@ Fighter
 
 Win rate
 
-57.3%
+57.1%
 
 Pick rate
 
@@ -276,7 +276,7 @@ Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the sa
 
 ### Who counters Thamuz
 
-[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ### Who Thamuz counters
 
@@ -302,7 +302,7 @@ Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the sa
 
 Who counters Thamuz in MLBB?
 
-Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber and Diggie.
+Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber and Faramis.
 
 How do you play Thamuz?
 
@@ -310,7 +310,7 @@ Level "Molten Scythes" first and take the ultimate whenever it is available. Str
 
 What is Thamuz’s win rate right now?
 
-48.34% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 25 November 2026.
+48.33% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Thamuz play?
 
@@ -318,8 +318,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Thamuz strong in the current meta?
 
-Tier C, #94 of 133 heroes and #29 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 1.7% of them.
+Tier C, #94 of 133 heroes and #29 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 1.7% of them.
 
 What is the best build for Thamuz?
 
-The most popular ranked build: Corrosion Scythe, War Axe and Oracle as core items, the Fighter emblem with Thrill, Festival of Blood and Temporal Reign, and Vengeance. It wins 55.94% of matches.
+The most popular ranked build: Corrosion Scythe, War Axe and Oracle as core items, the Fighter emblem with Thrill, Festival of Blood and Temporal Reign, and Vengeance. It wins 55.67% of matches.

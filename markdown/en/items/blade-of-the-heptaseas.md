@@ -47,17 +47,17 @@ Parts cost 1,480, assembly adds 470 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/nolan.webp)Nolan51.8%](https://boostmlbb.ru/en/heroes/nolan.html#build)
--   [![](/images/heroes/brody.webp)Brody53.4%](https://boostmlbb.ru/en/heroes/brody.html#build)
--   [![](/images/heroes/fanny.webp)Fanny47.8%](https://boostmlbb.ru/en/heroes/fanny.html#build)
--   [![](/images/heroes/chou.webp)Chou51.3%](https://boostmlbb.ru/en/heroes/chou.html#build)
+-   [![](/images/heroes/nolan.webp)Nolan51.9%](https://boostmlbb.ru/en/heroes/nolan.html#build)
+-   [![](/images/heroes/brody.webp)Brody53.3%](https://boostmlbb.ru/en/heroes/brody.html#build)
+-   [![](/images/heroes/fanny.webp)Fanny47.9%](https://boostmlbb.ru/en/heroes/fanny.html#build)
+-   [![](/images/heroes/chou.webp)Chou51.2%](https://boostmlbb.ru/en/heroes/chou.html#build)
 -   [![](/images/heroes/dyrroth.webp)Dyrroth61.0%](https://boostmlbb.ru/en/heroes/dyrroth.html#build)
--   [![](/images/heroes/benedetta.webp)Benedetta54.6%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
--   [![](/images/heroes/aldous.webp)Aldous58.5%](https://boostmlbb.ru/en/heroes/aldous.html#build)
+-   [![](/images/heroes/benedetta.webp)Benedetta54.3%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
+-   [![](/images/heroes/aldous.webp)Aldous59.2%](https://boostmlbb.ru/en/heroes/aldous.html#build)
 -   [![](/images/heroes/helcurt.webp)Helcurt51.9%](https://boostmlbb.ru/en/heroes/helcurt.html#build)
--   [![](/images/heroes/natalia.webp)Natalia60.3%](https://boostmlbb.ru/en/heroes/natalia.html#build)
+-   [![](/images/heroes/natalia.webp)Natalia60.6%](https://boostmlbb.ru/en/heroes/natalia.html#build)
 -   [![](/images/heroes/yin.webp)Yin53.7%](https://boostmlbb.ru/en/heroes/yin.html#build)
--   [![](/images/heroes/jawhead.webp)Jawhead57.0%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
+-   [![](/images/heroes/jawhead.webp)Jawhead57.1%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
 
 ## Story
 

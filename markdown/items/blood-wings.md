@@ -46,13 +46,12 @@ Blood Wings
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/eudora.webp)Эйдора54,2%](https://boostmlbb.ru/heroes/eudora.html#build)
--   [![](/images/heroes/valentina.webp)Валентина52,7%](https://boostmlbb.ru/heroes/valentina.html#build)
+-   [![](/images/heroes/eudora.webp)Эйдора54,1%](https://boostmlbb.ru/heroes/eudora.html#build)
+-   [![](/images/heroes/valentina.webp)Валентина52,4%](https://boostmlbb.ru/heroes/valentina.html#build)
 -   [![](/images/heroes/nana.webp)Нана52,4%](https://boostmlbb.ru/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Аврора54,9%](https://boostmlbb.ru/heroes/aurora.html#build)
--   [![](/images/heroes/faramis.webp)Фарамис58,6%](https://boostmlbb.ru/heroes/faramis.html#build)
--   [![](/images/heroes/pharsa.webp)Фаша53,4%](https://boostmlbb.ru/heroes/pharsa.html#build)
--   [![](/images/heroes/mathilda.webp)Матильда52,5%](https://boostmlbb.ru/heroes/mathilda.html#build)
+-   [![](/images/heroes/aurora.webp)Аврора54,8%](https://boostmlbb.ru/heroes/aurora.html#build)
+-   [![](/images/heroes/pharsa.webp)Фаша53,1%](https://boostmlbb.ru/heroes/pharsa.html#build)
+-   [![](/images/heroes/mathilda.webp)Матильда52,4%](https://boostmlbb.ru/heroes/mathilda.html#build)
 
 ## История
 
@@ -82,4 +81,4 @@ Blood Wings
 
 Каким героям собирать «Кровавые крылья»?
 
-Предмет есть в популярных сборках 7 героев в рейтинге, среди них Эйдора, Валентина, Нана, Аврора, Фарамис и Фаша.
+Предмет есть в популярных сборках 6 героев в рейтинге, среди них Эйдора, Валентина, Нана, Аврора, Фаша и Матильда.

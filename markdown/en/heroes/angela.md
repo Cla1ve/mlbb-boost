@@ -1,6 +1,6 @@
 ---
 title: "Angela MLBB: build, combos and counters | MLBB Boost"
-description: "Angela in Mobile Legends: ranked build, skill combos, how to play and who counters Angela. Support, 49.67% win rate, tier B."
+description: "Angela in Mobile Legends: ranked build, skill combos, how to play and who counters Angela. Support, 49.63% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/angela.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-49.7%
+49.6%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **51.7%**![](/images/ranks/Epic.webp)Epic
 2.  **50.7%**![](/images/ranks/Legend.webp)Legend
-3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.8%
+56.7%
 
 Pick rate
 
-15.4%
+16.0%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-55.8%
+55.6%
 
 Pick rate
 
-9.3%
+9.1%
 
 #### Core items
 
@@ -189,7 +189,7 @@ Support
 
 Win rate
 
-56.2%
+56.1%
 
 Pick rate
 
@@ -334,7 +334,7 @@ Angela can cast this skill again to cancel the channeling or detach herself from
 
 ### Who counters Angela
 
-[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ### Who Angela counters
 
@@ -360,7 +360,7 @@ Angela can cast this skill again to cancel the channeling or detach herself from
 
 Who counters Angela in MLBB?
 
-Over the last 30 days the toughest opponents are Alice, Marcel, Balmond, Faramis and Lancelot.
+Over the last 30 days the toughest opponents are Alice, Marcel, Balmond, Lancelot and Faramis.
 
 How do you play Angela?
 
@@ -368,7 +368,7 @@ Level "Puppet-on-a-String" first and take the ultimate whenever it is available.
 
 What is Angela’s win rate right now?
 
-49.67% at Mythical Glory over the last 7 days and 50.01% across all ranks over 30 days, as of 25 November 2026.
+49.63% at Mythical Glory over the last 7 days and 50.02% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Angela play?
 
@@ -376,8 +376,8 @@ Support, played on roam.
 
 Is Angela strong in the current meta?
 
-Tier B, #35 of 133 heroes and #9 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.1% of matches, 49.7% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
+Tier B, #35 of 133 heroes and #9 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.1% of matches, 49.6% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
 
 What is the best build for Angela?
 
-The most popular ranked build: Flask of the Oasis, Glowing Wand and Enchanted Talisman as core items, the Support emblem with Inspire, Bargain Hunter and Focusing Mark, and Flicker. It wins 56.79% of matches.
+The most popular ranked build: Flask of the Oasis, Glowing Wand and Enchanted Talisman as core items, the Support emblem with Inspire, Bargain Hunter and Focusing Mark, and Flicker. It wins 56.70% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Luo Yi MLBB: build, combos and counters | MLBB Boost"
-description: "Luo Yi in Mobile Legends: ranked build, skill combos, how to play and who counters Luo Yi. Mage, 46.24% win rate, tier D."
+description: "Luo Yi in Mobile Legends: ranked build, skill combos, how to play and who counters Luo Yi. Mage, 46.25% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-46.2%
+46.3%
 
 Pick rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-49.1%
+49.0%
 
 Pick rate
 
-5.7%
+5.2%
 
 #### Core items
 
@@ -129,7 +129,68 @@ Mage
 
 Win rate
 
-50.4%
+48.7%
+
+Pick rate
+
+2.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
+Win rate
+
+49.9%
 
 Pick rate
 
@@ -182,67 +243,6 @@ Mage
 -   ![](/images/mlbb/talents/621.webp)
 
     Bargain Hunter
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Lethal Ignition
-
-
-Win rate
-
-49.9%
-
-Pick rate
-
-1.6%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2106.webp)
-
-    Enchanted Talisman
-
-
-
-    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Glowing Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Divine Glaive
-
-
-
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Rupture
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Weapons Master
 
 -   ![](/images/mlbb/talents/631.webp)
 
@@ -337,7 +337,7 @@ Ultimate
 
 ### Who counters Luo Yi
 
-[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ### Who Luo Yi counters
 
@@ -363,7 +363,7 @@ Ultimate
 
 Who counters Luo Yi in MLBB?
 
-Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Fredrinn and Uranus.
+Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Uranus and Fredrinn.
 
 How do you play Luo Yi?
 
@@ -371,7 +371,7 @@ Level "Dispersion" first and take the ultimate whenever it is available. Stronge
 
 What is Luo Yi’s win rate right now?
 
-46.24% at Mythical Glory over the last 7 days and 47.24% across all ranks over 30 days, as of 25 November 2026.
+46.25% at Mythical Glory over the last 7 days and 47.23% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Luo Yi play?
 
@@ -379,8 +379,8 @@ Mage, played in the Mid Lane.
 
 Is Luo Yi strong in the current meta?
 
-Tier D, #131 of 133 heroes and #32 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier D, #131 of 133 heroes and #32 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Luo Yi?
 
-The most popular ranked build: Sky Piercer, Enchanted Talisman and Glowing Wand as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 49.15% of matches.
+The most popular ranked build: Sky Piercer, Enchanted Talisman and Glowing Wand as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 49.01% of matches.

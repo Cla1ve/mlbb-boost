@@ -51,10 +51,10 @@ Ice Queen Wand
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
 -   [![](/images/heroes/zhuxin.webp)Чжусинь56,5%](https://boostmlbb.ru/heroes/zhuxin.html#build)
--   [![](/images/heroes/valir.webp)Валир59,8%](https://boostmlbb.ru/heroes/valir.html#build)
--   [![](/images/heroes/rafaela.webp)Рафаэль57,2%](https://boostmlbb.ru/heroes/rafaela.html#build)
--   [![](/images/heroes/yve.webp)Ив58,0%](https://boostmlbb.ru/heroes/yve.html#build)
--   [![](/images/heroes/gord.webp)Горд58,0%](https://boostmlbb.ru/heroes/gord.html#build)
+-   [![](/images/heroes/valir.webp)Валир59,4%](https://boostmlbb.ru/heroes/valir.html#build)
+-   [![](/images/heroes/rafaela.webp)Рафаэль57,0%](https://boostmlbb.ru/heroes/rafaela.html#build)
+-   [![](/images/heroes/yve.webp)Ив57,7%](https://boostmlbb.ru/heroes/yve.html#build)
+-   [![](/images/heroes/gord.webp)Горд57,8%](https://boostmlbb.ru/heroes/gord.html#build)
 
 ## История
 

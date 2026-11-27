@@ -54,15 +54,15 @@ Golden Staff
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/freya.webp)Фрейя60,1%](https://boostmlbb.ru/heroes/freya.html#build)
--   [![](/images/heroes/sun.webp)Сан58,2%](https://boostmlbb.ru/heroes/sun.html#build)
--   [![](/images/heroes/hanabi.webp)Ханаби59,5%](https://boostmlbb.ru/heroes/hanabi.html#build)
--   [![](/images/heroes/moskov.webp)Москов55,5%](https://boostmlbb.ru/heroes/moskov.html#build)
--   [![](/images/heroes/claude.webp)Клауд53,6%](https://boostmlbb.ru/heroes/claude.html#build)
--   [![](/images/heroes/melissa.webp)Мелисса54,3%](https://boostmlbb.ru/heroes/melissa.html#build)
--   [![](/images/heroes/minsitthar.webp)Минситтар59,6%](https://boostmlbb.ru/heroes/minsitthar.html#build)
+-   [![](/images/heroes/freya.webp)Фрейя60,0%](https://boostmlbb.ru/heroes/freya.html#build)
+-   [![](/images/heroes/sun.webp)Сан58,3%](https://boostmlbb.ru/heroes/sun.html#build)
+-   [![](/images/heroes/hanabi.webp)Ханаби59,4%](https://boostmlbb.ru/heroes/hanabi.html#build)
+-   [![](/images/heroes/moskov.webp)Москов55,4%](https://boostmlbb.ru/heroes/moskov.html#build)
+-   [![](/images/heroes/claude.webp)Клауд53,5%](https://boostmlbb.ru/heroes/claude.html#build)
+-   [![](/images/heroes/melissa.webp)Мелисса54,4%](https://boostmlbb.ru/heroes/melissa.html#build)
+-   [![](/images/heroes/minsitthar.webp)Минситтар58,9%](https://boostmlbb.ru/heroes/minsitthar.html#build)
 -   [![](/images/heroes/karrie.webp)Кэрри55,9%](https://boostmlbb.ru/heroes/karrie.html#build)
--   [![](/images/heroes/hanzo.webp)Ханзо53,9%](https://boostmlbb.ru/heroes/hanzo.html#build)
+-   [![](/images/heroes/hanzo.webp)Ханзо53,8%](https://boostmlbb.ru/heroes/hanzo.html#build)
 
 ## История
 

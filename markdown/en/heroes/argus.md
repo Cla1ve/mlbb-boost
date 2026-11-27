@@ -1,6 +1,6 @@
 ---
 title: "Argus MLBB: build, combos and counters | MLBB Boost"
-description: "Argus in Mobile Legends: ranked build, skill combos, how to play and who counters Argus. Fighter, 57.39% win rate, tier B."
+description: "Argus in Mobile Legends: ranked build, skill combos, how to play and who counters Argus. Fighter, 57.41% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-0.5%
+0.6%
 
 Ban rate
 
@@ -67,11 +67,72 @@ Build 1Build 2Build 3
 
 Win rate
 
-68.8%
+61.5%
 
 Pick rate
 
-2.7%
+2.8%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
+Win rate
+
+68.9%
+
+Pick rate
+
+2.2%
 
 #### Core items
 
@@ -137,23 +198,14 @@ Marksman
 
 Win rate
 
-65.3%
+63.3%
 
 Pick rate
 
-2.2%
+1.6%
 
 #### Core items
 
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Corrosion Scythe
-
-
-
-    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
 -   [
 
     ![](/images/mlbb/items/3005.webp)
@@ -174,74 +226,22 @@ Pick rate
     ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
 -   [
 
-    ![](/images/mlbb/items/3013.webp)
+    ![](/images/mlbb/items/3003.webp)
 
-    Sea Halberd
-
-
-
-    ](https://boostmlbb.ru/en/items/sea-halberd.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20070.webp)Petrify
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
--   ![](/images/mlbb/talents/1211.webp)
-
-    Fatal
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Bargain Hunter
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Concussive Blast
+    Berserker's Fury
 
 
-Win rate
 
-61.2%
-
-Pick rate
-
-1.8%
-
-#### Core items
-
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 -   [
 
-    ![](/images/mlbb/items/3005.webp)
+    ![](/images/mlbb/items/3001.webp)
 
-    Windtalker
-
-
-
-    ](https://boostmlbb.ru/en/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Corrosion Scythe
+    Malefic Roar
 
 
 
-    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3002.webp)
-
-    Haas's Claws
-
-
-
-    ](https://boostmlbb.ru/en/items/haas-claws.html)
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 #### Spell
 
@@ -357,7 +357,7 @@ Argus removes all control effects, gains Death Immunity for 4s, and deals 150 (+
 
 ### Who counters Argus
 
-[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ### Who Argus counters
 
@@ -383,7 +383,7 @@ Argus removes all control effects, gains Death Immunity for 4s, and deals 150 (+
 
 Who counters Argus in MLBB?
 
-Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Arlott and Saber.
+Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Saber and Arlott.
 
 How do you play Argus?
 
@@ -391,7 +391,7 @@ Level "Meteoric Sword" first and take the ultimate whenever it is available. Str
 
 What is Argus’s win rate right now?
 
-57.39% at Mythical Glory over the last 7 days and 56.86% across all ranks over 30 days, as of 25 November 2026.
+57.41% at Mythical Glory over the last 7 days and 56.88% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Argus play?
 
@@ -403,4 +403,4 @@ Tier B, #56 of 133 heroes and #17 among fighters. The tier counts how often the 
 
 What is the best build for Argus?
 
-The most popular ranked build: Corrosion Scythe, Windtalker, Berserker's Fury and Haas's Claws as core items, the Marksman emblem with Fatal, Bargain Hunter and War Cry, and Petrify. It wins 68.82% of matches.
+The most popular ranked build: Windtalker, Corrosion Scythe and Haas's Claws as core items, the Marksman emblem with Fatal, Bargain Hunter and War Cry, and Petrify. It wins 61.50% of matches.

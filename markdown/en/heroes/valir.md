@@ -1,6 +1,6 @@
 ---
 title: "Valir MLBB: build, combos and counters | MLBB Boost"
-description: "Valir in Mobile Legends: ranked build, skill combos, how to play and who counters Valir. Mage, 53.47% win rate, tier A."
+description: "Valir in Mobile Legends: ranked build, skill combos, how to play and who counters Valir. Mage, 53.46% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.0%
+4.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -68,11 +68,11 @@ Build 1Build 2
 
 Win rate
 
-59.8%
+59.4%
 
 Pick rate
 
-23.6%
+24.0%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Common
 
 Win rate
 
-61.1%
+60.7%
 
 Pick rate
 
-3.2%
+3.3%
 
 #### Core items
 
@@ -283,7 +283,7 @@ Valir removes all debuffs on himself and gains 40% Movement Speed that decays ov
 
 ### Who Valir counters
 
-[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Valir skins
 
@@ -313,7 +313,7 @@ Level "Burst Fireball" first and take the ultimate whenever it is available. Str
 
 What is Valir’s win rate right now?
 
-53.47% at Mythical Glory over the last 7 days and 54.04% across all ranks over 30 days, as of 25 November 2026.
+53.46% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Valir play?
 
@@ -321,8 +321,8 @@ Mage, played in the Mid Lane.
 
 Is Valir strong in the current meta?
 
-Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.0% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
+Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.1% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
 
 What is the best build for Valir?
 
-The most popular ranked build: Glowing Wand, Ice Queen Wand and Wishing Lantern as core items, the Common emblem with Inspire, Festival of Blood and Impure Rage, and Flicker. It wins 59.80% of matches.
+The most popular ranked build: Glowing Wand, Ice Queen Wand and Wishing Lantern as core items, the Common emblem with Inspire, Festival of Blood and Impure Rage, and Flicker. It wins 59.43% of matches.

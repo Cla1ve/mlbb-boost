@@ -1,6 +1,6 @@
 ---
 title: "Melissa MLBB: build, combos and counters | MLBB Boost"
-description: "Melissa in Mobile Legends: ranked build, skill combos, how to play and who counters Melissa. Marksman, 52.43% win rate, tier B."
+description: "Melissa in Mobile Legends: ranked build, skill combos, how to play and who counters Melissa. Marksman, 52.42% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/melissa.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.7%**![](/images/ranks/Epic.webp)Epic
+1.  **47.8%**![](/images/ranks/Epic.webp)Epic
 2.  **48.3%**![](/images/ranks/Legend.webp)Legend
 3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -63,15 +63,15 @@ Dashed line: 50% win rate
 
 ## Build
 
-Build 1Build 2
+Build 1Build 2Build 3
 
 Win rate
 
-61.2%
+61.6%
 
 Pick rate
 
-10.4%
+9.4%
 
 #### Core items
 
@@ -137,11 +137,11 @@ Marksman
 
 Win rate
 
-54.3%
+54.4%
 
 Pick rate
 
-4.2%
+4.4%
 
 #### Core items
 
@@ -172,6 +172,76 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/golden-staff.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
+Win rate
+
+60.3%
+
+Pick rate
+
+2.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+
+    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
+
+    Malefic Gun
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -323,7 +393,7 @@ Level "Falling!" first and take the ultimate whenever it is available. Stronger 
 
 What is Melissa’s win rate right now?
 
-52.43% at Mythical Glory over the last 7 days and 50.31% across all ranks over 30 days, as of 25 November 2026.
+52.42% at Mythical Glory over the last 7 days and 50.39% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Melissa play?
 
@@ -331,8 +401,8 @@ Marksman, played in the Gold Lane.
 
 Is Melissa strong in the current meta?
 
-Tier B, #58 of 133 heroes and #11 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 11.0% of them.
+Tier B, #59 of 133 heroes and #11 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 11.0% of them.
 
 What is the best build for Melissa?
 
-The most popular ranked build: Corrosion Scythe, Windtalker, Haas's Claws and Berserker's Fury as core items, the Marksman emblem with Swift, Bargain Hunter and War Cry, and Inspire. It wins 61.18% of matches.
+The most popular ranked build: Corrosion Scythe, Windtalker, Haas's Claws and Berserker's Fury as core items, the Marksman emblem with Swift, Bargain Hunter and War Cry, and Inspire. It wins 61.59% of matches.

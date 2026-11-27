@@ -1,6 +1,6 @@
 ---
 title: "Ling MLBB: build, combos and counters | MLBB Boost"
-description: "Ling in Mobile Legends: ranked build, skill combos, how to play and who counters Ling. Assassin, 51.77% win rate, tier B."
+description: "Ling in Mobile Legends: ranked build, skill combos, how to play and who counters Ling. Assassin, 51.78% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.9%
+57.8%
 
 Pick rate
 
-39.1%
+39.3%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-59.2%
+58.9%
 
 Pick rate
 
-4.7%
+4.6%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Marksman
 
 Win rate
 
-59.5%
+59.3%
 
 Pick rate
 
@@ -371,7 +371,7 @@ Level "Defiant Sword" first and take the ultimate whenever it is available. Stro
 
 What is Ling’s win rate right now?
 
-51.77% at Mythical Glory over the last 7 days and 52.51% across all ranks over 30 days, as of 25 November 2026.
+51.78% at Mythical Glory over the last 7 days and 52.49% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Ling play?
 
@@ -383,4 +383,4 @@ Tier B, #61 of 133 heroes and #11 among assassins. The tier counts how often the
 
 What is the best build for Ling?
 
-The most popular ranked build: Berserker's Fury, Haas's Claws and Endless Battle as core items, the Assassin emblem with Fatal, Seasoned Hunter and War Cry, and Retribution. It wins 57.91% of matches.
+The most popular ranked build: Berserker's Fury, Haas's Claws and Endless Battle as core items, the Assassin emblem with Fatal, Seasoned Hunter and War Cry, and Retribution. It wins 57.78% of matches.

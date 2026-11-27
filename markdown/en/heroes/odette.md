@@ -1,6 +1,6 @@
 ---
 title: "Odette MLBB: build, combos and counters | MLBB Boost"
-description: "Odette in Mobile Legends: ranked build, skill combos, how to play and who counters Odette. Mage, 51.15% win rate, tier C."
+description: "Odette in Mobile Legends: ranked build, skill combos, how to play and who counters Odette. Mage, 51.14% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
@@ -72,7 +72,7 @@ Win rate
 
 Pick rate
 
-5.6%
+5.7%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-57.2%
+57.8%
 
 Pick rate
 
-3.7%
+3.4%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Assassin
 
 Win rate
 
-56.1%
+56.0%
 
 Pick rate
 
-1.4%
+1.9%
 
 #### Core items
 
@@ -333,11 +333,11 @@ Use again to cancel. Only high-level control effects can interrupt this skill.
 
 ### Who counters Odette
 
-[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
+[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)
 
 ### Who Odette counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
 
 ## Odette skins
 
@@ -359,7 +359,7 @@ Use again to cancel. Only high-level control effects can interrupt this skill.
 
 Who counters Odette in MLBB?
 
-Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip and Marcel.
+Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip and Rafaela.
 
 How do you play Odette?
 
@@ -367,7 +367,7 @@ Level "Avian Authority" first and take the ultimate whenever it is available. Ev
 
 What is Odette’s win rate right now?
 
-51.15% at Mythical Glory over the last 7 days and 49.73% across all ranks over 30 days, as of 25 November 2026.
+51.14% at Mythical Glory over the last 7 days and 49.75% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Odette play?
 
@@ -379,4 +379,4 @@ Tier C, #96 of 133 heroes and #23 among mages. The tier counts how often the her
 
 What is the best build for Odette?
 
-The most popular ranked build: Genius Wand, Divine Glaive and Winter Crown as core items, the Assassin emblem with Rupture, Weapons Master and Impure Rage, and Flicker. It wins 52.27% of matches.
+The most popular ranked build: Genius Wand, Divine Glaive and Winter Crown as core items, the Assassin emblem with Rupture, Weapons Master and Impure Rage, and Flicker. It wins 52.33% of matches.

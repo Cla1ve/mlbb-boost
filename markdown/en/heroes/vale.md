@@ -1,6 +1,6 @@
 ---
 title: "Vale MLBB: build, combos and counters | MLBB Boost"
-description: "Vale in Mobile Legends: ranked build, skill combos, how to play and who counters Vale. Mage, 48.86% win rate, tier C."
+description: "Vale in Mobile Legends: ranked build, skill combos, how to play and who counters Vale. Mage, 48.85% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vale.html
 language: en
 ---
@@ -48,7 +48,7 @@ Ban rate
 1.  **51.5%**![](/images/ranks/Epic.webp)Epic
 2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -72,7 +72,7 @@ Win rate
 
 Pick rate
 
-6.3%
+6.8%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-3.3%
+2.6%
 
 #### Core items
 
@@ -190,23 +190,14 @@ Mage
 
 Win rate
 
-52.8%
+55.1%
 
 Pick rate
 
-1.4%
+1.6%
 
 #### Core items
 
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Sky Piercer
-
-
-
-    ](https://boostmlbb.ru/en/items/sky-piercer.html)
 -   [
 
     ![](/images/mlbb/items/3111.webp)
@@ -216,6 +207,15 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
 -   [
 
     ![](/images/mlbb/items/3101.webp)
@@ -228,25 +228,25 @@ Pick rate
 
 #### Spell
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/spells/20140.webp)Flameshot
 
 #### Emblem and talents
 
-![](/images/mlbb/emblems/20006.webp)
+![](/images/mlbb/emblems/20005.webp)
 
-Mage
+Assassin
 
--   ![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-    Thrill
+    Rupture
 
 -   ![](/images/mlbb/talents/1221.webp)
 
     Weapons Master
 
--   ![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-    Impure Rage
+    Lethal Ignition
 
 
 ## How to play Vale
@@ -331,7 +331,7 @@ The remaining whirlwinds will also be pulled into the center.
 
 ### Who Vale counters
 
-[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Vale skins
 
@@ -361,7 +361,7 @@ Level "Wind Blade" first and take the ultimate whenever it is available. Stronge
 
 What is Vale’s win rate right now?
 
-48.86% at Mythical Glory over the last 7 days and 50.11% across all ranks over 30 days, as of 25 November 2026.
+48.85% at Mythical Glory over the last 7 days and 50.12% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Vale play?
 
@@ -373,4 +373,4 @@ Tier C, #114 of 133 heroes and #28 among mages. The tier counts how often the he
 
 What is the best build for Vale?
 
-The most popular ranked build: Genius Wand, Glowing Wand and Divine Glaive as core items, the Assassin emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 55.00% of matches.
+The most popular ranked build: Genius Wand, Glowing Wand and Divine Glaive as core items, the Assassin emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 54.96% of matches.

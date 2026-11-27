@@ -44,13 +44,12 @@ Parts cost 1,640, assembly adds 460 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/eudora.webp)Eudora54.2%](https://boostmlbb.ru/en/heroes/eudora.html#build)
--   [![](/images/heroes/valentina.webp)Valentina52.7%](https://boostmlbb.ru/en/heroes/valentina.html#build)
+-   [![](/images/heroes/eudora.webp)Eudora54.1%](https://boostmlbb.ru/en/heroes/eudora.html#build)
+-   [![](/images/heroes/valentina.webp)Valentina52.4%](https://boostmlbb.ru/en/heroes/valentina.html#build)
 -   [![](/images/heroes/nana.webp)Nana52.4%](https://boostmlbb.ru/en/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Aurora54.9%](https://boostmlbb.ru/en/heroes/aurora.html#build)
--   [![](/images/heroes/faramis.webp)Faramis58.6%](https://boostmlbb.ru/en/heroes/faramis.html#build)
--   [![](/images/heroes/pharsa.webp)Pharsa53.4%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
--   [![](/images/heroes/mathilda.webp)Mathilda52.5%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
+-   [![](/images/heroes/aurora.webp)Aurora54.8%](https://boostmlbb.ru/en/heroes/aurora.html#build)
+-   [![](/images/heroes/pharsa.webp)Pharsa53.1%](https://boostmlbb.ru/en/heroes/pharsa.html#build)
+-   [![](/images/heroes/mathilda.webp)Mathilda52.4%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
 
 ## Story
 
@@ -80,4 +79,4 @@ What does Blood Wings give?
 
 Which heroes build Blood Wings?
 
-It is in the popular ranked builds of 7 heroes, among them Eudora, Valentina, Nana, Aurora, Faramis and Pharsa.
+It is in the popular ranked builds of 6 heroes, among them Eudora, Valentina, Nana, Aurora, Pharsa and Mathilda.

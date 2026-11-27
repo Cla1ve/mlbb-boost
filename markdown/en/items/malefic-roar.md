@@ -1,6 +1,6 @@
 ---
 title: "Malefic Roar MLBB: 2,060 gold, recipe and effect | MLBB Boost"
-description: "Malefic Roar in Mobile Legends: +60 Physical Attack. Unique passive Armor Buster. Builds from Legion Sword. Built by Nolan, Hirara and Aulus."
+description: "Malefic Roar in Mobile Legends: +60 Physical Attack. Unique passive Armor Buster. Builds from Legion Sword. Built by Nolan, Aulus and Paquito."
 canonical: https://boostmlbb.ru/en/items/malefic-roar.html
 language: en
 ---
@@ -49,21 +49,21 @@ Parts cost 910, assembly adds 1,150 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/nolan.webp)Nolan51.8%](https://boostmlbb.ru/en/heroes/nolan.html#build)
--   [![](/images/heroes/hirara.webp)Hirara51.4%](https://boostmlbb.ru/en/heroes/hirara.html#build)
--   [![](/images/heroes/aulus.webp)Aulus53.4%](https://boostmlbb.ru/en/heroes/aulus.html#build)
--   [![](/images/heroes/paquito.webp)Paquito56.3%](https://boostmlbb.ru/en/heroes/paquito.html#build)
--   [![](/images/heroes/fanny.webp)Fanny47.8%](https://boostmlbb.ru/en/heroes/fanny.html#build)
--   [![](/images/heroes/chou.webp)Chou51.3%](https://boostmlbb.ru/en/heroes/chou.html#build)
--   [![](/images/heroes/arlott.webp)Arlott56.3%](https://boostmlbb.ru/en/heroes/arlott.html#build)
+-   [![](/images/heroes/nolan.webp)Nolan51.9%](https://boostmlbb.ru/en/heroes/nolan.html#build)
+-   [![](/images/heroes/aulus.webp)Aulus52.7%](https://boostmlbb.ru/en/heroes/aulus.html#build)
+-   [![](/images/heroes/paquito.webp)Paquito53.5%](https://boostmlbb.ru/en/heroes/paquito.html#build)
+-   [![](/images/heroes/fanny.webp)Fanny47.9%](https://boostmlbb.ru/en/heroes/fanny.html#build)
+-   [![](/images/heroes/chou.webp)Chou51.2%](https://boostmlbb.ru/en/heroes/chou.html#build)
+-   [![](/images/heroes/argus.webp)Argus63.3%](https://boostmlbb.ru/en/heroes/argus.html#build)
+-   [![](/images/heroes/arlott.webp)Arlott56.0%](https://boostmlbb.ru/en/heroes/arlott.html#build)
 -   [![](/images/heroes/hayabusa.webp)Hayabusa51.4%](https://boostmlbb.ru/en/heroes/hayabusa.html#build)
--   [![](/images/heroes/benedetta.webp)Benedetta54.6%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
--   [![](/images/heroes/aldous.webp)Aldous58.5%](https://boostmlbb.ru/en/heroes/aldous.html#build)
+-   [![](/images/heroes/benedetta.webp)Benedetta54.3%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
+-   [![](/images/heroes/aldous.webp)Aldous59.2%](https://boostmlbb.ru/en/heroes/aldous.html#build)
 -   [![](/images/heroes/granger.webp)Granger46.3%](https://boostmlbb.ru/en/heroes/granger.html#build)
--   [![](/images/heroes/natalia.webp)Natalia60.3%](https://boostmlbb.ru/en/heroes/natalia.html#build)
+-   [![](/images/heroes/bane.webp)Bane51.6%](https://boostmlbb.ru/en/heroes/bane.html#build)
+-   [![](/images/heroes/natalia.webp)Natalia60.6%](https://boostmlbb.ru/en/heroes/natalia.html#build)
 -   [![](/images/heroes/yin.webp)Yin53.7%](https://boostmlbb.ru/en/heroes/yin.html#build)
--   [![](/images/heroes/bane.webp)Bane51.7%](https://boostmlbb.ru/en/heroes/bane.html#build)
--   [![](/images/heroes/jawhead.webp)Jawhead57.0%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
+-   [![](/images/heroes/jawhead.webp)Jawhead57.1%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
 
 ## Story
 
@@ -93,4 +93,4 @@ What does Malefic Roar give?
 
 Which heroes build Malefic Roar?
 
-It is in the popular ranked builds of 15 heroes, among them Nolan, Hirara, Aulus, Paquito, Fanny and Chou.
+It is in the popular ranked builds of 15 heroes, among them Nolan, Aulus, Paquito, Fanny, Chou and Argus.

@@ -1,6 +1,6 @@
 ---
 title: "Khufra MLBB: build, combos and counters | MLBB Boost"
-description: "Khufra in Mobile Legends: ranked build, skill combos, how to play and who counters Khufra. Tank, 54.84% win rate, tier B."
+description: "Khufra in Mobile Legends: ranked build, skill combos, how to play and who counters Khufra. Tank, 54.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/khufra.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-54.8%
+54.9%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.0%
+4.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.1%**![](/images/ranks/Epic.webp)Epic
+1.  **55.0%**![](/images/ranks/Epic.webp)Epic
 2.  **54.6%**![](/images/ranks/Legend.webp)Legend
 3.  **54.8%**![](/images/ranks/Mythic.webp)Mythic
 4.  **55.2%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -72,7 +72,7 @@ Win rate
 
 Pick rate
 
-8.9%
+9.7%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Tank
 
 Win rate
 
-60.9%
+60.6%
 
 Pick rate
 
-7.3%
+7.1%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Tank
 
 Win rate
 
-59.2%
+59.3%
 
 Pick rate
 
@@ -364,7 +364,7 @@ Level "Bouncing Ball" first and take the ultimate whenever it is available. Even
 
 What is Khufra’s win rate right now?
 
-54.84% at Mythical Glory over the last 7 days and 54.73% across all ranks over 30 days, as of 25 November 2026.
+54.90% at Mythical Glory over the last 7 days and 54.74% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Khufra play?
 
@@ -372,8 +372,8 @@ Tank, played on roam.
 
 Is Khufra strong in the current meta?
 
-Tier B, #48 of 133 heroes and #11 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.0% of matches, 54.8% win rate. In professional games over the last month the hero is drafted in 3.6% of them.
+Tier B, #48 of 133 heroes and #11 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.1% of matches, 54.9% win rate. In professional games over the last month the hero is drafted in 3.6% of them.
 
 What is the best build for Khufra?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Cursed Helmet as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 61.74% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Cursed Helmet as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 61.72% of matches.

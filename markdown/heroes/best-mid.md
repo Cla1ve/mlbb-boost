@@ -11,7 +11,7 @@ language: ru
 
 # Лучшие мидеры MLBB
 
-29 героев · Обновлено 25 ноября
+29 героев · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -91,7 +91,7 @@ A
 
 Баны
 
-33,4%
+33,1%
 
 [
 
@@ -223,7 +223,7 @@ A
 
 1,6%
 
-33,4%
+33,1%
 
 24,7%
 
@@ -251,7 +251,7 @@ A
 
 1,3%
 
-4,0%
+4,1%
 
 40,7%
 
@@ -263,7 +263,7 @@ A
 
 50,1%
 
-1,9%
+1,8%
 
 3,2%
 
@@ -275,11 +275,11 @@ A
 
 A
 
-48,3%
+48,4%
 
 1,4%
 
-3,6%
+3,5%
 
 32,9%
 
@@ -303,7 +303,7 @@ B
 
 B
 
-53,4%
+53,3%
 
 1,8%
 
@@ -359,7 +359,7 @@ B
 
 B
 
-50,3%
+50,4%
 
 1,1%
 
@@ -419,7 +419,7 @@ C
 
 0,8%
 
-0,8%
+0,7%
 
 —
 
@@ -457,7 +457,7 @@ C
 
 C
 
-51,7%
+51,6%
 
 0,1%
 
@@ -499,7 +499,7 @@ C
 
 C
 
-45,1%
+45,2%
 
 0,9%
 
@@ -555,7 +555,7 @@ C
 
 D
 
-50,6%
+50,5%
 
 0,1%
 
@@ -597,7 +597,7 @@ D
 
 D
 
-46,2%
+46,3%
 
 0,1%
 
@@ -607,14 +607,14 @@ D
 
 ## Что собирают чаще всего
 
--   [![](/images/mlbb/items/3105.webp)Пылающий жезлу 21 из 29](https://boostmlbb.ru/items/glowing-wand.html)
--   [![](/images/mlbb/items/3110.webp)Жезл молнийу 14 из 29](https://boostmlbb.ru/items/lightning-truncheon.html)
--   [![](/images/mlbb/items/3101.webp)Божественный мечу 13 из 29](https://boostmlbb.ru/items/divine-glaive.html)
+-   [![](/images/mlbb/items/3105.webp)Пылающий жезлу 20 из 29](https://boostmlbb.ru/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3110.webp)Жезл молнийу 13 из 29](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3101.webp)Божественный мечу 11 из 29](https://boostmlbb.ru/items/divine-glaive.html)
 -   [![](/images/mlbb/items/3111.webp)Палочка генияу 9 из 29](https://boostmlbb.ru/items/genius-wand.html)
--   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 5 из 29](https://boostmlbb.ru/items/sky-piercer.html)
--   [![](/images/mlbb/items/2106.webp)Зачарованный талисману 5 из 29](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [![](/images/mlbb/items/2112.webp)Фонарь желанийу 7 из 29](https://boostmlbb.ru/items/wishing-lantern.html)
+-   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 6 из 29](https://boostmlbb.ru/items/sky-piercer.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 22 и «Огненный выстрел» у 3. Эмблема мага у 19, эмблема убийцы у 7.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 21 и «Огненный выстрел» у 4. Эмблема мага у 18, эмблема убийцы у 8.
 
 ## Кого брать в соло
 
@@ -646,7 +646,7 @@ D
 
 Кто лучший мидер в MLBB сейчас?
 
-Кимми: тир A, 48,1% побед, бан в 0,5% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 25 ноября 2026 года.
+Кимми: тир A, 48,1% побед, бан в 0,5% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди мидеров?
 
@@ -654,12 +654,12 @@ D
 
 Каких мидеров чаще всего банят?
 
-Эйдора (33,4%), Валир (4,0%) и Селена (3,6%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (33,1%), Валир (4,1%) и Селена (3,5%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько мидеров в Mobile Legends?
 
-29 из 133 героев на 25 ноября 2026 года. В списке все, кто играет на средней линии по данным игры.
+29 из 133 героев на 26 ноября 2026 года. В списке все, кто играет на средней линии по данным игры.
 
 Какие предметы чаще всего собирают на мидерах?
 
-В самой частой сборке героя чаще всего встречаются «Пылающий жезл» (у 21 из 29), «Жезл молний» (у 14 из 29) и «Божественный меч» (у 13 из 29). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Пылающий жезл» (у 20 из 29), «Жезл молний» (у 13 из 29) и «Божественный меч» (у 11 из 29). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

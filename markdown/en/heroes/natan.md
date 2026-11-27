@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.2%**![](/images/ranks/Epic.webp)Epic
+1.  **50.3%**![](/images/ranks/Epic.webp)Epic
 2.  **50.6%**![](/images/ranks/Legend.webp)Legend
 3.  **51.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.4%
+54.2%
 
 Pick rate
 
-23.8%
+24.6%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-55.6%
+55.3%
 
 Pick rate
 
-7.0%
+6.9%
 
 #### Core items
 
@@ -193,7 +193,7 @@ Win rate
 
 Pick rate
 
-5.2%
+4.8%
 
 #### Core items
 
@@ -370,7 +370,7 @@ Level "Superposition" first and take the ultimate whenever it is available. Stro
 
 What is Natan’s win rate right now?
 
-51.46% at Mythical Glory over the last 7 days and 51.36% across all ranks over 30 days, as of 25 November 2026.
+51.46% at Mythical Glory over the last 7 days and 51.37% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Natan play?
 
@@ -382,4 +382,4 @@ Tier C, #93 of 133 heroes and #19 among marksmen. The tier counts how often the 
 
 What is the best build for Natan?
 
-The most popular ranked build: Feather of Heaven, Concentrated Energy and Windtalker as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Aegis. It wins 54.43% of matches.
+The most popular ranked build: Feather of Heaven, Concentrated Energy and Windtalker as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Aegis. It wins 54.18% of matches.

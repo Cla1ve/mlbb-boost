@@ -1,6 +1,6 @@
 ---
 title: "Sora MLBB: build, combos and counters | MLBB Boost"
-description: "Sora in Mobile Legends: ranked build, skill combos, how to play and who counters Sora. Fighter and assassin, 49.60% win rate, tier B."
+description: "Sora in Mobile Legends: ranked build, skill combos, how to play and who counters Sora. Fighter and assassin, 49.56% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sora.html
 language: en
 ---
@@ -72,7 +72,7 @@ Win rate
 
 Pick rate
 
-9.0%
+10.6%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-5.1%
+4.0%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Fighter
 
 Win rate
 
-53.9%
+53.7%
 
 Pick rate
 
-3.3%
+3.6%
 
 #### Core items
 
@@ -374,7 +374,7 @@ Level "Sundering Strike" first and take the ultimate whenever it is available. S
 
 What is Sora’s win rate right now?
 
-49.60% at Mythical Glory over the last 7 days and 49.52% across all ranks over 30 days, as of 25 November 2026.
+49.56% at Mythical Glory over the last 7 days and 49.52% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Sora play?
 
@@ -386,4 +386,4 @@ Tier B, #33 of 133 heroes and #11 among fighters. The tier counts how often the 
 
 What is the best build for Sora?
 
-The most popular ranked build: Queen's Wings, Oracle and Dominance Ice as core items, the Fighter emblem with Vitality, Festival of Blood and Concussive Blast, and Flicker. It wins 54.24% of matches.
+The most popular ranked build: Queen's Wings, Oracle and Dominance Ice as core items, the Fighter emblem with Vitality, Festival of Blood and Concussive Blast, and Flicker. It wins 54.19% of matches.

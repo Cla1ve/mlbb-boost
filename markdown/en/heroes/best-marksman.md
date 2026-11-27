@@ -11,11 +11,11 @@ language: en
 
 # Best MLBB marksmen
 
-23 heroes · Updated 25 November
+23 heroes · Updated 26 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Obsidia, Kimmy and Bruno lead the marksmen right now. Obsidia wins 52.6% of Mythical Glory games over 7 days and is banned in 65.4% of them. The list has 23 heroes, 3 of them in tier S or A.
+Obsidia, Kimmy and Bruno lead the marksmen right now. Obsidia wins 52.5% of Mythical Glory games over 7 days and is banned in 65.6% of them. The list has 23 heroes, 3 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -29,7 +29,7 @@ S
 
 Win rate
 
-52.6%
+52.5%
 
 Pick rate
 
@@ -37,7 +37,7 @@ Pick rate
 
 Ban rate
 
-65.4%
+65.6%
 
 [
 
@@ -173,13 +173,13 @@ Malefic Gun
 
 ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
-![](/images/mlbb/emblems/20012.webp)
+![](/images/mlbb/emblems/20007.webp)
 
-Marksman
+Fighter
 
-![](/images/mlbb/spells/20060.webp)
+![](/images/mlbb/spells/20100.webp)
 
-Aegis
+Flicker
 
 ## All marksmen ranked
 
@@ -205,11 +205,11 @@ Pro
 
 S
 
-52.6%
+52.5%
 
 2.4%
 
-65.4%
+65.6%
 
 44.8%
 
@@ -251,7 +251,7 @@ B
 
 2.0%
 
-5.3%
+5.4%
 
 6.8%
 
@@ -303,7 +303,7 @@ B
 
 B
 
-51.3%
+51.4%
 
 1.1%
 
@@ -331,11 +331,11 @@ B
 
 B
 
-50.1%
+50.0%
 
-1.3%
+1.4%
 
-1.8%
+1.7%
 
 1.4%
 
@@ -349,7 +349,7 @@ B
 
 0.4%
 
-0.6%
+0.5%
 
 11.0%
 
@@ -363,7 +363,7 @@ B
 
 1.1%
 
-1.5%
+1.4%
 
 2.5%
 
@@ -387,7 +387,7 @@ C
 
 C
 
-50.5%
+50.6%
 
 0.8%
 
@@ -433,7 +433,7 @@ C
 
 0.6%
 
-0.7%
+0.6%
 
 1.1%
 
@@ -447,7 +447,7 @@ C
 
 1.4%
 
-0.9%
+1.0%
 
 0.6%
 
@@ -485,11 +485,11 @@ C
 
 C
 
-48.6%
+48.7%
 
 0.3%
 
-0.9%
+0.8%
 
 —
 
@@ -525,20 +525,20 @@ D
 
 -   [![](/images/mlbb/items/3005.webp)Windtalker9 of 23](https://boostmlbb.ru/en/items/windtalker.html)
 -   [![](/images/mlbb/items/2008.webp)Corrosion Scythe7 of 23](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [![](/images/mlbb/items/3002.webp)Haas's Claws7 of 23](https://boostmlbb.ru/en/items/haas-claws.html)
 -   [![](/images/mlbb/items/2014.webp)Sky Piercer6 of 23](https://boostmlbb.ru/en/items/sky-piercer.html)
--   [![](/images/mlbb/items/3002.webp)Haas's Claws6 of 23](https://boostmlbb.ru/en/items/haas-claws.html)
 -   [![](/images/mlbb/items/3003.webp)Berserker's Fury6 of 23](https://boostmlbb.ru/en/items/berserkers-fury.html)
 -   [![](/images/mlbb/items/3015.webp)Malefic Gun6 of 23](https://boostmlbb.ru/en/items/malefic-gun.html)
 
-The three core items of every hero’s most common build. Spell: Flicker on 11 and Inspire on 4. Assassin on 8, Marksman on 8.
+The three core items of every hero’s most common build. Spell: Flicker on 12 and Inspire on 4. Assassin on 8, Marksman on 7.
 
 ## Who to pick solo
 
 Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30% of Mythical Glory games.
 
 1.  [![](/images/heroes/hanabi.webp)Hanabi53.6%](https://boostmlbb.ru/en/heroes/hanabi.html)
-2.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.5%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
-3.  [![](/images/heroes/edith.webp)Edith53.5%](https://boostmlbb.ru/en/heroes/edith.html)
+2.  [![](/images/heroes/edith.webp)Edith53.5%](https://boostmlbb.ru/en/heroes/edith.html)
+3.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.4%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 4.  [![](/images/heroes/irithel.webp)Irithel52.7%](https://boostmlbb.ru/en/heroes/irithel.html)
 5.  [![](/images/heroes/bruno.webp)Bruno52.5%](https://boostmlbb.ru/en/heroes/bruno.html)
 6.  [![](/images/heroes/natan.webp)Natan50.9%](https://boostmlbb.ru/en/heroes/natan.html)
@@ -562,7 +562,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best marksman in MLBB right now?
 
-Obsidia: tier S, 52.6% win rate, banned in 65.4% of Mythical Glory games over 7 days. Kimmy and Bruno follow. Data as of 25 November 2026.
+Obsidia: tier S, 52.5% win rate, banned in 65.6% of Mythical Glory games over 7 days. Kimmy and Bruno follow. Data as of 26 November 2026.
 
 Which of the marksmen should a beginner pick?
 
@@ -570,12 +570,12 @@ Hanabi, Miya and Layla are the easiest to play: their difficulty on the in-game 
 
 Which marksmen get banned most?
 
-Obsidia (65.4%), Lesley (5.3%) and Miya (1.8%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Obsidia (65.6%), Lesley (5.4%) and Miya (1.7%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many marksmen are there in Mobile Legends?
 
-23 of 133 heroes as of 25 November 2026. The list has every hero with the Marksman role.
+23 of 133 heroes as of 26 November 2026. The list has every hero with the Marksman role.
 
 Which items do marksmen build most often?
 
-The most common builds most often include Windtalker (9 of 23), Corrosion Scythe (7 of 23) and Sky Piercer (6 of 23). Every hero’s full build is on its page, in the Build tab.
+The most common builds most often include Windtalker (9 of 23), Corrosion Scythe (7 of 23) and Haas's Claws (7 of 23). Every hero’s full build is on its page, in the Build tab.

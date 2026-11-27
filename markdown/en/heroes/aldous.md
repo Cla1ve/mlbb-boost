@@ -1,6 +1,6 @@
 ---
 title: "Aldous MLBB: build, combos and counters | MLBB Boost"
-description: "Aldous in Mobile Legends: ranked build, skill combos, how to play and who counters Aldous. Fighter, 53.39% win rate, tier C."
+description: "Aldous in Mobile Legends: ranked build, skill combos, how to play and who counters Aldous. Fighter, 53.35% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.1%**![](/images/ranks/Epic.webp)Epic
-2.  **52.2%**![](/images/ranks/Legend.webp)Legend
+1.  **52.2%**![](/images/ranks/Epic.webp)Epic
+2.  **52.3%**![](/images/ranks/Legend.webp)Legend
 3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.5%
+59.2%
 
 Pick rate
 
-17.0%
+15.9%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Assassin
 
 Win rate
 
-62.0%
+62.2%
 
 Pick rate
 
-2.5%
+3.3%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Assassin
 
 Win rate
 
-62.2%
+62.4%
 
 Pick rate
 
-2.5%
+2.6%
 
 #### Core items
 
@@ -341,7 +341,7 @@ Aldous can interrupt the target's Recall while dashing.
 
 ### Who counters Aldous
 
-[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
 ### Who Aldous counters
 
@@ -367,7 +367,7 @@ Aldous can interrupt the target's Recall while dashing.
 
 Who counters Aldous in MLBB?
 
-Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg and Hanzo.
+Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg and Gatotkaca.
 
 How do you play Aldous?
 
@@ -375,7 +375,7 @@ Level "Contract: Soul Steal" first and take the ultimate whenever it is availabl
 
 What is Aldous’s win rate right now?
 
-53.39% at Mythical Glory over the last 7 days and 52.20% across all ranks over 30 days, as of 25 November 2026.
+53.35% at Mythical Glory over the last 7 days and 52.29% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Aldous play?
 
@@ -387,4 +387,4 @@ Tier C, #82 of 133 heroes and #24 among fighters. The tier counts how often the 
 
 What is the best build for Aldous?
 
-The most popular ranked build: Blade of the Heptaseas, Endless Battle and Malefic Roar as core items, the Assassin emblem with Agility, Wilderness Blessing and Quantum Charge, and Flicker. It wins 58.53% of matches.
+The most popular ranked build: Blade of the Heptaseas, Endless Battle and Malefic Roar as core items, the Assassin emblem with Agility, Wilderness Blessing and Quantum Charge, and Flicker. It wins 59.24% of matches.

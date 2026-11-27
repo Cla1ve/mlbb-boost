@@ -49,17 +49,17 @@ Concentrated Energy
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/alice.webp)Алиса55,0%](https://boostmlbb.ru/heroes/alice.html#build)
--   [![](/images/heroes/kimmy.webp)Кимми54,3%](https://boostmlbb.ru/heroes/kimmy.html#build)
--   [![](/images/heroes/harley.webp)Харли49,0%](https://boostmlbb.ru/heroes/harley.html#build)
--   [![](/images/heroes/guinevere.webp)Гвиневра56,6%](https://boostmlbb.ru/heroes/guinevere.html#build)
--   [![](/images/heroes/karina.webp)Карина57,7%](https://boostmlbb.ru/heroes/karina.html#build)
--   [![](/images/heroes/cyclops.webp)Циклоп58,2%](https://boostmlbb.ru/heroes/cyclops.html#build)
+-   [![](/images/heroes/alice.webp)Алиса54,9%](https://boostmlbb.ru/heroes/alice.html#build)
+-   [![](/images/heroes/kimmy.webp)Кимми53,8%](https://boostmlbb.ru/heroes/kimmy.html#build)
+-   [![](/images/heroes/harley.webp)Харли48,9%](https://boostmlbb.ru/heroes/harley.html#build)
+-   [![](/images/heroes/guinevere.webp)Гвиневра57,3%](https://boostmlbb.ru/heroes/guinevere.html#build)
+-   [![](/images/heroes/karina.webp)Карина58,0%](https://boostmlbb.ru/heroes/karina.html#build)
+-   [![](/images/heroes/cyclops.webp)Циклоп57,9%](https://boostmlbb.ru/heroes/cyclops.html#build)
 -   [![](/images/heroes/silvanna.webp)Сильвана56,9%](https://boostmlbb.ru/heroes/silvanna.html#build)
--   [![](/images/heroes/gatotkaca.webp)Гатоткача55,1%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
--   [![](/images/heroes/natan.webp)Натан54,4%](https://boostmlbb.ru/heroes/natan.html#build)
--   [![](/images/heroes/julian.webp)Джулиан52,7%](https://boostmlbb.ru/heroes/julian.html#build)
--   [![](/images/heroes/joy.webp)Джой54,9%](https://boostmlbb.ru/heroes/joy.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Гатоткача55,0%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/natan.webp)Натан54,2%](https://boostmlbb.ru/heroes/natan.html#build)
+-   [![](/images/heroes/julian.webp)Джулиан52,8%](https://boostmlbb.ru/heroes/julian.html#build)
+-   [![](/images/heroes/joy.webp)Джой54,6%](https://boostmlbb.ru/heroes/joy.html#build)
 
 ## История
 

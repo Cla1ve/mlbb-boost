@@ -1,6 +1,6 @@
 ---
 title: "Lesley MLBB: build, combos and counters | MLBB Boost"
-description: "Lesley in Mobile Legends: ranked build, skill combos, how to play and who counters Lesley. Assassin and marksman, 48.80% win rate, tier B."
+description: "Lesley in Mobile Legends: ranked build, skill combos, how to play and who counters Lesley. Assassin and marksman, 48.77% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lesley.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-5.3%
+5.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -48,7 +48,7 @@ Ban rate
 1.  **47.6%**![](/images/ranks/Epic.webp)Epic
 2.  **48.0%**![](/images/ranks/Legend.webp)Legend
 3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -64,72 +64,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.1%
+57.0%
 
 Pick rate
 
-5.6%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3003.webp)
-
-    Berserker's Fury
-
-
-
-    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
--   [
-
-    ![](/images/mlbb/items/3015.webp)
-
-    Malefic Gun
-
-
-
-    ](https://boostmlbb.ru/en/items/malefic-gun.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Sea Halberd
-
-
-
-    ](https://boostmlbb.ru/en/items/sea-halberd.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
--   ![](/images/mlbb/talents/1211.webp)
-
-    Fatal
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Weapons Master
-
--   ![](/images/mlbb/talents/132.webp)
-
-    Quantum Charge
-
-
-Win rate
-
-57.2%
-
-Pick rate
-
-4.8%
+6.3%
 
 #### Core items
 
@@ -186,11 +125,72 @@ Marksman
 
 Win rate
 
-50.9%
+52.8%
 
 Pick rate
 
-3.7%
+5.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
+
+    Malefic Gun
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
+Win rate
+
+51.0%
+
+Pick rate
+
+3.1%
 
 #### Core items
 
@@ -371,7 +371,7 @@ Level "Master of Camouflage" first and take the ultimate whenever it is availabl
 
 What is Lesley’s win rate right now?
 
-48.80% at Mythical Glory over the last 7 days and 48.34% across all ranks over 30 days, as of 25 November 2026.
+48.77% at Mythical Glory over the last 7 days and 48.34% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lesley play?
 
@@ -379,8 +379,8 @@ Assassin and marksman, played in the Gold Lane.
 
 Is Lesley strong in the current meta?
 
-Tier B, #38 of 133 heroes and #8 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.3% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 6.8% of them.
+Tier B, #38 of 133 heroes and #8 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.4% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 6.8% of them.
 
 What is the best build for Lesley?
 
-The most popular ranked build: Berserker's Fury, Malefic Gun and Sea Halberd as core items, the Marksman emblem with Fatal, Weapons Master and Quantum Charge, and Flicker. It wins 53.12% of matches.
+The most popular ranked build: Berserker's Fury, Malefic Gun and Blade of Despair as core items, the Marksman emblem with Fatal, Weapons Master and Quantum Charge, and Flicker. It wins 56.95% of matches.

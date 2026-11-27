@@ -1,6 +1,6 @@
 ---
 title: "Jawhead MLBB: build, combos and counters | MLBB Boost"
-description: "Jawhead in Mobile Legends: ranked build, skill combos, how to play and who counters Jawhead. Fighter, 47.53% win rate, tier C."
+description: "Jawhead in Mobile Legends: ranked build, skill combos, how to play and who counters Jawhead. Fighter, 47.56% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-47.5%
+47.6%
 
 Pick rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.0%
+57.1%
 
 Pick rate
 
-4.4%
+3.8%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-55.3%
+55.5%
 
 Pick rate
 
-4.0%
+3.7%
 
 #### Core items
 
@@ -190,7 +190,7 @@ Assassin
 
 Win rate
 
-50.5%
+50.4%
 
 Pick rate
 
@@ -364,7 +364,7 @@ Level "Smart Missiles" first and take the ultimate whenever it is available. Eve
 
 What is Jawhead’s win rate right now?
 
-47.53% at Mythical Glory over the last 7 days and 47.91% across all ranks over 30 days, as of 25 November 2026.
+47.56% at Mythical Glory over the last 7 days and 47.91% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Jawhead play?
 
@@ -372,8 +372,8 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Jawhead strong in the current meta?
 
-Tier C, #121 of 133 heroes and #41 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #121 of 133 heroes and #41 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Jawhead?
 
-The most popular ranked build: Blade of the Heptaseas, Hunter Strike and Malefic Roar as core items, the Assassin emblem with Agility, Master Assassin and Lethal Ignition, and Flicker. It wins 56.97% of matches.
+The most popular ranked build: Blade of the Heptaseas, Hunter Strike and Malefic Roar as core items, the Assassin emblem with Agility, Master Assassin and Lethal Ignition, and Flicker. It wins 57.15% of matches.

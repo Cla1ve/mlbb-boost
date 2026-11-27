@@ -46,7 +46,7 @@ B
 
 1.  **51,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,2%**![](/images/ranks/Mythic.webp)Мифик
+3.  **50,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -70,7 +70,7 @@ B
 
 Выбор
 
-6,4%
+5,5%
 
 #### Основные предметы
 
@@ -127,11 +127,11 @@ B
 
 Победы
 
-60,2%
+60,0%
 
 Выбор
 
-3,0%
+2,9%
 
 #### Основные предметы
 
@@ -188,14 +188,23 @@ B
 
 Победы
 
-56,4%
+57,1%
 
 Выбор
 
-2,2%
+2,7%
 
 #### Основные предметы
 
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 -   [
 
     ![](/images/mlbb/items/3204.webp)
@@ -207,22 +216,13 @@ B
     ](https://boostmlbb.ru/items/oracle.html)
 -   [
 
-    ![](/images/mlbb/items/3203.webp)
+    ![](/images/mlbb/items/3210.webp)
 
-    Древняя кираса
-
-
-
-    ](https://boostmlbb.ru/items/antique-cuirass.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Наплечник наказания
+    Сияющая броня
 
 
 
-    ](https://boostmlbb.ru/items/chastise-pauldron.html)
+    ](https://boostmlbb.ru/items/radiant-armor.html)
 
 #### Заклинание
 
@@ -242,9 +242,9 @@ B
 
     Стойкость
 
--   ![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-    Ударная волна
+    Отвага
 
 
 ## Как играть за Урануса
@@ -332,7 +332,7 @@ B
 
 ### Кто контрит Урануса
 
-[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ### Кого контрит Уранус
 
@@ -358,7 +358,7 @@ B
 
 Кто контрит Урануса в MLBB?
 
-За последние 30 дней Урануса чаще всего обыгрывают Аргус, Гатоткача, Инь, Грейнджер и Заск.
+За последние 30 дней Урануса чаще всего обыгрывают Аргус, Гатоткача, Инь, Заск и Дигги.
 
 Как играть за Урануса?
 
@@ -366,7 +366,7 @@ B
 
 Какой процент побед у Урануса сейчас?
 
-48,70% в Мифической славе за последние 7 дней и 49,36% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,70% в Мифической славе за последние 7 дней и 49,38% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Урануса?
 
@@ -378,4 +378,4 @@ B
 
 Какая сборка на Урануса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Оракул» и «Господство льда», обычная эмблема с талантами «Ловкость», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 58,65% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Оракул» и «Господство льда», обычная эмблема с талантами «Ловкость», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 58,63% матчей.

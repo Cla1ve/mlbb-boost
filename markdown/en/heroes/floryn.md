@@ -1,6 +1,6 @@
 ---
 title: "Floryn MLBB: build, combos and counters | MLBB Boost"
-description: "Floryn in Mobile Legends: ranked build, skill combos, how to play and who counters Floryn. Support, 53.94% win rate, tier B."
+description: "Floryn in Mobile Legends: ranked build, skill combos, how to play and who counters Floryn. Support, 53.95% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-53.9%
+54.0%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-13.9%
+14.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.5%**![](/images/ranks/Epic.webp)Epic
+1.  **55.6%**![](/images/ranks/Epic.webp)Epic
 2.  **54.5%**![](/images/ranks/Legend.webp)Legend
 3.  **54.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **54.1%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.0%
+53.9%
 
 Pick rate
 
-22.6%
+24.3%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-55.1%
+55.0%
 
 Pick rate
 
-9.0%
+9.3%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Support
 
 Win rate
 
-55.5%
+55.4%
 
 Pick rate
 
-8.7%
+9.0%
 
 #### Core items
 
@@ -332,7 +332,7 @@ Floryn resonates with Dew's power, recovering 250 (+100% Total Magic Power) HP f
 
 ### Who Floryn counters
 
-[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ## Floryn skins
 
@@ -362,7 +362,7 @@ Level "Sow" first and take the ultimate whenever it is available. Stronger early
 
 What is Floryn’s win rate right now?
 
-53.94% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 25 November 2026.
+53.95% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Floryn play?
 
@@ -370,8 +370,8 @@ Support, played on roam.
 
 Is Floryn strong in the current meta?
 
-Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.9% of matches, 53.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.0% of matches, 54.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Floryn?
 
-The most popular ranked build: Lantern of Hope, Flask of the Oasis and Fleeting Time as core items, the Support emblem with Inspire, Wilderness Blessing and Focusing Mark, and Flicker. It wins 53.96% of matches.
+The most popular ranked build: Lantern of Hope, Flask of the Oasis and Fleeting Time as core items, the Support emblem with Inspire, Wilderness Blessing and Focusing Mark, and Flicker. It wins 53.86% of matches.

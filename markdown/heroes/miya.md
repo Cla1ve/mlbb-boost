@@ -1,6 +1,6 @@
 ---
 title: "Мия MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Мия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мию. Стрелок, 50,08% побед, тир B."
+description: "Мия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мию. Стрелок, 50,05% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/miya.html
 language: ru
 ---
@@ -19,15 +19,15 @@ B
 
 Победы
 
-50,1%
+50,0%
 
 Выбор
 
-1,3%
+1,4%
 
 Баны
 
-1,8%
+1,7%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -49,7 +49,7 @@ B
 2.  **49,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,2%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,3%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **50,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -71,7 +71,7 @@ B
 
 Выбор
 
-18,4%
+16,5%
 
 #### Основные предметы
 
@@ -128,11 +128,72 @@ B
 
 Победы
 
+52,9%
+
+Выбор
+
+3,9%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
+Победы
+
 56,2%
 
 Выбор
 
-3,8%
+3,5%
 
 #### Основные предметы
 
@@ -185,67 +246,6 @@ B
 -   ![](/images/mlbb/talents/132.webp)
 
     Квантовый заряд
-
-
-Победы
-
-56,2%
-
-Выбор
-
-3,0%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3005.webp)
-
-    Говорящий с ветром
-
-
-
-    ](https://boostmlbb.ru/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/3003.webp)
-
-    Ярость берсерка
-
-
-
-    ](https://boostmlbb.ru/items/berserkers-fury.html)
--   [
-
-    ![](/images/mlbb/items/3002.webp)
-
-    Когти Хааса
-
-
-
-    ](https://boostmlbb.ru/items/haas-claws.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20030.webp)Вдохновение
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
--   ![](/images/mlbb/talents/1211.webp)
-
-    Фатальность
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Охотник за скидками
-
--   ![](/images/mlbb/talents/1231.webp)
-
-    Точно в цель
 
 
 ## Как играть за Мию
@@ -368,7 +368,7 @@ B
 
 Какой процент побед у Мии сейчас?
 
-50,08% в Мифической славе за последние 7 дней и 49,69% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,05% в Мифической славе за последние 7 дней и 49,68% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Мии?
 
@@ -376,7 +376,7 @@ B
 
 Стоит ли брать Мию в текущей мете?
 
-Тир B, 54-е место из 133 героев и 10-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 50,1% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
+Тир B, 54-е место из 133 героев и 10-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,7% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
 
 Какая сборка на Мию лучшая?
 

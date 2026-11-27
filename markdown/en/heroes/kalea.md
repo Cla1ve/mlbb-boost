@@ -1,6 +1,6 @@
 ---
 title: "Kalea MLBB: build, combos and counters | MLBB Boost"
-description: "Kalea in Mobile Legends: ranked build, skill combos, how to play and who counters Kalea. Fighter and support, 51.75% win rate, tier S."
+description: "Kalea in Mobile Legends: ranked build, skill combos, how to play and who counters Kalea. Fighter and support, 51.79% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
@@ -68,72 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.3%
-
-Pick rate
-
-6.9%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3204.webp)
-
-    Oracle
-
-
-
-    ](https://boostmlbb.ru/en/items/oracle.html)
--   [
-
-    ![](/images/mlbb/items/3206.webp)
-
-    Dominance Ice
-
-
-
-    ](https://boostmlbb.ru/en/items/dominance-ice.html)
--   [
-
-    ![](/images/mlbb/items/3109.webp)
-
-    Fleeting Time
-
-
-
-    ](https://boostmlbb.ru/en/items/fleeting-time.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
--   ![](/images/mlbb/talents/311.webp)
-
-    Vitality
-
--   ![](/images/mlbb/talents/821.webp)
-
-    Pull Yourself Together
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Concussive Blast
-
-
-Win rate
-
 51.4%
 
 Pick rate
 
-6.5%
+8.3%
 
 #### Core items
 
@@ -190,11 +129,72 @@ Tank
 
 Win rate
 
-53.9%
+55.8%
 
 Pick rate
 
-3.8%
+5.8%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Vitality
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
+Win rate
+
+54.0%
+
+Pick rate
+
+3.7%
 
 #### Core items
 
@@ -338,7 +338,7 @@ Kalea grabs an enemy hero with her tail and slams them down in the Joystick's di
 
 ### Who counters Kalea
 
-[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Kalea skins
 
@@ -360,7 +360,7 @@ Kalea grabs an enemy hero with her tail and slams them down in the Joystick's di
 
 Who counters Kalea in MLBB?
 
-Over the last 30 days the toughest opponents are Fanny, Yve, Helcurt, Khaleed and Lolita.
+Over the last 30 days the toughest opponents are Fanny, Yve, Khaleed, Helcurt and Lolita.
 
 How do you play Kalea?
 
@@ -368,7 +368,7 @@ Level "Tidal Strike" first and take the ultimate whenever it is available. Stron
 
 What is Kalea’s win rate right now?
 
-51.75% at Mythical Glory over the last 7 days and 50.52% across all ranks over 30 days, as of 25 November 2026.
+51.79% at Mythical Glory over the last 7 days and 50.54% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Kalea play?
 
@@ -380,4 +380,4 @@ Tier S, #6 of 133 heroes and #3 among fighters. The tier counts how often the he
 
 What is the best build for Kalea?
 
-The most popular ranked build: Oracle, Dominance Ice and Fleeting Time as core items, the Tank emblem with Vitality, Pull Yourself Together and Concussive Blast, and Flicker. It wins 55.30% of matches.
+The most popular ranked build: Fleeting Time, Dominance Ice and Oracle as core items, the Tank emblem with Firmness, Pull Yourself Together and Concussive Blast, and Flicker. It wins 51.38% of matches.

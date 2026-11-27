@@ -1,6 +1,6 @@
 ---
 title: "Akai MLBB: build, combos and counters | MLBB Boost"
-description: "Akai in Mobile Legends: ranked build, skill combos, how to play and who counters Akai. Tank, 49.32% win rate, tier C."
+description: "Akai in Mobile Legends: ranked build, skill combos, how to play and who counters Akai. Tank, 49.34% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/akai.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.4%
+55.3%
 
 Pick rate
 
-7.2%
+7.3%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Tank
 
 Win rate
 
-56.5%
+56.3%
 
 Pick rate
 
-3.1%
+3.5%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Tank
 
 Win rate
 
-55.3%
+55.4%
 
 Pick rate
 
-2.8%
+2.7%
 
 #### Core items
 
@@ -370,7 +370,7 @@ Level "Body Slam" first and take the ultimate whenever it is available. Even thr
 
 What is Akai’s win rate right now?
 
-49.32% at Mythical Glory over the last 7 days and 50.17% across all ranks over 30 days, as of 25 November 2026.
+49.34% at Mythical Glory over the last 7 days and 50.17% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Akai play?
 
@@ -378,8 +378,8 @@ Tank, played on roam.
 
 Is Akai strong in the current meta?
 
-Tier C, #107 of 133 heroes and #19 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #108 of 133 heroes and #19 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Akai?
 
-The most popular ranked build: Fleeting Time, Guardian Helmet and Dominance Ice as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Petrify. It wins 55.35% of matches.
+The most popular ranked build: Fleeting Time, Guardian Helmet and Dominance Ice as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Petrify. It wins 55.34% of matches.

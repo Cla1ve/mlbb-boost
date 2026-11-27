@@ -48,7 +48,7 @@ Ban rate
 1.  **50.3%**![](/images/ranks/Epic.webp)Epic
 2.  **52.1%**![](/images/ranks/Legend.webp)Legend
 3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **53.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.8%
+58.9%
 
 Pick rate
 
-20.6%
+21.1%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Assassin
 
 Win rate
 
-58.9%
+58.4%
 
 Pick rate
 
-5.8%
+6.8%
 
 #### Core items
 
@@ -189,7 +189,7 @@ Assassin
 
 Win rate
 
-58.1%
+58.2%
 
 Pick rate
 
@@ -367,7 +367,7 @@ Level "Strafe" first and take the ultimate whenever it is available. Stronger ea
 
 What is Irithel’s win rate right now?
 
-53.30% at Mythical Glory over the last 7 days and 52.82% across all ranks over 30 days, as of 25 November 2026.
+53.30% at Mythical Glory over the last 7 days and 52.84% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Irithel play?
 
@@ -379,4 +379,4 @@ Tier C, #78 of 133 heroes and #15 among marksmen. The tier counts how often the 
 
 What is the best build for Irithel?
 
-The most popular ranked build: Windtalker, Haas's Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Sprint. It wins 58.81% of matches.
+The most popular ranked build: Windtalker, Haas's Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Sprint. It wins 58.86% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Bane MLBB: build, combos and counters | MLBB Boost"
-description: "Bane in Mobile Legends: ranked build, skill combos, how to play and who counters Bane. Fighter and mage, 51.58% win rate, tier C."
+description: "Bane in Mobile Legends: ranked build, skill combos, how to play and who counters Bane. Fighter and mage, 51.62% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/bane.html
 language: en
 ---
@@ -47,9 +47,9 @@ Ban rate
 
 1.  **52.4%**![](/images/ranks/Epic.webp)Epic
 2.  **51.5%**![](/images/ranks/Legend.webp)Legend
-3.  **51.6%**![](/images/ranks/Mythic.webp)Mythic
+3.  **51.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -59,9 +59,9 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**29 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB mages**27 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB fighters**34 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**26 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB mages**26 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB fighters**31 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -69,11 +69,72 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.0%
+50.5%
 
 Pick rate
 
-2.2%
+2.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
+Win rate
+
+52.8%
+
+Pick rate
+
+1.9%
 
 #### Core items
 
@@ -130,11 +191,11 @@ Assassin
 
 Win rate
 
-51.7%
+51.6%
 
 Pick rate
 
-1.7%
+1.3%
 
 #### Core items
 
@@ -179,67 +240,6 @@ Assassin
 -   ![](/images/mlbb/talents/511.webp)
 
     Rupture
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Seasoned Hunter
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Lethal Ignition
-
-
-Win rate
-
-50.5%
-
-Pick rate
-
-1.4%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3009.webp)
-
-    Hunter Strike
-
-
-
-    ](https://boostmlbb.ru/en/items/hunter-strike.html)
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Sea Halberd
-
-
-
-    ](https://boostmlbb.ru/en/items/sea-halberd.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
 
 -   ![](/images/mlbb/talents/122.webp)
 
@@ -376,7 +376,7 @@ Level "Crab Claw Cannon" first and take the ultimate whenever it is available. E
 
 What is Bane’s win rate right now?
 
-51.58% at Mythical Glory over the last 7 days and 51.62% across all ranks over 30 days, as of 25 November 2026.
+51.62% at Mythical Glory over the last 7 days and 51.62% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Bane play?
 
@@ -384,8 +384,8 @@ Fighter and mage, played in the EXP Lane or in the jungle.
 
 Is Bane strong in the current meta?
 
-Tier C, #108 of 133 heroes and #34 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #102 of 133 heroes and #31 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Bane?
 
-The most popular ranked build: Sea Halberd, Hunter Strike and War Axe as core items, the Assassin emblem with Rupture, Master Assassin and Lethal Ignition, and Flicker. It wins 52.98% of matches.
+The most popular ranked build: Hunter Strike, War Axe and Sea Halberd as core items, the Assassin emblem with Thrill, Seasoned Hunter and Lethal Ignition, and Flicker. It wins 50.46% of matches.

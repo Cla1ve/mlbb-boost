@@ -1,6 +1,6 @@
 ---
 title: "Queen's Wings MLBB: 2,250 gold, recipe and effect | MLBB Boost"
-description: "Queen's Wings in Mobile Legends: +750 HP, +30 Adaptive Attack, +10% Cooldown Reduction. Unique passive Demonize. Builds from Expert Gloves, Ares Belt and Hero's Ring. Built by Barats, Lukas and Suyou."
+description: "Queen's Wings in Mobile Legends: +750 HP, +30 Adaptive Attack, +10% Cooldown Reduction. Unique passive Demonize. Builds from Expert Gloves, Ares Belt and Hero's Ring. Built by Hirara, Barats and Lukas."
 canonical: https://boostmlbb.ru/en/items/queens-wings.html
 language: en
 ---
@@ -53,24 +53,25 @@ Parts cost 1,650, assembly adds 600 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/barats.webp)Barats59.5%](https://boostmlbb.ru/en/heroes/barats.html#build)
--   [![](/images/heroes/lukas.webp)Lukas55.4%](https://boostmlbb.ru/en/heroes/lukas.html#build)
+-   [![](/images/heroes/hirara.webp)Hirara52.6%](https://boostmlbb.ru/en/heroes/hirara.html#build)
+-   [![](/images/heroes/barats.webp)Barats59.4%](https://boostmlbb.ru/en/heroes/barats.html#build)
+-   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Suyou53.5%](https://boostmlbb.ru/en/heroes/suyou.html#build)
 -   [![](/images/heroes/sora.webp)Sora54.2%](https://boostmlbb.ru/en/heroes/sora.html#build)
--   [![](/images/heroes/rafaela.webp)Rafaela62.4%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
--   [![](/images/heroes/yu-zhong.webp)Yu Zhong55.4%](https://boostmlbb.ru/en/heroes/yu-zhong.html#build)
--   [![](/images/heroes/guinevere.webp)Guinevere56.6%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
+-   [![](/images/heroes/rafaela.webp)Rafaela61.9%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
+-   [![](/images/heroes/yu-zhong.webp)Yu Zhong55.1%](https://boostmlbb.ru/en/heroes/yu-zhong.html#build)
+-   [![](/images/heroes/guinevere.webp)Guinevere57.3%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
 -   [![](/images/heroes/phoveus.webp)Phoveus57.1%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
--   [![](/images/heroes/cyclops.webp)Cyclops61.8%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
--   [![](/images/heroes/fredrinn.webp)Fredrinn62.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
+-   [![](/images/heroes/cyclops.webp)Cyclops61.9%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
+-   [![](/images/heroes/fredrinn.webp)Fredrinn61.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
 -   [![](/images/heroes/alpha.webp)Alpha55.0%](https://boostmlbb.ru/en/heroes/alpha.html#build)
--   [![](/images/heroes/gatotkaca.webp)Gatotkaca55.1%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
--   [![](/images/heroes/thamuz.webp)Thamuz57.3%](https://boostmlbb.ru/en/heroes/thamuz.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Gatotkaca55.0%](https://boostmlbb.ru/en/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/thamuz.webp)Thamuz57.1%](https://boostmlbb.ru/en/heroes/thamuz.html#build)
 -   [![](/images/heroes/terizla.webp)Terizla57.1%](https://boostmlbb.ru/en/heroes/terizla.html#build)
--   [![](/images/heroes/ruby.webp)Ruby58.7%](https://boostmlbb.ru/en/heroes/ruby.html#build)
--   [![](/images/heroes/martis.webp)Martis57.1%](https://boostmlbb.ru/en/heroes/martis.html#build)
+-   [![](/images/heroes/ruby.webp)Ruby56.7%](https://boostmlbb.ru/en/heroes/ruby.html#build)
+-   [![](/images/heroes/martis.webp)Martis57.0%](https://boostmlbb.ru/en/heroes/martis.html#build)
 -   [![](/images/heroes/lapu-lapu.webp)Lapu-Lapu54.6%](https://boostmlbb.ru/en/heroes/lapu-lapu.html#build)
--   [![](/images/heroes/balmond.webp)Balmond53.3%](https://boostmlbb.ru/en/heroes/balmond.html#build)
+-   [![](/images/heroes/balmond.webp)Balmond53.2%](https://boostmlbb.ru/en/heroes/balmond.html#build)
 
 ## Story
 
@@ -100,4 +101,4 @@ What does Queen's Wings give?
 
 Which heroes build Queen's Wings?
 
-It is in the popular ranked builds of 18 heroes, among them Barats, Lukas, Suyou, Sora, Rafaela and Yu Zhong.
+It is in the popular ranked builds of 19 heroes, among them Hirara, Barats, Lukas, Suyou, Sora and Rafaela.

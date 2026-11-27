@@ -47,15 +47,15 @@ Parts cost 1,570, assembly adds 280 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/marcel.webp)Marcel64.6%](https://boostmlbb.ru/en/heroes/marcel.html#build)
--   [![](/images/heroes/estes.webp)Estes59.1%](https://boostmlbb.ru/en/heroes/estes.html#build)
+-   [![](/images/heroes/marcel.webp)Marcel64.5%](https://boostmlbb.ru/en/heroes/marcel.html#build)
+-   [![](/images/heroes/estes.webp)Estes58.9%](https://boostmlbb.ru/en/heroes/estes.html#build)
 -   [![](/images/heroes/minotaur.webp)Minotaur60.5%](https://boostmlbb.ru/en/heroes/minotaur.html#build)
--   [![](/images/heroes/floryn.webp)Floryn54.0%](https://boostmlbb.ru/en/heroes/floryn.html#build)
--   [![](/images/heroes/rafaela.webp)Rafaela57.2%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
--   [![](/images/heroes/angela.webp)Angela56.8%](https://boostmlbb.ru/en/heroes/angela.html#build)
--   [![](/images/heroes/diggie.webp)Diggie63.0%](https://boostmlbb.ru/en/heroes/diggie.html#build)
--   [![](/images/heroes/lolita.webp)Lolita60.9%](https://boostmlbb.ru/en/heroes/lolita.html#build)
--   [![](/images/heroes/mathilda.webp)Mathilda52.5%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
+-   [![](/images/heroes/floryn.webp)Floryn53.9%](https://boostmlbb.ru/en/heroes/floryn.html#build)
+-   [![](/images/heroes/rafaela.webp)Rafaela57.0%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
+-   [![](/images/heroes/angela.webp)Angela56.7%](https://boostmlbb.ru/en/heroes/angela.html#build)
+-   [![](/images/heroes/diggie.webp)Diggie63.2%](https://boostmlbb.ru/en/heroes/diggie.html#build)
+-   [![](/images/heroes/lolita.webp)Lolita58.4%](https://boostmlbb.ru/en/heroes/lolita.html#build)
+-   [![](/images/heroes/mathilda.webp)Mathilda52.4%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
 
 ## Story
 

@@ -1,6 +1,6 @@
 ---
 title: "Sun MLBB: build, combos and counters | MLBB Boost"
-description: "Sun in Mobile Legends: ranked build, skill combos, how to play and who counters Sun. Fighter, 53.08% win rate, tier B."
+description: "Sun in Mobile Legends: ranked build, skill combos, how to play and who counters Sun. Fighter, 53.06% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-58.5%
+59.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,8 +47,8 @@ Ban rate
 
 1.  **55.9%**![](/images/ranks/Epic.webp)Epic
 2.  **55.6%**![](/images/ranks/Legend.webp)Legend
-3.  **54.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **54.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **53.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-59.7%
+59.6%
 
 Pick rate
 
-1.9%
+2.0%
 
 #### Core items
 
@@ -129,68 +129,7 @@ Support
 
 Win rate
 
-58.1%
-
-Pick rate
-
-1.4%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3005.webp)
-
-    Windtalker
-
-
-
-    ](https://boostmlbb.ru/en/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Corrosion Scythe
-
-
-
-    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3014.webp)
-
-    Great Dragon Spear
-
-
-
-    ](https://boostmlbb.ru/en/items/great-dragon-spear.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20070.webp)Petrify
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Inspire
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Wilderness Blessing
-
--   ![](/images/mlbb/talents/132.webp)
-
-    Quantum Charge
-
-
-Win rate
-
-58.2%
+58.3%
 
 Pick rate
 
@@ -225,6 +164,67 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/golden-staff.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
+Win rate
+
+58.4%
+
+Pick rate
+
+1.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+
+    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
 
 #### Spell
 
@@ -381,7 +381,7 @@ Level "Endless Variety" first and take the ultimate whenever it is available. St
 
 What is Sun’s win rate right now?
 
-53.08% at Mythical Glory over the last 7 days and 53.84% across all ranks over 30 days, as of 25 November 2026.
+53.06% at Mythical Glory over the last 7 days and 53.88% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Sun play?
 
@@ -389,8 +389,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Sun strong in the current meta?
 
-Tier B, #17 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 58.5% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #17 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 59.0% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Sun?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Oracle as core items, the Support emblem with Agility, Wilderness Blessing and Quantum Charge, and Revitalize. It wins 59.72% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Oracle as core items, the Support emblem with Agility, Wilderness Blessing and Quantum Charge, and Revitalize. It wins 59.62% of matches.

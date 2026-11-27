@@ -1,6 +1,6 @@
 ---
 title: "Rafaela MLBB: build, combos and counters | MLBB Boost"
-description: "Rafaela in Mobile Legends: ranked build, skill combos, how to play and who counters Rafaela. Support, 53.24% win rate, tier B."
+description: "Rafaela in Mobile Legends: ranked build, skill combos, how to play and who counters Rafaela. Support, 53.27% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/rafaela.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-53.2%
+53.3%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-9.0%
+8.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.2%
+57.0%
 
 Pick rate
 
-4.0%
+4.1%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-62.4%
+61.9%
 
 Pick rate
 
-3.5%
+4.0%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Support
 
 Win rate
 
-59.7%
+59.5%
 
 Pick rate
 
-2.7%
+3.0%
 
 #### Core items
 
@@ -332,7 +332,7 @@ Rafaela unleashes the true power of Holy Light in the target direction, dealing 
 
 ### Who Rafaela counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
 ## Rafaela skins
 
@@ -362,7 +362,7 @@ Level "Light of Retribution" first and take the ultimate whenever it is availabl
 
 What is Rafaela’s win rate right now?
 
-53.24% at Mythical Glory over the last 7 days and 54.37% across all ranks over 30 days, as of 25 November 2026.
+53.27% at Mythical Glory over the last 7 days and 54.34% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Rafaela play?
 
@@ -370,8 +370,8 @@ Support, played on roam.
 
 Is Rafaela strong in the current meta?
 
-Tier B, #34 of 133 heroes and #8 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 9.0% of matches, 53.2% win rate. In professional games over the last month the hero is drafted in 7.7% of them.
+Tier B, #34 of 133 heroes and #8 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 8.9% of matches, 53.3% win rate. In professional games over the last month the hero is drafted in 7.7% of them.
 
 What is the best build for Rafaela?
 
-The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Ice Queen Wand as core items, the Support emblem with Inspire, Wilderness Blessing and Focusing Mark, and Flicker. It wins 57.20% of matches.
+The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Ice Queen Wand as core items, the Support emblem with Inspire, Wilderness Blessing and Focusing Mark, and Flicker. It wins 57.02% of matches.

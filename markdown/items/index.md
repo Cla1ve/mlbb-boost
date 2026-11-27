@@ -61,12 +61,12 @@ language: ru
 
 ## Чаще всего в сборках
 
--   [![](/images/mlbb/items/2014.webp)Пронзающий небесав сборках 34 героев](https://boostmlbb.ru/items/sky-piercer.html)
+-   [![](/images/mlbb/items/2014.webp)Пронзающий небесав сборках 32 героев](https://boostmlbb.ru/items/sky-piercer.html)
 -   [![](/images/mlbb/items/3206.webp)Господство льдав сборках 31 героя](https://boostmlbb.ru/items/dominance-ice.html)
 -   [![](/images/mlbb/items/2013.webp)Топор войныв сборках 28 героев](https://boostmlbb.ru/items/war-axe.html)
--   [![](/images/mlbb/items/3105.webp)Пылающий жезлв сборках 27 героев](https://boostmlbb.ru/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3105.webp)Пылающий жезлв сборках 28 героев](https://boostmlbb.ru/items/glowing-wand.html)
 -   [![](/images/mlbb/items/3009.webp)Удар охотникав сборках 20 героев](https://boostmlbb.ru/items/hunter-strike.html)
--   [![](/images/mlbb/items/3101.webp)Божественный мечв сборках 19 героев](https://boostmlbb.ru/items/divine-glaive.html)
--   [![](/images/mlbb/items/3212.webp)Наплечник наказанияв сборках 19 героев](https://boostmlbb.ru/items/chastise-pauldron.html)
+-   [![](/images/mlbb/items/2208.webp)Крылья королевыв сборках 19 героев](https://boostmlbb.ru/items/queens-wings.html)
 -   [![](/images/mlbb/items/3204.webp)Оракулв сборках 18 героев](https://boostmlbb.ru/items/oracle.html)
--   [![](/images/mlbb/items/2208.webp)Крылья королевыв сборках 18 героев](https://boostmlbb.ru/items/queens-wings.html)
+-   [![](/images/mlbb/items/2008.webp)Коса коррозиив сборках 17 героев](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [![](/images/mlbb/items/3110.webp)Жезл молнийв сборках 17 героев](https://boostmlbb.ru/items/lightning-truncheon.html)

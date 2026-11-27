@@ -1,6 +1,6 @@
 ---
 title: "Бенедетта MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Бенедетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бенедетту. Боец и убийца, 51,59% побед, тир C."
+description: "Бенедетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бенедетту. Боец и убийца, 51,62% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/benedetta.html
 language: ru
 ---
@@ -48,7 +48,7 @@ C
 1.  **54,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **52,4%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -68,11 +68,11 @@ C
 
 Победы
 
-54,6%
+54,3%
 
 Выбор
 
-5,0%
+6,4%
 
 #### Основные предметы
 
@@ -129,11 +129,11 @@ C
 
 Победы
 
-57,4%
+57,5%
 
 Выбор
 
-4,2%
+3,6%
 
 #### Основные предметы
 
@@ -199,11 +199,11 @@ C
 
 Победы
 
-53,0%
+53,3%
 
 Выбор
 
-2,5%
+2,4%
 
 #### Основные предметы
 
@@ -349,7 +349,7 @@ C
 
 ### Кого контрит Бенедетта
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ## Скины Бенедетты
 
@@ -379,7 +379,7 @@ C
 
 Какой процент побед у Бенедетты сейчас?
 
-51,59% в Мифической славе за последние 7 дней и 52,06% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,62% в Мифической славе за последние 7 дней и 52,06% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Бенедетты?
 
@@ -391,4 +391,4 @@ C
 
 Какая сборка на Бенедетту лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Злобный рык» и «Удар охотника», эмблема бойца с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Окаменение». С ней выигрывают 54,64% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Злобный рык» и «Удар охотника», эмблема бойца с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Окаменение». С ней выигрывают 54,27% матчей.

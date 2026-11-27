@@ -1,6 +1,6 @@
 ---
 title: "Мартис MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Мартис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мартиса. Боец, 47,44% побед, тир C."
+description: "Мартис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мартиса. Боец, 47,42% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/martis.html
 language: ru
 ---
@@ -49,7 +49,7 @@ C
 2.  **46,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **47,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,5%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **47,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -68,11 +68,11 @@ C
 
 Победы
 
-57,1%
+57,0%
 
 Выбор
 
-8,5%
+8,0%
 
 #### Основные предметы
 
@@ -125,67 +125,6 @@ C
 -   ![](/images/mlbb/talents/531.webp)
 
     Убийственный пир
-
-
-Победы
-
-51,0%
-
-Выбор
-
-1,9%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Пронзающий небеса
-
-
-
-    ](https://boostmlbb.ru/items/sky-piercer.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Трезубец
-
-
-
-    ](https://boostmlbb.ru/items/sea-halberd.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Бесконечная битва
-
-
-
-    ](https://boostmlbb.ru/items/endless-battle.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Трепет
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Кровавое пиршество
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Нечестивая ярость
 
 
 Победы
@@ -247,6 +186,67 @@ C
 -   ![](/images/mlbb/talents/531.webp)
 
     Убийственный пир
+
+
+Победы
+
+51,1%
+
+Выбор
+
+1,8%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
 
 
 ## Как играть за Мартиса
@@ -341,7 +341,7 @@ C
 
 ### Кого контрит Мартис
 
-[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
+[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
 
 ## Скины Мартиса
 
@@ -371,7 +371,7 @@ C
 
 Какой процент побед у Мартиса сейчас?
 
-47,44% в Мифической славе за последние 7 дней и 47,21% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,42% в Мифической славе за последние 7 дней и 47,20% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Мартиса?
 
@@ -383,4 +383,4 @@ C
 
 Какая сборка на Мартиса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Пронзающий небеса», «Топор войны» и «Крылья королевы», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Убийственный пир» и заклинание «Вспышка». С ней выигрывают 57,09% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Пронзающий небеса», «Топор войны» и «Крылья королевы», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Убийственный пир» и заклинание «Вспышка». С ней выигрывают 56,98% матчей.

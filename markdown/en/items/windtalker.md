@@ -1,6 +1,6 @@
 ---
 title: "Windtalker MLBB: 1,880 gold, recipe and effect | MLBB Boost"
-description: "Windtalker in Mobile Legends: +35% Attack Speed, +20% Crit Chance, +20 Movement Speed. Unique passive Typhoon. Builds from Rogue Meteor and Knife. Built by Obsidia, Sun and Miya."
+description: "Windtalker in Mobile Legends: +35% Attack Speed, +20% Crit Chance, +20 Movement Speed. Unique passive Typhoon. Builds from Rogue Meteor and Knife. Built by Obsidia, Miya and Argus."
 canonical: https://boostmlbb.ru/en/items/windtalker.html
 language: en
 ---
@@ -46,19 +46,19 @@ Parts cost 1,180, assembly adds 700 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/obsidia.webp)Obsidia55.3%](https://boostmlbb.ru/en/heroes/obsidia.html#build)
--   [![](/images/heroes/sun.webp)Sun58.1%](https://boostmlbb.ru/en/heroes/sun.html#build)
+-   [![](/images/heroes/obsidia.webp)Obsidia55.1%](https://boostmlbb.ru/en/heroes/obsidia.html#build)
 -   [![](/images/heroes/miya.webp)Miya55.8%](https://boostmlbb.ru/en/heroes/miya.html#build)
--   [![](/images/heroes/argus.webp)Argus68.8%](https://boostmlbb.ru/en/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Melissa61.2%](https://boostmlbb.ru/en/heroes/melissa.html#build)
--   [![](/images/heroes/irithel.webp)Irithel58.8%](https://boostmlbb.ru/en/heroes/irithel.html#build)
--   [![](/images/heroes/layla.webp)Layla55.0%](https://boostmlbb.ru/en/heroes/layla.html#build)
--   [![](/images/heroes/natan.webp)Natan54.4%](https://boostmlbb.ru/en/heroes/natan.html#build)
--   [![](/images/heroes/julian.webp)Julian52.7%](https://boostmlbb.ru/en/heroes/julian.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.3%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
--   [![](/images/heroes/wanwan.webp)Wanwan49.3%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
+-   [![](/images/heroes/argus.webp)Argus61.5%](https://boostmlbb.ru/en/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Melissa61.6%](https://boostmlbb.ru/en/heroes/melissa.html#build)
+-   [![](/images/heroes/minsitthar.webp)Minsitthar56.3%](https://boostmlbb.ru/en/heroes/minsitthar.html#build)
+-   [![](/images/heroes/irithel.webp)Irithel58.9%](https://boostmlbb.ru/en/heroes/irithel.html#build)
+-   [![](/images/heroes/layla.webp)Layla54.9%](https://boostmlbb.ru/en/heroes/layla.html#build)
+-   [![](/images/heroes/natan.webp)Natan54.2%](https://boostmlbb.ru/en/heroes/natan.html#build)
+-   [![](/images/heroes/julian.webp)Julian52.8%](https://boostmlbb.ru/en/heroes/julian.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.9%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
+-   [![](/images/heroes/wanwan.webp)Wanwan57.5%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
 -   [![](/images/heroes/roger.webp)Roger55.3%](https://boostmlbb.ru/en/heroes/roger.html#build)
--   [![](/images/heroes/zilong.webp)Zilong53.0%](https://boostmlbb.ru/en/heroes/zilong.html#build)
+-   [![](/images/heroes/zilong.webp)Zilong52.8%](https://boostmlbb.ru/en/heroes/zilong.html#build)
 
 ## Story
 
@@ -88,4 +88,4 @@ What does Windtalker give?
 
 Which heroes build Windtalker?
 
-It is in the popular ranked builds of 13 heroes, among them Obsidia, Sun, Miya, Argus, Melissa and Irithel.
+It is in the popular ranked builds of 13 heroes, among them Obsidia, Miya, Argus, Melissa, Minsitthar and Irithel.

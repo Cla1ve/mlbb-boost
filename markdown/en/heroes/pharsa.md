@@ -1,6 +1,6 @@
 ---
 title: "Pharsa MLBB: build, combos and counters | MLBB Boost"
-description: "Pharsa in Mobile Legends: ranked build, skill combos, how to play and who counters Pharsa. Mage, 46.63% win rate, tier D."
+description: "Pharsa in Mobile Legends: ranked build, skill combos, how to play and who counters Pharsa. Mage, 46.65% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/pharsa.html
 language: en
 ---
@@ -48,7 +48,7 @@ Ban rate
 1.  **48.0%**![](/images/ranks/Epic.webp)Epic
 2.  **47.4%**![](/images/ranks/Legend.webp)Legend
 3.  **47.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **46.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-52.0%
+51.8%
 
 Pick rate
 
-4.3%
+4.7%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-53.4%
+53.1%
 
 Pick rate
 
-3.0%
+3.2%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-52.3%
+52.2%
 
 Pick rate
 
-1.9%
+2.4%
 
 #### Core items
 
@@ -374,7 +374,7 @@ Level "Feathered Air Strike" first and take the ultimate whenever it is availabl
 
 What is Pharsa’s win rate right now?
 
-46.63% at Mythical Glory over the last 7 days and 47.20% across all ranks over 30 days, as of 25 November 2026.
+46.65% at Mythical Glory over the last 7 days and 47.18% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Pharsa play?
 
@@ -386,4 +386,4 @@ Tier D, #123 of 133 heroes and #31 among mages. The tier counts how often the he
 
 What is the best build for Pharsa?
 
-The most popular ranked build: Divine Glaive, Lightning Truncheon and Glowing Wand as core items, the Assassin emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 52.00% of matches.
+The most popular ranked build: Divine Glaive, Lightning Truncheon and Glowing Wand as core items, the Assassin emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 51.81% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Martis MLBB: build, combos and counters | MLBB Boost"
-description: "Martis in Mobile Legends: ranked build, skill combos, how to play and who counters Martis. Fighter, 47.44% win rate, tier C."
+description: "Martis in Mobile Legends: ranked build, skill combos, how to play and who counters Martis. Fighter, 47.42% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/martis.html
 language: en
 ---
@@ -49,7 +49,7 @@ Ban rate
 2.  **46.7%**![](/images/ranks/Legend.webp)Legend
 3.  **47.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **47.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.1%
+57.0%
 
 Pick rate
 
-8.5%
+8.0%
 
 #### Core items
 
@@ -125,67 +125,6 @@ Fighter
 -   ![](/images/mlbb/talents/531.webp)
 
     Killing Spree
-
-
-Win rate
-
-51.0%
-
-Pick rate
-
-1.9%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Sky Piercer
-
-
-
-    ](https://boostmlbb.ru/en/items/sky-piercer.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Sea Halberd
-
-
-
-    ](https://boostmlbb.ru/en/items/sea-halberd.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Endless Battle
-
-
-
-    ](https://boostmlbb.ru/en/items/endless-battle.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
 
 
 Win rate
@@ -247,6 +186,67 @@ Fighter
 -   ![](/images/mlbb/talents/531.webp)
 
     Killing Spree
+
+
+Win rate
+
+51.1%
+
+Pick rate
+
+1.8%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
 
 
 ## How to play Martis
@@ -341,7 +341,7 @@ If the enemy is killed by this skill, Martis can cast the skill again within 10s
 
 ### Who Martis counters
 
-[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
+[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Martis skins
 
@@ -371,7 +371,7 @@ Level "Asura Aura" first and take the ultimate whenever it is available. Stronge
 
 What is Martis’s win rate right now?
 
-47.44% at Mythical Glory over the last 7 days and 47.21% across all ranks over 30 days, as of 25 November 2026.
+47.42% at Mythical Glory over the last 7 days and 47.20% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Martis play?
 
@@ -383,4 +383,4 @@ Tier C, #112 of 133 heroes and #37 among fighters. The tier counts how often the
 
 What is the best build for Martis?
 
-The most popular ranked build: Sky Piercer, War Axe and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Killing Spree, and Flicker. It wins 57.09% of matches.
+The most popular ranked build: Sky Piercer, War Axe and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Killing Spree, and Flicker. It wins 56.98% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Obsidia MLBB: build, combos and counters | MLBB Boost"
-description: "Obsidia in Mobile Legends: ranked build, skill combos, how to play and who counters Obsidia. Marksman, 52.58% win rate, tier S."
+description: "Obsidia in Mobile Legends: ranked build, skill combos, how to play and who counters Obsidia. Marksman, 52.55% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/obsidia.html
 language: en
 ---
@@ -19,7 +19,7 @@ S
 
 Win rate
 
-52.6%
+52.5%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-65.4%
+65.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.7%**![](/images/ranks/Epic.webp)Epic
-2.  **52.8%**![](/images/ranks/Legend.webp)Legend
+2.  **52.7%**![](/images/ranks/Legend.webp)Legend
 3.  **53.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.3%
+55.1%
 
 Pick rate
 
-6.9%
+6.7%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-57.8%
+57.7%
 
 Pick rate
 
-4.4%
+4.5%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Fighter
 
 Win rate
 
-57.6%
+57.2%
 
 Pick rate
 
-2.6%
+2.9%
 
 #### Core items
 
@@ -336,7 +336,7 @@ While tethered, Obsidia can move through obstacles and use Basic Attacks while m
 
 ### Who counters Obsidia
 
-[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Who Obsidia counters
 
@@ -362,7 +362,7 @@ While tethered, Obsidia can move through obstacles and use Basic Attacks while m
 
 Who counters Obsidia in MLBB?
 
-Over the last 30 days the toughest opponents are Benedetta, Helcurt, Aldous, Yin and Natalia.
+Over the last 30 days the toughest opponents are Helcurt, Benedetta, Aldous, Yin and Natalia.
 
 How do you play Obsidia?
 
@@ -370,7 +370,7 @@ Level "Phantom Shadowmeld" first and take the ultimate whenever it is available.
 
 What is Obsidia’s win rate right now?
 
-52.58% at Mythical Glory over the last 7 days and 53.14% across all ranks over 30 days, as of 25 November 2026.
+52.55% at Mythical Glory over the last 7 days and 53.11% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Obsidia play?
 
@@ -378,8 +378,8 @@ Marksman, played in the Gold Lane.
 
 Is Obsidia strong in the current meta?
 
-Tier S, #7 of 133 heroes and #1 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 65.4% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 44.8% of them.
+Tier S, #7 of 133 heroes and #1 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 65.6% of matches, 52.5% win rate. In professional games over the last month the hero is drafted in 44.8% of them.
 
 What is the best build for Obsidia?
 
-The most popular ranked build: Windtalker, Haas's Claws and Sky Piercer as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Flicker. It wins 55.31% of matches.
+The most popular ranked build: Windtalker, Haas's Claws and Sky Piercer as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Flicker. It wins 55.14% of matches.

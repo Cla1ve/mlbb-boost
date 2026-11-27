@@ -46,14 +46,13 @@ Parts cost 1,490, assembly adds 760 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/valir.webp)Valir59.8%](https://boostmlbb.ru/en/heroes/valir.html#build)
--   [![](/images/heroes/selena.webp)Selena53.1%](https://boostmlbb.ru/en/heroes/selena.html#build)
--   [![](/images/heroes/lylia.webp)Lylia52.7%](https://boostmlbb.ru/en/heroes/lylia.html#build)
--   [![](/images/heroes/cecilion.webp)Cecilion54.6%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
--   [![](/images/heroes/yve.webp)Yve55.7%](https://boostmlbb.ru/en/heroes/yve.html#build)
--   [![](/images/heroes/gord.webp)Gord56.1%](https://boostmlbb.ru/en/heroes/gord.html#build)
--   [![](/images/heroes/nana.webp)Nana51.2%](https://boostmlbb.ru/en/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Aurora54.2%](https://boostmlbb.ru/en/heroes/aurora.html#build)
+-   [![](/images/heroes/valir.webp)Valir59.4%](https://boostmlbb.ru/en/heroes/valir.html#build)
+-   [![](/images/heroes/selena.webp)Selena53.2%](https://boostmlbb.ru/en/heroes/selena.html#build)
+-   [![](/images/heroes/lylia.webp)Lylia52.4%](https://boostmlbb.ru/en/heroes/lylia.html#build)
+-   [![](/images/heroes/cecilion.webp)Cecilion55.4%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
+-   [![](/images/heroes/gord.webp)Gord55.9%](https://boostmlbb.ru/en/heroes/gord.html#build)
+-   [![](/images/heroes/nana.webp)Nana51.0%](https://boostmlbb.ru/en/heroes/nana.html#build)
+-   [![](/images/heroes/aurora.webp)Aurora54.0%](https://boostmlbb.ru/en/heroes/aurora.html#build)
 
 ## Story
 
@@ -83,4 +82,4 @@ What does Wishing Lantern give?
 
 Which heroes build Wishing Lantern?
 
-It is in the popular ranked builds of 8 heroes, among them Valir, Selena, Lylia, Cecilion, Yve and Gord.
+It is in the popular ranked builds of 7 heroes, among them Valir, Selena, Lylia, Cecilion, Gord and Nana.

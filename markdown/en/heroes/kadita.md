@@ -48,8 +48,8 @@ Ban rate
 1.  **49.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.4%**![](/images/ranks/Legend.webp)Legend
 3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **51.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -69,11 +69,11 @@ Build 1Build 2
 
 Win rate
 
-56.9%
+56.6%
 
 Pick rate
 
-8.3%
+9.1%
 
 #### Core items
 
@@ -130,7 +130,7 @@ Mage
 
 Win rate
 
-56.9%
+55.5%
 
 Pick rate
 
@@ -149,6 +149,15 @@ Pick rate
     ](https://boostmlbb.ru/en/items/genius-wand.html)
 -   [
 
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
     ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
@@ -156,15 +165,6 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Divine Glaive
-
-
-
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
 
 #### Spell
 
@@ -308,7 +308,7 @@ Level "Ocean Ode" first and take the ultimate whenever it is available. Stronger
 
 What is Kadita’s win rate right now?
 
-51.14% at Mythical Glory over the last 7 days and 51.23% across all ranks over 30 days, as of 25 November 2026.
+51.14% at Mythical Glory over the last 7 days and 51.20% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Kadita play?
 
@@ -320,4 +320,4 @@ Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the
 
 What is the best build for Kadita?
 
-The most popular ranked build: Genius Wand, Lightning Truncheon and Holy Crystal as core items, the Mage emblem with Rupture, Pull Yourself Together and Lethal Ignition, and Petrify. It wins 56.87% of matches.
+The most popular ranked build: Genius Wand, Lightning Truncheon and Holy Crystal as core items, the Mage emblem with Rupture, Pull Yourself Together and Lethal Ignition, and Petrify. It wins 56.56% of matches.

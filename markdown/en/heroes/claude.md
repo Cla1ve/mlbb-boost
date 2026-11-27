@@ -1,6 +1,6 @@
 ---
 title: "Claude MLBB: build, combos and counters | MLBB Boost"
-description: "Claude in Mobile Legends: ranked build, skill combos, how to play and who counters Claude. Marksman, 48.48% win rate, tier B."
+description: "Claude in Mobile Legends: ranked build, skill combos, how to play and who counters Claude. Marksman, 48.46% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.6%
+53.5%
 
 Pick rate
 
-4.1%
+3.9%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-50.4%
+50.3%
 
 Pick rate
 
-3.3%
+3.4%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Fighter
 
 Win rate
 
-53.9%
+53.7%
 
 Pick rate
 
-2.9%
+2.8%
 
 #### Core items
 
@@ -239,9 +239,9 @@ Fighter
 
     Thrill
 
--   ![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-    Festival of Blood
+    Bargain Hunter
 
 -   ![](/images/mlbb/talents/132.webp)
 
@@ -364,7 +364,7 @@ Level "Art of Thievery" first and take the ultimate whenever it is available. St
 
 What is Claude’s win rate right now?
 
-48.48% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 25 November 2026.
+48.46% at Mythical Glory over the last 7 days and 48.84% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Claude play?
 
@@ -376,4 +376,4 @@ Tier B, #50 of 133 heroes and #9 among marksmen. The tier counts how often the h
 
 What is the best build for Claude?
 
-The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Fighter emblem with Thrill, Festival of Blood and Quantum Charge, and Purify. It wins 53.61% of matches.
+The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Fighter emblem with Thrill, Festival of Blood and Quantum Charge, and Purify. It wins 53.49% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Mathilda MLBB: build, combos and counters | MLBB Boost"
-description: "Mathilda in Mobile Legends: ranked build, skill combos, how to play and who counters Mathilda. Assassin and support, 43.97% win rate, tier D."
+description: "Mathilda in Mobile Legends: ranked build, skill combos, how to play and who counters Mathilda. Assassin and support, 44.01% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
@@ -46,8 +46,8 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **46.9%**![](/images/ranks/Epic.webp)Epic
-2.  **45.3%**![](/images/ranks/Legend.webp)Legend
-3.  **45.1%**![](/images/ranks/Mythic.webp)Mythic
+2.  **45.4%**![](/images/ranks/Legend.webp)Legend
+3.  **45.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **45.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **43.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -60,7 +60,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB assassins**28 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
--   [Best MLBB roamers**32 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
+-   [Best MLBB roamers**31 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
 ## Build
 
@@ -68,7 +68,7 @@ Build 1Build 2Build 3
 
 Win rate
 
-52.5%
+52.4%
 
 Pick rate
 
@@ -129,11 +129,11 @@ Support
 
 Win rate
 
-53.1%
+53.2%
 
 Pick rate
 
-3.6%
+3.8%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Support
 
 Win rate
 
-48.1%
+50.0%
 
 Pick rate
 
-1.9%
+2.0%
 
 #### Core items
 
@@ -228,7 +228,7 @@ Pick rate
 
 #### Spell
 
-![](/images/mlbb/spells/20080.webp)Purify
+![](/images/mlbb/spells/20100.webp)Flicker
 
 #### Emblem and talents
 
@@ -371,7 +371,7 @@ Level "Soul Bloom" first and take the ultimate whenever it is available. Stronge
 
 What is Mathilda’s win rate right now?
 
-43.97% at Mythical Glory over the last 7 days and 44.46% across all ranks over 30 days, as of 25 November 2026.
+44.01% at Mythical Glory over the last 7 days and 44.46% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Mathilda play?
 
@@ -379,8 +379,8 @@ Assassin and support, played on roam.
 
 Is Mathilda strong in the current meta?
 
-Tier D, #129 of 133 heroes and #28 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.0% win rate. In professional games over the last month the hero is drafted in 2.3% of them.
+Tier D, #128 of 133 heroes and #28 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.0% win rate. In professional games over the last month the hero is drafted in 2.3% of them.
 
 What is the best build for Mathilda?
 
-The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Blood Wings as core items, the Support emblem with Agility, Wilderness Blessing and Impure Rage, and Revitalize. It wins 52.53% of matches.
+The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Blood Wings as core items, the Support emblem with Agility, Wilderness Blessing and Impure Rage, and Revitalize. It wins 52.44% of matches.

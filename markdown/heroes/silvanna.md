@@ -1,6 +1,6 @@
 ---
 title: "Сильвана MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Сильвана, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сильвану. Боец, 50,29% побед, тир C."
+description: "Сильвана, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сильвану. Боец, 50,28% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/silvanna.html
 language: ru
 ---
@@ -46,10 +46,10 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,1%**![](/images/ranks/Mythic.webp)Мифик
+2.  **52,4%**![](/images/ranks/Legend.webp)Легенда
+3.  **52,2%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,7%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **49,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -71,7 +71,7 @@ C
 
 Выбор
 
-3,6%
+4,9%
 
 #### Основные предметы
 
@@ -132,7 +132,7 @@ C
 
 Выбор
 
-3,4%
+3,3%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ C
 
 Победы
 
-57,4%
+57,2%
 
 Выбор
 
-1,6%
+2,4%
 
 #### Основные предметы
 
@@ -235,13 +235,13 @@ C
 
 Эмблема мага
 
--   ![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-    Трепет
+    Проворность
 
--   ![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-    Мастер-убийца
+    Мастер оружий
 
 -   ![](/images/mlbb/talents/631.webp)
 
@@ -342,7 +342,7 @@ C
 
 ### Кого контрит Сильвана
 
-[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
 ## Скины Сильваны
 
@@ -372,7 +372,7 @@ C
 
 Какой процент побед у Сильваны сейчас?
 
-50,29% в Мифической славе за последние 7 дней и 51,38% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,28% в Мифической славе за последние 7 дней и 51,39% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Сильваны?
 
@@ -384,4 +384,4 @@ C
 
 Какая сборка на Сильвану лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Райское перо» и «Концентрированная энергия», эмблема мага с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Окаменение». С ней выигрывают 56,86% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Райское перо» и «Концентрированная энергия», эмблема мага с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Окаменение». С ней выигрывают 56,85% матчей.

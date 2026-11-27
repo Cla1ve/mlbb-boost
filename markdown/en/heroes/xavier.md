@@ -1,6 +1,6 @@
 ---
 title: "Xavier MLBB: build, combos and counters | MLBB Boost"
-description: "Xavier in Mobile Legends: ranked build, skill combos, how to play and who counters Xavier. Mage, 53.39% win rate, tier B."
+description: "Xavier in Mobile Legends: ranked build, skill combos, how to play and who counters Xavier. Mage, 53.32% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-53.4%
+53.3%
 
 Pick rate
 
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.7%**![](/images/ranks/Epic.webp)Epic
+1.  **48.8%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **50.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.9%
+59.4%
 
 Pick rate
 
-11.2%
+10.2%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-55.6%
+55.9%
 
 Pick rate
 
-6.5%
+6.3%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-59.1%
+59.5%
 
 Pick rate
 
-4.8%
+4.5%
 
 #### Core items
 
@@ -370,7 +370,7 @@ Level "Infinite Extension" first and take the ultimate whenever it is available.
 
 What is Xavier’s win rate right now?
 
-53.39% at Mythical Glory over the last 7 days and 51.95% across all ranks over 30 days, as of 25 November 2026.
+53.32% at Mythical Glory over the last 7 days and 52.02% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Xavier play?
 
@@ -378,8 +378,8 @@ Mage, played in the Mid Lane.
 
 Is Xavier strong in the current meta?
 
-Tier B, #37 of 133 heroes and #10 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 53.4% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
+Tier B, #37 of 133 heroes and #10 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 53.3% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Xavier?
 
-The most popular ranked build: Enchanted Talisman, Glowing Wand and Lightning Truncheon as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Flicker. It wins 58.91% of matches.
+The most popular ranked build: Enchanted Talisman, Glowing Wand and Lightning Truncheon as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Flicker. It wins 59.38% of matches.

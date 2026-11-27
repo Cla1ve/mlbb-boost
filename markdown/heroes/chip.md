@@ -1,6 +1,6 @@
 ---
 title: "Чип MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Чип, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чипа. Танк и поддержка, 48,27% побед, тир D."
+description: "Чип, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чипа. Танк и поддержка, 48,17% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/chip.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-48,3%
+48,2%
 
 Выбор
 
@@ -60,7 +60,7 @@ D
 ### Места в рейтингах
 
 -   [Лучшие танки MLBB**23 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
--   [Лучшие роумеры MLBB**31 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+-   [Лучшие роумеры MLBB**32 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 
@@ -68,11 +68,11 @@ D
 
 Победы
 
-53,2%
+53,0%
 
 Выбор
 
-8,4%
+8,5%
 
 #### Основные предметы
 
@@ -133,7 +133,7 @@ D
 
 Выбор
 
-2,6%
+3,1%
 
 #### Основные предметы
 
@@ -190,11 +190,11 @@ D
 
 Победы
 
-52,6%
+53,4%
 
 Выбор
 
-1,5%
+1,4%
 
 #### Основные предметы
 
@@ -209,6 +209,15 @@ D
     ](https://boostmlbb.ru/items/fleeting-time.html)
 -   [
 
+    ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
     ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
@@ -216,25 +225,16 @@ D
 
 
     ](https://boostmlbb.ru/items/chastise-pauldron.html)
--   [
-
-    ![](/images/mlbb/items/3203.webp)
-
-    Древняя кираса
-
-
-
-    ](https://boostmlbb.ru/items/antique-cuirass.html)
 
 #### Заклинание
 
-![](/images/mlbb/spells/20100.webp)Вспышка
+![](/images/mlbb/spells/20070.webp)Окаменение
 
 #### Эмблема и таланты
 
-![](/images/mlbb/emblems/20003.webp)
+![](/images/mlbb/emblems/20008.webp)
 
-Эмблема танка
+Эмблема поддержки
 
 -   ![](/images/mlbb/talents/611.webp)
 
@@ -343,7 +343,7 @@ D
 
 ### Кто контрит Чипа
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Кого контрит Чип
 
@@ -369,7 +369,7 @@ D
 
 Кто контрит Чипа в MLBB?
 
-За последние 30 дней Чипа чаще всего обыгрывают Зилонг, Хелкарт, Селена, Матильда и Флорин.
+За последние 30 дней Чипа чаще всего обыгрывают Зилонг, Хелкарт, Селена, Матильда и Валентина.
 
 Как играть за Чипа?
 
@@ -377,7 +377,7 @@ D
 
 Какой процент побед у Чипа сейчас?
 
-48,27% в Мифической славе за последние 7 дней и 47,61% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,17% в Мифической славе за последние 7 дней и 47,61% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Чипа?
 
@@ -385,8 +385,8 @@ D
 
 Стоит ли брать Чипа в текущей мете?
 
-Тир D, 128-е место из 133 героев и 23-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,3% побед. В профессиональных матчах за месяц героя драфтуют в 1,8% катков.
+Тир D, 129-е место из 133 героев и 23-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 1,8% катков.
 
 Какая сборка на Чипа лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Мимолетное время», «Наплечник наказания» и «Древняя кираса», эмблема поддержки с талантами «Вдохновение», «Стойкость» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 53,18% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Мимолетное время», «Наплечник наказания» и «Древняя кираса», эмблема поддержки с талантами «Вдохновение», «Стойкость» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 52,99% матчей.

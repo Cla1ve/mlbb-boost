@@ -1,6 +1,6 @@
 ---
 title: "Minotaur MLBB: build, combos and counters | MLBB Boost"
-description: "Minotaur in Mobile Legends: ranked build, skill combos, how to play and who counters Minotaur. Tank and support, 53.53% win rate, tier A."
+description: "Minotaur in Mobile Legends: ranked build, skill combos, how to play and who counters Minotaur. Tank and support, 53.58% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/minotaur.html
 language: en
 ---
@@ -19,7 +19,7 @@ A
 
 Win rate
 
-53.5%
+53.6%
 
 Pick rate
 
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-4.3%
+4.8%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Support
 
 Win rate
 
-63.5%
+63.4%
 
 Pick rate
 
-2.8%
+3.0%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Support
 
 Win rate
 
-57.8%
+58.3%
 
 Pick rate
 
-2.0%
+1.8%
 
 #### Core items
 
@@ -217,13 +217,13 @@ Pick rate
     ](https://boostmlbb.ru/en/items/dominance-ice.html)
 -   [
 
-    ![](/images/mlbb/items/3212.webp)
+    ![](/images/mlbb/items/3205.webp)
 
-    Chastise Pauldron
+    Athena's Shield
 
 
 
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+    ](https://boostmlbb.ru/en/items/athenas-shield.html)
 
 #### Spell
 
@@ -231,17 +231,17 @@ Pick rate
 
 #### Emblem and talents
 
-![](/images/mlbb/emblems/20003.webp)
+![](/images/mlbb/emblems/20008.webp)
 
-Tank
+Support
 
--   ![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-    Firmness
+    Vitality
 
--   ![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-    Pull Yourself Together
+    Wilderness Blessing
 
 -   ![](/images/mlbb/talents/331.webp)
 
@@ -369,7 +369,7 @@ Level "Despair Stomp" first and take the ultimate whenever it is available. Stro
 
 What is Minotaur’s win rate right now?
 
-53.53% at Mythical Glory over the last 7 days and 53.77% across all ranks over 30 days, as of 25 November 2026.
+53.58% at Mythical Glory over the last 7 days and 53.77% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Minotaur play?
 
@@ -377,8 +377,8 @@ Tank and support, played on roam.
 
 Is Minotaur strong in the current meta?
 
-Tier A, #26 of 133 heroes and #9 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.3% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 11.3% of them.
+Tier A, #26 of 133 heroes and #9 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.3% of matches, 53.6% win rate. In professional games over the last month the hero is drafted in 11.3% of them.
 
 What is the best build for Minotaur?
 
-The most popular ranked build: Flask of the Oasis, Dominance Ice and Athena's Shield as core items, the Support emblem with Vitality, Wilderness Blessing and Concussive Blast, and Revitalize. It wins 60.47% of matches.
+The most popular ranked build: Flask of the Oasis, Dominance Ice and Athena's Shield as core items, the Support emblem with Vitality, Wilderness Blessing and Concussive Blast, and Revitalize. It wins 60.54% of matches.

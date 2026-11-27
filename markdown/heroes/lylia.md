@@ -49,7 +49,7 @@ B
 2.  **50,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -68,11 +68,11 @@ B
 
 Победы
 
-52,7%
+52,4%
 
 Выбор
 
-8,0%
+8,3%
 
 #### Основные предметы
 
@@ -129,11 +129,11 @@ B
 
 Победы
 
-51,9%
+51,6%
 
 Выбор
 
-5,8%
+5,9%
 
 #### Основные предметы
 
@@ -190,11 +190,11 @@ B
 
 Победы
 
-51,6%
+51,4%
 
 Выбор
 
-4,7%
+4,6%
 
 #### Основные предметы
 
@@ -339,7 +339,11 @@ B
 
 ### Кто контрит Лилию
 
-[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
+[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
+
+### Кого контрит Лилия
+
+[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
 
 ## Скины Лилии
 
@@ -361,7 +365,7 @@ B
 
 Кто контрит Лилию в MLBB?
 
-За последние 30 дней Лилию чаще всего обыгрывают Джонсон, Альфа, Ханаби, Бартс и Алиса.
+За последние 30 дней Лилию чаще всего обыгрывают Джонсон, Ханаби, Альфа, Бартс и Алиса.
 
 Как играть за Лилию?
 
@@ -369,7 +373,7 @@ B
 
 Какой процент побед у Лилии сейчас?
 
-47,60% в Мифической славе за последние 7 дней и 49,23% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,60% в Мифической славе за последние 7 дней и 49,20% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Лилии?
 
@@ -381,4 +385,4 @@ B
 
 Какая сборка на Лилию лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Зачарованный талисман», «Пылающий жезл» и «Фонарь желаний», эмблема мага с талантами «Вдохновение», «Охотник за скидками» и «Смертельное воспламенение» и заклинание «Очищение». С ней выигрывают 52,74% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Зачарованный талисман», «Пылающий жезл» и «Фонарь желаний», эмблема мага с талантами «Вдохновение», «Охотник за скидками» и «Смертельное воспламенение» и заклинание «Очищение». С ней выигрывают 52,36% матчей.

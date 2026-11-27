@@ -1,6 +1,6 @@
 ---
 title: "Хилос MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Хилос, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хилоса. Танк, 47,02% побед, тир D."
+description: "Хилос, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хилоса. Танк, 47,00% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/hylos.html
 language: ru
 ---
@@ -68,11 +68,11 @@ D
 
 Победы
 
-55,0%
+54,9%
 
 Выбор
 
-5,9%
+7,5%
 
 #### Основные предметы
 
@@ -129,11 +129,11 @@ D
 
 Победы
 
-55,0%
+55,1%
 
 Выбор
 
-5,4%
+4,2%
 
 #### Основные предметы
 
@@ -190,45 +190,45 @@ D
 
 Победы
 
-55,0%
+53,6%
 
 Выбор
 
-1,3%
+1,2%
 
 #### Основные предметы
 
 -   [
 
-    ![](/images/mlbb/items/3212.webp)
+    ![](/images/mlbb/items/2212.webp)
 
-    Наплечник наказания
+    Штормовой пояс
 
 
 
-    ](https://boostmlbb.ru/items/chastise-pauldron.html)
+    ](https://boostmlbb.ru/items/thunder-belt.html)
 -   [
 
-    ![](/images/mlbb/items/3205.webp)
+    ![](/images/mlbb/items/3113.webp)
 
-    Щит валькирии
+    Часы судьбы
 
 
 
-    ](https://boostmlbb.ru/items/athenas-shield.html)
+    ](https://boostmlbb.ru/items/clock-of-destiny.html)
 -   [
 
-    ![](/images/mlbb/items/3203.webp)
+    ![](/images/mlbb/items/3206.webp)
 
-    Древняя кираса
+    Господство льда
 
 
 
-    ](https://boostmlbb.ru/items/antique-cuirass.html)
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 
 #### Заклинание
 
-![](/images/mlbb/spells/20050.webp)Восстановление
+![](/images/mlbb/spells/20190.webp)Месть
 
 #### Эмблема и таланты
 
@@ -236,13 +236,13 @@ D
 
 Эмблема танка
 
--   ![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/711.webp)
 
-    Ловкость
+    Прочность
 
--   ![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-    Благословение природы
+    Стойкость
 
 -   ![](/images/mlbb/talents/331.webp)
 
@@ -335,11 +335,11 @@ D
 
 ### Кто контрит Хилоса
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
 
 ### Кого контрит Хилос
 
-[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## Скины Хилоса
 
@@ -361,7 +361,7 @@ D
 
 Кто контрит Хилоса в MLBB?
 
-За последние 30 дней Хилоса чаще всего обыгрывают Зилонг, Лейла, Инь, Нана и Сабер.
+За последние 30 дней Хилоса чаще всего обыгрывают Зилонг, Лейла, Инь, Нана и Вэйл.
 
 Как играть за Хилоса?
 
@@ -369,7 +369,7 @@ D
 
 Какой процент побед у Хилоса сейчас?
 
-47,02% в Мифической славе за последние 7 дней и 48,54% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,00% в Мифической славе за последние 7 дней и 48,54% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Хилоса?
 
@@ -381,4 +381,4 @@ D
 
 Какая сборка на Хилоса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Часы судьбы» и «Господство льда», эмблема танка с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 54,95% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Часы судьбы» и «Господство льда», эмблема танка с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 54,90% матчей.

@@ -56,17 +56,17 @@ Enchanted Talisman
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/esmeralda.webp)Эсмеральда55,5%](https://boostmlbb.ru/heroes/esmeralda.html#build)
--   [![](/images/heroes/estes.webp)Эстес59,1%](https://boostmlbb.ru/heroes/estes.html#build)
--   [![](/images/heroes/rafaela.webp)Рафаэль57,2%](https://boostmlbb.ru/heroes/rafaela.html#build)
--   [![](/images/heroes/angela.webp)Ангела56,8%](https://boostmlbb.ru/heroes/angela.html#build)
--   [![](/images/heroes/lylia.webp)Лилия52,7%](https://boostmlbb.ru/heroes/lylia.html#build)
--   [![](/images/heroes/xavier.webp)Ксавьер58,9%](https://boostmlbb.ru/heroes/xavier.html#build)
--   [![](/images/heroes/cyclops.webp)Циклоп58,2%](https://boostmlbb.ru/heroes/cyclops.html#build)
--   [![](/images/heroes/cecilion.webp)Сесилион56,3%](https://boostmlbb.ru/heroes/cecilion.html#build)
--   [![](/images/heroes/faramis.webp)Фарамис54,3%](https://boostmlbb.ru/heroes/faramis.html#build)
--   [![](/images/heroes/mathilda.webp)Матильда52,5%](https://boostmlbb.ru/heroes/mathilda.html#build)
--   [![](/images/heroes/luo-yi.webp)Ло Йи49,1%](https://boostmlbb.ru/heroes/luo-yi.html#build)
+-   [![](/images/heroes/esmeralda.webp)Эсмеральда55,4%](https://boostmlbb.ru/heroes/esmeralda.html#build)
+-   [![](/images/heroes/estes.webp)Эстес58,9%](https://boostmlbb.ru/heroes/estes.html#build)
+-   [![](/images/heroes/rafaela.webp)Рафаэль57,0%](https://boostmlbb.ru/heroes/rafaela.html#build)
+-   [![](/images/heroes/angela.webp)Ангела56,7%](https://boostmlbb.ru/heroes/angela.html#build)
+-   [![](/images/heroes/lylia.webp)Лилия52,4%](https://boostmlbb.ru/heroes/lylia.html#build)
+-   [![](/images/heroes/xavier.webp)Ксавьер59,4%](https://boostmlbb.ru/heroes/xavier.html#build)
+-   [![](/images/heroes/cyclops.webp)Циклоп57,9%](https://boostmlbb.ru/heroes/cyclops.html#build)
+-   [![](/images/heroes/cecilion.webp)Сесилион55,4%](https://boostmlbb.ru/heroes/cecilion.html#build)
+-   [![](/images/heroes/faramis.webp)Фарамис54,1%](https://boostmlbb.ru/heroes/faramis.html#build)
+-   [![](/images/heroes/mathilda.webp)Матильда52,4%](https://boostmlbb.ru/heroes/mathilda.html#build)
+-   [![](/images/heroes/luo-yi.webp)Ло Йи49,0%](https://boostmlbb.ru/heroes/luo-yi.html#build)
 
 ## История
 

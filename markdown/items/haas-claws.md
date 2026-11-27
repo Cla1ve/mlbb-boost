@@ -50,17 +50,17 @@ Haas's Claws
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/obsidia.webp)Обсидия55,3%](https://boostmlbb.ru/heroes/obsidia.html#build)
--   [![](/images/heroes/bruno.webp)Бруно59,7%](https://boostmlbb.ru/heroes/bruno.html#build)
+-   [![](/images/heroes/obsidia.webp)Обсидия55,1%](https://boostmlbb.ru/heroes/obsidia.html#build)
+-   [![](/images/heroes/bruno.webp)Бруно61,6%](https://boostmlbb.ru/heroes/bruno.html#build)
 -   [![](/images/heroes/miya.webp)Мия55,8%](https://boostmlbb.ru/heroes/miya.html#build)
--   [![](/images/heroes/argus.webp)Аргус68,8%](https://boostmlbb.ru/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Мелисса61,2%](https://boostmlbb.ru/heroes/melissa.html#build)
--   [![](/images/heroes/ling.webp)Линг57,9%](https://boostmlbb.ru/heroes/ling.html#build)
--   [![](/images/heroes/irithel.webp)Иритель58,8%](https://boostmlbb.ru/heroes/irithel.html#build)
--   [![](/images/heroes/layla.webp)Лейла55,0%](https://boostmlbb.ru/heroes/layla.html#build)
+-   [![](/images/heroes/argus.webp)Аргус61,5%](https://boostmlbb.ru/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Мелисса61,6%](https://boostmlbb.ru/heroes/melissa.html#build)
+-   [![](/images/heroes/ling.webp)Линг57,8%](https://boostmlbb.ru/heroes/ling.html#build)
+-   [![](/images/heroes/irithel.webp)Иритель58,9%](https://boostmlbb.ru/heroes/irithel.html#build)
+-   [![](/images/heroes/layla.webp)Лейла54,9%](https://boostmlbb.ru/heroes/layla.html#build)
 -   [![](/images/heroes/wanwan.webp)Ванван57,5%](https://boostmlbb.ru/heroes/wanwan.html#build)
--   [![](/images/heroes/roger.webp)Роджер56,7%](https://boostmlbb.ru/heroes/roger.html#build)
--   [![](/images/heroes/zilong.webp)Зилонг53,0%](https://boostmlbb.ru/heroes/zilong.html#build)
+-   [![](/images/heroes/roger.webp)Роджер56,5%](https://boostmlbb.ru/heroes/roger.html#build)
+-   [![](/images/heroes/zilong.webp)Зилонг52,8%](https://boostmlbb.ru/heroes/zilong.html#build)
 
 ## История
 

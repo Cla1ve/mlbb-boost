@@ -1,6 +1,6 @@
 ---
 title: "Alucard MLBB: build, combos and counters | MLBB Boost"
-description: "Alucard in Mobile Legends: ranked build, skill combos, how to play and who counters Alucard. Fighter and assassin, 49.37% win rate, tier C."
+description: "Alucard in Mobile Legends: ranked build, skill combos, how to play and who counters Alucard. Fighter and assassin, 49.38% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alucard.html
 language: en
 ---
@@ -59,7 +59,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**31 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**30 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB fighters**36 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB assassins**25 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
@@ -69,11 +69,11 @@ Build 1Build 2
 
 Win rate
 
-59.7%
+59.6%
 
 Pick rate
 
-12.8%
+12.2%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Assassin
 
 Win rate
 
-59.2%
+59.1%
 
 Pick rate
 
-5.7%
+5.9%
 
 #### Core items
 
@@ -311,7 +311,7 @@ Level "Whirling Smash" first and take the ultimate whenever it is available. Str
 
 What is Alucard’s win rate right now?
 
-49.37% at Mythical Glory over the last 7 days and 48.93% across all ranks over 30 days, as of 25 November 2026.
+49.38% at Mythical Glory over the last 7 days and 48.95% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Alucard play?
 
@@ -319,8 +319,8 @@ Fighter and assassin, played in the jungle.
 
 Is Alucard strong in the current meta?
 
-Tier C, #111 of 133 heroes and #36 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #110 of 133 heroes and #36 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Alucard?
 
-The most popular ranked build: War Axe, Endless Battle and Blade of Despair as core items, the Assassin emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 59.72% of matches.
+The most popular ranked build: War Axe, Endless Battle and Blade of Despair as core items, the Assassin emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 59.65% of matches.

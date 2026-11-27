@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие роумеры MLBB
 
-34 героя · Обновлено 25 ноября
+34 героя · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди роумеров сейчас лидируют Марсель, Калеа и Кармилла. Марсель: 57,0% побед и бан в 70,0% матчей Мифической славы за 7 дней. В списке 34 героя, из них 8 в тире S или A.
+Среди роумеров сейчас лидируют Марсель, Калеа и Кармилла. Марсель: 56,9% побед и бан в 69,9% матчей Мифической славы за 7 дней. В списке 34 героя, из них 8 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -29,7 +29,7 @@ S
 
 Победы
 
-57,0%
+56,9%
 
 Выбор
 
@@ -37,7 +37,7 @@ S
 
 Баны
 
-70,0%
+69,9%
 
 [
 
@@ -95,13 +95,13 @@ S
 
 [
 
-![](/images/mlbb/items/3204.webp)
+![](/images/mlbb/items/3109.webp)
 
-Оракул
+Мимолетное время
 
 
 
-](https://boostmlbb.ru/items/oracle.html)[
+](https://boostmlbb.ru/items/fleeting-time.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
@@ -111,13 +111,13 @@ S
 
 ](https://boostmlbb.ru/items/dominance-ice.html)[
 
-![](/images/mlbb/items/3109.webp)
+![](/images/mlbb/items/3204.webp)
 
-Мимолетное время
+Оракул
 
 
 
-](https://boostmlbb.ru/items/fleeting-time.html)
+](https://boostmlbb.ru/items/oracle.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -205,11 +205,11 @@ S
 
 S
 
-57,0%
+56,9%
 
 0,4%
 
-70,0%
+69,9%
 
 87,7%
 
@@ -251,7 +251,7 @@ S
 
 1,7%
 
-56,6%
+56,7%
 
 38,0%
 
@@ -265,7 +265,7 @@ A
 
 1,0%
 
-8,3%
+8,2%
 
 75,1%
 
@@ -275,11 +275,11 @@ A
 
 A
 
-50,0%
+50,1%
 
 0,7%
 
-35,7%
+35,4%
 
 26,6%
 
@@ -293,7 +293,7 @@ A
 
 0,6%
 
-32,5%
+32,7%
 
 14,9%
 
@@ -303,7 +303,7 @@ A
 
 A
 
-53,5%
+53,6%
 
 1,4%
 
@@ -321,7 +321,7 @@ B
 
 0,9%
 
-30,9%
+30,8%
 
 0,7%
 
@@ -331,11 +331,11 @@ B
 
 B
 
-53,9%
+54,0%
 
 1,3%
 
-13,9%
+14,0%
 
 —
 
@@ -349,7 +349,7 @@ B
 
 0,9%
 
-13,3%
+13,6%
 
 5,2%
 
@@ -359,11 +359,11 @@ B
 
 B
 
-53,2%
+53,3%
 
 0,8%
 
-9,0%
+8,9%
 
 7,7%
 
@@ -373,7 +373,7 @@ B
 
 B
 
-49,7%
+49,6%
 
 1,9%
 
@@ -391,7 +391,7 @@ B
 
 1,5%
 
-5,0%
+5,1%
 
 2,7%
 
@@ -415,11 +415,11 @@ B
 
 B
 
-54,8%
+54,9%
 
 0,6%
 
-4,0%
+4,1%
 
 3,6%
 
@@ -429,11 +429,11 @@ B
 
 B
 
-56,0%
+56,1%
 
 0,3%
 
-5,4%
+5,5%
 
 —
 
@@ -447,7 +447,7 @@ B
 
 1,6%
 
-4,9%
+5,0%
 
 —
 
@@ -457,11 +457,11 @@ B
 
 C
 
-48,7%
+48,6%
 
 0,4%
 
-4,0%
+4,1%
 
 3,5%
 
@@ -485,7 +485,7 @@ C
 
 C
 
-46,8%
+46,7%
 
 0,4%
 
@@ -569,7 +569,7 @@ D
 
 D
 
-50,6%
+50,5%
 
 0,1%
 
@@ -597,7 +597,7 @@ C
 
 C
 
-47,5%
+47,6%
 
 0,3%
 
@@ -621,20 +621,6 @@ D
 
 31
 
-[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
-
-D
-
-48,3%
-
-0,1%
-
-0,2%
-
-1,8%
-
-32
-
 [![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 D
@@ -646,6 +632,20 @@ D
 0,2%
 
 2,3%
+
+32
+
+[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+
+D
+
+48,2%
+
+0,1%
+
+0,2%
+
+1,8%
 
 33
 
@@ -667,7 +667,7 @@ C
 
 D
 
-45,9%
+46,0%
 
 0,1%
 
@@ -677,21 +677,21 @@ D
 
 ## Что собирают чаще всего
 
--   [![](/images/mlbb/items/3206.webp)Господство льдау 16 из 34](https://boostmlbb.ru/items/dominance-ice.html)
+-   [![](/images/mlbb/items/3206.webp)Господство льдау 15 из 34](https://boostmlbb.ru/items/dominance-ice.html)
 -   [![](/images/mlbb/items/2212.webp)Штормовой поясу 9 из 34](https://boostmlbb.ru/items/thunder-belt.html)
 -   [![](/images/mlbb/items/3109.webp)Мимолетное времяу 9 из 34](https://boostmlbb.ru/items/fleeting-time.html)
 -   [![](/images/mlbb/items/3112.webp)Фляга Оазисау 9 из 34](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [![](/images/mlbb/items/3203.webp)Древняя кирасау 6 из 34](https://boostmlbb.ru/items/antique-cuirass.html)
 -   [![](/images/mlbb/items/3212.webp)Наплечник наказанияу 6 из 34](https://boostmlbb.ru/items/chastise-pauldron.html)
--   [![](/images/mlbb/items/3203.webp)Древняя кирасау 5 из 34](https://boostmlbb.ru/items/antique-cuirass.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 16 и «Восстановление» у 8. Эмблема танка у 13, эмблема поддержки у 13.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 16 и «Восстановление» у 8. Эмблема танка у 14, эмблема поддержки у 12.
 
 ## Кого брать в соло
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
 1.  [![](/images/heroes/minotaur.webp)Минотавр54,9%](https://boostmlbb.ru/heroes/minotaur.html)
-2.  [![](/images/heroes/rafaela.webp)Рафаэль54,9%](https://boostmlbb.ru/heroes/rafaela.html)
+2.  [![](/images/heroes/rafaela.webp)Рафаэль54,8%](https://boostmlbb.ru/heroes/rafaela.html)
 3.  [![](/images/heroes/khufra.webp)Хуфра54,7%](https://boostmlbb.ru/heroes/khufra.html)
 4.  [![](/images/heroes/floryn.webp)Флорин54,2%](https://boostmlbb.ru/heroes/floryn.html)
 5.  [![](/images/heroes/atlas.webp)Атлас53,8%](https://boostmlbb.ru/heroes/atlas.html)
@@ -704,9 +704,9 @@ D
 1.  [![](/images/heroes/johnson.webp)Джонсон8 из 34](https://boostmlbb.ru/heroes/johnson.html)
 2.  [![](/images/heroes/zilong.webp)Зилонг7 из 34](https://boostmlbb.ru/heroes/zilong.html)
 3.  [![](/images/heroes/helcurt.webp)Хелкарт6 из 34](https://boostmlbb.ru/heroes/helcurt.html)
-4.  [![](/images/heroes/saber.webp)Сабер6 из 34](https://boostmlbb.ru/heroes/saber.html)
-5.  [![](/images/heroes/alice.webp)Алиса5 из 34](https://boostmlbb.ru/heroes/alice.html)
-6.  [![](/images/heroes/natalia.webp)Наталья5 из 34](https://boostmlbb.ru/heroes/natalia.html)
+4.  [![](/images/heroes/alice.webp)Алиса5 из 34](https://boostmlbb.ru/heroes/alice.html)
+5.  [![](/images/heroes/natalia.webp)Наталья5 из 34](https://boostmlbb.ru/heroes/natalia.html)
+6.  [![](/images/heroes/saber.webp)Сабер5 из 34](https://boostmlbb.ru/heroes/saber.html)
 
 **Поднимем ранг на любом из роумеров**Цена считается в калькуляторе
 
@@ -716,7 +716,7 @@ D
 
 Кто лучший роумер в MLBB сейчас?
 
-Марсель: тир S, 57,0% побед, бан в 70,0% матчей Мифической славы за 7 дней. Следом идут Калеа и Кармилла. Данные на 25 ноября 2026 года.
+Марсель: тир S, 56,9% побед, бан в 69,9% матчей Мифической славы за 7 дней. Следом идут Калеа и Кармилла. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди роумеров?
 
@@ -724,12 +724,12 @@ D
 
 Каких роумеров чаще всего банят?
 
-Марсель (70,0%), Белерик (56,6%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Марсель (69,9%), Белерик (56,7%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько роумеров в Mobile Legends?
 
-34 из 133 героев на 25 ноября 2026 года. В списке все, кто играет роум по данным игры.
+34 из 133 героев на 26 ноября 2026 года. В списке все, кто играет роум по данным игры.
 
 Какие предметы чаще всего собирают на роумерах?
 
-В самой частой сборке героя чаще всего встречаются «Господство льда» (у 16 из 34), «Штормовой пояс» (у 9 из 34) и «Мимолетное время» (у 9 из 34). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Господство льда» (у 15 из 34), «Штормовой пояс» (у 9 из 34) и «Мимолетное время» (у 9 из 34). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

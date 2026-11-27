@@ -1,6 +1,6 @@
 ---
 title: "Lukas MLBB: build, combos and counters | MLBB Boost"
-description: "Lukas in Mobile Legends: ranked build, skill combos, how to play and who counters Lukas. Fighter, 50.86% win rate, tier A."
+description: "Lukas in Mobile Legends: ranked build, skill combos, how to play and who counters Lukas. Fighter, 50.83% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
@@ -19,7 +19,7 @@ A
 
 Win rate
 
-50.9%
+50.8%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-30.8%
+29.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -48,8 +48,8 @@ Ban rate
 1.  **50.6%**![](/images/ranks/Epic.webp)Epic
 2.  **51.2%**![](/images/ranks/Legend.webp)Legend
 3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.4%
+54.9%
 
 Pick rate
 
-4.2%
+4.0%
 
 #### Core items
 
@@ -129,72 +129,11 @@ Assassin
 
 Win rate
 
-62.5%
+54.0%
 
 Pick rate
 
-2.8%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3009.webp)
-
-    Hunter Strike
-
-
-
-    ](https://boostmlbb.ru/en/items/hunter-strike.html)
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/2208.webp)
-
-    Queen's Wings
-
-
-
-    ](https://boostmlbb.ru/en/items/queens-wings.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20190.webp)Vengeance
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/134.webp)
-
-    Temporal Reign
-
-
-Win rate
-
-54.2%
-
-Pick rate
-
-2.5%
+2.7%
 
 #### Core items
 
@@ -243,6 +182,67 @@ Assassin
 -   ![](/images/mlbb/talents/122.webp)
 
     Seasoned Hunter
+
+-   ![](/images/mlbb/talents/134.webp)
+
+    Temporal Reign
+
+
+Win rate
+
+61.9%
+
+Pick rate
+
+2.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
 
 -   ![](/images/mlbb/talents/134.webp)
 
@@ -379,7 +379,7 @@ Level "Flash Combo" first and take the ultimate whenever it is available. Strong
 
 What is Lukas’s win rate right now?
 
-50.86% at Mythical Glory over the last 7 days and 51.79% across all ranks over 30 days, as of 25 November 2026.
+50.83% at Mythical Glory over the last 7 days and 51.73% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lukas play?
 
@@ -387,8 +387,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Lukas strong in the current meta?
 
-Tier A, #27 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 30.8% of matches, 50.9% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
+Tier A, #27 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 29.7% of matches, 50.8% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
 
 What is the best build for Lukas?
 
-The most popular ranked build: Hunter Strike, War Axe and Queen's Wings as core items, the Assassin emblem with Thrill, Seasoned Hunter and Temporal Reign, and Vengeance. It wins 55.37% of matches.
+The most popular ranked build: Hunter Strike, War Axe and Queen's Wings as core items, the Assassin emblem with Thrill, Seasoned Hunter and Temporal Reign, and Vengeance. It wins 54.85% of matches.

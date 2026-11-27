@@ -1,6 +1,6 @@
 ---
 title: "Fanny MLBB: build, combos and counters | MLBB Boost"
-description: "Fanny in Mobile Legends: ranked build, skill combos, how to play and who counters Fanny. Assassin, 42.96% win rate, tier B."
+description: "Fanny in Mobile Legends: ranked build, skill combos, how to play and who counters Fanny. Assassin, 42.95% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **44.8%**![](/images/ranks/Epic.webp)Epic
-2.  **43.1%**![](/images/ranks/Legend.webp)Legend
+2.  **43.2%**![](/images/ranks/Legend.webp)Legend
 3.  **41.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **42.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **42.9%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-47.8%
+47.9%
 
 Pick rate
 
-2.0%
+2.2%
 
 #### Core items
 
@@ -129,11 +129,72 @@ Assassin
 
 Win rate
 
-45.1%
+44.8%
 
 Pick rate
 
-1.9%
+2.0%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
+
+    Rose Gold Meteor
+
+
+
+    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
+Win rate
+
+45.4%
+
+Pick rate
+
+1.8%
 
 #### Core items
 
@@ -186,67 +247,6 @@ Assassin
 -   ![](/images/mlbb/talents/131.webp)
 
     Impure Rage
-
-
-Win rate
-
-51.3%
-
-Pick rate
-
-1.7%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3007.webp)
-
-    Blade of the Heptaseas
-
-
-
-    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Sky Piercer
-
-
-
-    ](https://boostmlbb.ru/en/items/sky-piercer.html)
--   [
-
-    ![](/images/mlbb/items/3001.webp)
-
-    Malefic Roar
-
-
-
-    ](https://boostmlbb.ru/en/items/malefic-roar.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20020.webp)Retribution
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Rupture
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Lethal Ignition
 
 
 ## How to play Fanny
@@ -334,7 +334,7 @@ Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200
 
 ### Who Fanny counters
 
-[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
+[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
 ## Fanny skins
 
@@ -364,7 +364,7 @@ Level "Steel Cable" first and take the ultimate whenever it is available. Strong
 
 What is Fanny’s win rate right now?
 
-42.96% at Mythical Glory over the last 7 days and 42.71% across all ranks over 30 days, as of 25 November 2026.
+42.95% at Mythical Glory over the last 7 days and 42.74% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Fanny play?
 
@@ -376,4 +376,4 @@ Tier B, #46 of 133 heroes and #10 among assassins. The tier counts how often the
 
 What is the best build for Fanny?
 
-The most popular ranked build: Blade of the Heptaseas, Malefic Roar and Rose Gold Meteor as core items, the Assassin emblem with Rupture, Festival of Blood and Lethal Ignition, and Retribution. It wins 47.81% of matches.
+The most popular ranked build: Blade of the Heptaseas, Malefic Roar and Rose Gold Meteor as core items, the Assassin emblem with Rupture, Festival of Blood and Lethal Ignition, and Retribution. It wins 47.94% of matches.

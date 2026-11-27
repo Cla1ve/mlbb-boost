@@ -11,7 +11,7 @@ language: ru
 
 # Лучшие маги MLBB
 
-32 героя · Обновлено 25 ноября
+32 героя · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -251,7 +251,7 @@ A
 
 1,6%
 
-33,4%
+33,1%
 
 24,7%
 
@@ -279,7 +279,7 @@ A
 
 1,3%
 
-4,0%
+4,1%
 
 40,7%
 
@@ -291,7 +291,7 @@ A
 
 50,1%
 
-1,9%
+1,8%
 
 3,2%
 
@@ -303,11 +303,11 @@ A
 
 A
 
-48,3%
+48,4%
 
 1,4%
 
-3,6%
+3,5%
 
 32,9%
 
@@ -331,7 +331,7 @@ B
 
 B
 
-53,4%
+53,3%
 
 1,8%
 
@@ -387,7 +387,7 @@ B
 
 B
 
-50,3%
+50,4%
 
 1,1%
 
@@ -425,6 +425,20 @@ B
 
 17
 
+[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
+
+C
+
+48,7%
+
+0,2%
+
+0,0%
+
+19,7%
+
+18
+
 [![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)
 
 C
@@ -433,23 +447,9 @@ C
 
 0,8%
 
-0,8%
+0,7%
 
 —
-
-18
-
-[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
-
-C
-
-48,6%
-
-0,2%
-
-0,0%
-
-19,7%
 
 19
 
@@ -485,7 +485,7 @@ C
 
 C
 
-51,7%
+51,6%
 
 0,1%
 
@@ -527,7 +527,7 @@ C
 
 C
 
-45,1%
+45,2%
 
 0,9%
 
@@ -551,11 +551,11 @@ C
 
 26
 
-[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
+[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
 C
 
-51,7%
+51,6%
 
 0,3%
 
@@ -565,11 +565,11 @@ C
 
 27
 
-[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
+[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 C
 
-51,6%
+51,7%
 
 0,3%
 
@@ -597,7 +597,7 @@ C
 
 D
 
-50,6%
+50,5%
 
 0,1%
 
@@ -639,7 +639,7 @@ D
 
 D
 
-46,2%
+46,3%
 
 0,1%
 
@@ -649,14 +649,14 @@ D
 
 ## Что собирают чаще всего
 
--   [![](/images/mlbb/items/3105.webp)Пылающий жезлу 21 из 32](https://boostmlbb.ru/items/glowing-wand.html)
--   [![](/images/mlbb/items/3101.webp)Божественный мечу 13 из 32](https://boostmlbb.ru/items/divine-glaive.html)
--   [![](/images/mlbb/items/3110.webp)Жезл молнийу 13 из 32](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3105.webp)Пылающий жезлу 20 из 32](https://boostmlbb.ru/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3110.webp)Жезл молнийу 12 из 32](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3101.webp)Божественный мечу 11 из 32](https://boostmlbb.ru/items/divine-glaive.html)
 -   [![](/images/mlbb/items/3111.webp)Палочка генияу 8 из 32](https://boostmlbb.ru/items/genius-wand.html)
--   [![](/images/mlbb/items/2106.webp)Зачарованный талисману 6 из 32](https://boostmlbb.ru/items/enchanted-talisman.html)
--   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 5 из 32](https://boostmlbb.ru/items/sky-piercer.html)
+-   [![](/images/mlbb/items/2112.webp)Фонарь желанийу 7 из 32](https://boostmlbb.ru/items/wishing-lantern.html)
+-   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 6 из 32](https://boostmlbb.ru/items/sky-piercer.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 23 и «Очищение» у 3. Эмблема мага у 19, эмблема убийцы у 8.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 22 и «Огненный выстрел» у 4. Эмблема мага у 18, эмблема убийцы у 9.
 
 ## Кого брать в соло
 
@@ -688,7 +688,7 @@ D
 
 Кто лучший маг в MLBB сейчас?
 
-Алиса: тир A, 50,3% побед, бан в 8,3% матчей Мифической славы за 7 дней. Следом идут Эсмеральда и Кимми. Данные на 25 ноября 2026 года.
+Алиса: тир A, 50,3% побед, бан в 8,3% матчей Мифической славы за 7 дней. Следом идут Эсмеральда и Кимми. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди магов?
 
@@ -696,12 +696,12 @@ D
 
 Каких магов чаще всего банят?
 
-Эйдора (33,4%), Алиса (8,3%) и Валир (4,0%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (33,1%), Алиса (8,3%) и Валир (4,1%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько магов в Mobile Legends?
 
-32 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Маг».
+32 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Маг».
 
 Какие предметы чаще всего собирают на магах?
 
-В самой частой сборке героя чаще всего встречаются «Пылающий жезл» (у 21 из 32), «Божественный меч» (у 13 из 32) и «Жезл молний» (у 13 из 32). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Пылающий жезл» (у 20 из 32), «Жезл молний» (у 12 из 32) и «Божественный меч» (у 11 из 32). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

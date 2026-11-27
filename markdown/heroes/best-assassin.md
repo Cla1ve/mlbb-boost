@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие убийцы MLBB
 
-29 героев · Обновлено 25 ноября
+29 героев · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди убийц сейчас лидируют Нолан, Хирара и Пакито. Нолан: 50,5% побед и бан в 39,5% матчей Мифической славы за 7 дней. В списке 29 героев, из них 4 в тире S или A.
+Среди убийц сейчас лидируют Нолан, Хирара и Пакито. Нолан: 50,5% побед и бан в 40,5% матчей Мифической славы за 7 дней. В списке 29 героев, из них 4 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -37,7 +37,7 @@ S
 
 Баны
 
-39,5%
+40,5%
 
 [
 
@@ -91,7 +91,7 @@ S
 
 Баны
 
-84,5%
+84,4%
 
 [
 
@@ -137,7 +137,7 @@ A
 
 Победы
 
-50,1%
+50,2%
 
 Выбор
 
@@ -145,7 +145,7 @@ A
 
 Баны
 
-10,7%
+10,5%
 
 [
 
@@ -157,13 +157,13 @@ A
 
 ](https://boostmlbb.ru/items/hunter-strike.html)[
 
-![](/images/mlbb/items/2014.webp)
+![](/images/mlbb/items/3013.webp)
 
-Пронзающий небеса
+Трезубец
 
 
 
-](https://boostmlbb.ru/items/sky-piercer.html)[
+](https://boostmlbb.ru/items/sea-halberd.html)[
 
 ![](/images/mlbb/items/3001.webp)
 
@@ -209,7 +209,7 @@ S
 
 2,5%
 
-39,5%
+40,5%
 
 82,8%
 
@@ -223,7 +223,7 @@ S
 
 0,8%
 
-84,5%
+84,4%
 
 65,0%
 
@@ -233,11 +233,11 @@ S
 
 A
 
-50,1%
+50,2%
 
 1,4%
 
-10,7%
+10,5%
 
 69,3%
 
@@ -247,11 +247,11 @@ A
 
 A
 
-48,3%
+48,4%
 
 1,4%
 
-3,6%
+3,5%
 
 32,9%
 
@@ -279,7 +279,7 @@ B
 
 0,9%
 
-13,3%
+13,6%
 
 5,2%
 
@@ -307,7 +307,7 @@ B
 
 2,0%
 
-5,3%
+5,4%
 
 6,8%
 
@@ -387,11 +387,11 @@ B
 
 B
 
-49,2%
+49,1%
 
 0,9%
 
-4,7%
+4,9%
 
 —
 
@@ -405,7 +405,7 @@ B
 
 1,1%
 
-1,5%
+1,4%
 
 2,5%
 
@@ -457,9 +457,9 @@ C
 
 C
 
-49,9%
+49,7%
 
-0,6%
+0,7%
 
 0,9%
 
@@ -499,7 +499,7 @@ C
 
 C
 
-46,8%
+46,7%
 
 0,4%
 
@@ -527,7 +527,7 @@ D
 
 C
 
-50,0%
+49,9%
 
 0,3%
 
@@ -555,7 +555,7 @@ C
 
 D
 
-49,3%
+49,4%
 
 0,2%
 
@@ -569,7 +569,7 @@ D
 
 C
 
-44,9%
+44,8%
 
 0,3%
 
@@ -607,14 +607,14 @@ C
 
 ## Что собирают чаще всего
 
--   [![](/images/mlbb/items/3009.webp)Удар охотникау 9 из 29](https://boostmlbb.ru/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3009.webp)Удар охотникау 10 из 29](https://boostmlbb.ru/items/hunter-strike.html)
 -   [![](/images/mlbb/items/2013.webp)Топор войныу 8 из 29](https://boostmlbb.ru/items/war-axe.html)
 -   [![](/images/mlbb/items/3001.webp)Злобный рыку 7 из 29](https://boostmlbb.ru/items/malefic-roar.html)
--   [![](/images/mlbb/items/3004.webp)Бесконечная битвау 6 из 29](https://boostmlbb.ru/items/endless-battle.html)
+-   [![](/images/mlbb/items/3004.webp)Бесконечная битвау 5 из 29](https://boostmlbb.ru/items/endless-battle.html)
 -   [![](/images/mlbb/items/3007.webp)Клинок семи морейу 5 из 29](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
 -   [![](/images/mlbb/items/3102.webp)Священный кристаллу 5 из 29](https://boostmlbb.ru/items/holy-crystal.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Возмездие» у 16 и «Окаменение» у 5. Эмблема убийцы у 16, эмблема мага у 7.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Возмездие» у 16 и «Окаменение» у 5. Эмблема убийцы у 17, эмблема мага у 7.
 
 ## Кого брать в соло
 
@@ -624,19 +624,19 @@ C
 2.  [![](/images/heroes/benedetta.webp)Бенедетта52,7%](https://boostmlbb.ru/heroes/benedetta.html)
 3.  [![](/images/heroes/natalia.webp)Наталья51,9%](https://boostmlbb.ru/heroes/natalia.html)
 4.  [![](/images/heroes/hanzo.webp)Ханзо50,7%](https://boostmlbb.ru/heroes/hanzo.html)
-5.  [![](/images/heroes/saber.webp)Сабер50,6%](https://boostmlbb.ru/heroes/saber.html)
-6.  [![](/images/heroes/kadita.webp)Кадита50,5%](https://boostmlbb.ru/heroes/kadita.html)
+5.  [![](/images/heroes/saber.webp)Сабер50,5%](https://boostmlbb.ru/heroes/saber.html)
+6.  [![](/images/heroes/kadita.webp)Кадита50,4%](https://boostmlbb.ru/heroes/kadita.html)
 
 ## Кто обыгрывает убийц
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
-1.  [![](/images/heroes/x-borg.webp)Икс.Борг14 из 29](https://boostmlbb.ru/heroes/x-borg.html)
+1.  [![](/images/heroes/x-borg.webp)Икс.Борг15 из 29](https://boostmlbb.ru/heroes/x-borg.html)
 2.  [![](/images/heroes/natalia.webp)Наталья7 из 29](https://boostmlbb.ru/heroes/natalia.html)
 3.  [![](/images/heroes/yve.webp)Ив6 из 29](https://boostmlbb.ru/heroes/yve.html)
 4.  [![](/images/heroes/atlas.webp)Атлас5 из 29](https://boostmlbb.ru/heroes/atlas.html)
 5.  [![](/images/heroes/ixia.webp)Иксия5 из 29](https://boostmlbb.ru/heroes/ixia.html)
-6.  [![](/images/heroes/diggie.webp)Дигги4 из 29](https://boostmlbb.ru/heroes/diggie.html)
+6.  [![](/images/heroes/benedetta.webp)Бенедетта4 из 29](https://boostmlbb.ru/heroes/benedetta.html)
 
 **Поднимем ранг на любом из убийц**Цена считается в калькуляторе
 
@@ -646,7 +646,7 @@ C
 
 Кто лучший убийца в MLBB сейчас?
 
-Нолан: тир S, 50,5% побед, бан в 39,5% матчей Мифической славы за 7 дней. Следом идут Хирара и Пакито. Данные на 25 ноября 2026 года.
+Нолан: тир S, 50,5% побед, бан в 40,5% матчей Мифической славы за 7 дней. Следом идут Хирара и Пакито. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди убийц?
 
@@ -654,12 +654,12 @@ C
 
 Каких убийц чаще всего банят?
 
-Хирара (84,5%), Нолан (39,5%) и Сабер (13,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Хирара (84,4%), Нолан (40,5%) и Сабер (13,6%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько убийц в Mobile Legends?
 
-29 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Убийца».
+29 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Убийца».
 
 Какие предметы чаще всего собирают на убийцах?
 
-В самой частой сборке героя чаще всего встречаются «Удар охотника» (у 9 из 29), «Топор войны» (у 8 из 29) и «Злобный рык» (у 7 из 29). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Удар охотника» (у 10 из 29), «Топор войны» (у 8 из 29) и «Злобный рык» (у 7 из 29). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

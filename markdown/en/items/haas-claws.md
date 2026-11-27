@@ -48,17 +48,17 @@ Parts cost 1,550, assembly adds 470 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/obsidia.webp)Obsidia55.3%](https://boostmlbb.ru/en/heroes/obsidia.html#build)
--   [![](/images/heroes/bruno.webp)Bruno59.7%](https://boostmlbb.ru/en/heroes/bruno.html#build)
+-   [![](/images/heroes/obsidia.webp)Obsidia55.1%](https://boostmlbb.ru/en/heroes/obsidia.html#build)
+-   [![](/images/heroes/bruno.webp)Bruno61.6%](https://boostmlbb.ru/en/heroes/bruno.html#build)
 -   [![](/images/heroes/miya.webp)Miya55.8%](https://boostmlbb.ru/en/heroes/miya.html#build)
--   [![](/images/heroes/argus.webp)Argus68.8%](https://boostmlbb.ru/en/heroes/argus.html#build)
--   [![](/images/heroes/melissa.webp)Melissa61.2%](https://boostmlbb.ru/en/heroes/melissa.html#build)
--   [![](/images/heroes/ling.webp)Ling57.9%](https://boostmlbb.ru/en/heroes/ling.html#build)
--   [![](/images/heroes/irithel.webp)Irithel58.8%](https://boostmlbb.ru/en/heroes/irithel.html#build)
--   [![](/images/heroes/layla.webp)Layla55.0%](https://boostmlbb.ru/en/heroes/layla.html#build)
+-   [![](/images/heroes/argus.webp)Argus61.5%](https://boostmlbb.ru/en/heroes/argus.html#build)
+-   [![](/images/heroes/melissa.webp)Melissa61.6%](https://boostmlbb.ru/en/heroes/melissa.html#build)
+-   [![](/images/heroes/ling.webp)Ling57.8%](https://boostmlbb.ru/en/heroes/ling.html#build)
+-   [![](/images/heroes/irithel.webp)Irithel58.9%](https://boostmlbb.ru/en/heroes/irithel.html#build)
+-   [![](/images/heroes/layla.webp)Layla54.9%](https://boostmlbb.ru/en/heroes/layla.html#build)
 -   [![](/images/heroes/wanwan.webp)Wanwan57.5%](https://boostmlbb.ru/en/heroes/wanwan.html#build)
--   [![](/images/heroes/roger.webp)Roger56.7%](https://boostmlbb.ru/en/heroes/roger.html#build)
--   [![](/images/heroes/zilong.webp)Zilong53.0%](https://boostmlbb.ru/en/heroes/zilong.html#build)
+-   [![](/images/heroes/roger.webp)Roger56.5%](https://boostmlbb.ru/en/heroes/roger.html#build)
+-   [![](/images/heroes/zilong.webp)Zilong52.8%](https://boostmlbb.ru/en/heroes/zilong.html#build)
 
 ## Story
 

@@ -1,6 +1,6 @@
 ---
 title: "Alice MLBB: build, combos and counters | MLBB Boost"
-description: "Alice in Mobile Legends: ranked build, skill combos, how to play and who counters Alice. Tank and mage, 50.28% win rate, tier A."
+description: "Alice in Mobile Legends: ranked build, skill combos, how to play and who counters Alice. Tank and mage, 50.30% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/alice.html
 language: en
 ---
@@ -69,7 +69,7 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.0%
+54.9%
 
 Pick rate
 
@@ -130,11 +130,11 @@ Tank
 
 Win rate
 
-57.6%
+57.5%
 
 Pick rate
 
-1.6%
+2.1%
 
 #### Core items
 
@@ -191,14 +191,23 @@ Tank
 
 Win rate
 
-58.8%
+57.8%
 
 Pick rate
 
-1.3%
+1.5%
 
 #### Core items
 
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
+
+    Clock of Destiny
+
+
+
+    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
 -   [
 
     ![](/images/mlbb/items/3204.webp)
@@ -210,26 +219,17 @@ Pick rate
     ](https://boostmlbb.ru/en/items/oracle.html)
 -   [
 
-    ![](/images/mlbb/items/3208.webp)
+    ![](/images/mlbb/items/3103.webp)
 
-    Brute Force Breastplate
-
-
-
-    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Chastise Pauldron
+    Concentrated Energy
 
 
 
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 #### Spell
 
-![](/images/mlbb/spells/20050.webp)Revitalize
+![](/images/mlbb/spells/20190.webp)Vengeance
 
 #### Emblem and talents
 
@@ -241,9 +241,9 @@ Tank
 
     Vitality
 
--   ![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-    Tenacity
+    Festival of Blood
 
 -   ![](/images/mlbb/talents/131.webp)
 
@@ -375,7 +375,7 @@ Level "Doom Waltz" first and take the ultimate whenever it is available. Stronge
 
 What is Alice’s win rate right now?
 
-50.28% at Mythical Glory over the last 7 days and 50.63% across all ranks over 30 days, as of 25 November 2026.
+50.30% at Mythical Glory over the last 7 days and 50.61% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Alice play?
 
@@ -387,4 +387,4 @@ Tier A, #13 of 133 heroes and #5 among tanks. The tier counts how often the hero
 
 What is the best build for Alice?
 
-The most popular ranked build: Brute Force Breastplate, Oracle and Concentrated Energy as core items, the Tank emblem with Vitality, Seasoned Hunter and Impure Rage, and Revitalize. It wins 55.00% of matches.
+The most popular ranked build: Brute Force Breastplate, Oracle and Concentrated Energy as core items, the Tank emblem with Vitality, Seasoned Hunter and Impure Rage, and Revitalize. It wins 54.85% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Ханзо MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ханзо, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханзо. Убийца, 49,28% побед, тир C."
+description: "Ханзо, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханзо. Убийца, 49,25% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/hanzo.html
 language: ru
 ---
@@ -49,7 +49,7 @@ C
 2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **49,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -68,11 +68,11 @@ C
 
 Победы
 
-53,9%
+53,8%
 
 Выбор
 
-5,5%
+5,3%
 
 #### Основные предметы
 
@@ -129,72 +129,11 @@ C
 
 Победы
 
-52,8%
+54,6%
 
 Выбор
 
-2,8%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2212.webp)
-
-    Штормовой пояс
-
-
-
-    ](https://boostmlbb.ru/items/thunder-belt.html)
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Кираса грубой силы
-
-
-
-    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3204.webp)
-
-    Оракул
-
-
-
-    ](https://boostmlbb.ru/items/oracle.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20020.webp)Возмездие
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Вдохновение
-
--   ![](/images/mlbb/talents/121.webp)
-
-    Благословение природы
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Ударная волна
-
-
-Победы
-
-55,4%
-
-Выбор
-
-2,6%
+3,2%
 
 #### Основные предметы
 
@@ -247,6 +186,67 @@ C
 -   ![](/images/mlbb/talents/133.webp)
 
     Боевой клич
+
+
+Победы
+
+49,6%
+
+Выбор
+
+2,8%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
 
 
 ## Как играть за Ханзо
@@ -337,7 +337,7 @@ C
 
 ### Кого контрит Ханзо
 
-[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## Скины Ханзо
 
@@ -367,7 +367,7 @@ C
 
 Какой процент побед у Ханзо сейчас?
 
-49,28% в Мифической славе за последние 7 дней и 49,91% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,25% в Мифической славе за последние 7 дней и 49,90% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Ханзо?
 
@@ -379,4 +379,4 @@ C
 
 Какая сборка на Ханзо лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Золотой посох» и «Кираса грубой силы», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Ударная волна» и заклинание «Возмездие». С ней выигрывают 53,88% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Золотой посох» и «Кираса грубой силы», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Ударная волна» и заклинание «Возмездие». С ней выигрывают 53,80% матчей.

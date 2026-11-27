@@ -45,25 +45,22 @@ Divine Glaive
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/kimmy.webp)Кимми49,0%](https://boostmlbb.ru/heroes/kimmy.html#build)
--   [![](/images/heroes/zetian.webp)Цзэтянь57,1%](https://boostmlbb.ru/heroes/zetian.html#build)
--   [![](/images/heroes/selena.webp)Селена56,9%](https://boostmlbb.ru/heroes/selena.html#build)
--   [![](/images/heroes/lunox.webp)Люнокс53,4%](https://boostmlbb.ru/heroes/lunox.html#build)
--   [![](/images/heroes/guinevere.webp)Гвиневра55,9%](https://boostmlbb.ru/heroes/guinevere.html#build)
--   [![](/images/heroes/valentina.webp)Валентина51,0%](https://boostmlbb.ru/heroes/valentina.html#build)
--   [![](/images/heroes/kagura.webp)Кагура54,8%](https://boostmlbb.ru/heroes/kagura.html#build)
+-   [![](/images/heroes/kimmy.webp)Кимми48,5%](https://boostmlbb.ru/heroes/kimmy.html#build)
+-   [![](/images/heroes/zetian.webp)Цзэтянь57,0%](https://boostmlbb.ru/heroes/zetian.html#build)
+-   [![](/images/heroes/selena.webp)Селена57,3%](https://boostmlbb.ru/heroes/selena.html#build)
+-   [![](/images/heroes/lunox.webp)Люнокс53,9%](https://boostmlbb.ru/heroes/lunox.html#build)
+-   [![](/images/heroes/valentina.webp)Валентина50,9%](https://boostmlbb.ru/heroes/valentina.html#build)
+-   [![](/images/heroes/kagura.webp)Кагура54,7%](https://boostmlbb.ru/heroes/kagura.html#build)
 -   [![](/images/heroes/novaria.webp)Новария56,0%](https://boostmlbb.ru/heroes/novaria.html#build)
--   [![](/images/heroes/kadita.webp)Кадита56,9%](https://boostmlbb.ru/heroes/kadita.html#build)
--   [![](/images/heroes/vexana.webp)Вексана55,2%](https://boostmlbb.ru/heroes/vexana.html#build)
--   [![](/images/heroes/aamon.webp)Эймон54,8%](https://boostmlbb.ru/heroes/aamon.html#build)
+-   [![](/images/heroes/vexana.webp)Вексана55,0%](https://boostmlbb.ru/heroes/vexana.html#build)
+-   [![](/images/heroes/aamon.webp)Эймон54,6%](https://boostmlbb.ru/heroes/aamon.html#build)
 -   [![](/images/heroes/odette.webp)Одетта52,3%](https://boostmlbb.ru/heroes/odette.html#build)
--   [![](/images/heroes/nana.webp)Нана51,2%](https://boostmlbb.ru/heroes/nana.html#build)
--   [![](/images/heroes/zhask.webp)Заск58,6%](https://boostmlbb.ru/heroes/zhask.html#build)
+-   [![](/images/heroes/nana.webp)Нана51,0%](https://boostmlbb.ru/heroes/nana.html#build)
+-   [![](/images/heroes/zhask.webp)Заск58,3%](https://boostmlbb.ru/heroes/zhask.html#build)
 -   [![](/images/heroes/vale.webp)Вэйл55,0%](https://boostmlbb.ru/heroes/vale.html#build)
--   [![](/images/heroes/faramis.webp)Фарамис57,7%](https://boostmlbb.ru/heroes/faramis.html#build)
+-   [![](/images/heroes/faramis.webp)Фарамис57,8%](https://boostmlbb.ru/heroes/faramis.html#build)
 -   [![](/images/heroes/change.webp)Чан'Э54,3%](https://boostmlbb.ru/heroes/change.html#build)
--   [![](/images/heroes/pharsa.webp)Фаша52,0%](https://boostmlbb.ru/heroes/pharsa.html#build)
--   [![](/images/heroes/luo-yi.webp)Ло Йи49,9%](https://boostmlbb.ru/heroes/luo-yi.html#build)
+-   [![](/images/heroes/pharsa.webp)Фаша51,8%](https://boostmlbb.ru/heroes/pharsa.html#build)
 
 ## История
 
@@ -93,4 +90,4 @@ Divine Glaive
 
 Каким героям собирать «Божественный меч»?
 
-Предмет есть в популярных сборках 19 героев в рейтинге, среди них Кимми, Цзэтянь, Селена, Люнокс, Гвиневра и Валентина.
+Предмет есть в популярных сборках 16 героев в рейтинге, среди них Кимми, Цзэтянь, Селена, Люнокс, Валентина и Кагура.

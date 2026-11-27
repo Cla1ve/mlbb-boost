@@ -1,6 +1,6 @@
 ---
 title: "Вэйл MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Вэйл, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Вэйла. Маг, 48,86% побед, тир C."
+description: "Вэйл, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Вэйла. Маг, 48,85% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/vale.html
 language: ru
 ---
@@ -48,7 +48,7 @@ C
 1.  **51,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,5%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **49,6%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -72,7 +72,7 @@ C
 
 Выбор
 
-6,3%
+6,8%
 
 #### Основные предметы
 
@@ -133,7 +133,7 @@ C
 
 Выбор
 
-3,3%
+2,6%
 
 #### Основные предметы
 
@@ -190,23 +190,14 @@ C
 
 Победы
 
-52,8%
+55,1%
 
 Выбор
 
-1,4%
+1,6%
 
 #### Основные предметы
 
--   [
-
-    ![](/images/mlbb/items/2014.webp)
-
-    Пронзающий небеса
-
-
-
-    ](https://boostmlbb.ru/items/sky-piercer.html)
 -   [
 
     ![](/images/mlbb/items/3111.webp)
@@ -216,6 +207,15 @@ C
 
 
     ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
 -   [
 
     ![](/images/mlbb/items/3101.webp)
@@ -228,25 +228,25 @@ C
 
 #### Заклинание
 
-![](/images/mlbb/spells/20100.webp)Вспышка
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
 
 #### Эмблема и таланты
 
-![](/images/mlbb/emblems/20006.webp)
+![](/images/mlbb/emblems/20005.webp)
 
-Эмблема мага
+Эмблема убийцы
 
--   ![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-    Трепет
+    Разрыв
 
 -   ![](/images/mlbb/talents/1221.webp)
 
     Мастер оружий
 
--   ![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-    Нечестивая ярость
+    Смертельное воспламенение
 
 
 ## Как играть за Вэйла
@@ -331,7 +331,7 @@ C
 
 ### Кого контрит Вэйл
 
-[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## Скины Вэйла
 
@@ -361,7 +361,7 @@ C
 
 Какой процент побед у Вэйла сейчас?
 
-48,86% в Мифической славе за последние 7 дней и 50,11% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,85% в Мифической славе за последние 7 дней и 50,12% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Вэйла?
 
@@ -373,4 +373,4 @@ C
 
 Какая сборка на Вэйла лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Пылающий жезл» и «Божественный меч», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 55,00% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Пылающий жезл» и «Божественный меч», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 54,96% матчей.

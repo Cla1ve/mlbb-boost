@@ -1,6 +1,6 @@
 ---
 title: "Wanwan MLBB: build, combos and counters | MLBB Boost"
-description: "Wanwan in Mobile Legends: ranked build, skill combos, how to play and who counters Wanwan. Marksman, 47.11% win rate, tier D."
+description: "Wanwan in Mobile Legends: ranked build, skill combos, how to play and who counters Wanwan. Marksman, 47.07% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/wanwan.html
 language: en
 ---
@@ -45,9 +45,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **45.7%**![](/images/ranks/Epic.webp)Epic
+1.  **45.6%**![](/images/ranks/Epic.webp)Epic
 2.  **48.0%**![](/images/ranks/Legend.webp)Legend
-3.  **48.0%**![](/images/ranks/Mythic.webp)Mythic
+3.  **47.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -63,77 +63,7 @@ Dashed line: 50% win rate
 
 ## Build
 
-Build 1Build 2Build 3
-
-Win rate
-
-49.3%
-
-Pick rate
-
-3.8%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2008.webp)
-
-    Corrosion Scythe
-
-
-
-    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
--   [
-
-    ![](/images/mlbb/items/3005.webp)
-
-    Windtalker
-
-
-
-    ](https://boostmlbb.ru/en/items/windtalker.html)
--   [
-
-    ![](/images/mlbb/items/2006.webp)
-
-    Demon Hunter Sword
-
-
-
-    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
--   [
-
-    ![](/images/mlbb/items/2011.webp)
-
-    Wind of Nature
-
-
-
-    ](https://boostmlbb.ru/en/items/wind-of-nature.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20030.webp)Inspire
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
--   ![](/images/mlbb/talents/112.webp)
-
-    Swift
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Weapons Master
-
--   ![](/images/mlbb/talents/1231.webp)
-
-    Weakness Finder
-
+Build 1Build 2
 
 Win rate
 
@@ -141,7 +71,7 @@ Win rate
 
 Pick rate
 
-3.1%
+3.8%
 
 #### Core items
 
@@ -207,11 +137,11 @@ Marksman
 
 Win rate
 
-58.9%
+61.8%
 
 Pick rate
 
-3.0%
+2.3%
 
 #### Core items
 
@@ -235,15 +165,6 @@ Pick rate
     ](https://boostmlbb.ru/en/items/windtalker.html)
 -   [
 
-    ![](/images/mlbb/items/3012.webp)
-
-    Rose Gold Meteor
-
-
-
-    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
--   [
-
     ![](/images/mlbb/items/3002.webp)
 
     Haas's Claws
@@ -251,6 +172,15 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 
 #### Spell
 
@@ -266,9 +196,9 @@ Marksman
 
     Swift
 
--   ![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-    Weapons Master
+    Bargain Hunter
 
 -   ![](/images/mlbb/talents/1231.webp)
 
@@ -359,7 +289,7 @@ Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit 
 
 ### Who Wanwan counters
 
-[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Wanwan skins
 
@@ -389,7 +319,7 @@ Level "Swallow’s Path" first and take the ultimate whenever it is available. S
 
 What is Wanwan’s win rate right now?
 
-47.11% at Mythical Glory over the last 7 days and 47.52% across all ranks over 30 days, as of 25 November 2026.
+47.07% at Mythical Glory over the last 7 days and 47.50% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Wanwan play?
 
@@ -401,4 +331,4 @@ Tier D, #125 of 133 heroes and #22 among marksmen. The tier counts how often the
 
 What is the best build for Wanwan?
 
-The most popular ranked build: Corrosion Scythe, Windtalker, Demon Hunter Sword and Wind of Nature as core items, the Marksman emblem with Swift, Weapons Master and Weakness Finder, and Inspire. It wins 49.34% of matches.
+The most popular ranked build: Corrosion Scythe, Windtalker, Rose Gold Meteor and Haas's Claws as core items, the Marksman emblem with Swift, Master Assassin and Weakness Finder, and Inspire. It wins 57.47% of matches.

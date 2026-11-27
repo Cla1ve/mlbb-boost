@@ -1,6 +1,6 @@
 ---
 title: "Сесилион MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Сесилион, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сесилиона. Маг, 50,61% побед, тир C."
+description: "Сесилион, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сесилиона. Маг, 50,60% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/cecilion.html
 language: ru
 ---
@@ -68,133 +68,11 @@ C
 
 Победы
 
-56,3%
+55,4%
 
 Выбор
 
-2,5%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3113.webp)
-
-    Часы судьбы
-
-
-
-    ](https://boostmlbb.ru/items/clock-of-destiny.html)
--   [
-
-    ![](/images/mlbb/items/2106.webp)
-
-    Зачарованный талисман
-
-
-
-    ](https://boostmlbb.ru/items/enchanted-talisman.html)
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Пылающий жезл
-
-
-
-    ](https://boostmlbb.ru/items/glowing-wand.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Вдохновение
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Охотник за скидками
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Нечестивая ярость
-
-
-Победы
-
-54,6%
-
-Выбор
-
-2,2%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3113.webp)
-
-    Часы судьбы
-
-
-
-    ](https://boostmlbb.ru/items/clock-of-destiny.html)
--   [
-
-    ![](/images/mlbb/items/2106.webp)
-
-    Зачарованный талисман
-
-
-
-    ](https://boostmlbb.ru/items/enchanted-talisman.html)
--   [
-
-    ![](/images/mlbb/items/2112.webp)
-
-    Фонарь желаний
-
-
-
-    ](https://boostmlbb.ru/items/wishing-lantern.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20001.webp)
-
-Обычная эмблема
-
--   ![](/images/mlbb/talents/611.webp)
-
-    Вдохновение
-
--   ![](/images/mlbb/talents/621.webp)
-
-    Охотник за скидками
-
--   ![](/images/mlbb/talents/134.webp)
-
-    Временное правление
-
-
-Победы
-
-55,6%
-
-Выбор
-
-2,0%
+3,1%
 
 #### Основные предметы
 
@@ -243,6 +121,128 @@ C
 -   ![](/images/mlbb/talents/121.webp)
 
     Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
+Победы
+
+55,8%
+
+Выбор
+
+2,2%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
+
+    Часы судьбы
+
+
+
+    ](https://boostmlbb.ru/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
+
+    Фонарь желаний
+
+
+
+    ](https://boostmlbb.ru/items/wishing-lantern.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
+Победы
+
+56,0%
+
+Выбор
+
+2,0%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
+
+    Часы судьбы
+
+
+
+    ](https://boostmlbb.ru/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
 
 -   ![](/images/mlbb/talents/131.webp)
 
@@ -344,7 +344,7 @@ C
 
 ### Кто контрит Сесилиона
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ## Скины Сесилиона
 
@@ -366,7 +366,7 @@ C
 
 Кто контрит Сесилиона в MLBB?
 
-За последние 30 дней Сесилиона чаще всего обыгрывают Лолита, Бартс, Фовиус, Хилос и Фредрин.
+За последние 30 дней Сесилиона чаще всего обыгрывают Лолита, Бартс, Фовиус, Фредрин и Хилос.
 
 Как играть за Сесилиона?
 
@@ -374,7 +374,7 @@ C
 
 Какой процент побед у Сесилиона сейчас?
 
-50,61% в Мифической славе за последние 7 дней и 50,87% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,60% в Мифической славе за последние 7 дней и 50,85% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Сесилиона?
 
@@ -382,8 +382,8 @@ C
 
 Стоит ли брать Сесилиона в текущей мете?
 
-Тир C, 76-е место из 133 героев и 20-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
+Тир C, 77-е место из 133 героев и 20-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
 
 Какая сборка на Сесилиона лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Часы судьбы», «Зачарованный талисман» и «Пылающий жезл», эмблема мага с талантами «Вдохновение», «Охотник за скидками» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 56,31% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Часы судьбы», «Зачарованный талисман» и «Фонарь желаний», эмблема мага с талантами «Вдохновение», «Благословение природы» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 55,40% матчей.

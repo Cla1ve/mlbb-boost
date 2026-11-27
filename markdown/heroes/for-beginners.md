@@ -11,7 +11,7 @@ language: ru
 
 # Лучшие герои для новичков в MLBB
 
-34 героя · Обновлено 25 ноября
+34 героя · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -29,11 +29,11 @@ S
 
 Победы, Эпик
 
-55,6%
+55,5%
 
 Победы, Легенда
 
-56,9%
+56,8%
 
 Сложность
 
@@ -83,11 +83,11 @@ S
 
 Победы, Эпик
 
-54,5%
+54,3%
 
 Победы, Легенда
 
-57,8%
+57,7%
 
 Сложность
 
@@ -187,14 +187,14 @@ S
 
 ### ![](/images/mlbb/filters/tank.webp)Простые танки
 
-1.  [![](/images/heroes/masha.webp)Маша56,1%](https://boostmlbb.ru/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Маша56,0%](https://boostmlbb.ru/heroes/masha.html)
 2.  [![](/images/heroes/belerick.webp)Белерик55,3%](https://boostmlbb.ru/heroes/belerick.html)
 3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Кармилла54,3%](https://boostmlbb.ru/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Простые бойцы
 
-1.  [![](/images/heroes/masha.webp)Маша56,1%](https://boostmlbb.ru/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Маша56,0%](https://boostmlbb.ru/heroes/masha.html)
 2.  [![](/images/heroes/hilda.webp)Хильда54,2%](https://boostmlbb.ru/heroes/hilda.html)
 3.  [![](/images/heroes/minsitthar.webp)Минситтар53,2%](https://boostmlbb.ru/heroes/minsitthar.html)
 4.  [![](/images/heroes/silvanna.webp)Сильвана52,2%](https://boostmlbb.ru/heroes/silvanna.html)
@@ -212,8 +212,8 @@ S
 
 ### ![](/images/mlbb/filters/marksman.webp)Простые стрелки
 
-1.  [![](/images/heroes/hanabi.webp)Ханаби54,1%](https://boostmlbb.ru/heroes/hanabi.html)
-2.  [![](/images/heroes/obsidia.webp)Обсидия52,3%](https://boostmlbb.ru/heroes/obsidia.html)
+1.  [![](/images/heroes/hanabi.webp)Ханаби54,2%](https://boostmlbb.ru/heroes/hanabi.html)
+2.  [![](/images/heroes/obsidia.webp)Обсидия52,2%](https://boostmlbb.ru/heroes/obsidia.html)
 3.  [![](/images/heroes/irithel.webp)Иритель51,2%](https://boostmlbb.ru/heroes/irithel.html)
 4.  [![](/images/heroes/layla.webp)Лейла50,5%](https://boostmlbb.ru/heroes/layla.html)
 
@@ -246,9 +246,9 @@ S
 
 30
 
-55,6%
+55,5%
 
-56,9%
+56,8%
 
 0,3%
 
@@ -258,9 +258,9 @@ S
 
 30
 
-54,5%
+54,3%
 
-57,8%
+57,7%
 
 0,5%
 
@@ -282,7 +282,7 @@ S
 
 30
 
-55,5%
+55,6%
 
 54,5%
 
@@ -366,7 +366,7 @@ S
 
 30
 
-53,6%
+53,7%
 
 52,8%
 
@@ -384,18 +384,6 @@ S
 
 0,6%
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)
-
-стрелок
-
-30
-
-51,7%
-
-52,8%
-
-2,1%
-
 [![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 боец
@@ -404,9 +392,21 @@ S
 
 52,1%
 
-52,3%
+52,4%
 
 1,0%
+
+[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)
+
+стрелок
+
+30
+
+51,7%
+
+52,7%
+
+2,1%
 
 [![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)
 
@@ -416,7 +416,7 @@ S
 
 51,5%
 
-52,4%
+52,3%
 
 0,7%
 
@@ -498,9 +498,9 @@ S
 
 30
 
-50,8%
+50,9%
 
-51,5%
+51,4%
 
 0,2%
 
@@ -546,7 +546,7 @@ S
 
 30
 
-50,2%
+50,3%
 
 50,6%
 
@@ -572,7 +572,7 @@ S
 
 50,0%
 
-50,1%
+50,0%
 
 0,7%
 
@@ -582,7 +582,7 @@ S
 
 10
 
-50,2%
+50,1%
 
 49,8%
 
@@ -624,18 +624,6 @@ S
 
 1,3%
 
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
-
-убийца
-
-30
-
-48,4%
-
-50,0%
-
-1,0%
-
 [![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 маг
@@ -647,6 +635,18 @@ S
 48,5%
 
 1,7%
+
+[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
+
+убийца
+
+30
+
+48,4%
+
+50,0%
+
+1,0%
 
 ## Какие роли проще
 

@@ -1,6 +1,6 @@
 ---
 title: "X.Borg MLBB: build, combos and counters | MLBB Boost"
-description: "X.Borg in Mobile Legends: ranked build, skill combos, how to play and who counters X.Borg. Fighter, 49.00% win rate, tier C."
+description: "X.Borg in Mobile Legends: ranked build, skill combos, how to play and who counters X.Borg. Fighter, 48.98% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/x-borg.html
 language: en
 ---
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.2%
+55.0%
 
 Pick rate
 
-6.0%
+6.6%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Tank
 
 Win rate
 
-54.9%
+55.3%
 
 Pick rate
 
-2.4%
+2.1%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Tank
 
 Win rate
 
-51.7%
+52.0%
 
 Pick rate
 
-1.7%
+1.6%
 
 #### Core items
 
@@ -336,11 +336,11 @@ After 3s, his mecha suit detonates, dealing 300 (+ 15% target's ) True Damage. I
 
 ### Who counters X.Borg
 
-[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
 ### Who X.Borg counters
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
 ## X.Borg skins
 
@@ -362,7 +362,7 @@ After 3s, his mecha suit detonates, dealing 300 (+ 15% target's ) True Damage. I
 
 Who counters X.Borg in MLBB?
 
-Over the last 30 days the toughest opponents are Baxia, Barats, Terizla, Phoveus and Hylos.
+Over the last 30 days the toughest opponents are Baxia, Barats, Terizla, Phoveus and Martis.
 
 How do you play X.Borg?
 
@@ -370,7 +370,7 @@ Level "Fire Missiles" first and take the ultimate whenever it is available. Stro
 
 What is X.Borg’s win rate right now?
 
-49.00% at Mythical Glory over the last 7 days and 49.94% across all ranks over 30 days, as of 25 November 2026.
+48.98% at Mythical Glory over the last 7 days and 49.94% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does X.Borg play?
 
@@ -382,4 +382,4 @@ Tier C, #91 of 133 heroes and #28 among fighters. The tier counts how often the 
 
 What is the best build for X.Borg?
 
-The most popular ranked build: War Axe, Dominance Ice and Brute Force Breastplate as core items, the Tank emblem with Agility, Festival of Blood and Impure Rage, and Flicker. It wins 55.18% of matches.
+The most popular ranked build: War Axe, Dominance Ice and Brute Force Breastplate as core items, the Tank emblem with Agility, Festival of Blood and Impure Rage, and Flicker. It wins 55.02% of matches.

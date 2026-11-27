@@ -1,6 +1,6 @@
 ---
 title: "Сияющая броня в MLBB: цена 1880, сборка и эффект | MLBB Boost"
-description: "Сияющая броня (Radiant Armor) в Mobile Legends: +950 оз, +40 магическая защита, +12 регенерация оз. Пассивка «Святое благословение». Собирается из: Роба тишины, Плащ сопротивления магии и Исцеляющее ожерелье. Собирают Атлас, Тигрил и Гатоткача."
+description: "Сияющая броня (Radiant Armor) в Mobile Legends: +950 оз, +40 магическая защита, +12 регенерация оз. Пассивка «Святое благословение». Собирается из: Роба тишины, Плащ сопротивления магии и Исцеляющее ожерелье. Собирают Атлас, Уранус и Тигрил."
 canonical: https://boostmlbb.ru/items/radiant-armor.html
 language: ru
 ---
@@ -49,13 +49,14 @@ Radiant Armor
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/atlas.webp)Атлас52,4%](https://boostmlbb.ru/heroes/atlas.html#build)
+-   [![](/images/heroes/atlas.webp)Атлас52,0%](https://boostmlbb.ru/heroes/atlas.html#build)
+-   [![](/images/heroes/uranus.webp)Уранус57,1%](https://boostmlbb.ru/heroes/uranus.html#build)
 -   [![](/images/heroes/tigreal.webp)Тигрил49,4%](https://boostmlbb.ru/heroes/tigreal.html#build)
--   [![](/images/heroes/gatotkaca.webp)Гатоткача51,1%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
+-   [![](/images/heroes/gatotkaca.webp)Гатоткача50,8%](https://boostmlbb.ru/heroes/gatotkaca.html#build)
 -   [![](/images/heroes/edith.webp)Эдит60,9%](https://boostmlbb.ru/heroes/edith.html#build)
 -   [![](/images/heroes/grock.webp)Грок51,0%](https://boostmlbb.ru/heroes/grock.html#build)
--   [![](/images/heroes/lolita.webp)Лолита60,9%](https://boostmlbb.ru/heroes/lolita.html#build)
--   [![](/images/heroes/baxia.webp)Баксий55,6%](https://boostmlbb.ru/heroes/baxia.html#build)
+-   [![](/images/heroes/lolita.webp)Лолита60,4%](https://boostmlbb.ru/heroes/lolita.html#build)
+-   [![](/images/heroes/baxia.webp)Баксий51,8%](https://boostmlbb.ru/heroes/baxia.html#build)
 
 ## История
 
@@ -85,4 +86,4 @@ Radiant Armor
 
 Каким героям собирать «Сияющая броня»?
 
-Предмет есть в популярных сборках 7 героев в рейтинге, среди них Атлас, Тигрил, Гатоткача, Эдит, Грок и Лолита.
+Предмет есть в популярных сборках 8 героев в рейтинге, среди них Атлас, Уранус, Тигрил, Гатоткача, Эдит и Грок.

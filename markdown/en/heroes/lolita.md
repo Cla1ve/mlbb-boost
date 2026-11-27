@@ -1,6 +1,6 @@
 ---
 title: "Lolita MLBB: build, combos and counters | MLBB Boost"
-description: "Lolita in Mobile Legends: ranked build, skill combos, how to play and who counters Lolita. Tank and support, 52.38% win rate, tier D."
+description: "Lolita in Mobile Legends: ranked build, skill combos, how to play and who counters Lolita. Tank and support, 52.36% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/lolita.html
 language: en
 ---
@@ -48,8 +48,8 @@ Ban rate
 1.  **54.1%**![](/images/ranks/Epic.webp)Epic
 2.  **55.2%**![](/images/ranks/Legend.webp)Legend
 3.  **54.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **53.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,72 @@ Build 1Build 2Build 3
 
 Win rate
 
-60.9%
+58.4%
 
 Pick rate
 
-2.3%
+2.6%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
+
+    Guardian Helmet
+
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Firmness
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Focusing Mark
+
+
+Win rate
+
+60.4%
+
+Pick rate
+
+2.1%
 
 #### Core items
 
@@ -129,11 +190,11 @@ Support
 
 Win rate
 
-59.4%
+59.0%
 
 Pick rate
 
-2.0%
+1.8%
 
 #### Core items
 
@@ -182,67 +243,6 @@ Tank
 -   ![](/images/mlbb/talents/321.webp)
 
     Tenacity
-
--   ![](/images/mlbb/talents/831.webp)
-
-    Focusing Mark
-
-
-Win rate
-
-58.4%
-
-Pick rate
-
-1.5%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3112.webp)
-
-    Flask of the Oasis
-
-
-
-    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Chastise Pauldron
-
-
-
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
--   [
-
-    ![](/images/mlbb/items/3202.webp)
-
-    Guardian Helmet
-
-
-
-    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20050.webp)Revitalize
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
--   ![](/images/mlbb/talents/711.webp)
-
-    Firmness
-
--   ![](/images/mlbb/talents/821.webp)
-
-    Pull Yourself Together
 
 -   ![](/images/mlbb/talents/831.webp)
 
@@ -337,7 +337,7 @@ Cooldown **55 Mana Cost: 100 s**
 
 ### Who Lolita counters
 
-[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)
+[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)
 
 ## Lolita skins
 
@@ -367,7 +367,7 @@ Level "Power Charge" first and take the ultimate whenever it is available. Even 
 
 What is Lolita’s win rate right now?
 
-52.38% at Mythical Glory over the last 7 days and 53.29% across all ranks over 30 days, as of 25 November 2026.
+52.36% at Mythical Glory over the last 7 days and 53.30% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lolita play?
 
@@ -379,4 +379,4 @@ Tier D, #122 of 133 heroes and #22 among tanks. The tier counts how often the he
 
 What is the best build for Lolita?
 
-The most popular ranked build: Flask of the Oasis, Dominance Ice and Radiant Armor as core items, the Support emblem with Firmness, Tenacity and Concussive Blast, and Revitalize. It wins 60.85% of matches.
+The most popular ranked build: Flask of the Oasis, Chastise Pauldron and Guardian Helmet as core items, the Tank emblem with Firmness, Pull Yourself Together and Focusing Mark, and Revitalize. It wins 58.35% of matches.

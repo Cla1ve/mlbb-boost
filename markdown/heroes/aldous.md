@@ -1,6 +1,6 @@
 ---
 title: "Алдос MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Алдос, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алдоса. Боец, 53,39% побед, тир C."
+description: "Алдос, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алдоса. Боец, 53,35% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aldous.html
 language: ru
 ---
@@ -45,11 +45,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,2%**![](/images/ranks/Legend.webp)Легенда
+1.  **52,2%**![](/images/ranks/Epic.webp)Эпик
+2.  **52,3%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **52,0%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **52,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -67,11 +67,11 @@ C
 
 Победы
 
-58,5%
+59,2%
 
 Выбор
 
-17,0%
+15,9%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ C
 
 Победы
 
-62,0%
+62,2%
 
 Выбор
 
-2,5%
+3,3%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ C
 
 Победы
 
-62,2%
+62,4%
 
 Выбор
 
-2,5%
+2,6%
 
 #### Основные предметы
 
@@ -341,7 +341,7 @@ C
 
 ### Кто контрит Алдоса
 
-[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ### Кого контрит Алдос
 
@@ -367,7 +367,7 @@ C
 
 Кто контрит Алдоса в MLBB?
 
-За последние 30 дней Алдоса чаще всего обыгрывают Уранус, Ксавьер, Хелкарт, Икс.Борг и Ханзо.
+За последние 30 дней Алдоса чаще всего обыгрывают Уранус, Ксавьер, Хелкарт, Икс.Борг и Гатоткача.
 
 Как играть за Алдоса?
 
@@ -375,7 +375,7 @@ C
 
 Какой процент побед у Алдоса сейчас?
 
-53,39% в Мифической славе за последние 7 дней и 52,20% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+53,35% в Мифической славе за последние 7 дней и 52,29% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Алдоса?
 
@@ -387,4 +387,4 @@ C
 
 Какая сборка на Алдоса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Бесконечная битва» и «Злобный рык», эмблема убийцы с талантами «Ловкость», «Благословение природы» и «Квантовый заряд» и заклинание «Вспышка». С ней выигрывают 58,53% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Бесконечная битва» и «Злобный рык», эмблема убийцы с талантами «Ловкость», «Благословение природы» и «Квантовый заряд» и заклинание «Вспышка». С ней выигрывают 59,24% матчей.

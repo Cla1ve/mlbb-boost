@@ -1,6 +1,6 @@
 ---
 title: "Moskov MLBB: build, combos and counters | MLBB Boost"
-description: "Moskov in Mobile Legends: ranked build, skill combos, how to play and who counters Moskov. Marksman, 51.32% win rate, tier B."
+description: "Moskov in Mobile Legends: ranked build, skill combos, how to play and who counters Moskov. Marksman, 51.35% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/moskov.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-51.3%
+51.4%
 
 Pick rate
 
@@ -47,8 +47,8 @@ Ban rate
 
 1.  **46.7%**![](/images/ranks/Epic.webp)Epic
 2.  **47.7%**![](/images/ranks/Legend.webp)Legend
-3.  **49.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **49.3%**![](/images/ranks/Mythic.webp)Mythic
+4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.5%
+55.4%
 
 Pick rate
 
-8.6%
+8.0%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Marksman
 
 Win rate
 
-56.5%
+56.2%
 
 Pick rate
 
-5.7%
+6.6%
 
 #### Core items
 
@@ -193,7 +193,7 @@ Win rate
 
 Pick rate
 
-4.4%
+4.7%
 
 #### Core items
 
@@ -368,7 +368,7 @@ Level "Abyss Walker" first and take the ultimate whenever it is available. Stron
 
 What is Moskov’s win rate right now?
 
-51.32% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 25 November 2026.
+51.35% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Moskov play?
 
@@ -376,8 +376,8 @@ Marksman, played in the Gold Lane.
 
 Is Moskov strong in the current meta?
 
-Tier B, #49 of 133 heroes and #8 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.3% win rate. In professional games over the last month the hero is drafted in 7.5% of them.
+Tier B, #49 of 133 heroes and #8 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 7.5% of them.
 
 What is the best build for Moskov?
 
-The most popular ranked build: Corrosion Scythe, Golden Staff and Demon Hunter Sword as core items, the Marksman emblem with Swift, Bargain Hunter and Quantum Charge, and Flicker. It wins 55.51% of matches.
+The most popular ranked build: Corrosion Scythe, Golden Staff and Demon Hunter Sword as core items, the Marksman emblem with Swift, Bargain Hunter and Quantum Charge, and Flicker. It wins 55.42% of matches.

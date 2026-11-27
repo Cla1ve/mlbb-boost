@@ -1,6 +1,6 @@
 ---
 title: "Aamon MLBB: build, combos and counters | MLBB Boost"
-description: "Aamon in Mobile Legends: ranked build, skill combos, how to play and who counters Aamon. Assassin, 49.89% win rate, tier C."
+description: "Aamon in Mobile Legends: ranked build, skill combos, how to play and who counters Aamon. Assassin, 49.69% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
@@ -19,11 +19,11 @@ C
 
 Win rate
 
-49.9%
+49.7%
 
 Pick rate
 
-0.6%
+0.7%
 
 Ban rate
 
@@ -47,9 +47,9 @@ Ban rate
 
 1.  **49.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.0%**![](/images/ranks/Legend.webp)Legend
-3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **50.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.8%
+54.6%
 
 Pick rate
 
-8.6%
+7.4%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-54.4%
+54.0%
 
 Pick rate
 
-4.3%
+6.8%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-57.4%
+57.1%
 
 Pick rate
 
-2.3%
+2.2%
 
 #### Core items
 
@@ -343,7 +343,7 @@ The damage dealt increases with the target's lost , to the max when the target's
 
 ### Who Aamon counters
 
-[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
+[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Aamon skins
 
@@ -373,7 +373,7 @@ Level "Soul Shards" first and take the ultimate whenever it is available. Even t
 
 What is Aamon’s win rate right now?
 
-49.89% at Mythical Glory over the last 7 days and 50.13% across all ranks over 30 days, as of 25 November 2026.
+49.69% at Mythical Glory over the last 7 days and 50.09% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Aamon play?
 
@@ -381,8 +381,8 @@ Assassin, played in the jungle.
 
 Is Aamon strong in the current meta?
 
-Tier C, #84 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #84 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 49.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aamon?
 
-The most popular ranked build: Genius Wand, Holy Crystal and Divine Glaive as core items, the Mage emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 54.80% of matches.
+The most popular ranked build: Genius Wand, Holy Crystal and Divine Glaive as core items, the Mage emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 54.56% of matches.

@@ -69,11 +69,11 @@ Build 1Build 2
 
 Win rate
 
-55.7%
+55.5%
 
 Pick rate
 
-3.2%
+3.3%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Mage
 
 Win rate
 
-55.5%
+55.3%
 
 Pick rate
 
-1.2%
+1.0%
 
 #### Core items
 
@@ -149,15 +149,6 @@ Pick rate
     ](https://boostmlbb.ru/en/items/genius-wand.html)
 -   [
 
-    ![](/images/mlbb/items/3102.webp)
-
-    Holy Crystal
-
-
-
-    ](https://boostmlbb.ru/en/items/holy-crystal.html)
--   [
-
     ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
@@ -165,24 +156,33 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
+
+    Holy Crystal
+
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 
-![](/images/mlbb/spells/20070.webp)Petrify
+![](/images/mlbb/spells/20100.webp)Flicker
 
 #### Emblem and talents
 
-![](/images/mlbb/emblems/20005.webp)
+![](/images/mlbb/emblems/20006.webp)
 
-Assassin
+Mage
 
 -   ![](/images/mlbb/talents/511.webp)
 
     Rupture
 
--   ![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-    Pull Yourself Together
+    Weapons Master
 
 -   ![](/images/mlbb/talents/631.webp)
 
@@ -312,7 +312,7 @@ Level "Shadowblade Slaughter" first and take the ultimate whenever it is availab
 
 What is Gusion’s win rate right now?
 
-48.91% at Mythical Glory over the last 7 days and 48.64% across all ranks over 30 days, as of 25 November 2026.
+48.91% at Mythical Glory over the last 7 days and 48.65% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Gusion play?
 
@@ -324,4 +324,4 @@ Tier B, #68 of 133 heroes and #16 among assassins. The tier counts how often the
 
 What is the best build for Gusion?
 
-The most popular ranked build: Genius Wand, Lightning Truncheon and Holy Crystal as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 55.72% of matches.
+The most popular ranked build: Genius Wand, Lightning Truncheon and Holy Crystal as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 55.54% of matches.

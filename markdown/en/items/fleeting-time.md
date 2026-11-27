@@ -45,19 +45,19 @@ Parts cost 1,400, assembly adds 650 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/kalea.webp)Kalea55.3%](https://boostmlbb.ru/en/heroes/kalea.html#build)
--   [![](/images/heroes/atlas.webp)Atlas52.4%](https://boostmlbb.ru/en/heroes/atlas.html#build)
--   [![](/images/heroes/zetian.webp)Zetian57.0%](https://boostmlbb.ru/en/heroes/zetian.html#build)
--   [![](/images/heroes/estes.webp)Estes59.1%](https://boostmlbb.ru/en/heroes/estes.html#build)
+-   [![](/images/heroes/kalea.webp)Kalea51.4%](https://boostmlbb.ru/en/heroes/kalea.html#build)
+-   [![](/images/heroes/atlas.webp)Atlas52.0%](https://boostmlbb.ru/en/heroes/atlas.html#build)
+-   [![](/images/heroes/zetian.webp)Zetian56.7%](https://boostmlbb.ru/en/heroes/zetian.html#build)
+-   [![](/images/heroes/estes.webp)Estes58.9%](https://boostmlbb.ru/en/heroes/estes.html#build)
 -   [![](/images/heroes/kaja.webp)Kaja55.8%](https://boostmlbb.ru/en/heroes/kaja.html#build)
--   [![](/images/heroes/floryn.webp)Floryn54.0%](https://boostmlbb.ru/en/heroes/floryn.html#build)
--   [![](/images/heroes/angela.webp)Angela55.8%](https://boostmlbb.ru/en/heroes/angela.html#build)
--   [![](/images/heroes/diggie.webp)Diggie63.0%](https://boostmlbb.ru/en/heroes/diggie.html#build)
+-   [![](/images/heroes/floryn.webp)Floryn53.9%](https://boostmlbb.ru/en/heroes/floryn.html#build)
+-   [![](/images/heroes/angela.webp)Angela55.6%](https://boostmlbb.ru/en/heroes/angela.html#build)
+-   [![](/images/heroes/diggie.webp)Diggie63.2%](https://boostmlbb.ru/en/heroes/diggie.html#build)
 -   [![](/images/heroes/tigreal.webp)Tigreal48.4%](https://boostmlbb.ru/en/heroes/tigreal.html#build)
--   [![](/images/heroes/johnson.webp)Johnson52.4%](https://boostmlbb.ru/en/heroes/johnson.html#build)
--   [![](/images/heroes/akai.webp)Akai55.4%](https://boostmlbb.ru/en/heroes/akai.html#build)
--   [![](/images/heroes/chip.webp)Chip53.2%](https://boostmlbb.ru/en/heroes/chip.html#build)
--   [![](/images/heroes/franco.webp)Franco44.0%](https://boostmlbb.ru/en/heroes/franco.html#build)
+-   [![](/images/heroes/johnson.webp)Johnson52.3%](https://boostmlbb.ru/en/heroes/johnson.html#build)
+-   [![](/images/heroes/akai.webp)Akai55.3%](https://boostmlbb.ru/en/heroes/akai.html#build)
+-   [![](/images/heroes/chip.webp)Chip53.0%](https://boostmlbb.ru/en/heroes/chip.html#build)
+-   [![](/images/heroes/franco.webp)Franco44.3%](https://boostmlbb.ru/en/heroes/franco.html#build)
 
 ## Story
 

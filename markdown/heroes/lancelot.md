@@ -1,6 +1,6 @@
 ---
 title: "Ланселот MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ланселот, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ланселота. Убийца, 42,16% побед, тир C."
+description: "Ланселот, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ланселота. Убийца, 42,18% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/lancelot.html
 language: ru
 ---
@@ -68,72 +68,11 @@ C
 
 Победы
 
-49,0%
+49,9%
 
 Выбор
 
-9,6%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    Топор войны
-
-
-
-    ](https://boostmlbb.ru/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Кираса грубой силы
-
-
-
-    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Бесконечная битва
-
-
-
-    ](https://boostmlbb.ru/items/endless-battle.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20020.webp)Возмездие
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Трепет
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Опытный охотник
-
--   ![](/images/mlbb/talents/531.webp)
-
-    Убийственный пир
-
-
-Победы
-
-50,0%
-
-Выбор
-
-7,9%
+8,1%
 
 #### Основные предметы
 
@@ -190,11 +129,72 @@ C
 
 Победы
 
-48,2%
+49,2%
 
 Выбор
 
-6,7%
+7,3%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
+Победы
+
+48,1%
+
+Выбор
+
+6,5%
 
 #### Основные предметы
 
@@ -328,7 +328,7 @@ C
 
 ### Кто контрит Ланселота
 
-[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
+[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
 ### Кого контрит Ланселот
 
@@ -354,7 +354,7 @@ C
 
 Кто контрит Ланселота в MLBB?
 
-За последние 30 дней Ланселота чаще всего обыгрывают Атлас, Инь, Альфа, Джонсон и Икс.Борг.
+За последние 30 дней Ланселота чаще всего обыгрывают Атлас, Инь, Альфа, Икс.Борг и Джонсон.
 
 Как играть за Ланселота?
 
@@ -362,7 +362,7 @@ C
 
 Какой процент побед у Ланселота сейчас?
 
-42,16% в Мифической славе за последние 7 дней и 43,08% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+42,18% в Мифической славе за последние 7 дней и 43,07% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Ланселота?
 
@@ -374,4 +374,4 @@ C
 
 Какая сборка на Ланселота лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Кираса грубой силы» и «Бесконечная битва», эмблема убийцы с талантами «Трепет», «Опытный охотник» и «Убийственный пир» и заклинание «Возмездие». С ней выигрывают 49,02% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Бесконечная битва» и «Кираса грубой силы», эмблема убийцы с талантами «Трепет», «Опытный охотник» и «Убийственный пир» и заклинание «Возмездие». С ней выигрывают 49,90% матчей.

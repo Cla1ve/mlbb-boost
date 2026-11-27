@@ -1,6 +1,6 @@
 ---
 title: "Clock of Destiny MLBB: 2,030 gold, recipe and effect | MLBB Boost"
-description: "Clock of Destiny in Mobile Legends: +45 Magic Power, +400 HP, +400 Mana. Unique passive Destiny. Builds from Elegant Gem and Book of Sages. Built by Zhuxin, Cecilion and Hylos."
+description: "Clock of Destiny in Mobile Legends: +45 Magic Power, +400 HP, +400 Mana. Unique passive Destiny. Builds from Elegant Gem and Book of Sages. Built by Alice, Zhuxin and Cecilion."
 canonical: https://boostmlbb.ru/en/items/clock-of-destiny.html
 language: en
 ---
@@ -53,9 +53,10 @@ Parts cost 1,150, assembly adds 880 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
+-   [![](/images/heroes/alice.webp)Alice57.8%](https://boostmlbb.ru/en/heroes/alice.html#build)
 -   [![](/images/heroes/zhuxin.webp)Zhuxin56.5%](https://boostmlbb.ru/en/heroes/zhuxin.html#build)
--   [![](/images/heroes/cecilion.webp)Cecilion56.3%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
--   [![](/images/heroes/hylos.webp)Hylos55.0%](https://boostmlbb.ru/en/heroes/hylos.html#build)
+-   [![](/images/heroes/cecilion.webp)Cecilion55.4%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
+-   [![](/images/heroes/hylos.webp)Hylos54.9%](https://boostmlbb.ru/en/heroes/hylos.html#build)
 
 ## Story
 
@@ -85,4 +86,4 @@ What does Clock of Destiny give?
 
 Which heroes build Clock of Destiny?
 
-It is in the popular ranked builds of 3 heroes, among them Zhuxin, Cecilion and Hylos.
+It is in the popular ranked builds of 4 heroes, among them Alice, Zhuxin, Cecilion and Hylos.

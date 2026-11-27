@@ -1,6 +1,6 @@
 ---
 title: "Валентина MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Валентина, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Валентину. Маг, 44,64% побед, тир B."
+description: "Валентина, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Валентину. Маг, 44,60% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/valentina.html
 language: ru
 ---
@@ -45,11 +45,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **42,4%**![](/images/ranks/Epic.webp)Эпик
+1.  **42,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **42,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **42,8%**![](/images/ranks/Mythic.webp)Мифик
+3.  **42,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **44,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,3%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **45,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -68,11 +68,11 @@ B
 
 Победы
 
-51,0%
+50,9%
 
 Выбор
 
-7,8%
+7,1%
 
 #### Основные предметы
 
@@ -129,11 +129,11 @@ B
 
 Победы
 
-49,2%
+48,8%
 
 Выбор
 
-5,6%
+6,7%
 
 #### Основные предметы
 
@@ -190,11 +190,11 @@ B
 
 Победы
 
-52,7%
+52,4%
 
 Выбор
 
-4,8%
+4,4%
 
 #### Основные предметы
 
@@ -340,11 +340,11 @@ B
 
 ### Кто контрит Валентину
 
-[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)
 
 ### Кого контрит Валентина
 
-[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## Скины Валентины
 
@@ -366,7 +366,7 @@ B
 
 Кто контрит Валентину в MLBB?
 
-За последние 30 дней Валентину чаще всего обыгрывают Кармилла, Атлас, Икс.Борг, Лукас и Лолита.
+За последние 30 дней Валентину чаще всего обыгрывают Кармилла, Атлас, Икс.Борг, Лолита и Лукас.
 
 Как играть за Валентину?
 
@@ -374,7 +374,7 @@ B
 
 Какой процент побед у Валентины сейчас?
 
-44,64% в Мифической славе за последние 7 дней и 44,64% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+44,60% в Мифической славе за последние 7 дней и 44,61% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Валентины?
 
@@ -386,4 +386,4 @@ B
 
 Какая сборка на Валентину лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл молний» и «Божественный меч», эмблема мага с талантами «Вдохновение», «Благословение природы» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 51,00% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл молний» и «Божественный меч», эмблема мага с талантами «Вдохновение», «Благословение природы» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 50,85% матчей.

@@ -53,12 +53,12 @@ Parts cost 1,450, assembly adds 580 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/kimmy.webp)Kimmy54.3%](https://boostmlbb.ru/en/heroes/kimmy.html#build)
+-   [![](/images/heroes/kimmy.webp)Kimmy53.8%](https://boostmlbb.ru/en/heroes/kimmy.html#build)
 -   [![](/images/heroes/harith.webp)Harith55.4%](https://boostmlbb.ru/en/heroes/harith.html#build)
 -   [![](/images/heroes/silvanna.webp)Silvanna56.9%](https://boostmlbb.ru/en/heroes/silvanna.html#build)
--   [![](/images/heroes/aamon.webp)Aamon57.4%](https://boostmlbb.ru/en/heroes/aamon.html#build)
--   [![](/images/heroes/natan.webp)Natan54.4%](https://boostmlbb.ru/en/heroes/natan.html#build)
--   [![](/images/heroes/julian.webp)Julian52.7%](https://boostmlbb.ru/en/heroes/julian.html#build)
+-   [![](/images/heroes/aamon.webp)Aamon57.1%](https://boostmlbb.ru/en/heroes/aamon.html#build)
+-   [![](/images/heroes/natan.webp)Natan54.2%](https://boostmlbb.ru/en/heroes/natan.html#build)
+-   [![](/images/heroes/julian.webp)Julian52.8%](https://boostmlbb.ru/en/heroes/julian.html#build)
 -   [![](/images/heroes/edith.webp)Edith60.9%](https://boostmlbb.ru/en/heroes/edith.html#build)
 
 ## Story

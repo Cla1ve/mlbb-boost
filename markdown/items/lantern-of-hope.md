@@ -33,7 +33,7 @@ Lantern of Hope
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/floryn.webp)Флорин54,0%](https://boostmlbb.ru/heroes/floryn.html#build)
+-   [![](/images/heroes/floryn.webp)Флорин53,9%](https://boostmlbb.ru/heroes/floryn.html#build)
 
 ## Другие предметы магии
 

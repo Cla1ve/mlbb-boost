@@ -1,6 +1,6 @@
 ---
 title: "Chip MLBB: build, combos and counters | MLBB Boost"
-description: "Chip in Mobile Legends: ranked build, skill combos, how to play and who counters Chip. Tank and support, 48.27% win rate, tier D."
+description: "Chip in Mobile Legends: ranked build, skill combos, how to play and who counters Chip. Tank and support, 48.17% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/chip.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-48.3%
+48.2%
 
 Pick rate
 
@@ -60,7 +60,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB tanks**23 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
--   [Best MLBB roamers**31 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
+-   [Best MLBB roamers**32 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
 ## Build
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.2%
+53.0%
 
 Pick rate
 
-8.4%
+8.5%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-2.6%
+3.1%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Support
 
 Win rate
 
-52.6%
+53.4%
 
 Pick rate
 
-1.5%
+1.4%
 
 #### Core items
 
@@ -209,6 +209,15 @@ Pick rate
     ](https://boostmlbb.ru/en/items/fleeting-time.html)
 -   [
 
+    ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
     ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
@@ -216,25 +225,16 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
--   [
-
-    ![](/images/mlbb/items/3203.webp)
-
-    Antique Cuirass
-
-
-
-    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
 
 #### Spell
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/spells/20070.webp)Petrify
 
 #### Emblem and talents
 
-![](/images/mlbb/emblems/20003.webp)
+![](/images/mlbb/emblems/20008.webp)
 
-Tank
+Support
 
 -   ![](/images/mlbb/talents/611.webp)
 
@@ -343,7 +343,7 @@ Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to te
 
 ### Who counters Chip
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Who Chip counters
 
@@ -369,7 +369,7 @@ Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to te
 
 Who counters Chip in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Helcurt, Selena, Mathilda and Floryn.
+Over the last 30 days the toughest opponents are Zilong, Helcurt, Selena, Mathilda and Valentina.
 
 How do you play Chip?
 
@@ -377,7 +377,7 @@ Level "Shortcut" first and take the ultimate whenever it is available. Stronger 
 
 What is Chip’s win rate right now?
 
-48.27% at Mythical Glory over the last 7 days and 47.61% across all ranks over 30 days, as of 25 November 2026.
+48.17% at Mythical Glory over the last 7 days and 47.61% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Chip play?
 
@@ -385,8 +385,8 @@ Tank and support, played on roam.
 
 Is Chip strong in the current meta?
 
-Tier D, #128 of 133 heroes and #23 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 1.8% of them.
+Tier D, #129 of 133 heroes and #23 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 1.8% of them.
 
 What is the best build for Chip?
 
-The most popular ranked build: Fleeting Time, Chastise Pauldron and Antique Cuirass as core items, the Support emblem with Inspire, Tenacity and Concussive Blast, and Flicker. It wins 53.18% of matches.
+The most popular ranked build: Fleeting Time, Chastise Pauldron and Antique Cuirass as core items, the Support emblem with Inspire, Tenacity and Concussive Blast, and Flicker. It wins 52.99% of matches.

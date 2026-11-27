@@ -1,6 +1,6 @@
 ---
 title: "Vexana MLBB: build, combos and counters | MLBB Boost"
-description: "Vexana in Mobile Legends: ranked build, skill combos, how to play and who counters Vexana. Mage, 48.46% win rate, tier C."
+description: "Vexana in Mobile Legends: ranked build, skill combos, how to play and who counters Vexana. Mage, 48.45% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vexana.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.2%**![](/images/ranks/Epic.webp)Epic
+1.  **50.1%**![](/images/ranks/Epic.webp)Epic
 2.  **49.8%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.1%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.2%
+55.0%
 
 Pick rate
 
-9.1%
+10.7%
 
 #### Core items
 
@@ -129,72 +129,11 @@ Mage
 
 Win rate
 
-54.5%
-
-Pick rate
-
-3.1%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Glowing Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [
-
-    ![](/images/mlbb/items/3110.webp)
-
-    Lightning Truncheon
-
-
-
-    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Divine Glaive
-
-
-
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Rupture
-
--   ![](/images/mlbb/talents/1221.webp)
-
-    Weapons Master
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Lethal Ignition
-
-
-Win rate
-
 55.8%
 
 Pick rate
 
-2.3%
+2.5%
 
 #### Core items
 
@@ -247,6 +186,67 @@ Mage
 -   ![](/images/mlbb/talents/131.webp)
 
     Impure Rage
+
+
+Win rate
+
+54.3%
+
+Pick rate
+
+2.4%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
 
 
 ## How to play Vexana
@@ -357,7 +357,7 @@ Level "Cursed Blast" first and take the ultimate whenever it is available. Stron
 
 What is Vexana’s win rate right now?
 
-48.46% at Mythical Glory over the last 7 days and 49.28% across all ranks over 30 days, as of 25 November 2026.
+48.45% at Mythical Glory over the last 7 days and 49.27% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Vexana play?
 
@@ -365,8 +365,8 @@ Mage, played in the Mid Lane.
 
 Is Vexana strong in the current meta?
 
-Tier C, #75 of 133 heroes and #19 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #76 of 133 heroes and #19 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Vexana?
 
-The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Rupture, Wilderness Blessing and Impure Rage, and Flicker. It wins 55.19% of matches.
+The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Rupture, Wilderness Blessing and Impure Rage, and Flicker. It wins 55.04% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Benedetta MLBB: build, combos and counters | MLBB Boost"
-description: "Benedetta in Mobile Legends: ranked build, skill combos, how to play and who counters Benedetta. Fighter and assassin, 51.59% win rate, tier C."
+description: "Benedetta in Mobile Legends: ranked build, skill combos, how to play and who counters Benedetta. Fighter and assassin, 51.62% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
@@ -48,7 +48,7 @@ Ban rate
 1.  **54.4%**![](/images/ranks/Epic.webp)Epic
 2.  **53.2%**![](/images/ranks/Legend.webp)Legend
 3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **52.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.6%
+54.3%
 
 Pick rate
 
-5.0%
+6.4%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Fighter
 
 Win rate
 
-57.4%
+57.5%
 
 Pick rate
 
-4.2%
+3.6%
 
 #### Core items
 
@@ -199,11 +199,11 @@ Fighter
 
 Win rate
 
-53.0%
+53.3%
 
 Pick rate
 
-2.5%
+2.4%
 
 #### Core items
 
@@ -349,7 +349,7 @@ Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the 
 
 ### Who Benedetta counters
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Benedetta skins
 
@@ -379,7 +379,7 @@ Level "Phantom Slash" first and take the ultimate whenever it is available. Stro
 
 What is Benedetta’s win rate right now?
 
-51.59% at Mythical Glory over the last 7 days and 52.06% across all ranks over 30 days, as of 25 November 2026.
+51.62% at Mythical Glory over the last 7 days and 52.06% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Benedetta play?
 
@@ -391,4 +391,4 @@ Tier C, #81 of 133 heroes and #23 among fighters. The tier counts how often the 
 
 What is the best build for Benedetta?
 
-The most popular ranked build: Blade of the Heptaseas, Malefic Roar and Hunter Strike as core items, the Fighter emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 54.64% of matches.
+The most popular ranked build: Blade of the Heptaseas, Malefic Roar and Hunter Strike as core items, the Fighter emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 54.27% of matches.

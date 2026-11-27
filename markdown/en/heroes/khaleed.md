@@ -72,7 +72,7 @@ Win rate
 
 Pick rate
 
-4.0%
+4.3%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Tank
 
 Win rate
 
-54.3%
+54.6%
 
 Pick rate
 
-2.3%
+2.1%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Tank
 
 Win rate
 
-58.5%
+57.8%
 
 Pick rate
 
-1.9%
+2.0%
 
 #### Core items
 
@@ -340,7 +340,7 @@ Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160%
 
 ### Who Khaleed counters
 
-[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
 
 ## Khaleed skins
 
@@ -370,7 +370,7 @@ Level "Desert Tornado" first and take the ultimate whenever it is available. Eve
 
 What is Khaleed’s win rate right now?
 
-48.89% at Mythical Glory over the last 7 days and 50.26% across all ranks over 30 days, as of 25 November 2026.
+48.89% at Mythical Glory over the last 7 days and 50.26% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Khaleed play?
 
@@ -382,4 +382,4 @@ Tier D, #116 of 133 heroes and #39 among fighters. The tier counts how often the
 
 What is the best build for Khaleed?
 
-The most popular ranked build: Thunder Belt, Dominance Ice and Chastise Pauldron as core items, the Tank emblem with Thrill, Wilderness Blessing and Concussive Blast, and Flicker. It wins 55.68% of matches.
+The most popular ranked build: Thunder Belt, Dominance Ice and Chastise Pauldron as core items, the Tank emblem with Thrill, Wilderness Blessing and Concussive Blast, and Flicker. It wins 55.73% of matches.

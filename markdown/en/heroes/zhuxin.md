@@ -1,6 +1,6 @@
 ---
 title: "Zhuxin MLBB: build, combos and counters | MLBB Boost"
-description: "Zhuxin in Mobile Legends: ranked build, skill combos, how to play and who counters Zhuxin. Mage, 49.46% win rate, tier A."
+description: "Zhuxin in Mobile Legends: ranked build, skill combos, how to play and who counters Zhuxin. Mage, 49.53% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zhuxin.html
 language: en
 ---
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.8%**![](/images/ranks/Epic.webp)Epic
+1.  **47.7%**![](/images/ranks/Epic.webp)Epic
 2.  **48.2%**![](/images/ranks/Legend.webp)Legend
 3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -129,68 +129,7 @@ Common
 
 Win rate
 
-55.3%
-
-Pick rate
-
-4.9%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3113.webp)
-
-    Clock of Destiny
-
-
-
-    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
--   [
-
-    ![](/images/mlbb/items/3105.webp)
-
-    Glowing Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/glowing-wand.html)
--   [
-
-    ![](/images/mlbb/items/3104.webp)
-
-    Ice Queen Wand
-
-
-
-    ](https://boostmlbb.ru/en/items/ice-queen-wand.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20080.webp)Purify
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20001.webp)
-
-Common
-
--   ![](/images/mlbb/talents/811.webp)
-
-    Agility
-
--   ![](/images/mlbb/talents/821.webp)
-
-    Pull Yourself Together
-
--   ![](/images/mlbb/talents/731.webp)
-
-    Brave Smite
-
-
-Win rate
-
-58.6%
+58.5%
 
 Pick rate
 
@@ -243,6 +182,67 @@ Common
 -   ![](/images/mlbb/talents/121.webp)
 
     Wilderness Blessing
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
+Win rate
+
+55.2%
+
+Pick rate
+
+4.3%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
+
+    Clock of Destiny
+
+
+
+    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
+
+    Ice Queen Wand
+
+
+
+    ](https://boostmlbb.ru/en/items/ice-queen-wand.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
 
 -   ![](/images/mlbb/talents/731.webp)
 
@@ -367,7 +367,7 @@ Level "Lantern Flare" first and take the ultimate whenever it is available. Even
 
 What is Zhuxin’s win rate right now?
 
-49.46% at Mythical Glory over the last 7 days and 49.48% across all ranks over 30 days, as of 25 November 2026.
+49.53% at Mythical Glory over the last 7 days and 49.45% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Zhuxin play?
 
@@ -379,4 +379,4 @@ Tier A, #19 of 133 heroes and #5 among mages. The tier counts how often the hero
 
 What is the best build for Zhuxin?
 
-The most popular ranked build: Clock of Destiny, Glowing Wand and Ice Queen Wand as core items, the Common emblem with Agility, Wilderness Blessing and Brave Smite, and Flicker. It wins 56.49% of matches.
+The most popular ranked build: Clock of Destiny, Glowing Wand and Ice Queen Wand as core items, the Common emblem with Agility, Wilderness Blessing and Brave Smite, and Flicker. It wins 56.46% of matches.

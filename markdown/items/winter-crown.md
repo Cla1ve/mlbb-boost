@@ -49,7 +49,7 @@ Winter Crown
 
 -   [![](/images/heroes/silvanna.webp)Сильвана56,6%](https://boostmlbb.ru/heroes/silvanna.html#build)
 -   [![](/images/heroes/odette.webp)Одетта52,3%](https://boostmlbb.ru/heroes/odette.html#build)
--   [![](/images/heroes/franco.webp)Франко44,0%](https://boostmlbb.ru/heroes/franco.html#build)
+-   [![](/images/heroes/franco.webp)Франко44,3%](https://boostmlbb.ru/heroes/franco.html#build)
 
 ## История
 

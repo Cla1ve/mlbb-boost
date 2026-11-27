@@ -46,21 +46,22 @@ Parts cost 1,420, assembly adds 580 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/eudora.webp)Eudora54.2%](https://boostmlbb.ru/en/heroes/eudora.html#build)
--   [![](/images/heroes/harley.webp)Harley49.0%](https://boostmlbb.ru/en/heroes/harley.html#build)
--   [![](/images/heroes/lunox.webp)Lunox53.4%](https://boostmlbb.ru/en/heroes/lunox.html#build)
--   [![](/images/heroes/kagura.webp)Kagura54.8%](https://boostmlbb.ru/en/heroes/kagura.html#build)
--   [![](/images/heroes/kadita.webp)Kadita56.9%](https://boostmlbb.ru/en/heroes/kadita.html#build)
--   [![](/images/heroes/gusion.webp)Gusion55.7%](https://boostmlbb.ru/en/heroes/gusion.html#build)
+-   [![](/images/heroes/eudora.webp)Eudora54.1%](https://boostmlbb.ru/en/heroes/eudora.html#build)
+-   [![](/images/heroes/harley.webp)Harley48.9%](https://boostmlbb.ru/en/heroes/harley.html#build)
+-   [![](/images/heroes/lunox.webp)Lunox53.9%](https://boostmlbb.ru/en/heroes/lunox.html#build)
+-   [![](/images/heroes/kagura.webp)Kagura54.7%](https://boostmlbb.ru/en/heroes/kagura.html#build)
+-   [![](/images/heroes/kadita.webp)Kadita56.6%](https://boostmlbb.ru/en/heroes/kadita.html#build)
+-   [![](/images/heroes/gusion.webp)Gusion55.5%](https://boostmlbb.ru/en/heroes/gusion.html#build)
 -   [![](/images/heroes/silvanna.webp)Silvanna56.9%](https://boostmlbb.ru/en/heroes/silvanna.html#build)
--   [![](/images/heroes/aamon.webp)Aamon54.8%](https://boostmlbb.ru/en/heroes/aamon.html#build)
--   [![](/images/heroes/yve.webp)Yve52.1%](https://boostmlbb.ru/en/heroes/yve.html#build)
+-   [![](/images/heroes/aamon.webp)Aamon54.6%](https://boostmlbb.ru/en/heroes/aamon.html#build)
+-   [![](/images/heroes/yve.webp)Yve52.5%](https://boostmlbb.ru/en/heroes/yve.html#build)
 -   [![](/images/heroes/odette.webp)Odette52.3%](https://boostmlbb.ru/en/heroes/odette.html#build)
 -   [![](/images/heroes/nana.webp)Nana52.4%](https://boostmlbb.ru/en/heroes/nana.html#build)
--   [![](/images/heroes/zhask.webp)Zhask58.5%](https://boostmlbb.ru/en/heroes/zhask.html#build)
+-   [![](/images/heroes/zhask.webp)Zhask58.6%](https://boostmlbb.ru/en/heroes/zhask.html#build)
 -   [![](/images/heroes/vale.webp)Vale55.0%](https://boostmlbb.ru/en/heroes/vale.html#build)
--   [![](/images/heroes/joy.webp)Joy54.9%](https://boostmlbb.ru/en/heroes/joy.html#build)
--   [![](/images/heroes/luo-yi.webp)Luo Yi50.4%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
+-   [![](/images/heroes/joy.webp)Joy54.6%](https://boostmlbb.ru/en/heroes/joy.html#build)
+-   [![](/images/heroes/faramis.webp)Faramis57.3%](https://boostmlbb.ru/en/heroes/faramis.html#build)
+-   [![](/images/heroes/luo-yi.webp)Luo Yi49.9%](https://boostmlbb.ru/en/heroes/luo-yi.html#build)
 
 ## Story
 
@@ -90,4 +91,4 @@ What does Genius Wand give?
 
 Which heroes build Genius Wand?
 
-It is in the popular ranked builds of 15 heroes, among them Eudora, Harley, Lunox, Kagura, Kadita and Gusion.
+It is in the popular ranked builds of 16 heroes, among them Eudora, Harley, Lunox, Kagura, Kadita and Gusion.

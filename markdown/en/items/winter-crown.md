@@ -47,7 +47,7 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 
 -   [![](/images/heroes/silvanna.webp)Silvanna56.6%](https://boostmlbb.ru/en/heroes/silvanna.html#build)
 -   [![](/images/heroes/odette.webp)Odette52.3%](https://boostmlbb.ru/en/heroes/odette.html#build)
--   [![](/images/heroes/franco.webp)Franco44.0%](https://boostmlbb.ru/en/heroes/franco.html#build)
+-   [![](/images/heroes/franco.webp)Franco44.3%](https://boostmlbb.ru/en/heroes/franco.html#build)
 
 ## Story
 

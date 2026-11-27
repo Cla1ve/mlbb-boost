@@ -1,6 +1,6 @@
 ---
 title: "Фредрин MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Фредрин, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фредрина. Танк и боец, 52,44% побед, тир C."
+description: "Фредрин, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фредрина. Танк и боец, 52,46% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/fredrinn.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-52,4%
+52,5%
 
 Выбор
 
@@ -45,7 +45,7 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **49,9%**![](/images/ranks/Epic.webp)Эпик
+1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -69,72 +69,11 @@ C
 
 Победы
 
-62,1%
+61,1%
 
 Выбор
 
-5,3%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Кираса грубой силы
-
-
-
-    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3204.webp)
-
-    Оракул
-
-
-
-    ](https://boostmlbb.ru/items/oracle.html)
--   [
-
-    ![](/images/mlbb/items/2208.webp)
-
-    Крылья королевы
-
-
-
-    ](https://boostmlbb.ru/items/queens-wings.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20020.webp)Возмездие
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Трепет
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Опытный охотник
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Нечестивая ярость
-
-
-Победы
-
-61,4%
-
-Выбор
-
-4,7%
+5,9%
 
 #### Основные предметы
 
@@ -191,11 +130,72 @@ C
 
 Победы
 
-60,5%
+62,1%
 
 Выбор
 
-3,8%
+4,5%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
+Победы
+
+60,1%
+
+Выбор
+
+4,3%
 
 #### Основные предметы
 
@@ -346,7 +346,7 @@ C
 
 ### Кто контрит Фредрина
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
 
 ### Кого контрит Фредрин
 
@@ -372,7 +372,7 @@ C
 
 Кто контрит Фредрина в MLBB?
 
-За последние 30 дней Фредрина чаще всего обыгрывают Глу, Алукард, Люнокс, Джой и Халид.
+За последние 30 дней Фредрина чаще всего обыгрывают Глу, Алукард, Джой, Люнокс и Эсмеральда.
 
 Как играть за Фредрина?
 
@@ -380,7 +380,7 @@ C
 
 Какой процент побед у Фредрина сейчас?
 
-52,44% в Мифической славе за последние 7 дней и 51,28% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+52,46% в Мифической славе за последние 7 дней и 51,30% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Фредрина?
 
@@ -388,8 +388,8 @@ C
 
 Стоит ли брать Фредрина в текущей мете?
 
-Тир C, 73-е место из 133 героев и 13-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 73-е место из 133 героев и 13-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Фредрина лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Кираса грубой силы», «Оракул» и «Крылья королевы», эмблема поддержки с талантами «Трепет», «Опытный охотник» и «Нечестивая ярость» и заклинание «Возмездие». С ней выигрывают 62,06% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Кираса грубой силы», «Оракул» и «Крылья королевы», эмблема поддержки с талантами «Живучесть», «Опытный охотник» и «Нечестивая ярость» и заклинание «Возмездие». С ней выигрывают 61,12% матчей.

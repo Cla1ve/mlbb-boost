@@ -1,6 +1,6 @@
 ---
 title: "Gatotkaca MLBB: build, combos and counters | MLBB Boost"
-description: "Gatotkaca in Mobile Legends: ranked build, skill combos, how to play and who counters Gatotkaca. Tank and fighter, 44.17% win rate, tier C."
+description: "Gatotkaca in Mobile Legends: ranked build, skill combos, how to play and who counters Gatotkaca. Tank and fighter, 44.21% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.1%
+55.0%
 
 Pick rate
 
-3.3%
+3.1%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Mage
 
 Win rate
 
-57.1%
+57.3%
 
 Pick rate
 
-2.4%
+1.9%
 
 #### Core items
 
@@ -191,11 +191,11 @@ Tank
 
 Win rate
 
-51.1%
+50.8%
 
 Pick rate
 
-1.4%
+1.8%
 
 #### Core items
 
@@ -334,7 +334,7 @@ The camera will move with the skill indicator but won't grant extra sight.
 
 ### Who Gatotkaca counters
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Gatotkaca skins
 
@@ -364,7 +364,7 @@ Level "Blast Iron Fist" first and take the ultimate whenever it is available. St
 
 What is Gatotkaca’s win rate right now?
 
-44.17% at Mythical Glory over the last 7 days and 45.38% across all ranks over 30 days, as of 25 November 2026.
+44.21% at Mythical Glory over the last 7 days and 45.38% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Gatotkaca play?
 
@@ -376,4 +376,4 @@ Tier C, #89 of 133 heroes and #15 among tanks. The tier counts how often the her
 
 What is the best build for Gatotkaca?
 
-The most popular ranked build: Concentrated Energy, Queen's Wings and Sky Piercer as core items, the Mage emblem with Thrill, Bargain Hunter and Impure Rage, and Vengeance. It wins 55.08% of matches.
+The most popular ranked build: Concentrated Energy, Queen's Wings and Sky Piercer as core items, the Mage emblem with Thrill, Bargain Hunter and Impure Rage, and Vengeance. It wins 55.05% of matches.

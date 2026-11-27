@@ -1,6 +1,6 @@
 ---
 title: "Esmeralda MLBB: build, combos and counters | MLBB Boost"
-description: "Esmeralda in Mobile Legends: ranked build, skill combos, how to play and who counters Esmeralda. Tank and mage, 46.49% win rate, tier A."
+description: "Esmeralda in Mobile Legends: ranked build, skill combos, how to play and who counters Esmeralda. Tank and mage, 46.53% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.5%
+55.4%
 
 Pick rate
 
-8.5%
+8.9%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-5.5%
+6.1%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Support
 
 Win rate
 
-58.6%
+58.9%
 
 Pick rate
 
-4.4%
+3.8%
 
 #### Core items
 
@@ -338,7 +338,7 @@ Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Fr
 
 ### Who Esmeralda counters
 
-[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)
+[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)
 
 ## Esmeralda skins
 
@@ -368,7 +368,7 @@ Level "Stardust Dance" first and take the ultimate whenever it is available. Str
 
 What is Esmeralda’s win rate right now?
 
-46.49% at Mythical Glory over the last 7 days and 47.03% across all ranks over 30 days, as of 25 November 2026.
+46.53% at Mythical Glory over the last 7 days and 47.04% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Esmeralda play?
 
@@ -380,4 +380,4 @@ Tier A, #14 of 133 heroes and #6 among tanks. The tier counts how often the hero
 
 What is the best build for Esmeralda?
 
-The most popular ranked build: Enchanted Talisman, Oracle and Dominance Ice as core items, the Support emblem with Inspire, Festival of Blood and Impure Rage, and Vengeance. It wins 55.48% of matches.
+The most popular ranked build: Enchanted Talisman, Oracle and Dominance Ice as core items, the Support emblem with Inspire, Festival of Blood and Impure Rage, and Vengeance. It wins 55.42% of matches.

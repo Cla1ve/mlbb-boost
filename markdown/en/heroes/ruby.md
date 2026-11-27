@@ -67,72 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-58.7%
+56.7%
 
 Pick rate
 
-8.2%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/2013.webp)
-
-    War Axe
-
-
-
-    ](https://boostmlbb.ru/en/items/war-axe.html)
--   [
-
-    ![](/images/mlbb/items/2208.webp)
-
-    Queen's Wings
-
-
-
-    ](https://boostmlbb.ru/en/items/queens-wings.html)
--   [
-
-    ![](/images/mlbb/items/3004.webp)
-
-    Endless Battle
-
-
-
-    ](https://boostmlbb.ru/en/items/endless-battle.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Festival of Blood
-
--   ![](/images/mlbb/talents/731.webp)
-
-    Brave Smite
-
-
-Win rate
-
-56.6%
-
-Pick rate
-
-5.9%
+8.9%
 
 #### Core items
 
@@ -189,11 +128,72 @@ Fighter
 
 Win rate
 
+58.9%
+
+Pick rate
+
+6.2%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
+Win rate
+
 58.3%
 
 Pick rate
 
-4.4%
+3.9%
 
 #### Core items
 
@@ -362,7 +362,7 @@ Level "Be Good!" first and take the ultimate whenever it is available. Stronger 
 
 What is Ruby’s win rate right now?
 
-48.98% at Mythical Glory over the last 7 days and 49.09% across all ranks over 30 days, as of 25 November 2026.
+48.98% at Mythical Glory over the last 7 days and 49.09% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Ruby play?
 
@@ -374,4 +374,4 @@ Tier C, #109 of 133 heroes and #35 among fighters. The tier counts how often the
 
 What is the best build for Ruby?
 
-The most popular ranked build: War Axe, Queen's Wings and Endless Battle as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 58.67% of matches.
+The most popular ranked build: War Axe, Queen's Wings and Oracle as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 56.69% of matches.

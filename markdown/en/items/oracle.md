@@ -46,24 +46,24 @@ Parts cost 1,200, assembly adds 660 gold.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/kalea.webp)Kalea55.3%](https://boostmlbb.ru/en/heroes/kalea.html#build)
--   [![](/images/heroes/alice.webp)Alice55.0%](https://boostmlbb.ru/en/heroes/alice.html#build)
--   [![](/images/heroes/esmeralda.webp)Esmeralda55.5%](https://boostmlbb.ru/en/heroes/esmeralda.html#build)
--   [![](/images/heroes/sun.webp)Sun59.7%](https://boostmlbb.ru/en/heroes/sun.html#build)
--   [![](/images/heroes/gloo.webp)Gloo58.0%](https://boostmlbb.ru/en/heroes/gloo.html#build)
+-   [![](/images/heroes/kalea.webp)Kalea51.4%](https://boostmlbb.ru/en/heroes/kalea.html#build)
+-   [![](/images/heroes/alice.webp)Alice54.9%](https://boostmlbb.ru/en/heroes/alice.html#build)
+-   [![](/images/heroes/esmeralda.webp)Esmeralda55.4%](https://boostmlbb.ru/en/heroes/esmeralda.html#build)
+-   [![](/images/heroes/sun.webp)Sun59.6%](https://boostmlbb.ru/en/heroes/sun.html#build)
+-   [![](/images/heroes/gloo.webp)Gloo57.2%](https://boostmlbb.ru/en/heroes/gloo.html#build)
 -   [![](/images/heroes/sora.webp)Sora54.2%](https://boostmlbb.ru/en/heroes/sora.html#build)
 -   [![](/images/heroes/uranus.webp)Uranus58.6%](https://boostmlbb.ru/en/heroes/uranus.html#build)
--   [![](/images/heroes/arlott.webp)Arlott56.4%](https://boostmlbb.ru/en/heroes/arlott.html#build)
+-   [![](/images/heroes/arlott.webp)Arlott56.2%](https://boostmlbb.ru/en/heroes/arlott.html#build)
 -   [![](/images/heroes/phoveus.webp)Phoveus57.1%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
--   [![](/images/heroes/fredrinn.webp)Fredrinn62.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
--   [![](/images/heroes/hilda.webp)Hilda58.2%](https://boostmlbb.ru/en/heroes/hilda.html#build)
--   [![](/images/heroes/hanzo.webp)Hanzo52.8%](https://boostmlbb.ru/en/heroes/hanzo.html#build)
--   [![](/images/heroes/thamuz.webp)Thamuz55.9%](https://boostmlbb.ru/en/heroes/thamuz.html#build)
+-   [![](/images/heroes/fredrinn.webp)Fredrinn61.1%](https://boostmlbb.ru/en/heroes/fredrinn.html#build)
+-   [![](/images/heroes/hilda.webp)Hilda58.4%](https://boostmlbb.ru/en/heroes/hilda.html#build)
+-   [![](/images/heroes/thamuz.webp)Thamuz55.7%](https://boostmlbb.ru/en/heroes/thamuz.html#build)
 -   [![](/images/heroes/terizla.webp)Terizla57.1%](https://boostmlbb.ru/en/heroes/terizla.html#build)
--   [![](/images/heroes/ruby.webp)Ruby56.6%](https://boostmlbb.ru/en/heroes/ruby.html#build)
--   [![](/images/heroes/lapu-lapu.webp)Lapu-Lapu56.3%](https://boostmlbb.ru/en/heroes/lapu-lapu.html#build)
--   [![](/images/heroes/balmond.webp)Balmond53.2%](https://boostmlbb.ru/en/heroes/balmond.html#build)
--   [![](/images/heroes/mathilda.webp)Mathilda53.1%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
+-   [![](/images/heroes/ruby.webp)Ruby56.7%](https://boostmlbb.ru/en/heroes/ruby.html#build)
+-   [![](/images/heroes/lapu-lapu.webp)Lapu-Lapu56.1%](https://boostmlbb.ru/en/heroes/lapu-lapu.html#build)
+-   [![](/images/heroes/balmond.webp)Balmond52.8%](https://boostmlbb.ru/en/heroes/balmond.html#build)
+-   [![](/images/heroes/mathilda.webp)Mathilda53.2%](https://boostmlbb.ru/en/heroes/mathilda.html#build)
+-   [![](/images/heroes/chip.webp)Chip53.4%](https://boostmlbb.ru/en/heroes/chip.html#build)
 
 ## Story
 

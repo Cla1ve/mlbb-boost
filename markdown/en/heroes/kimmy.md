@@ -1,6 +1,6 @@
 ---
 title: "Kimmy MLBB: build, combos and counters | MLBB Boost"
-description: "Kimmy in Mobile Legends: ranked build, skill combos, how to play and who counters Kimmy. Mage and marksman, 48.09% win rate, tier A."
+description: "Kimmy in Mobile Legends: ranked build, skill combos, how to play and who counters Kimmy. Mage and marksman, 48.08% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.7%**![](/images/ranks/Epic.webp)Epic
-2.  **48.1%**![](/images/ranks/Legend.webp)Legend
-3.  **48.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **48.6%**![](/images/ranks/Epic.webp)Epic
+2.  **48.0%**![](/images/ranks/Legend.webp)Legend
+3.  **47.9%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -69,11 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.3%
+53.8%
 
 Pick rate
 
-10.0%
+10.6%
 
 #### Core items
 
@@ -130,11 +130,11 @@ Mage
 
 Win rate
 
-49.0%
+48.5%
 
 Pick rate
 
-8.6%
+8.3%
 
 #### Core items
 
@@ -191,11 +191,11 @@ Mage
 
 Win rate
 
-51.9%
+51.7%
 
 Pick rate
 
-8.2%
+8.3%
 
 #### Core items
 
@@ -372,7 +372,7 @@ Level "Starlium Beam" first and take the ultimate whenever it is available. Stro
 
 What is Kimmy’s win rate right now?
 
-48.09% at Mythical Glory over the last 7 days and 48.63% across all ranks over 30 days, as of 25 November 2026.
+48.08% at Mythical Glory over the last 7 days and 48.59% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Kimmy play?
 
@@ -384,4 +384,4 @@ Tier A, #15 of 133 heroes and #3 among mages. The tier counts how often the hero
 
 What is the best build for Kimmy?
 
-The most popular ranked build: Feather of Heaven, Sky Piercer and Concentrated Energy as core items, the Mage emblem with Thrill, Bargain Hunter and Weakness Finder, and Purify. It wins 54.26% of matches.
+The most popular ranked build: Feather of Heaven, Sky Piercer and Concentrated Energy as core items, the Mage emblem with Thrill, Bargain Hunter and Weakness Finder, and Purify. It wins 53.78% of matches.

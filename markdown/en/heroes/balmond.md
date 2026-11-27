@@ -1,6 +1,6 @@
 ---
 title: "Balmond MLBB: build, combos and counters | MLBB Boost"
-description: "Balmond in Mobile Legends: ranked build, skill combos, how to play and who counters Balmond. Fighter, 45.10% win rate, tier C."
+description: "Balmond in Mobile Legends: ranked build, skill combos, how to play and who counters Balmond. Fighter, 45.05% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/balmond.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-45.1%
+45.0%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **47.2%**![](/images/ranks/Epic.webp)Epic
 2.  **47.5%**![](/images/ranks/Legend.webp)Legend
-3.  **47.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **47.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **46.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -68,7 +68,7 @@ Build 1Build 2Build 3
 
 Win rate
 
-53.3%
+53.2%
 
 Pick rate
 
@@ -129,7 +129,7 @@ Tank
 
 Win rate
 
-52.1%
+52.0%
 
 Pick rate
 
@@ -190,11 +190,11 @@ Tank
 
 Win rate
 
-53.2%
+52.8%
 
 Pick rate
 
-1.1%
+1.6%
 
 #### Core items
 
@@ -333,7 +333,7 @@ Damage dealt to non-hero units is capped at 1000 True Damage.
 
 ### Who counters Balmond
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ### Who Balmond counters
 
@@ -359,7 +359,7 @@ Damage dealt to non-hero units is capped at 1000 True Damage.
 
 Who counters Balmond in MLBB?
 
-Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and Martis.
+Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and Phoveus.
 
 How do you play Balmond?
 
@@ -367,7 +367,7 @@ Level "Cyclone Sweep" first and take the ultimate whenever it is available. Stro
 
 What is Balmond’s win rate right now?
 
-45.10% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 25 November 2026.
+45.05% at Mythical Glory over the last 7 days and 46.60% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Balmond play?
 
@@ -375,8 +375,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Balmond strong in the current meta?
 
-Tier C, #124 of 133 heroes and #42 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 45.1% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
+Tier C, #124 of 133 heroes and #42 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 45.0% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
 
 What is the best build for Balmond?
 
-The most popular ranked build: Cursed Helmet, War Axe and Queen's Wings as core items, the Tank emblem with Vitality, Festival of Blood and Killing Spree, and Vengeance. It wins 53.32% of matches.
+The most popular ranked build: Cursed Helmet, War Axe and Queen's Wings as core items, the Tank emblem with Vitality, Festival of Blood and Killing Spree, and Vengeance. It wins 53.16% of matches.

@@ -1,6 +1,6 @@
 ---
 title: "Лолита MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Лолита, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лолиту. Танк и поддержка, 52,38% побед, тир D."
+description: "Лолита, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лолиту. Танк и поддержка, 52,36% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/lolita.html
 language: ru
 ---
@@ -48,8 +48,8 @@ D
 1.  **54,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **55,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **53,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **53,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -68,11 +68,72 @@ D
 
 Победы
 
-60,9%
+58,4%
 
 Выбор
 
-2,3%
+2,6%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
+
+    Защитный шлем
+
+
+
+    ](https://boostmlbb.ru/items/guardian-helmet.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Прочность
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Фокус-метка
+
+
+Победы
+
+60,4%
+
+Выбор
+
+2,1%
 
 #### Основные предметы
 
@@ -129,11 +190,11 @@ D
 
 Победы
 
-59,4%
+59,0%
 
 Выбор
 
-2,0%
+1,8%
 
 #### Основные предметы
 
@@ -182,67 +243,6 @@ D
 -   ![](/images/mlbb/talents/321.webp)
 
     Стойкость
-
--   ![](/images/mlbb/talents/831.webp)
-
-    Фокус-метка
-
-
-Победы
-
-58,4%
-
-Выбор
-
-1,5%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3112.webp)
-
-    Фляга Оазиса
-
-
-
-    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
--   [
-
-    ![](/images/mlbb/items/3212.webp)
-
-    Наплечник наказания
-
-
-
-    ](https://boostmlbb.ru/items/chastise-pauldron.html)
--   [
-
-    ![](/images/mlbb/items/3202.webp)
-
-    Защитный шлем
-
-
-
-    ](https://boostmlbb.ru/items/guardian-helmet.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20050.webp)Восстановление
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
--   ![](/images/mlbb/talents/711.webp)
-
-    Прочность
-
--   ![](/images/mlbb/talents/821.webp)
-
-    Второе дыхание
 
 -   ![](/images/mlbb/talents/831.webp)
 
@@ -337,7 +337,7 @@ D
 
 ### Кого контрит Лолита
 
-[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)
+[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)
 
 ## Скины Лолиты
 
@@ -367,7 +367,7 @@ D
 
 Какой процент побед у Лолиты сейчас?
 
-52,38% в Мифической славе за последние 7 дней и 53,29% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+52,36% в Мифической славе за последние 7 дней и 53,30% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Лолиты?
 
@@ -379,4 +379,4 @@ D
 
 Какая сборка на Лолиту лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Господство льда» и «Сияющая броня», эмблема поддержки с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 60,85% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Наплечник наказания» и «Защитный шлем», эмблема танка с талантами «Прочность», «Второе дыхание» и «Фокус-метка» и заклинание «Восстановление». С ней выигрывают 58,35% матчей.

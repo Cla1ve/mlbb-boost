@@ -11,7 +11,7 @@ language: en
 
 # Best MLBB heroes for beginners
 
-34 heroes · Updated 25 November
+34 heroes · Updated 26 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -29,11 +29,11 @@ S
 
 Win, Epic
 
-55.6%
+55.5%
 
 Win, Legend
 
-56.9%
+56.8%
 
 Difficulty
 
@@ -83,11 +83,11 @@ S
 
 Win, Epic
 
-54.5%
+54.3%
 
 Win, Legend
 
-57.8%
+57.7%
 
 Difficulty
 
@@ -187,14 +187,14 @@ Win rate in Epic and Legend over 30 days.
 
 ### ![](/images/mlbb/filters/tank.webp)Easy tanks
 
-1.  [![](/images/heroes/masha.webp)Masha56.1%](https://boostmlbb.ru/en/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Masha56.0%](https://boostmlbb.ru/en/heroes/masha.html)
 2.  [![](/images/heroes/belerick.webp)Belerick55.3%](https://boostmlbb.ru/en/heroes/belerick.html)
 3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Carmilla54.3%](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Easy fighters
 
-1.  [![](/images/heroes/masha.webp)Masha56.1%](https://boostmlbb.ru/en/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Masha56.0%](https://boostmlbb.ru/en/heroes/masha.html)
 2.  [![](/images/heroes/hilda.webp)Hilda54.2%](https://boostmlbb.ru/en/heroes/hilda.html)
 3.  [![](/images/heroes/minsitthar.webp)Minsitthar53.2%](https://boostmlbb.ru/en/heroes/minsitthar.html)
 4.  [![](/images/heroes/silvanna.webp)Silvanna52.2%](https://boostmlbb.ru/en/heroes/silvanna.html)
@@ -212,8 +212,8 @@ Win rate in Epic and Legend over 30 days.
 
 ### ![](/images/mlbb/filters/marksman.webp)Easy marksmen
 
-1.  [![](/images/heroes/hanabi.webp)Hanabi54.1%](https://boostmlbb.ru/en/heroes/hanabi.html)
-2.  [![](/images/heroes/obsidia.webp)Obsidia52.3%](https://boostmlbb.ru/en/heroes/obsidia.html)
+1.  [![](/images/heroes/hanabi.webp)Hanabi54.2%](https://boostmlbb.ru/en/heroes/hanabi.html)
+2.  [![](/images/heroes/obsidia.webp)Obsidia52.2%](https://boostmlbb.ru/en/heroes/obsidia.html)
 3.  [![](/images/heroes/irithel.webp)Irithel51.2%](https://boostmlbb.ru/en/heroes/irithel.html)
 4.  [![](/images/heroes/layla.webp)Layla50.5%](https://boostmlbb.ru/en/heroes/layla.html)
 
@@ -246,9 +246,9 @@ support
 
 30
 
-55.6%
+55.5%
 
-56.9%
+56.8%
 
 0.3%
 
@@ -258,9 +258,9 @@ tank, fighter
 
 30
 
-54.5%
+54.3%
 
-57.8%
+57.7%
 
 0.5%
 
@@ -282,7 +282,7 @@ support
 
 30
 
-55.5%
+55.6%
 
 54.5%
 
@@ -366,7 +366,7 @@ fighter
 
 30
 
-53.6%
+53.7%
 
 52.8%
 
@@ -384,18 +384,6 @@ mage
 
 0.6%
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)
-
-marksman
-
-30
-
-51.7%
-
-52.8%
-
-2.1%
-
 [![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 fighter
@@ -404,9 +392,21 @@ fighter
 
 52.1%
 
-52.3%
+52.4%
 
 1.0%
+
+[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)
+
+marksman
+
+30
+
+51.7%
+
+52.7%
+
+2.1%
 
 [![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
 
@@ -416,7 +416,7 @@ fighter
 
 51.5%
 
-52.4%
+52.3%
 
 0.7%
 
@@ -498,9 +498,9 @@ support
 
 30
 
-50.8%
+50.9%
 
-51.5%
+51.4%
 
 0.2%
 
@@ -546,7 +546,7 @@ marksman
 
 30
 
-50.2%
+50.3%
 
 50.6%
 
@@ -572,7 +572,7 @@ fighter
 
 50.0%
 
-50.1%
+50.0%
 
 0.7%
 
@@ -582,7 +582,7 @@ mage
 
 10
 
-50.2%
+50.1%
 
 49.8%
 
@@ -624,18 +624,6 @@ fighter
 
 1.3%
 
-[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
-
-assassin
-
-30
-
-48.4%
-
-50.0%
-
-1.0%
-
 [![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 mage
@@ -647,6 +635,18 @@ mage
 48.5%
 
 1.7%
+
+[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
+
+assassin
+
+30
+
+48.4%
+
+50.0%
+
+1.0%
 
 ## Which roles are easier
 

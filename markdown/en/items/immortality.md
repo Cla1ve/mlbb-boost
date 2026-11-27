@@ -46,8 +46,8 @@ Parts cost 1,220, assembly adds 900 gold.
 Heroes whose popular ranked build has the item, with the build’s win rate
 
 -   [![](/images/heroes/belerick.webp)Belerick56.2%](https://boostmlbb.ru/en/heroes/belerick.html#build)
--   [![](/images/heroes/x-borg.webp)X.Borg51.7%](https://boostmlbb.ru/en/heroes/x-borg.html#build)
--   [![](/images/heroes/baxia.webp)Baxia51.3%](https://boostmlbb.ru/en/heroes/baxia.html#build)
+-   [![](/images/heroes/x-borg.webp)X.Borg52.0%](https://boostmlbb.ru/en/heroes/x-borg.html#build)
+-   [![](/images/heroes/baxia.webp)Baxia51.8%](https://boostmlbb.ru/en/heroes/baxia.html#build)
 
 ## Story
 

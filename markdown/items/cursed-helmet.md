@@ -54,11 +54,11 @@ Cursed Helmet
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/carmilla.webp)Кармилла57,6%](https://boostmlbb.ru/heroes/carmilla.html#build)
--   [![](/images/heroes/gloo.webp)Глу58,0%](https://boostmlbb.ru/heroes/gloo.html#build)
+-   [![](/images/heroes/carmilla.webp)Кармилла57,4%](https://boostmlbb.ru/heroes/carmilla.html#build)
+-   [![](/images/heroes/gloo.webp)Глу57,2%](https://boostmlbb.ru/heroes/gloo.html#build)
 -   [![](/images/heroes/khufra.webp)Хуфра61,7%](https://boostmlbb.ru/heroes/khufra.html#build)
--   [![](/images/heroes/balmond.webp)Бальмонд53,3%](https://boostmlbb.ru/heroes/balmond.html#build)
--   [![](/images/heroes/baxia.webp)Баксий55,6%](https://boostmlbb.ru/heroes/baxia.html#build)
+-   [![](/images/heroes/balmond.webp)Бальмонд53,2%](https://boostmlbb.ru/heroes/balmond.html#build)
+-   [![](/images/heroes/baxia.webp)Баксий54,9%](https://boostmlbb.ru/heroes/baxia.html#build)
 
 ## История
 

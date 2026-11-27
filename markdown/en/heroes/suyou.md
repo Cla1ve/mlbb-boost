@@ -1,6 +1,6 @@
 ---
 title: "Suyou MLBB: build, combos and counters | MLBB Boost"
-description: "Suyou in Mobile Legends: ranked build, skill combos, how to play and who counters Suyou. Fighter and assassin, 49.43% win rate, tier B."
+description: "Suyou in Mobile Legends: ranked build, skill combos, how to play and who counters Suyou. Fighter and assassin, 49.42% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/suyou.html
 language: en
 ---
@@ -73,7 +73,7 @@ Win rate
 
 Pick rate
 
-21.8%
+22.0%
 
 #### Core items
 
@@ -134,7 +134,7 @@ Win rate
 
 Pick rate
 
-14.1%
+13.7%
 
 #### Core items
 
@@ -191,7 +191,7 @@ Assassin
 
 Win rate
 
-56.6%
+55.1%
 
 Pick rate
 
@@ -210,15 +210,6 @@ Pick rate
     ](https://boostmlbb.ru/en/items/hunter-strike.html)
 -   [
 
-    ![](/images/mlbb/items/2014.webp)
-
-    Sky Piercer
-
-
-
-    ](https://boostmlbb.ru/en/items/sky-piercer.html)
--   [
-
     ![](/images/mlbb/items/2013.webp)
 
     War Axe
@@ -226,6 +217,15 @@ Pick rate
 
 
     ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
 
 #### Spell
 
@@ -373,7 +373,7 @@ Level "Soul Sever" first and take the ultimate whenever it is available. Stronge
 
 What is Suyou’s win rate right now?
 
-49.43% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 25 November 2026.
+49.42% at Mythical Glory over the last 7 days and 49.69% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Suyou play?
 
@@ -385,4 +385,4 @@ Tier B, #28 of 133 heroes and #9 among fighters. The tier counts how often the h
 
 What is the best build for Suyou?
 
-The most popular ranked build: Hunter Strike, War Axe and Queen's Wings as core items, the Assassin emblem with Thrill, Seasoned Hunter and Impure Rage, and Retribution. It wins 53.49% of matches.
+The most popular ranked build: Hunter Strike, War Axe and Queen's Wings as core items, the Assassin emblem with Thrill, Seasoned Hunter and Impure Rage, and Retribution. It wins 53.46% of matches.

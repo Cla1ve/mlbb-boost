@@ -1,6 +1,6 @@
 ---
 title: "Aurora MLBB: build, combos and counters | MLBB Boost"
-description: "Aurora in Mobile Legends: ranked build, skill combos, how to play and who counters Aurora. Mage, 48.69% win rate, tier C."
+description: "Aurora in Mobile Legends: ranked build, skill combos, how to play and who counters Aurora. Mage, 48.67% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aurora.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2
 
 Win rate
 
-54.2%
+54.0%
 
 Pick rate
 
-10.3%
+8.3%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-54.9%
+54.8%
 
 Pick rate
 
-2.6%
+3.7%
 
 #### Core items
 
@@ -300,7 +300,7 @@ Level "Hailstone Blast" first and take the ultimate whenever it is available. St
 
 What is Aurora’s win rate right now?
 
-48.69% at Mythical Glory over the last 7 days and 48.87% across all ranks over 30 days, as of 25 November 2026.
+48.67% at Mythical Glory over the last 7 days and 48.86% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Aurora play?
 
@@ -308,8 +308,8 @@ Mage, played in the Mid Lane.
 
 Is Aurora strong in the current meta?
 
-Tier C, #100 of 133 heroes and #25 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
+Tier C, #101 of 133 heroes and #25 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
 
 What is the best build for Aurora?
 
-The most popular ranked build: Glowing Wand, Lightning Truncheon and Wishing Lantern as core items, the Mage emblem with Rupture, Wilderness Blessing and Impure Rage, and Flicker. It wins 54.21% of matches.
+The most popular ranked build: Glowing Wand, Lightning Truncheon and Wishing Lantern as core items, the Mage emblem with Rupture, Wilderness Blessing and Impure Rage, and Flicker. It wins 53.99% of matches.

@@ -49,13 +49,13 @@ Blade of Despair
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/lesley.webp)Лесли57,2%](https://boostmlbb.ru/heroes/lesley.html#build)
--   [![](/images/heroes/chou.webp)Чу51,3%](https://boostmlbb.ru/heroes/chou.html#build)
--   [![](/images/heroes/beatrix.webp)Беатрис51,7%](https://boostmlbb.ru/heroes/beatrix.html#build)
--   [![](/images/heroes/benedetta.webp)Бенедетта57,4%](https://boostmlbb.ru/heroes/benedetta.html#build)
--   [![](/images/heroes/alpha.webp)Альфа60,2%](https://boostmlbb.ru/heroes/alpha.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,3%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
--   [![](/images/heroes/alucard.webp)Алукард59,7%](https://boostmlbb.ru/heroes/alucard.html#build)
+-   [![](/images/heroes/lesley.webp)Лесли57,0%](https://boostmlbb.ru/heroes/lesley.html#build)
+-   [![](/images/heroes/chou.webp)Чу51,2%](https://boostmlbb.ru/heroes/chou.html#build)
+-   [![](/images/heroes/beatrix.webp)Беатрис51,5%](https://boostmlbb.ru/heroes/beatrix.html#build)
+-   [![](/images/heroes/benedetta.webp)Бенедетта57,5%](https://boostmlbb.ru/heroes/benedetta.html#build)
+-   [![](/images/heroes/alpha.webp)Альфа60,0%](https://boostmlbb.ru/heroes/alpha.html#build)
+-   [![](/images/heroes/alucard.webp)Алукард59,6%](https://boostmlbb.ru/heroes/alucard.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,9%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
 
 ## История
 
@@ -85,4 +85,4 @@ Blade of Despair
 
 Каким героям собирать «Клинок отчаяния»?
 
-Предмет есть в популярных сборках 7 героев в рейтинге, среди них Лесли, Чу, Беатрис, Бенедетта, Альфа и Пополь и Купа.
+Предмет есть в популярных сборках 7 героев в рейтинге, среди них Лесли, Чу, Беатрис, Бенедетта, Альфа и Алукард.

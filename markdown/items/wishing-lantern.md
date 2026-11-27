@@ -48,14 +48,13 @@ Wishing Lantern
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/valir.webp)Валир59,8%](https://boostmlbb.ru/heroes/valir.html#build)
--   [![](/images/heroes/selena.webp)Селена53,1%](https://boostmlbb.ru/heroes/selena.html#build)
--   [![](/images/heroes/lylia.webp)Лилия52,7%](https://boostmlbb.ru/heroes/lylia.html#build)
--   [![](/images/heroes/cecilion.webp)Сесилион54,6%](https://boostmlbb.ru/heroes/cecilion.html#build)
--   [![](/images/heroes/yve.webp)Ив55,7%](https://boostmlbb.ru/heroes/yve.html#build)
--   [![](/images/heroes/gord.webp)Горд56,1%](https://boostmlbb.ru/heroes/gord.html#build)
--   [![](/images/heroes/nana.webp)Нана51,2%](https://boostmlbb.ru/heroes/nana.html#build)
--   [![](/images/heroes/aurora.webp)Аврора54,2%](https://boostmlbb.ru/heroes/aurora.html#build)
+-   [![](/images/heroes/valir.webp)Валир59,4%](https://boostmlbb.ru/heroes/valir.html#build)
+-   [![](/images/heroes/selena.webp)Селена53,2%](https://boostmlbb.ru/heroes/selena.html#build)
+-   [![](/images/heroes/lylia.webp)Лилия52,4%](https://boostmlbb.ru/heroes/lylia.html#build)
+-   [![](/images/heroes/cecilion.webp)Сесилион55,4%](https://boostmlbb.ru/heroes/cecilion.html#build)
+-   [![](/images/heroes/gord.webp)Горд55,9%](https://boostmlbb.ru/heroes/gord.html#build)
+-   [![](/images/heroes/nana.webp)Нана51,0%](https://boostmlbb.ru/heroes/nana.html#build)
+-   [![](/images/heroes/aurora.webp)Аврора54,0%](https://boostmlbb.ru/heroes/aurora.html#build)
 
 ## История
 
@@ -85,4 +84,4 @@ Wishing Lantern
 
 Каким героям собирать «Фонарь желаний»?
 
-Предмет есть в популярных сборках 8 героев в рейтинге, среди них Валир, Селена, Лилия, Сесилион, Ив и Горд.
+Предмет есть в популярных сборках 7 героев в рейтинге, среди них Валир, Селена, Лилия, Сесилион, Горд и Нана.

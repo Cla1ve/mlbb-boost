@@ -1,6 +1,6 @@
 ---
 title: "Franco MLBB: build, combos and counters | MLBB Boost"
-description: "Franco in Mobile Legends: ranked build, skill combos, how to play and who counters Franco. Tank, 40.55% win rate, tier C."
+description: "Franco in Mobile Legends: ranked build, skill combos, how to play and who counters Franco. Tank, 40.53% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/franco.html
 language: en
 ---
@@ -47,9 +47,9 @@ Ban rate
 
 1.  **44.1%**![](/images/ranks/Epic.webp)Epic
 2.  **42.2%**![](/images/ranks/Legend.webp)Legend
-3.  **41.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **41.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **41.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **40.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **40.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-44.0%
+44.3%
 
 Pick rate
 
-4.6%
+3.8%
 
 #### Core items
 
@@ -133,7 +133,7 @@ Win rate
 
 Pick rate
 
-3.1%
+3.6%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Support
 
 Win rate
 
-46.2%
+46.3%
 
 Pick rate
 
-1.4%
+1.5%
 
 #### Core items
 
@@ -333,7 +333,7 @@ Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over t
 
 ### Who Franco counters
 
-[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ## Franco skins
 
@@ -363,7 +363,7 @@ Level "Iron Hook" first and take the ultimate whenever it is available. Stronger
 
 What is Franco’s win rate right now?
 
-40.55% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 25 November 2026.
+40.53% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Franco play?
 
@@ -375,4 +375,4 @@ Tier C, #130 of 133 heroes and #24 among tanks. The tier counts how often the he
 
 What is the best build for Franco?
 
-The most popular ranked build: Winter Crown, Fleeting Time and Antique Cuirass as core items, the Support emblem with Inspire, Pull Yourself Together and Concussive Blast, and Flicker. It wins 44.01% of matches.
+The most popular ranked build: Winter Crown, Fleeting Time and Antique Cuirass as core items, the Support emblem with Inspire, Pull Yourself Together and Concussive Blast, and Flicker. It wins 44.25% of matches.

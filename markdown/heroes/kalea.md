@@ -1,6 +1,6 @@
 ---
 title: "Калеа MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Калеа, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Калеа. Боец и поддержка, 51,75% побед, тир S."
+description: "Калеа, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Калеа. Боец и поддержка, 51,79% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
@@ -68,72 +68,11 @@ S
 
 Победы
 
-55,3%
-
-Выбор
-
-6,9%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3204.webp)
-
-    Оракул
-
-
-
-    ](https://boostmlbb.ru/items/oracle.html)
--   [
-
-    ![](/images/mlbb/items/3206.webp)
-
-    Господство льда
-
-
-
-    ](https://boostmlbb.ru/items/dominance-ice.html)
--   [
-
-    ![](/images/mlbb/items/3109.webp)
-
-    Мимолетное время
-
-
-
-    ](https://boostmlbb.ru/items/fleeting-time.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
--   ![](/images/mlbb/talents/311.webp)
-
-    Живучесть
-
--   ![](/images/mlbb/talents/821.webp)
-
-    Второе дыхание
-
--   ![](/images/mlbb/talents/331.webp)
-
-    Ударная волна
-
-
-Победы
-
 51,4%
 
 Выбор
 
-6,5%
+8,3%
 
 #### Основные предметы
 
@@ -190,11 +129,72 @@ S
 
 Победы
 
-53,9%
+55,8%
 
 Выбор
 
-3,8%
+5,8%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
+Победы
+
+54,0%
+
+Выбор
+
+3,7%
 
 #### Основные предметы
 
@@ -338,7 +338,7 @@ S
 
 ### Кто контрит Калеа
 
-[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## Скины Калеа
 
@@ -360,7 +360,7 @@ S
 
 Кто контрит Калеа в MLBB?
 
-За последние 30 дней Калеа чаще всего обыгрывают Фанни, Ив, Хелкарт, Халид и Лолита.
+За последние 30 дней Калеа чаще всего обыгрывают Фанни, Ив, Халид, Хелкарт и Лолита.
 
 Как играть за Калеа?
 
@@ -368,7 +368,7 @@ S
 
 Какой процент побед у Калеа сейчас?
 
-51,75% в Мифической славе за последние 7 дней и 50,52% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,79% в Мифической славе за последние 7 дней и 50,54% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Калеа?
 
@@ -380,4 +380,4 @@ S
 
 Какая сборка на Калеа лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Оракул», «Господство льда» и «Мимолетное время», эмблема танка с талантами «Живучесть», «Второе дыхание» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 55,30% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Мимолетное время», «Господство льда» и «Оракул», эмблема танка с талантами «Прочность», «Второе дыхание» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 51,38% матчей.

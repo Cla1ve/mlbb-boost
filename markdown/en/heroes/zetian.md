@@ -1,6 +1,6 @@
 ---
 title: "Zetian MLBB: build, combos and counters | MLBB Boost"
-description: "Zetian in Mobile Legends: ranked build, skill combos, how to play and who counters Zetian. Mage, 50.06% win rate, tier A."
+description: "Zetian in Mobile Legends: ranked build, skill combos, how to play and who counters Zetian. Mage, 50.07% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zetian.html
 language: en
 ---
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-1.9%
+1.8%
 
 Ban rate
 
@@ -48,7 +48,7 @@ Ban rate
 1.  **50.9%**![](/images/ranks/Epic.webp)Epic
 2.  **52.1%**![](/images/ranks/Legend.webp)Legend
 3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **51.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-57.1%
+57.0%
 
 Pick rate
 
-12.5%
+12.8%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Mage
 
 Win rate
 
-57.8%
+57.7%
 
 Pick rate
 
-11.4%
+11.1%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Mage
 
 Win rate
 
-57.0%
+56.7%
 
 Pick rate
 
-6.3%
+6.5%
 
 #### Core items
 
@@ -367,7 +367,7 @@ Level "Phoenix Strike" first and take the ultimate whenever it is available. Eve
 
 What is Zetian’s win rate right now?
 
-50.06% at Mythical Glory over the last 7 days and 50.86% across all ranks over 30 days, as of 25 November 2026.
+50.07% at Mythical Glory over the last 7 days and 50.84% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Zetian play?
 
@@ -379,4 +379,4 @@ Tier A, #21 of 133 heroes and #7 among mages. The tier counts how often the hero
 
 What is the best build for Zetian?
 
-The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Flicker. It wins 57.15% of matches.
+The most popular ranked build: Glowing Wand, Lightning Truncheon and Divine Glaive as core items, the Mage emblem with Inspire, Bargain Hunter and Impure Rage, and Flicker. It wins 56.95% of matches.

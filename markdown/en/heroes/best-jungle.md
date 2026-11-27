@@ -11,11 +11,11 @@ language: en
 
 # Best MLBB junglers
 
-37 heroes · Updated 25 November
+37 heroes · Updated 26 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Nolan, Hirara and Freya lead the junglers right now. Nolan wins 50.5% of Mythical Glory games over 7 days and is banned in 39.5% of them. The list has 37 heroes, 7 of them in tier S or A.
+Nolan, Hirara and Freya lead the junglers right now. Nolan wins 50.5% of Mythical Glory games over 7 days and is banned in 40.5% of them. The list has 37 heroes, 7 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -37,7 +37,7 @@ Pick rate
 
 Ban rate
 
-39.5%
+40.5%
 
 [
 
@@ -91,7 +91,7 @@ Pick rate
 
 Ban rate
 
-84.5%
+84.4%
 
 [
 
@@ -137,7 +137,7 @@ S
 
 Win rate
 
-51.8%
+51.9%
 
 Pick rate
 
@@ -145,7 +145,7 @@ Pick rate
 
 Ban rate
 
-11.5%
+11.6%
 
 [
 
@@ -165,13 +165,13 @@ War Axe
 
 ](https://boostmlbb.ru/en/items/war-axe.html)[
 
-![](/images/mlbb/items/3012.webp)
+![](/images/mlbb/items/3004.webp)
 
-Rose Gold Meteor
+Endless Battle
 
 
 
-](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
+](https://boostmlbb.ru/en/items/endless-battle.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -209,7 +209,7 @@ S
 
 2.5%
 
-39.5%
+40.5%
 
 82.8%
 
@@ -223,7 +223,7 @@ S
 
 0.8%
 
-84.5%
+84.4%
 
 65.0%
 
@@ -233,11 +233,11 @@ S
 
 S
 
-51.8%
+51.9%
 
 1.3%
 
-11.5%
+11.6%
 
 98.4%
 
@@ -251,7 +251,7 @@ S
 
 0.8%
 
-19.8%
+18.6%
 
 77.8%
 
@@ -261,11 +261,11 @@ S
 
 A
 
-50.1%
+50.2%
 
 1.4%
 
-10.7%
+10.5%
 
 69.3%
 
@@ -293,7 +293,7 @@ B
 
 1.5%
 
-58.5%
+59.0%
 
 —
 
@@ -303,11 +303,11 @@ B
 
 A
 
-50.9%
+50.8%
 
 0.9%
 
-30.8%
+29.7%
 
 2.9%
 
@@ -335,7 +335,7 @@ B
 
 0.9%
 
-13.3%
+13.6%
 
 5.2%
 
@@ -377,7 +377,7 @@ B
 
 1.1%
 
-0.9%
+1.0%
 
 5.2%
 
@@ -401,11 +401,11 @@ B
 
 B
 
-49.2%
+49.1%
 
 0.9%
 
-4.7%
+4.9%
 
 —
 
@@ -419,7 +419,7 @@ B
 
 1.1%
 
-1.5%
+1.4%
 
 2.5%
 
@@ -443,7 +443,7 @@ B
 
 C
 
-52.4%
+52.5%
 
 0.5%
 
@@ -471,9 +471,9 @@ C
 
 C
 
-49.9%
+49.7%
 
-0.6%
+0.7%
 
 0.9%
 
@@ -517,7 +517,7 @@ C
 
 0.6%
 
-0.4%
+0.5%
 
 1.7%
 
@@ -541,7 +541,7 @@ C
 
 C
 
-46.8%
+46.7%
 
 0.4%
 
@@ -550,48 +550,6 @@ C
 —
 
 26
-
-[![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
-
-C
-
-50.0%
-
-0.3%
-
-0.2%
-
-1.0%
-
-27
-
-[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
-
-D
-
-50.3%
-
-0.2%
-
-1.1%
-
-—
-
-28
-
-[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
-
-C
-
-50.0%
-
-0.3%
-
-0.5%
-
-—
-
-29
 
 [![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
@@ -605,21 +563,49 @@ C
 
 —
 
-30
+27
 
-[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+[![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 C
 
-48.6%
+50.0%
 
 0.3%
 
-0.9%
+0.2%
+
+1.0%
+
+28
+
+[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+D
+
+50.3%
+
+0.2%
+
+1.1%
 
 —
 
-31
+29
+
+[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
+
+C
+
+49.9%
+
+0.3%
+
+0.5%
+
+—
+
+30
 
 [![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)
 
@@ -630,6 +616,20 @@ C
 0.4%
 
 0.1%
+
+—
+
+31
+
+[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+
+C
+
+48.7%
+
+0.3%
+
+0.8%
 
 —
 
@@ -653,7 +653,7 @@ C
 
 D
 
-49.3%
+49.4%
 
 0.2%
 
@@ -667,7 +667,7 @@ D
 
 C
 
-45.1%
+45.0%
 
 0.3%
 
@@ -709,7 +709,7 @@ C
 
 D
 
-45.9%
+46.0%
 
 0.1%
 
@@ -720,7 +720,7 @@ D
 ## What they build most
 
 -   [![](/images/mlbb/items/2013.webp)War Axe18 of 37](https://boostmlbb.ru/en/items/war-axe.html)
--   [![](/images/mlbb/items/3009.webp)Hunter Strike11 of 37](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3009.webp)Hunter Strike12 of 37](https://boostmlbb.ru/en/items/hunter-strike.html)
 -   [![](/images/mlbb/items/3004.webp)Endless Battle7 of 37](https://boostmlbb.ru/en/items/endless-battle.html)
 -   [![](/images/mlbb/items/3208.webp)Brute Force Breastplate7 of 37](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
 -   [![](/images/mlbb/items/2208.webp)Queen's Wings6 of 37](https://boostmlbb.ru/en/items/queens-wings.html)
@@ -732,23 +732,23 @@ The three core items of every hero’s most common build. Spell: Retribution on 
 
 Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30% of Mythical Glory games.
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.5%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
-2.  [![](/images/heroes/ling.webp)Ling53.4%](https://boostmlbb.ru/en/heroes/ling.html)
+1.  [![](/images/heroes/ling.webp)Ling53.4%](https://boostmlbb.ru/en/heroes/ling.html)
+2.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.4%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 3.  [![](/images/heroes/aulus.webp)Aulus52.8%](https://boostmlbb.ru/en/heroes/aulus.html)
 4.  [![](/images/heroes/natalia.webp)Natalia51.9%](https://boostmlbb.ru/en/heroes/natalia.html)
 5.  [![](/images/heroes/bane.webp)Bane51.5%](https://boostmlbb.ru/en/heroes/bane.html)
-6.  [![](/images/heroes/hanzo.webp)Hanzo50.7%](https://boostmlbb.ru/en/heroes/hanzo.html)
+6.  [![](/images/heroes/lukas.webp)Lukas51.3%](https://boostmlbb.ru/en/heroes/lukas.html)
 
 ## Who beats junglers
 
 How many heroes of this list it beats, by official counters.
 
-1.  [![](/images/heroes/natalia.webp)Natalia9 of 37](https://boostmlbb.ru/en/heroes/natalia.html)
-2.  [![](/images/heroes/x-borg.webp)X.Borg9 of 37](https://boostmlbb.ru/en/heroes/x-borg.html)
+1.  [![](/images/heroes/x-borg.webp)X.Borg10 of 37](https://boostmlbb.ru/en/heroes/x-borg.html)
+2.  [![](/images/heroes/natalia.webp)Natalia9 of 37](https://boostmlbb.ru/en/heroes/natalia.html)
 3.  [![](/images/heroes/saber.webp)Saber8 of 37](https://boostmlbb.ru/en/heroes/saber.html)
 4.  [![](/images/heroes/yve.webp)Yve7 of 37](https://boostmlbb.ru/en/heroes/yve.html)
 5.  [![](/images/heroes/alice.webp)Alice5 of 37](https://boostmlbb.ru/en/heroes/alice.html)
-6.  [![](/images/heroes/diggie.webp)Diggie5 of 37](https://boostmlbb.ru/en/heroes/diggie.html)
+6.  [![](/images/heroes/gloo.webp)Gloo5 of 37](https://boostmlbb.ru/en/heroes/gloo.html)
 
 **We can rank up on any of the junglers**The calculator shows the price
 
@@ -758,7 +758,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best jungler in MLBB right now?
 
-Nolan: tier S, 50.5% win rate, banned in 39.5% of Mythical Glory games over 7 days. Hirara and Freya follow. Data as of 25 November 2026.
+Nolan: tier S, 50.5% win rate, banned in 40.5% of Mythical Glory games over 7 days. Hirara and Freya follow. Data as of 26 November 2026.
 
 Which of the junglers should a beginner pick?
 
@@ -766,12 +766,12 @@ Alpha, Aulus and Balmond are the easiest to play: their difficulty on the in-gam
 
 Which junglers get banned most?
 
-Hirara (84.5%), Sun (58.5%) and Nolan (39.5%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Hirara (84.4%), Sun (59.0%) and Nolan (40.5%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many junglers are there in Mobile Legends?
 
-37 of 133 heroes as of 25 November 2026. The list has every hero that plays the jungle, according to the game.
+37 of 133 heroes as of 26 November 2026. The list has every hero that plays the jungle, according to the game.
 
 Which items do junglers build most often?
 
-The most common builds most often include War Axe (18 of 37), Hunter Strike (11 of 37) and Endless Battle (7 of 37). Every hero’s full build is on its page, in the Build tab.
+The most common builds most often include War Axe (18 of 37), Hunter Strike (12 of 37) and Endless Battle (7 of 37). Every hero’s full build is on its page, in the Build tab.

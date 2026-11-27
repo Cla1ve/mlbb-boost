@@ -1,6 +1,6 @@
 ---
 title: "Guinevere MLBB: build, combos and counters | MLBB Boost"
-description: "Guinevere in Mobile Legends: ranked build, skill combos, how to play and who counters Guinevere. Fighter, 51.33% win rate, tier B."
+description: "Guinevere in Mobile Legends: ranked build, skill combos, how to play and who counters Guinevere. Fighter, 51.32% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-1.0%
+1.1%
 
 Ban rate
 
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.0%**![](/images/ranks/Epic.webp)Epic
+1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.2%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -67,11 +67,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-56.6%
+57.3%
 
 Pick rate
 
-3.3%
+1.8%
 
 #### Core items
 
@@ -128,11 +128,72 @@ Mage
 
 Win rate
 
-53.7%
+54.0%
 
 Pick rate
 
-1.9%
+1.8%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
+
+    Concentrated Energy
+
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
+Win rate
+
+53.8%
+
+Pick rate
+
+1.7%
 
 #### Core items
 
@@ -185,67 +246,6 @@ Mage
 -   ![](/images/mlbb/talents/134.webp)
 
     Temporal Reign
-
-
-Win rate
-
-55.9%
-
-Pick rate
-
-1.5%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3103.webp)
-
-    Concentrated Energy
-
-
-
-    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
--   [
-
-    ![](/images/mlbb/items/3101.webp)
-
-    Divine Glaive
-
-
-
-    ](https://boostmlbb.ru/en/items/divine-glaive.html)
--   [
-
-    ![](/images/mlbb/items/3102.webp)
-
-    Holy Crystal
-
-
-
-    ](https://boostmlbb.ru/en/items/holy-crystal.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20100.webp)Flicker
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Rupture
-
--   ![](/images/mlbb/talents/821.webp)
-
-    Pull Yourself Together
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
 
 
 ## How to play Guinevere
@@ -370,7 +370,7 @@ Level "Energy Wave" first and take the ultimate whenever it is available. Strong
 
 What is Guinevere’s win rate right now?
 
-51.33% at Mythical Glory over the last 7 days and 51.24% across all ranks over 30 days, as of 25 November 2026.
+51.32% at Mythical Glory over the last 7 days and 51.24% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Guinevere play?
 
@@ -382,4 +382,4 @@ Tier B, #53 of 133 heroes and #16 among fighters. The tier counts how often the 
 
 What is the best build for Guinevere?
 
-The most popular ranked build: Concentrated Energy, Brute Force Breastplate and Queen's Wings as core items, the Mage emblem with Thrill, Bargain Hunter and Temporal Reign, and Flicker. It wins 56.61% of matches.
+The most popular ranked build: Concentrated Energy, Brute Force Breastplate and Queen's Wings as core items, the Mage emblem with Thrill, Bargain Hunter and Temporal Reign, and Flicker. It wins 57.26% of matches.

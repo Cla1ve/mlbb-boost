@@ -47,19 +47,19 @@ Fleeting Time
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/kalea.webp)Калеа55,3%](https://boostmlbb.ru/heroes/kalea.html#build)
--   [![](/images/heroes/atlas.webp)Атлас52,4%](https://boostmlbb.ru/heroes/atlas.html#build)
--   [![](/images/heroes/zetian.webp)Цзэтянь57,0%](https://boostmlbb.ru/heroes/zetian.html#build)
--   [![](/images/heroes/estes.webp)Эстес59,1%](https://boostmlbb.ru/heroes/estes.html#build)
+-   [![](/images/heroes/kalea.webp)Калеа51,4%](https://boostmlbb.ru/heroes/kalea.html#build)
+-   [![](/images/heroes/atlas.webp)Атлас52,0%](https://boostmlbb.ru/heroes/atlas.html#build)
+-   [![](/images/heroes/zetian.webp)Цзэтянь56,7%](https://boostmlbb.ru/heroes/zetian.html#build)
+-   [![](/images/heroes/estes.webp)Эстес58,9%](https://boostmlbb.ru/heroes/estes.html#build)
 -   [![](/images/heroes/kaja.webp)Кайя55,8%](https://boostmlbb.ru/heroes/kaja.html#build)
--   [![](/images/heroes/floryn.webp)Флорин54,0%](https://boostmlbb.ru/heroes/floryn.html#build)
--   [![](/images/heroes/angela.webp)Ангела55,8%](https://boostmlbb.ru/heroes/angela.html#build)
--   [![](/images/heroes/diggie.webp)Дигги63,0%](https://boostmlbb.ru/heroes/diggie.html#build)
+-   [![](/images/heroes/floryn.webp)Флорин53,9%](https://boostmlbb.ru/heroes/floryn.html#build)
+-   [![](/images/heroes/angela.webp)Ангела55,6%](https://boostmlbb.ru/heroes/angela.html#build)
+-   [![](/images/heroes/diggie.webp)Дигги63,2%](https://boostmlbb.ru/heroes/diggie.html#build)
 -   [![](/images/heroes/tigreal.webp)Тигрил48,4%](https://boostmlbb.ru/heroes/tigreal.html#build)
--   [![](/images/heroes/johnson.webp)Джонсон52,4%](https://boostmlbb.ru/heroes/johnson.html#build)
--   [![](/images/heroes/akai.webp)Акай55,4%](https://boostmlbb.ru/heroes/akai.html#build)
--   [![](/images/heroes/chip.webp)Чип53,2%](https://boostmlbb.ru/heroes/chip.html#build)
--   [![](/images/heroes/franco.webp)Франко44,0%](https://boostmlbb.ru/heroes/franco.html#build)
+-   [![](/images/heroes/johnson.webp)Джонсон52,3%](https://boostmlbb.ru/heroes/johnson.html#build)
+-   [![](/images/heroes/akai.webp)Акай55,3%](https://boostmlbb.ru/heroes/akai.html#build)
+-   [![](/images/heroes/chip.webp)Чип53,0%](https://boostmlbb.ru/heroes/chip.html#build)
+-   [![](/images/heroes/franco.webp)Франко44,3%](https://boostmlbb.ru/heroes/franco.html#build)
 
 ## История
 

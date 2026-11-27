@@ -49,15 +49,15 @@ Flask of the Oasis
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/marcel.webp)Марсель64,6%](https://boostmlbb.ru/heroes/marcel.html#build)
--   [![](/images/heroes/estes.webp)Эстес59,1%](https://boostmlbb.ru/heroes/estes.html#build)
+-   [![](/images/heroes/marcel.webp)Марсель64,5%](https://boostmlbb.ru/heroes/marcel.html#build)
+-   [![](/images/heroes/estes.webp)Эстес58,9%](https://boostmlbb.ru/heroes/estes.html#build)
 -   [![](/images/heroes/minotaur.webp)Минотавр60,5%](https://boostmlbb.ru/heroes/minotaur.html#build)
--   [![](/images/heroes/floryn.webp)Флорин54,0%](https://boostmlbb.ru/heroes/floryn.html#build)
--   [![](/images/heroes/rafaela.webp)Рафаэль57,2%](https://boostmlbb.ru/heroes/rafaela.html#build)
--   [![](/images/heroes/angela.webp)Ангела56,8%](https://boostmlbb.ru/heroes/angela.html#build)
--   [![](/images/heroes/diggie.webp)Дигги63,0%](https://boostmlbb.ru/heroes/diggie.html#build)
--   [![](/images/heroes/lolita.webp)Лолита60,9%](https://boostmlbb.ru/heroes/lolita.html#build)
--   [![](/images/heroes/mathilda.webp)Матильда52,5%](https://boostmlbb.ru/heroes/mathilda.html#build)
+-   [![](/images/heroes/floryn.webp)Флорин53,9%](https://boostmlbb.ru/heroes/floryn.html#build)
+-   [![](/images/heroes/rafaela.webp)Рафаэль57,0%](https://boostmlbb.ru/heroes/rafaela.html#build)
+-   [![](/images/heroes/angela.webp)Ангела56,7%](https://boostmlbb.ru/heroes/angela.html#build)
+-   [![](/images/heroes/diggie.webp)Дигги63,2%](https://boostmlbb.ru/heroes/diggie.html#build)
+-   [![](/images/heroes/lolita.webp)Лолита58,4%](https://boostmlbb.ru/heroes/lolita.html#build)
+-   [![](/images/heroes/mathilda.webp)Матильда52,4%](https://boostmlbb.ru/heroes/mathilda.html#build)
 
 ## История
 

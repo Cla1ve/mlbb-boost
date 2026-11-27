@@ -1,6 +1,6 @@
 ---
 title: "Lapu-Lapu MLBB: build, combos and counters | MLBB Boost"
-description: "Lapu-Lapu in Mobile Legends: ranked build, skill combos, how to play and who counters Lapu-Lapu. Fighter, 47.12% win rate, tier C."
+description: "Lapu-Lapu in Mobile Legends: ranked build, skill combos, how to play and who counters Lapu-Lapu. Fighter, 47.13% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lapu-lapu.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **49.5%**![](/images/ranks/Legend.webp)Legend
+2.  **49.4%**![](/images/ranks/Legend.webp)Legend
 3.  **48.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.2%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -71,7 +71,7 @@ Win rate
 
 Pick rate
 
-9.7%
+8.3%
 
 #### Core items
 
@@ -128,11 +128,11 @@ Fighter
 
 Win rate
 
-56.3%
+56.1%
 
 Pick rate
 
-5.0%
+5.1%
 
 #### Core items
 
@@ -189,11 +189,11 @@ Fighter
 
 Win rate
 
-58.2%
+57.9%
 
 Pick rate
 
-4.2%
+4.0%
 
 #### Core items
 
@@ -372,7 +372,7 @@ Level "Justice Blades" first and take the ultimate whenever it is available. Str
 
 What is Lapu-Lapu’s win rate right now?
 
-47.12% at Mythical Glory over the last 7 days and 48.02% across all ranks over 30 days, as of 25 November 2026.
+47.13% at Mythical Glory over the last 7 days and 48.01% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Lapu-Lapu play?
 
@@ -384,4 +384,4 @@ Tier C, #113 of 133 heroes and #38 among fighters. The tier counts how often the
 
 What is the best build for Lapu-Lapu?
 
-The most popular ranked build: War Axe, Hunter Strike and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 54.62% of matches.
+The most popular ranked build: War Axe, Hunter Strike and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 54.65% of matches.

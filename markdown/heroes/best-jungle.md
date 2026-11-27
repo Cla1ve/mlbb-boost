@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие лесники MLBB
 
-37 героев · Обновлено 25 ноября
+37 героев · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди лесников сейчас лидируют Нолан, Хирара и Фрейя. Нолан: 50,5% побед и бан в 39,5% матчей Мифической славы за 7 дней. В списке 37 героев, из них 7 в тире S или A.
+Среди лесников сейчас лидируют Нолан, Хирара и Фрейя. Нолан: 50,5% побед и бан в 40,5% матчей Мифической славы за 7 дней. В списке 37 героев, из них 7 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -37,7 +37,7 @@ S
 
 Баны
 
-39,5%
+40,5%
 
 [
 
@@ -91,7 +91,7 @@ S
 
 Баны
 
-84,5%
+84,4%
 
 [
 
@@ -137,7 +137,7 @@ S
 
 Победы
 
-51,8%
+51,9%
 
 Выбор
 
@@ -145,7 +145,7 @@ S
 
 Баны
 
-11,5%
+11,6%
 
 [
 
@@ -165,13 +165,13 @@ S
 
 ](https://boostmlbb.ru/items/war-axe.html)[
 
-![](/images/mlbb/items/3012.webp)
+![](/images/mlbb/items/3004.webp)
 
-Золотой метеор
+Бесконечная битва
 
 
 
-](https://boostmlbb.ru/items/rose-gold-meteor.html)
+](https://boostmlbb.ru/items/endless-battle.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -209,7 +209,7 @@ S
 
 2,5%
 
-39,5%
+40,5%
 
 82,8%
 
@@ -223,7 +223,7 @@ S
 
 0,8%
 
-84,5%
+84,4%
 
 65,0%
 
@@ -233,11 +233,11 @@ S
 
 S
 
-51,8%
+51,9%
 
 1,3%
 
-11,5%
+11,6%
 
 98,4%
 
@@ -251,7 +251,7 @@ S
 
 0,8%
 
-19,8%
+18,6%
 
 77,8%
 
@@ -261,11 +261,11 @@ S
 
 A
 
-50,1%
+50,2%
 
 1,4%
 
-10,7%
+10,5%
 
 69,3%
 
@@ -293,7 +293,7 @@ B
 
 1,5%
 
-58,5%
+59,0%
 
 —
 
@@ -303,11 +303,11 @@ B
 
 A
 
-50,9%
+50,8%
 
 0,9%
 
-30,8%
+29,7%
 
 2,9%
 
@@ -335,7 +335,7 @@ B
 
 0,9%
 
-13,3%
+13,6%
 
 5,2%
 
@@ -377,7 +377,7 @@ B
 
 1,1%
 
-0,9%
+1,0%
 
 5,2%
 
@@ -401,11 +401,11 @@ B
 
 B
 
-49,2%
+49,1%
 
 0,9%
 
-4,7%
+4,9%
 
 —
 
@@ -419,7 +419,7 @@ B
 
 1,1%
 
-1,5%
+1,4%
 
 2,5%
 
@@ -443,7 +443,7 @@ B
 
 C
 
-52,4%
+52,5%
 
 0,5%
 
@@ -471,9 +471,9 @@ C
 
 C
 
-49,9%
+49,7%
 
-0,6%
+0,7%
 
 0,9%
 
@@ -517,7 +517,7 @@ C
 
 0,6%
 
-0,4%
+0,5%
 
 1,7%
 
@@ -541,7 +541,7 @@ C
 
 C
 
-46,8%
+46,7%
 
 0,4%
 
@@ -550,48 +550,6 @@ C
 —
 
 26
-
-[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
-
-C
-
-50,0%
-
-0,3%
-
-0,2%
-
-1,0%
-
-27
-
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
-
-D
-
-50,3%
-
-0,2%
-
-1,1%
-
-—
-
-28
-
-[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
-
-C
-
-50,0%
-
-0,3%
-
-0,5%
-
-—
-
-29
 
 [![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
@@ -605,21 +563,49 @@ C
 
 —
 
-30
+27
 
-[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 C
 
-48,6%
+50,0%
 
 0,3%
 
-0,9%
+0,2%
+
+1,0%
+
+28
+
+[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+
+D
+
+50,3%
+
+0,2%
+
+1,1%
 
 —
 
-31
+29
+
+[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+
+C
+
+49,9%
+
+0,3%
+
+0,5%
+
+—
+
+30
 
 [![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)
 
@@ -630,6 +616,20 @@ C
 0,4%
 
 0,1%
+
+—
+
+31
+
+[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+
+C
+
+48,7%
+
+0,3%
+
+0,8%
 
 —
 
@@ -653,7 +653,7 @@ C
 
 D
 
-49,3%
+49,4%
 
 0,2%
 
@@ -667,7 +667,7 @@ D
 
 C
 
-45,1%
+45,0%
 
 0,3%
 
@@ -709,7 +709,7 @@ C
 
 D
 
-45,9%
+46,0%
 
 0,1%
 
@@ -720,7 +720,7 @@ D
 ## Что собирают чаще всего
 
 -   [![](/images/mlbb/items/2013.webp)Топор войныу 18 из 37](https://boostmlbb.ru/items/war-axe.html)
--   [![](/images/mlbb/items/3009.webp)Удар охотникау 11 из 37](https://boostmlbb.ru/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3009.webp)Удар охотникау 12 из 37](https://boostmlbb.ru/items/hunter-strike.html)
 -   [![](/images/mlbb/items/3004.webp)Бесконечная битвау 7 из 37](https://boostmlbb.ru/items/endless-battle.html)
 -   [![](/images/mlbb/items/3208.webp)Кираса грубой силыу 7 из 37](https://boostmlbb.ru/items/brute-force-breastplate.html)
 -   [![](/images/mlbb/items/2208.webp)Крылья королевыу 6 из 37](https://boostmlbb.ru/items/queens-wings.html)
@@ -732,23 +732,23 @@ D
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,5%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
-2.  [![](/images/heroes/ling.webp)Линг53,4%](https://boostmlbb.ru/heroes/ling.html)
+1.  [![](/images/heroes/ling.webp)Линг53,4%](https://boostmlbb.ru/heroes/ling.html)
+2.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,4%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 3.  [![](/images/heroes/aulus.webp)Аулус52,8%](https://boostmlbb.ru/heroes/aulus.html)
 4.  [![](/images/heroes/natalia.webp)Наталья51,9%](https://boostmlbb.ru/heroes/natalia.html)
 5.  [![](/images/heroes/bane.webp)Бэйн51,5%](https://boostmlbb.ru/heroes/bane.html)
-6.  [![](/images/heroes/hanzo.webp)Ханзо50,7%](https://boostmlbb.ru/heroes/hanzo.html)
+6.  [![](/images/heroes/lukas.webp)Лукас51,3%](https://boostmlbb.ru/heroes/lukas.html)
 
 ## Кто обыгрывает лесников
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
-1.  [![](/images/heroes/natalia.webp)Наталья9 из 37](https://boostmlbb.ru/heroes/natalia.html)
-2.  [![](/images/heroes/x-borg.webp)Икс.Борг9 из 37](https://boostmlbb.ru/heroes/x-borg.html)
+1.  [![](/images/heroes/x-borg.webp)Икс.Борг10 из 37](https://boostmlbb.ru/heroes/x-borg.html)
+2.  [![](/images/heroes/natalia.webp)Наталья9 из 37](https://boostmlbb.ru/heroes/natalia.html)
 3.  [![](/images/heroes/saber.webp)Сабер8 из 37](https://boostmlbb.ru/heroes/saber.html)
 4.  [![](/images/heroes/yve.webp)Ив7 из 37](https://boostmlbb.ru/heroes/yve.html)
 5.  [![](/images/heroes/alice.webp)Алиса5 из 37](https://boostmlbb.ru/heroes/alice.html)
-6.  [![](/images/heroes/diggie.webp)Дигги5 из 37](https://boostmlbb.ru/heroes/diggie.html)
+6.  [![](/images/heroes/gloo.webp)Глу5 из 37](https://boostmlbb.ru/heroes/gloo.html)
 
 **Поднимем ранг на любом из лесников**Цена считается в калькуляторе
 
@@ -758,7 +758,7 @@ D
 
 Кто лучший лесник в MLBB сейчас?
 
-Нолан: тир S, 50,5% побед, бан в 39,5% матчей Мифической славы за 7 дней. Следом идут Хирара и Фрейя. Данные на 25 ноября 2026 года.
+Нолан: тир S, 50,5% побед, бан в 40,5% матчей Мифической славы за 7 дней. Следом идут Хирара и Фрейя. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди лесников?
 
@@ -766,12 +766,12 @@ D
 
 Каких лесников чаще всего банят?
 
-Хирара (84,5%), Сан (58,5%) и Нолан (39,5%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Хирара (84,4%), Сан (59,0%) и Нолан (40,5%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько лесников в Mobile Legends?
 
-37 из 133 героев на 25 ноября 2026 года. В списке все, кто играет в лесу по данным игры.
+37 из 133 героев на 26 ноября 2026 года. В списке все, кто играет в лесу по данным игры.
 
 Какие предметы чаще всего собирают на лесниках?
 
-В самой частой сборке героя чаще всего встречаются «Топор войны» (у 18 из 37), «Удар охотника» (у 11 из 37) и «Бесконечная битва» (у 7 из 37). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Топор войны» (у 18 из 37), «Удар охотника» (у 12 из 37) и «Бесконечная битва» (у 7 из 37). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

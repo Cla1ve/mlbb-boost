@@ -1,6 +1,6 @@
 ---
 title: "Пакито MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Пакито, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пакито. Боец и убийца, 50,14% побед, тир A."
+description: "Пакито, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пакито. Боец и убийца, 50,17% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/paquito.html
 language: ru
 ---
@@ -19,7 +19,7 @@ A
 
 Победы
 
-50,1%
+50,2%
 
 Выбор
 
@@ -27,7 +27,7 @@ A
 
 Баны
 
-10,7%
+10,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -48,8 +48,8 @@ A
 1.  **49,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,0%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **50,4%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **50,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -69,7 +69,68 @@ A
 
 Победы
 
-56,3%
+53,5%
+
+Выбор
+
+5,7%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
+Победы
+
+56,2%
 
 Выбор
 
@@ -130,72 +191,11 @@ A
 
 Победы
 
-53,8%
+58,2%
 
 Выбор
 
-4,8%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/3009.webp)
-
-    Удар охотника
-
-
-
-    ](https://boostmlbb.ru/items/hunter-strike.html)
--   [
-
-    ![](/images/mlbb/items/3013.webp)
-
-    Трезубец
-
-
-
-    ](https://boostmlbb.ru/items/sea-halberd.html)
--   [
-
-    ![](/images/mlbb/items/3001.webp)
-
-    Злобный рык
-
-
-
-    ](https://boostmlbb.ru/items/malefic-roar.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20100.webp)Вспышка
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
--   ![](/images/mlbb/talents/511.webp)
-
-    Разрыв
-
--   ![](/images/mlbb/talents/521.webp)
-
-    Мастер-убийца
-
--   ![](/images/mlbb/talents/631.webp)
-
-    Смертельное воспламенение
-
-
-Победы
-
-57,9%
-
-Выбор
-
-3,0%
+2,6%
 
 #### Основные предметы
 
@@ -343,7 +343,7 @@ A
 
 ### Кто контрит Пакито
 
-[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
 
 ## Скины Пакито
 
@@ -365,7 +365,7 @@ A
 
 Кто контрит Пакито в MLBB?
 
-За последние 30 дней Пакито чаще всего обыгрывают Наталья, Икс.Борг, Карина, Ванван и Хелкарт.
+За последние 30 дней Пакито чаще всего обыгрывают Наталья, Икс.Борг, Карина, Хелкарт и Бенедетта.
 
 Как играть за Пакито?
 
@@ -373,7 +373,7 @@ A
 
 Какой процент побед у Пакито сейчас?
 
-50,14% в Мифической славе за последние 7 дней и 50,01% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,17% в Мифической славе за последние 7 дней и 50,00% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Пакито?
 
@@ -381,8 +381,8 @@ A
 
 Стоит ли брать Пакито в текущей мете?
 
-Тир A, 11-е место из 133 героев и 5-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,7% матчей, 50,1% побед. В профессиональных матчах за месяц героя драфтуют в 69,3% катков.
+Тир A, 11-е место из 133 героев и 5-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,5% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 69,3% катков.
 
 Какая сборка на Пакито лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Пронзающий небеса» и «Злобный рык», эмблема убийцы с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 56,25% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Трезубец» и «Злобный рык», эмблема убийцы с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 53,54% матчей.

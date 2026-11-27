@@ -1,6 +1,6 @@
 ---
 title: "Фовиус MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Фовиус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фовиуса. Боец, 48,55% побед, тир B."
+description: "Фовиус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фовиуса. Боец, 48,56% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/phoveus.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-48,5%
+48,6%
 
 Выбор
 
@@ -71,7 +71,7 @@ B
 
 Выбор
 
-6,0%
+5,1%
 
 #### Основные предметы
 
@@ -128,7 +128,68 @@ B
 
 Победы
 
-57,5%
+56,1%
+
+Выбор
+
+2,5%
+
+#### Основные предметы
+
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
+
+    Древняя кираса
+
+
+
+    ](https://boostmlbb.ru/items/antique-cuirass.html)
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
+Победы
+
+57,4%
 
 Выбор
 
@@ -163,67 +224,6 @@ B
 
 
     ](https://boostmlbb.ru/items/oracle.html)
-
-#### Заклинание
-
-![](/images/mlbb/spells/20190.webp)Месть
-
-#### Эмблема и таланты
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Трепет
-
--   ![](/images/mlbb/talents/721.webp)
-
-    Кровавое пиршество
-
--   ![](/images/mlbb/talents/731.webp)
-
-    Отвага
-
-
-Победы
-
-56,2%
-
-Выбор
-
-1,9%
-
-#### Основные предметы
-
--   [
-
-    ![](/images/mlbb/items/2212.webp)
-
-    Штормовой пояс
-
-
-
-    ](https://boostmlbb.ru/items/thunder-belt.html)
--   [
-
-    ![](/images/mlbb/items/3206.webp)
-
-    Господство льда
-
-
-
-    ](https://boostmlbb.ru/items/dominance-ice.html)
--   [
-
-    ![](/images/mlbb/items/3203.webp)
-
-    Древняя кираса
-
-
-
-    ](https://boostmlbb.ru/items/antique-cuirass.html)
 
 #### Заклинание
 
@@ -337,7 +337,7 @@ B
 
 ### Кого контрит Фовиус
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
 
 ## Скины Фовиуса
 
@@ -367,7 +367,7 @@ B
 
 Какой процент побед у Фовиуса сейчас?
 
-48,55% в Мифической славе за последние 7 дней и 48,22% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,56% в Мифической славе за последние 7 дней и 48,23% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Фовиуса?
 
@@ -375,8 +375,8 @@ B
 
 Стоит ли брать Фовиуса в текущей мете?
 
-Тир B, 65-е место из 133 героев и 19-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 18,3% катков.
+Тир B, 65-е место из 133 героев и 19-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 48,6% побед. В профессиональных матчах за месяц героя драфтуют в 18,3% катков.
 
 Какая сборка на Фовиуса лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Оракул» и «Крылья королевы», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Месть». С ней выигрывают 57,13% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Оракул» и «Крылья королевы», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Месть». С ней выигрывают 57,12% матчей.

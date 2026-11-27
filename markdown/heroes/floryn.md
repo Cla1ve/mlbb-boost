@@ -1,6 +1,6 @@
 ---
 title: "Флорин MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Флорин, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Флорин. Поддержка, 53,94% побед, тир B."
+description: "Флорин, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Флорин. Поддержка, 53,95% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/floryn.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-53,9%
+54,0%
 
 Выбор
 
@@ -27,7 +27,7 @@ B
 
 Баны
 
-13,9%
+14,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **55,5%**![](/images/ranks/Epic.webp)Эпик
+1.  **55,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **54,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,1%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -67,11 +67,11 @@ B
 
 Победы
 
-54,0%
+53,9%
 
 Выбор
 
-22,6%
+24,3%
 
 #### Основные предметы
 
@@ -128,11 +128,11 @@ B
 
 Победы
 
-55,1%
+55,0%
 
 Выбор
 
-9,0%
+9,3%
 
 #### Основные предметы
 
@@ -189,11 +189,11 @@ B
 
 Победы
 
-55,5%
+55,4%
 
 Выбор
 
-8,7%
+9,0%
 
 #### Основные предметы
 
@@ -332,7 +332,7 @@ B
 
 ### Кого контрит Флорин
 
-[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ## Скины Флорин
 
@@ -362,7 +362,7 @@ B
 
 Какой процент побед у Флорин сейчас?
 
-53,94% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+53,95% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Флорин?
 
@@ -370,8 +370,8 @@ B
 
 Стоит ли брать Флорин в текущей мете?
 
-Тир B, 31-е место из 133 героев и 7-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 13,9% матчей, 53,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 31-е место из 133 героев и 7-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,0% матчей, 54,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Флорин лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Фонарь надежды», «Фляга Оазиса» и «Мимолетное время», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Фокус-метка» и заклинание «Вспышка». С ней выигрывают 53,96% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Фонарь надежды», «Фляга Оазиса» и «Мимолетное время», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Фокус-метка» и заклинание «Вспышка». С ней выигрывают 53,86% матчей.

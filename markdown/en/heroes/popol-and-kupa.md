@@ -1,6 +1,6 @@
 ---
 title: "Popol and Kupa MLBB: build, combos and counters | MLBB Boost"
-description: "Popol and Kupa in Mobile Legends: ranked build, skill combos, how to play and who counters Popol and Kupa. Marksman, 48.57% win rate, tier C."
+description: "Popol and Kupa in Mobile Legends: ranked build, skill combos, how to play and who counters Popol and Kupa. Marksman, 48.72% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/popol-and-kupa.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-48.6%
+48.7%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.9%
+0.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.3%**![](/images/ranks/Epic.webp)Epic
-2.  **54.0%**![](/images/ranks/Legend.webp)Legend
-3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **54.2%**![](/images/ranks/Epic.webp)Epic
+2.  **53.8%**![](/images/ranks/Legend.webp)Legend
+3.  **52.9%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **49.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -59,7 +59,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**30 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**31 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB marksmen**21 of 23**](https://boostmlbb.ru/en/heroes/best-marksman.html)
 
 ## Build
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-54.3%
+52.9%
 
 Pick rate
 
-6.3%
+5.2%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Assassin
 
 Win rate
 
-55.0%
+54.8%
 
 Pick rate
 
-3.5%
+4.1%
 
 #### Core items
 
@@ -190,11 +190,11 @@ Marksman
 
 Win rate
 
-54.6%
+54.2%
 
 Pick rate
 
-2.1%
+2.3%
 
 #### Core items
 
@@ -388,7 +388,7 @@ Level "Bite 'em, Kupa!" first and take the ultimate whenever it is available. St
 
 What is Popol and Kupa’s win rate right now?
 
-48.57% at Mythical Glory over the last 7 days and 51.73% across all ranks over 30 days, as of 25 November 2026.
+48.72% at Mythical Glory over the last 7 days and 51.62% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Popol and Kupa play?
 
@@ -396,8 +396,8 @@ Marksman, played in the Gold Lane or in the jungle.
 
 Is Popol and Kupa strong in the current meta?
 
-Tier C, #110 of 133 heroes and #21 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #111 of 133 heroes and #21 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Popol and Kupa?
 
-The most popular ranked build: Sea Halberd, Windtalker and Blade of Despair as core items, the Assassin emblem with Thrill, Weapons Master and Quantum Charge, and Flicker. It wins 54.32% of matches.
+The most popular ranked build: Sea Halberd, Windtalker and Blade of Despair as core items, the Assassin emblem with Thrill, Weapons Master and Quantum Charge, and Flicker. It wins 52.91% of matches.

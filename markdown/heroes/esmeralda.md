@@ -1,6 +1,6 @@
 ---
 title: "Эсмеральда MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Эсмеральда, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эсмеральду. Танк и маг, 46,49% побед, тир A."
+description: "Эсмеральда, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эсмеральду. Танк и маг, 46,53% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/esmeralda.html
 language: ru
 ---
@@ -68,11 +68,11 @@ A
 
 Победы
 
-55,5%
+55,4%
 
 Выбор
 
-8,5%
+8,9%
 
 #### Основные предметы
 
@@ -133,7 +133,7 @@ A
 
 Выбор
 
-5,5%
+6,1%
 
 #### Основные предметы
 
@@ -190,11 +190,11 @@ A
 
 Победы
 
-58,6%
+58,9%
 
 Выбор
 
-4,4%
+3,8%
 
 #### Основные предметы
 
@@ -338,7 +338,7 @@ A
 
 ### Кого контрит Эсмеральда
 
-[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
 
 ## Скины Эсмеральды
 
@@ -368,7 +368,7 @@ A
 
 Какой процент побед у Эсмеральды сейчас?
 
-46,49% в Мифической славе за последние 7 дней и 47,03% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+46,53% в Мифической славе за последние 7 дней и 47,04% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
 
 Какая роль и линия у Эсмеральды?
 
@@ -380,4 +380,4 @@ A
 
 Какая сборка на Эсмеральду лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Зачарованный талисман», «Оракул» и «Господство льда», эмблема поддержки с талантами «Вдохновение», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Месть». С ней выигрывают 55,48% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Зачарованный талисман», «Оракул» и «Господство льда», эмблема поддержки с талантами «Вдохновение», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Месть». С ней выигрывают 55,42% матчей.

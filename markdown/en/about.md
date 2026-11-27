@@ -67,7 +67,7 @@ Figures from the Telegram bot that handles every order, as of 22 November 2026.
 
 **47**boosters worked in the last 90 days
 
-**1,324**reviews in the Telegram channel
+**1,325**reviews in the Telegram channel
 
 ### How it works
 

@@ -1,6 +1,6 @@
 ---
 title: "Hylos MLBB: build, combos and counters | MLBB Boost"
-description: "Hylos in Mobile Legends: ranked build, skill combos, how to play and who counters Hylos. Tank, 47.02% win rate, tier D."
+description: "Hylos in Mobile Legends: ranked build, skill combos, how to play and who counters Hylos. Tank, 47.00% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/hylos.html
 language: en
 ---
@@ -68,11 +68,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-55.0%
+54.9%
 
 Pick rate
 
-5.9%
+7.5%
 
 #### Core items
 
@@ -129,11 +129,11 @@ Tank
 
 Win rate
 
-55.0%
+55.1%
 
 Pick rate
 
-5.4%
+4.2%
 
 #### Core items
 
@@ -190,45 +190,45 @@ Tank
 
 Win rate
 
-55.0%
+53.6%
 
 Pick rate
 
-1.3%
+1.2%
 
 #### Core items
 
 -   [
 
-    ![](/images/mlbb/items/3212.webp)
+    ![](/images/mlbb/items/2212.webp)
 
-    Chastise Pauldron
+    Thunder Belt
 
 
 
-    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
 -   [
 
-    ![](/images/mlbb/items/3205.webp)
+    ![](/images/mlbb/items/3113.webp)
 
-    Athena's Shield
+    Clock of Destiny
 
 
 
-    ](https://boostmlbb.ru/en/items/athenas-shield.html)
+    ](https://boostmlbb.ru/en/items/clock-of-destiny.html)
 -   [
 
-    ![](/images/mlbb/items/3203.webp)
+    ![](/images/mlbb/items/3206.webp)
 
-    Antique Cuirass
+    Dominance Ice
 
 
 
-    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 #### Spell
 
-![](/images/mlbb/spells/20050.webp)Revitalize
+![](/images/mlbb/spells/20190.webp)Vengeance
 
 #### Emblem and talents
 
@@ -236,13 +236,13 @@ Pick rate
 
 Tank
 
--   ![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/711.webp)
 
-    Agility
+    Firmness
 
--   ![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-    Wilderness Blessing
+    Tenacity
 
 -   ![](/images/mlbb/talents/331.webp)
 
@@ -335,11 +335,11 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 
 ### Who counters Hylos
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
 ### Who Hylos counters
 
-[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Hylos skins
 
@@ -361,7 +361,7 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 
 Who counters Hylos in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Nana and Saber.
+Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Nana and Vale.
 
 How do you play Hylos?
 
@@ -369,7 +369,7 @@ Level "Ring of Punishment" first and take the ultimate whenever it is available.
 
 What is Hylos’s win rate right now?
 
-47.02% at Mythical Glory over the last 7 days and 48.54% across all ranks over 30 days, as of 25 November 2026.
+47.00% at Mythical Glory over the last 7 days and 48.54% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Hylos play?
 
@@ -381,4 +381,4 @@ Tier D, #117 of 133 heroes and #20 among tanks. The tier counts how often the he
 
 What is the best build for Hylos?
 
-The most popular ranked build: Thunder Belt, Clock of Destiny and Dominance Ice as core items, the Tank emblem with Firmness, Tenacity and Concussive Blast, and Revitalize. It wins 54.95% of matches.
+The most popular ranked build: Thunder Belt, Clock of Destiny and Dominance Ice as core items, the Tank emblem with Firmness, Tenacity and Concussive Blast, and Revitalize. It wins 54.90% of matches.

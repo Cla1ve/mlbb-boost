@@ -55,12 +55,12 @@ Feather of Heaven
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/kimmy.webp)Кимми54,3%](https://boostmlbb.ru/heroes/kimmy.html#build)
+-   [![](/images/heroes/kimmy.webp)Кимми53,8%](https://boostmlbb.ru/heroes/kimmy.html#build)
 -   [![](/images/heroes/harith.webp)Харит55,4%](https://boostmlbb.ru/heroes/harith.html#build)
 -   [![](/images/heroes/silvanna.webp)Сильвана56,9%](https://boostmlbb.ru/heroes/silvanna.html#build)
--   [![](/images/heroes/aamon.webp)Эймон57,4%](https://boostmlbb.ru/heroes/aamon.html#build)
--   [![](/images/heroes/natan.webp)Натан54,4%](https://boostmlbb.ru/heroes/natan.html#build)
--   [![](/images/heroes/julian.webp)Джулиан52,7%](https://boostmlbb.ru/heroes/julian.html#build)
+-   [![](/images/heroes/aamon.webp)Эймон57,1%](https://boostmlbb.ru/heroes/aamon.html#build)
+-   [![](/images/heroes/natan.webp)Натан54,2%](https://boostmlbb.ru/heroes/natan.html#build)
+-   [![](/images/heroes/julian.webp)Джулиан52,8%](https://boostmlbb.ru/heroes/julian.html#build)
 -   [![](/images/heroes/edith.webp)Эдит60,9%](https://boostmlbb.ru/heroes/edith.html#build)
 
 ## История

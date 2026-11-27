@@ -1,6 +1,6 @@
 ---
 title: "Fredrinn MLBB: build, combos and counters | MLBB Boost"
-description: "Fredrinn in Mobile Legends: ranked build, skill combos, how to play and who counters Fredrinn. Tank and fighter, 52.44% win rate, tier C."
+description: "Fredrinn in Mobile Legends: ranked build, skill combos, how to play and who counters Fredrinn. Tank and fighter, 52.46% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-52.4%
+52.5%
 
 Pick rate
 
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **49.9%**![](/images/ranks/Epic.webp)Epic
+1.  **50.0%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
 3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -69,72 +69,11 @@ Build 1Build 2Build 3
 
 Win rate
 
-62.1%
+61.1%
 
 Pick rate
 
-5.3%
-
-#### Core items
-
--   [
-
-    ![](/images/mlbb/items/3208.webp)
-
-    Brute Force Breastplate
-
-
-
-    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
--   [
-
-    ![](/images/mlbb/items/3204.webp)
-
-    Oracle
-
-
-
-    ](https://boostmlbb.ru/en/items/oracle.html)
--   [
-
-    ![](/images/mlbb/items/2208.webp)
-
-    Queen's Wings
-
-
-
-    ](https://boostmlbb.ru/en/items/queens-wings.html)
-
-#### Spell
-
-![](/images/mlbb/spells/20020.webp)Retribution
-
-#### Emblem and talents
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
--   ![](/images/mlbb/talents/111.webp)
-
-    Thrill
-
--   ![](/images/mlbb/talents/122.webp)
-
-    Seasoned Hunter
-
--   ![](/images/mlbb/talents/131.webp)
-
-    Impure Rage
-
-
-Win rate
-
-61.4%
-
-Pick rate
-
-4.7%
+5.9%
 
 #### Core items
 
@@ -191,11 +130,72 @@ Support
 
 Win rate
 
-60.5%
+62.1%
 
 Pick rate
 
-3.8%
+4.5%
+
+#### Core items
+
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
+Win rate
+
+60.1%
+
+Pick rate
+
+4.3%
 
 #### Core items
 
@@ -346,7 +346,7 @@ This skill costs 3 Combo Points.
 
 ### Who counters Fredrinn
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ### Who Fredrinn counters
 
@@ -372,7 +372,7 @@ This skill costs 3 Combo Points.
 
 Who counters Fredrinn in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Alucard, Lunox, Joy and Khaleed.
+Over the last 30 days the toughest opponents are Gloo, Alucard, Joy, Lunox and Esmeralda.
 
 How do you play Fredrinn?
 
@@ -380,7 +380,7 @@ Level "Piercing Strike" first and take the ultimate whenever it is available. St
 
 What is Fredrinn’s win rate right now?
 
-52.44% at Mythical Glory over the last 7 days and 51.28% across all ranks over 30 days, as of 25 November 2026.
+52.46% at Mythical Glory over the last 7 days and 51.30% across all ranks over 30 days, as of 26 November 2026.
 
 What role and lane does Fredrinn play?
 
@@ -388,8 +388,8 @@ Tank and fighter, played in the jungle.
 
 Is Fredrinn strong in the current meta?
 
-Tier C, #73 of 133 heroes and #13 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #73 of 133 heroes and #13 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 52.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Fredrinn?
 
-The most popular ranked build: Brute Force Breastplate, Oracle and Queen's Wings as core items, the Support emblem with Thrill, Seasoned Hunter and Impure Rage, and Retribution. It wins 62.06% of matches.
+The most popular ranked build: Brute Force Breastplate, Oracle and Queen's Wings as core items, the Support emblem with Vitality, Seasoned Hunter and Impure Rage, and Retribution. It wins 61.12% of matches.

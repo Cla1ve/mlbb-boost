@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T11:01:50.820Z",
+  "checkedAt": "2026-11-27T10:59:11.434Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,24 @@
     }
   ],
   "reviewStats": {
-    "count": 1324,
+    "count": 1325,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2372,
+      "rating": 5,
+      "text": "Все супер! Быстро и без проблем, очень благодарю бустера",
+      "messageLink": "https://t.me/Cla1ve_boost/2301",
+      "boostType": "role",
+      "rankFrom": "Мифическая честь, 44⭐",
+      "rankTo": "Мифическая слава, 60⭐",
+      "hero": null,
+      "duration": "6ч 19м после оплаты",
+      "booster": "Kris",
+      "published": "2026-11-26"
+    },
     {
       "id": 2370,
       "rating": 5,
@@ -1053,19 +1066,6 @@
       "hero": "Фрейя",
       "duration": "22д 23ч 40м после оплаты",
       "booster": "britanskiy",
-      "published": "2026-10-31"
-    },
-    {
-      "id": 2259,
-      "rating": 5,
-      "text": "Быстро , четко , без лишней суеты , все объяснил , рассказал и сделал как надо",
-      "messageLink": "https://t.me/Cla1ve_boost/2159",
-      "boostType": "standard",
-      "rankFrom": "Мифическая честь, 28⭐",
-      "rankTo": "Мифическая честь, 33⭐",
-      "hero": null,
-      "duration": "1ч 39м после оплаты",
-      "booster": "Izy",
       "published": "2026-10-31"
     }
   ]

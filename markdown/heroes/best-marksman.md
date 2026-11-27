@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие стрелки MLBB
 
-23 героя · Обновлено 25 ноября
+23 героя · Обновлено 26 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,6% побед и бан в 65,4% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
+Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,5% побед и бан в 65,6% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -29,7 +29,7 @@ S
 
 Победы
 
-52,6%
+52,5%
 
 Выбор
 
@@ -37,7 +37,7 @@ S
 
 Баны
 
-65,4%
+65,6%
 
 [
 
@@ -173,13 +173,13 @@ A
 
 ](https://boostmlbb.ru/items/malefic-gun.html)
 
-![](/images/mlbb/emblems/20012.webp)
+![](/images/mlbb/emblems/20007.webp)
 
-Эмблема стрелка
+Эмблема бойца
 
-![](/images/mlbb/spells/20060.webp)
+![](/images/mlbb/spells/20100.webp)
 
-Эгида
+Вспышка
 
 ## Все стрелки по рейтингу
 
@@ -205,11 +205,11 @@ A
 
 S
 
-52,6%
+52,5%
 
 2,4%
 
-65,4%
+65,6%
 
 44,8%
 
@@ -251,7 +251,7 @@ B
 
 2,0%
 
-5,3%
+5,4%
 
 6,8%
 
@@ -303,7 +303,7 @@ B
 
 B
 
-51,3%
+51,4%
 
 1,1%
 
@@ -331,11 +331,11 @@ B
 
 B
 
-50,1%
+50,0%
 
-1,3%
+1,4%
 
-1,8%
+1,7%
 
 1,4%
 
@@ -349,7 +349,7 @@ B
 
 0,4%
 
-0,6%
+0,5%
 
 11,0%
 
@@ -363,7 +363,7 @@ B
 
 1,1%
 
-1,5%
+1,4%
 
 2,5%
 
@@ -387,7 +387,7 @@ C
 
 C
 
-50,5%
+50,6%
 
 0,8%
 
@@ -433,7 +433,7 @@ C
 
 0,6%
 
-0,7%
+0,6%
 
 1,1%
 
@@ -447,7 +447,7 @@ C
 
 1,4%
 
-0,9%
+1,0%
 
 0,6%
 
@@ -485,11 +485,11 @@ C
 
 C
 
-48,6%
+48,7%
 
 0,3%
 
-0,9%
+0,8%
 
 —
 
@@ -525,20 +525,20 @@ D
 
 -   [![](/images/mlbb/items/3005.webp)Говорящий с ветрому 9 из 23](https://boostmlbb.ru/items/windtalker.html)
 -   [![](/images/mlbb/items/2008.webp)Коса коррозииу 7 из 23](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [![](/images/mlbb/items/3002.webp)Когти Хаасау 7 из 23](https://boostmlbb.ru/items/haas-claws.html)
 -   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 6 из 23](https://boostmlbb.ru/items/sky-piercer.html)
--   [![](/images/mlbb/items/3002.webp)Когти Хаасау 6 из 23](https://boostmlbb.ru/items/haas-claws.html)
 -   [![](/images/mlbb/items/3003.webp)Ярость берсеркау 6 из 23](https://boostmlbb.ru/items/berserkers-fury.html)
 -   [![](/images/mlbb/items/3015.webp)Губительный пулемету 6 из 23](https://boostmlbb.ru/items/malefic-gun.html)
 
-Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 11 и «Вдохновение» у 4. Эмблема убийцы у 8, эмблема стрелка у 8.
+Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 12 и «Вдохновение» у 4. Эмблема убийцы у 8, эмблема стрелка у 7.
 
 ## Кого брать в соло
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
 1.  [![](/images/heroes/hanabi.webp)Ханаби53,6%](https://boostmlbb.ru/heroes/hanabi.html)
-2.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,5%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
-3.  [![](/images/heroes/edith.webp)Эдит53,5%](https://boostmlbb.ru/heroes/edith.html)
+2.  [![](/images/heroes/edith.webp)Эдит53,5%](https://boostmlbb.ru/heroes/edith.html)
+3.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,4%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 4.  [![](/images/heroes/irithel.webp)Иритель52,7%](https://boostmlbb.ru/heroes/irithel.html)
 5.  [![](/images/heroes/bruno.webp)Бруно52,5%](https://boostmlbb.ru/heroes/bruno.html)
 6.  [![](/images/heroes/natan.webp)Натан50,9%](https://boostmlbb.ru/heroes/natan.html)
@@ -562,7 +562,7 @@ D
 
 Кто лучший стрелок в MLBB сейчас?
 
-Обсидия: тир S, 52,6% побед, бан в 65,4% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 25 ноября 2026 года.
+Обсидия: тир S, 52,5% побед, бан в 65,6% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 26 ноября 2026 года.
 
 Что выбрать новичку среди стрелков?
 
@@ -570,12 +570,12 @@ D
 
 Каких стрелков чаще всего банят?
 
-Обсидия (65,4%), Лесли (5,3%) и Мия (1,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Обсидия (65,6%), Лесли (5,4%) и Мия (1,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько стрелков в Mobile Legends?
 
-23 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Стрелок».
+23 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Стрелок».
 
 Какие предметы чаще всего собирают на стрелках?
 
-В самой частой сборке героя чаще всего встречаются «Говорящий с ветром» (у 9 из 23), «Коса коррозии» (у 7 из 23) и «Пронзающий небеса» (у 6 из 23). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».
+В самой частой сборке героя чаще всего встречаются «Говорящий с ветром» (у 9 из 23), «Коса коррозии» (у 7 из 23) и «Когти Хааса» (у 7 из 23). Полная сборка каждого героя лежит на его странице, во вкладке «Сборка».

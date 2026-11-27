@@ -48,21 +48,22 @@ Genius Wand
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/eudora.webp)Эйдора54,2%](https://boostmlbb.ru/heroes/eudora.html#build)
--   [![](/images/heroes/harley.webp)Харли49,0%](https://boostmlbb.ru/heroes/harley.html#build)
--   [![](/images/heroes/lunox.webp)Люнокс53,4%](https://boostmlbb.ru/heroes/lunox.html#build)
--   [![](/images/heroes/kagura.webp)Кагура54,8%](https://boostmlbb.ru/heroes/kagura.html#build)
--   [![](/images/heroes/kadita.webp)Кадита56,9%](https://boostmlbb.ru/heroes/kadita.html#build)
--   [![](/images/heroes/gusion.webp)Госсен55,7%](https://boostmlbb.ru/heroes/gusion.html#build)
+-   [![](/images/heroes/eudora.webp)Эйдора54,1%](https://boostmlbb.ru/heroes/eudora.html#build)
+-   [![](/images/heroes/harley.webp)Харли48,9%](https://boostmlbb.ru/heroes/harley.html#build)
+-   [![](/images/heroes/lunox.webp)Люнокс53,9%](https://boostmlbb.ru/heroes/lunox.html#build)
+-   [![](/images/heroes/kagura.webp)Кагура54,7%](https://boostmlbb.ru/heroes/kagura.html#build)
+-   [![](/images/heroes/kadita.webp)Кадита56,6%](https://boostmlbb.ru/heroes/kadita.html#build)
+-   [![](/images/heroes/gusion.webp)Госсен55,5%](https://boostmlbb.ru/heroes/gusion.html#build)
 -   [![](/images/heroes/silvanna.webp)Сильвана56,9%](https://boostmlbb.ru/heroes/silvanna.html#build)
--   [![](/images/heroes/aamon.webp)Эймон54,8%](https://boostmlbb.ru/heroes/aamon.html#build)
--   [![](/images/heroes/yve.webp)Ив52,1%](https://boostmlbb.ru/heroes/yve.html#build)
+-   [![](/images/heroes/aamon.webp)Эймон54,6%](https://boostmlbb.ru/heroes/aamon.html#build)
+-   [![](/images/heroes/yve.webp)Ив52,5%](https://boostmlbb.ru/heroes/yve.html#build)
 -   [![](/images/heroes/odette.webp)Одетта52,3%](https://boostmlbb.ru/heroes/odette.html#build)
 -   [![](/images/heroes/nana.webp)Нана52,4%](https://boostmlbb.ru/heroes/nana.html#build)
--   [![](/images/heroes/zhask.webp)Заск58,5%](https://boostmlbb.ru/heroes/zhask.html#build)
+-   [![](/images/heroes/zhask.webp)Заск58,6%](https://boostmlbb.ru/heroes/zhask.html#build)
 -   [![](/images/heroes/vale.webp)Вэйл55,0%](https://boostmlbb.ru/heroes/vale.html#build)
--   [![](/images/heroes/joy.webp)Джой54,9%](https://boostmlbb.ru/heroes/joy.html#build)
--   [![](/images/heroes/luo-yi.webp)Ло Йи50,4%](https://boostmlbb.ru/heroes/luo-yi.html#build)
+-   [![](/images/heroes/joy.webp)Джой54,6%](https://boostmlbb.ru/heroes/joy.html#build)
+-   [![](/images/heroes/faramis.webp)Фарамис57,3%](https://boostmlbb.ru/heroes/faramis.html#build)
+-   [![](/images/heroes/luo-yi.webp)Ло Йи49,9%](https://boostmlbb.ru/heroes/luo-yi.html#build)
 
 ## История
 
@@ -92,4 +93,4 @@ Genius Wand
 
 Каким героям собирать «Палочка гения»?
 
-Предмет есть в популярных сборках 15 героев в рейтинге, среди них Эйдора, Харли, Люнокс, Кагура, Кадита и Госсен.
+Предмет есть в популярных сборках 16 героев в рейтинге, среди них Эйдора, Харли, Люнокс, Кагура, Кадита и Госсен.

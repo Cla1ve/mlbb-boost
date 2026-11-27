@@ -53,11 +53,11 @@ Guardian Helmet
 
 Герои, у которых предмет есть в популярной сборке в рейтинге, и процент побед с ней
 
--   [![](/images/heroes/masha.webp)Маша63,7%](https://boostmlbb.ru/heroes/masha.html#build)
--   [![](/images/heroes/belerick.webp)Белерик61,7%](https://boostmlbb.ru/heroes/belerick.html#build)
--   [![](/images/heroes/diggie.webp)Дигги63,0%](https://boostmlbb.ru/heroes/diggie.html#build)
--   [![](/images/heroes/akai.webp)Акай55,4%](https://boostmlbb.ru/heroes/akai.html#build)
--   [![](/images/heroes/lolita.webp)Лолита59,4%](https://boostmlbb.ru/heroes/lolita.html#build)
+-   [![](/images/heroes/masha.webp)Маша63,0%](https://boostmlbb.ru/heroes/masha.html#build)
+-   [![](/images/heroes/belerick.webp)Белерик61,4%](https://boostmlbb.ru/heroes/belerick.html#build)
+-   [![](/images/heroes/diggie.webp)Дигги63,2%](https://boostmlbb.ru/heroes/diggie.html#build)
+-   [![](/images/heroes/akai.webp)Акай55,3%](https://boostmlbb.ru/heroes/akai.html#build)
+-   [![](/images/heroes/lolita.webp)Лолита58,4%](https://boostmlbb.ru/heroes/lolita.html#build)
 
 ## История
 

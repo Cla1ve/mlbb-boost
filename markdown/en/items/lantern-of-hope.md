@@ -31,7 +31,7 @@ Floryn’s default item, takes a slot. Its attributes scale with hero level.
 
 Heroes whose popular ranked build has the item, with the build’s win rate
 
--   [![](/images/heroes/floryn.webp)Floryn54.0%](https://boostmlbb.ru/en/heroes/floryn.html#build)
+-   [![](/images/heroes/floryn.webp)Floryn53.9%](https://boostmlbb.ru/en/heroes/floryn.html#build)
 
 ## More magic items
 
