@@ -1528,14 +1528,14 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=35">
+  <link rel="stylesheet" href="/styles/ui.css?v=36">
   <link rel="stylesheet" href="/styles/arena.css?v=9">
   <link rel="stylesheet" href="/styles/journal.css?v=7">`;
 }
 
 function renderScripts() {
   return `
-  <script defer src="/js/consent.js?v=33"></script>
+  <script defer src="/js/consent.js?v=34"></script>
   <script defer src="/js/news-language.js?v=1"></script>
   <script defer src="/js/news.js?v=9"></script>`;
 }
@@ -2386,6 +2386,18 @@ function renderMainSitemap(posts, staticPages) {
     }
   }
 
+  return renderSitemap(entries);
+}
+
+function renderGoogleEnglishSitemap(staticPages) {
+  const entries = staticPages.filter(page => page.ruOnly).map(page => ({
+    loc: absoluteUrl('/en' + page.pathname),
+    lastmod: page.lastmod
+  }));
+  return renderSitemap(entries);
+}
+
+function renderSitemap(entries) {
   const unique = [...new Map(entries.map((entry) => [entry.loc, entry])).values()];
   return `<?xml version="1.0" encoding="UTF-8"?>
 ${GENERATED_MARKER}
@@ -2438,7 +2450,8 @@ async function preparePublishedPosts(data) {
 function renderGeneratedFiles(posts, staticPages) {
   const files = new Map([
     [path.join(SITE_ROOT, 'news-sitemap.xml'), renderNewsSitemap(posts)],
-    [path.join(SITE_ROOT, 'sitemap.xml'), renderMainSitemap(posts, staticPages)]
+    [path.join(SITE_ROOT, 'sitemap.xml'), renderMainSitemap(posts, staticPages)],
+    [path.join(SITE_ROOT, 'sitemap-google-en.xml'), renderGoogleEnglishSitemap(staticPages)]
   ]);
   for (const locale of LOCALE_KEYS) {
     const localizedPosts = posts.map((post) => localizePost(post, locale));

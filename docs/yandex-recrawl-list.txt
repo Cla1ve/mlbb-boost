@@ -3,6 +3,7 @@
 Адреса, которые уже есть в «Страницах в поиске», можно пропускать.
 
 --- Порция 1 ---
+https://boostmlbb.ru/nickname-generator/
 https://boostmlbb.ru/
 https://boostmlbb.ru/prices.html
 https://boostmlbb.ru/services.html
@@ -13,6 +14,8 @@ https://boostmlbb.ru/boost/hero.html
 https://boostmlbb.ru/guides/mythic-placement.html
 https://boostmlbb.ru/guides/party-boost.html
 https://boostmlbb.ru/heroes/
+https://boostmlbb.ru/items/
+https://boostmlbb.ru/skins/
 https://boostmlbb.ru/news/mlbb-builds-2026/
 https://boostmlbb.ru/news/mlbb-emblems/
 https://boostmlbb.ru/news/mlbb-not-working/

@@ -15,6 +15,11 @@ const entries = [...sitemap.querySelectorAll('url')];
 assert(entries.length >= 42, 'Commercial pages, guides and both news languages must be in the sitemap');
 const urls = entries.map(e => e.querySelector('loc').textContent.trim());
 assert.equal(new Set(urls).size, urls.length, 'Duplicate sitemap URLs');
+const { document: englishSitemap } = parseHTML(await read('sitemap-google-en.xml'));
+const englishUrls = [...englishSitemap.querySelectorAll('loc')].map(node => node.textContent.trim()).sort();
+const expectedEnglishUrls = urls.filter(url => /^\/(heroes|items|skins)\//.test(new URL(url).pathname))
+  .map(url => origin + '/en' + new URL(url).pathname).sort();
+assert.deepEqual(englishUrls, expectedEnglishUrls, 'Google English sitemap must cover the English game catalog');
 const pages = new Map();
 const titles = new Set();
 const paths = [...urls.map(url => new URL(url).pathname), '/404.html', '/en/404.html'];
@@ -37,6 +42,7 @@ for (const pathname of paths) {
   if (/^\/(heroes|items|skins)\//.test(pathname)) {
     // Hero stat pages: the English copy is indexable by Google but closed to Yandex.
     const english = parseHTML(await read(filename('/en' + pathname))).document;
+    assert.equal(english.querySelector('link[rel="canonical"]')?.href, origin + '/en' + pathname, `${pathname}: incorrect English canonical`);
     assert(!english.querySelector('meta[name="robots"]').content.includes('noindex'), `${pathname}: English copy must be open to Google`);
     assert.equal(english.querySelector('meta[name="yandex"]')?.content, 'noindex, follow', `${pathname}: English copy must be closed to Yandex`);
     assert(!document.querySelector('meta[name="yandex"]'), `${pathname}: Russian page must stay open to Yandex`);

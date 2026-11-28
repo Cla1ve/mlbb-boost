@@ -132,22 +132,49 @@
     return (en ? 'E' : 'R') + (section || 'p') + slug;
   }
   const key = 'mlbb_first_landing_v1';
-  let code = '';
-  try {
-    code = localStorage.getItem(key) || '';
-    if (!code && (!document.referrer || new URL(document.referrer).origin !== location.origin))
-      code = landingCode(location.pathname);
-    const remember = () => { if (code && !localStorage.getItem(key)) localStorage.setItem(key, code); };
-    if (localStorage.getItem('mlbb_consent_accepted') === 'true') remember();
-    window.addEventListener('mlbb:consent-granted', remember);
-  } catch { /* Unavailable storage leaves previous visits unknown. */ }
+  const entryParam = 'site_entry';
+  const destination = new URL(location.href);
+  const isCalculator = destination.pathname.endsWith('/order.html');
+  const validCode = value => /^[REre](?:[hsingbtp])[a-z0-9_-]*$/.test(value || '') && value.length <= 62;
+  const asPrevious = value => value ? value[0].toLowerCase() + value.slice(1) : '';
+  let referrer;
+  try { referrer = document.referrer ? new URL(document.referrer) : null; } catch { /* Invalid referrer. */ }
+  const fromSite = referrer?.origin === location.origin;
+  let stored = '';
+  try { stored = localStorage.getItem(key); } catch { /* Browser storage is unavailable. */ }
+  const supplied = isCalculator ? destination.searchParams.get(entryParam) : null;
+  let code = validCode(stored) ? stored : '';
+  if (!code && validCode(supplied)) code = supplied;
+  if (!code && !fromSite) code = landingCode(location.pathname);
+  if (!code && isCalculator && fromSite && referrer.pathname !== destination.pathname)
+    code = asPrevious(landingCode(referrer.pathname));
+
+  const remember = () => {
+    // Lowercase codes identify the page immediately before the calculator, not the first visit.
+    if (!/^[RE]/.test(code)) return;
+    try { if (!localStorage.getItem(key)) localStorage.setItem(key, code); } catch { /* Optional storage. */ }
+  };
+  if (hasStoredConsent()) remember();
+  window.addEventListener('mlbb:consent-granted', remember);
+
+  function markCalculatorLink(link) {
+    if (isCalculator || link.origin !== location.origin || !link.pathname.endsWith('/order.html')) return;
+    const source = code || asPrevious(landingCode(location.pathname));
+    if (!validCode(source)) return;
+    const url = new URL(link.href);
+    url.searchParams.set(entryParam, source);
+    link.href = url.href;
+  }
   function tracked(href) {
     if (!code || !href) return href;
     const url = new URL(href, location.href);
     if (url.origin !== 'https://t.me' || url.pathname !== '/cla1ve_boost_bot') return href;
     const start = url.searchParams.get('start');
     if (!/^(site|site_order|siteq1_[a-z0-9_-]+)$/.test(start || '') || start.includes('__')) return href;
-    const suffix = start.length + 2 + code.length <= 64 ? code : code[1] === 'p' ? '' : code.slice(0,2) + 'X';
+    // The bot accepts uppercase language codes. Lowercase is only used on the site
+    // to distinguish a path we can pass to Telegram from a first visit we can remember.
+    const botCode = code[0].toUpperCase() + code.slice(1);
+    const suffix = start.length + 2 + botCode.length <= 64 ? botCode : botCode[1] === 'p' ? '' : botCode.slice(0, 2) + 'X';
     if (suffix) url.searchParams.set('start', start + '__' + suffix);
     return url.href;
   }
@@ -191,8 +218,10 @@
   const decorate = () => document.querySelectorAll('a[href^="https://t.me/cla1ve_boost_bot"]').forEach(a => { a.href = tracked(a.href); });
   decorate();
   for (const event of ['pointerdown','click','contextmenu','focusin']) document.addEventListener(event, e => {
-    const a = e.target.closest?.('a[href^="https://t.me/cla1ve_boost_bot"]');
-    if (a) a.href = tracked(a.href);
+    const link = e.target.closest?.('a[href]');
+    if (!link) return;
+    markCalculatorLink(link);
+    if (link.origin === 'https://t.me') link.href = tracked(link.href);
   }, true);
   const sectionsMenu = document.querySelector('.game-menu details');
   if (sectionsMenu) {

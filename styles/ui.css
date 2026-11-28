@@ -248,7 +248,8 @@ main [id] { scroll-margin-top:104px; }
   text-decoration: none;
   transition: background-color .15s ease, color .15s ease;
 }
-.game-icon { text-align: center; font: 1rem/1 "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif; }
+.game-icon { display: grid; place-items: center; width: 24px; height: 28px; color: #71d9b4; }
+.game-links a[aria-current] .game-icon { color: #75f7bb; }
 .game-links a:is(:hover,:focus-visible) { background: #1c354c; }
 .game-links a[aria-current] { background: #193544; color: #75f7bb; }
 .game-menu :is(summary, a):focus-visible { outline: 2px solid #74ffbd; outline-offset: -2px; }

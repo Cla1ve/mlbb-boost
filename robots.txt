@@ -28,7 +28,7 @@ Disallow: /src/
 Disallow: /content/
 Disallow: /news/_preview/
 Disallow: /en/news/_preview/
-Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&_openstat&gclid&fbclid
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&_openstat&gclid&fbclid&site_entry
 
 Sitemap: https://boostmlbb.ru/sitemap.xml
 Sitemap: https://boostmlbb.ru/news-sitemap.xml

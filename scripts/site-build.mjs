@@ -50,6 +50,7 @@ config.guides.push(...itemGuides(itemsData, heroesData, academyData));
 if (skins) config.guides.push(...skins.guides);
 config.guides.push({
   file: 'nickname-generator/index.html', kind: 'tool', published: '2026-11-28',
+  tool: { ru: 'Генератор ников и шрифтов для MLBB', en: 'MLBB nickname and font generator' },
   ru: ['Генератор ников и шрифтов для MLBB | MLBB Boost', 'Создайте ник для Mobile Legends по имени, герою или стилю. Примерьте шрифты и скопируйте готовый вариант.', ''],
   en: ['MLBB nickname and font generator | MLBB Boost', 'Create a Mobile Legends nickname by name, hero or style. Preview fonts and copy your favorite.', '']
 });
@@ -325,6 +326,7 @@ function guideArticle(guide, lang) {
   return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}</article>`;
 }
 function schema(document, file, lang, title, description, url) {
+  const heading = document.querySelector('h1')?.textContent.replace(/\s+/g, ' ').trim() || title;
   document.querySelectorAll('script[type="application/ld+json"]').forEach(node => node.remove());
   const org = {
     '@type': 'Organization', '@id': `${origin}/#organization`, name: 'MLBB Boost', url: origin + '/',
@@ -340,7 +342,7 @@ function schema(document, file, lang, title, description, url) {
   const isList = Boolean(guide?.list || guide?.itemList);
   const isArticle = guide && !['tool','service'].includes(guide.kind) && !isHeroIndex && !isList;
   const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : (isHeroIndex || isList || file === 'reviews.html') ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
-  if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.ogImage ? origin + guide.ogImage : guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
+  if (guide) { page.headline = heading; page.author = { '@id': org['@id'] }; page.image = guide.ogImage ? origin + guide.ogImage : guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   if (isHeroIndex) page.mainEntity = {
     '@type': 'ItemList', numberOfItems: heroesData.heroes.length,
     itemListElement: rateHeroes(heroesData.heroes).map(hero => ({ '@type': 'ListItem', position: hero.rank,
@@ -352,7 +354,7 @@ function schema(document, file, lang, title, description, url) {
     page.mainEntity = { '@type': 'ItemList', numberOfItems: guide.list.length, itemListElement: guide.list.map((slug, index) => ({ '@type': 'ListItem', position: index + 1, name: named[slug][lang], url: origin + localized(`/heroes/${slug}.html`, lang) })) };
   }
   const graph = [org, web, page];
-  if (guide?.kind === 'service') graph.push({ '@type': 'Service', '@id': `${url}#service`, name: document.querySelector('h1').textContent.trim(), serviceType: 'Mobile Legends: Bang Bang rank boosting', provider: { '@id': org['@id'] }, areaServed: lang === 'en' ? 'Worldwide' : 'RU', url, offers: { '@type': 'AggregateOffer', priceCurrency: 'RUB', lowPrice: Math.min(...data.prices.filter(r => guide.priceCategories?.includes(r.category) ?? true).map(r => r.prices.find(p => p.type === (guide.priceType || 'standard')).price)), offerCount: data.prices.length } });
+  if (guide?.kind === 'service') graph.push({ '@type': 'Service', '@id': `${url}#service`, name: heading, serviceType: 'Mobile Legends: Bang Bang rank boosting', provider: { '@id': org['@id'] }, areaServed: lang === 'en' ? 'Worldwide' : 'RU', url, offers: { '@type': 'AggregateOffer', priceCurrency: 'RUB', lowPrice: Math.min(...data.prices.filter(r => guide.priceCategories?.includes(r.category) ?? true).map(r => r.prices.find(p => p.type === (guide.priceType || 'standard')).price)), offerCount: data.prices.length } });
   if (guide?.[lang][3]?.length) graph.push({ '@type': 'FAQPage', '@id': `${url}#faq`, mainEntity: guide[lang][3].map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: fillTokens(a, lang).replace(/<[^>]+>/g, '') } })) });
   if (guide?.tool) graph.push({ '@type': 'WebApplication', '@id': `${url}#tool`, name: guide.tool[lang], url, applicationCategory: 'GameApplication', operatingSystem: 'Web browser', offers: { '@type': 'Offer', price: 0, priceCurrency: 'RUB' } });
   if (file !== 'index.html' && file !== '404.html') {
@@ -360,7 +362,7 @@ function schema(document, file, lang, title, description, url) {
     const parent = ['hero', 'item', 'skin'].includes(guide?.kind) && guide.crumb && filePath(file).startsWith(guide.crumb[0]) && origin + localized(guide.crumb[0], lang);
     if (guide?.crumbs) for (const [href, ru, en] of guide.crumbs) steps.push({ name: lang === 'en' ? en : ru, item: origin + localized(href, lang) });
     else if (parent && parent !== url) steps.push({ name: lang === 'en' ? guide.crumb[2] : guide.crumb[1], item: parent });
-    steps.push({ name: document.querySelector('h1')?.textContent.trim() || title, item: url });
+    steps.push({ name: heading, item: url });
     graph.push({ '@type': 'BreadcrumbList', '@id': `${url}#breadcrumbs`, itemListElement: steps.map((step, index) => ({ '@type': 'ListItem', position: index + 1, ...step })) });
   }
   if (['index.html', 'services.html', 'prices.html'].includes(file)) {
@@ -454,7 +456,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     document.querySelectorAll('link[rel="canonical"],link[hreflang],link[rel="alternate"][type="text/markdown"]').forEach(node => node.remove());
     const canonical = origin + localized(filePath(file), lang);
     // Hero stat pages (ruOnly): the English copy is open to Google but closed to Yandex (meta name="yandex"),
-    // and stays out of the sitemap so Yandex does not spend crawl budget on it (owner question 23.11.2026).
+    // and stays out of the shared sitemap. Search Console can use the separate English sitemap.
     document.querySelectorAll('meta[name="yandex"]').forEach(node => node.remove());
     if (lang === 'en' && guideOf(file)?.ruOnly) { const tag = document.createElement('meta'); tag.setAttribute('name', 'yandex'); tag.setAttribute('content', 'noindex, follow'); document.head.append(tag); }
     for (const [rel, hreflang, href] of [['canonical', null, canonical], ['alternate', 'ru', origin + filePath(file)], ['alternate', 'en', origin + localized(filePath(file), 'en')], ['alternate', 'x-default', origin + filePath(file)]]) {
@@ -520,7 +522,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelector('link[rel="stylesheet"]')?.before(font);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
-    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=35'; document.head.append(interfaceStyle);
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=36'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
@@ -531,7 +533,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '34' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '33' : asset.pathname === '/js/prices.js' ? '31' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '34' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '34' : asset.pathname === '/js/prices.js' ? '31' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

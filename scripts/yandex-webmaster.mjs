@@ -49,6 +49,7 @@ const itemKind = await readFile('content/items.json', 'utf8').then(text => Objec
 const newsDate = Object.fromEntries(entries.filter(entry => /\/news\/[^/]+\/$/.test(entry.url)).map(entry => [entry.url, entry.lastmod]));
 function priority(url) {
   const path = new URL(url).pathname;
+  if (path === '/nickname-generator/' || path === '/en/nickname-generator/') return -1;
   if (path.startsWith('/en/')) return 900 + (path.includes('/news/') ? 0 : 50);
   if (/^\/(offer|privacy|terms|cookies|disclaimer|refund|security|documents|sitemap-page)\.html$/.test(path)) return 800;
   const core = ['/', '/prices.html', '/services.html', '/order.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html', '/heroes/', '/items/', '/skins/', '/news/', '/reviews.html', '/faq.html', '/about.html'];
@@ -133,11 +134,15 @@ async function webmaster() {
 
   // Pages already in search (samples, paged)
   const inSearch = new Set();
+  let indexSampleAvailable = false;
   try {
     for (let offset = 0; offset < 3000; offset += 100) {
       const page = await api('GET', `${hostPath}/search-urls/in-search/samples?offset=${offset}&limit=100`);
       for (const sample of page.samples || []) inSearch.add(sample.url);
-      if (!page.samples?.length || offset + 100 >= (page.count || 0)) break;
+      if (!page.samples?.length || offset + 100 >= (page.count || 0)) {
+        indexSampleAvailable = true;
+        break;
+      }
     }
   } catch (error) {
     say(error.code === 'HOST_NOT_LOADED'
@@ -153,7 +158,7 @@ async function webmaster() {
       .filter(entry => !inSearch.has(entry.url))
       .filter(entry => !state.recrawl[entry.url] || daysSince(state.recrawl[entry.url]) >= RESEND_DAYS)
       .sort((a, b) => (state.recrawl[a.url] ? 1 : 0) - (state.recrawl[b.url] ? 1 : 0) || priority(a.url) - priority(b.url));
-    say(`Переобход: лимит на сегодня ${quota?.daily_quota ?? '?'}, осталось ${left}; ждут переобхода ${candidates.length} страниц не из поиска.`);
+    say(`Переобход: лимит на сегодня ${quota?.daily_quota ?? '?'}, осталось ${left}; ждут переобхода ${candidates.length} ${indexSampleAvailable ? 'адресов, отсутствующих в выборке поиска' : 'адресов из карты, статус индекса недоступен'}.`);
     const sent = [];
     let failures = 0;
     for (const entry of candidates) {
@@ -183,7 +188,7 @@ async function webmaster() {
     say(`\n### Сводка Вебмастера\n- ИКС: ${summary.sqi ?? '?'}\n- Страниц в поиске: ${summary.searchable_pages_count ?? '?'}\n- Исключено: ${summary.excluded_pages_count ?? '?'}\n- Проблемы сайта: ${problems || 'нет'}`);
   }
   const missing = entries.filter(entry => !inSearch.has(entry.url) && !entry.url.includes('/en/'));
-  if (inSearch.size) say(`- Русских адресов карты ещё нет в поиске: ${missing.length} из ${entries.filter(entry => !entry.url.includes('/en/')).length}`);
+  if (indexSampleAvailable) say(`- Русских адресов карты ещё нет в поиске: ${missing.length} из ${entries.filter(entry => !entry.url.includes('/en/')).length}`);
   const diagnostics = await api('GET', `${hostPath}/diagnostics`).catch(() => null);
   const active = Object.entries(diagnostics?.problems || {}).filter(([, item]) => item.state === 'PRESENT');
   if (active.length) say(`- Диагностика: ${active.map(([name, item]) => `${name} (${item.severity})`).join(', ')}`);
