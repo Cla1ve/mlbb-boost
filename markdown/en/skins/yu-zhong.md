@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/yu-zhong.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Yu Zhong
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Cosmic DragonGrand · 2023](https://boostmlbb.ru/en/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/yu-zhong/dragon-s-shade.webp)Dragon's ShadeDeluxe · 2023](https://boostmlbb.ru/en/skins/yu-zhong/dragon-s-shade.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Exorcist Yu ZhongGrand · 2022](https://boostmlbb.ru/en/skins/yu-zhong/exorcist-yu-zhong.html)[![](/images/skins/cards/yu-zhong/blood-serpent.webp)Blood SerpentExquisite · 2021](https://boostmlbb.ru/en/skins/yu-zhong/blood-serpent.html)[![](/images/skins/cards/yu-zhong/biohazard.webp)BiohazardExceptional · 2020](https://boostmlbb.ru/en/skins/yu-zhong/biohazard.html)[![](/images/skins/cards/yu-zhong/emerald-dragon.webp)Emerald DragonCommon · 2020](https://boostmlbb.ru/en/skins/yu-zhong/emerald-dragon.html)
 
-**Rank up on Yu Zhong**The calculator shows the price
+**How much is a rank boost on Yu Zhong?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

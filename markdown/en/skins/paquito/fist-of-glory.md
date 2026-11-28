@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/paquito/fist-of-glory.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Paquito skins](https://boostmlbb.ru/en/skins/paquito.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Paquito](https://boostmlbb.ru/en/skins/paquito.html)/Fist of Glory
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/beatrix/sky-force-maverick.webp)Sky Force MaverickBeatrix · 2025](https://boostmlbb.ru/en/skins/beatrix/sky-force-maverick.html)
 
-**Rank up on Paquito**The calculator shows the price
+**How much is a rank boost on Paquito?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

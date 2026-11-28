@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/gloo.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Глу
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/gloo/patrick.webp)ПатрикДелюкс · 2025](https://boostmlbb.ru/skins/gloo/patrick.html)[![](/images/skins/cards/gloo/jellyman.webp)Желейный человекИсключительный · 2023](https://boostmlbb.ru/skins/gloo/jellyman.html)[![](/images/skins/cards/gloo/verdant-enchanter.webp)Зелёный чародейОбычный · 2021](https://boostmlbb.ru/skins/gloo/verdant-enchanter.html)[![](/images/skins/cards/gloo/abominable-snowgloo.webp)Снежный Глу](https://boostmlbb.ru/skins/gloo/abominable-snowgloo.html)
 
-**Поднимем ранг на герое Глу**Цена считается в калькуляторе
+**Сколько стоит буст на герое Глу?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

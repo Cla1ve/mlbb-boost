@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yi-sun-shin.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Ли Сун-Син
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/yi-sun-shin/wavebreaker.webp)ВолнорезИсключительный · 2025](https://boostmlbb.ru/skins/yi-sun-shin/wavebreaker.html)[![](/images/skins/cards/yi-sun-shin/surging-torrent.webp)Бурный потокОбычный · 2023](https://boostmlbb.ru/skins/yi-sun-shin/surging-torrent.html)[![](/images/skins/cards/yi-sun-shin/azure-sentry.webp)Лазурный часовойИсключительный · 2021](https://boostmlbb.ru/skins/yi-sun-shin/azure-sentry.html)[![](/images/skins/cards/yi-sun-shin/astral-wanderer.webp)Астральный странникИзысканный · 2019](https://boostmlbb.ru/skins/yi-sun-shin/astral-wanderer.html)[![](/images/skins/cards/yi-sun-shin/fleet-warden.webp)Страж флотаДелюкс · 2017](https://boostmlbb.ru/skins/yi-sun-shin/fleet-warden.html)[![](/images/skins/cards/yi-sun-shin/roguish-ranger.webp)Плутоватый рейнджерОбычный · 2017](https://boostmlbb.ru/skins/yi-sun-shin/roguish-ranger.html)[![](/images/skins/cards/yi-sun-shin/apocalypse-agent.webp)Агент апока­липсисаОбычный · 2017](https://boostmlbb.ru/skins/yi-sun-shin/apocalypse-agent.html)[![](/images/skins/cards/yi-sun-shin/major-general.webp)Генерал-майорОбычный · 2017](https://boostmlbb.ru/skins/yi-sun-shin/major-general.html)
 
-**Поднимем ранг на герое Ли Сун-Син**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ли Сун-Син?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

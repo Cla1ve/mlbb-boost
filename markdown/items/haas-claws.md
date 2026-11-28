@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/items/haas-claws.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 [Все предметы](https://boostmlbb.ru/items/)
 
 ![Иконка предмета Когти Хааса](/images/mlbb/items/3002.webp)

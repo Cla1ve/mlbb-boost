@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lancelot/swordmaster.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Lancelot skins](https://boostmlbb.ru/en/skins/lancelot.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Lancelot](https://boostmlbb.ru/en/skins/lancelot.html)/Swordmaster
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/vale/blizzard-storm.webp)Blizzard StormVale · 2023](https://boostmlbb.ru/en/skins/vale/blizzard-storm.html)[![](/images/skins/cards/esmeralda/the-foreseer.webp)The ForeseerEsmeralda · 2023](https://boostmlbb.ru/en/skins/esmeralda/the-foreseer.html)[![](/images/skins/cards/chou/thunderfist.webp)Thun­derfistChou · 2021](https://boostmlbb.ru/en/skins/chou/thunderfist.html)[![](/images/skins/cards/bruno/firebolt.webp)FireboltBruno · 2020](https://boostmlbb.ru/en/skins/bruno/firebolt.html)
 
-**Rank up on Lancelot**The calculator shows the price
+**How much is a rank boost on Lancelot?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

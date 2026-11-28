@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/xavier/beyond-the-clouds-xavier.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ксавьера](https://boostmlbb.ru/skins/xavier.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ксавьер](https://boostmlbb.ru/skins/xavier.html)/Ксавьер «За облаками»
 
@@ -46,7 +46,7 @@ Beyond the Clouds Xavier
 
 [![](/images/skins/cards/edith/beyond-the-clouds-edith.webp)Эдит «За облаками»Эдит · 2024](https://boostmlbb.ru/skins/edith/beyond-the-clouds-edith.html)[![](/images/skins/cards/kagura/beyond-the-clouds-kagura.webp)Кагура «За облаками»Кагура · 2023](https://boostmlbb.ru/skins/kagura/beyond-the-clouds-kagura.html)
 
-**Поднимем ранг на герое Ксавьер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ксавьер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

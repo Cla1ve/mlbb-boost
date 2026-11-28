@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/miya/honor.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Miya skins](https://boostmlbb.ru/en/skins/miya.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Miya](https://boostmlbb.ru/en/skins/miya.html)/Honor
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/eudora/vivo-selfie-goddess.webp)Vivo Selfie GoddessEudora · 2017](https://boostmlbb.ru/en/skins/eudora/vivo-selfie-goddess.html)
 
-**Rank up on Miya**The calculator shows the price
+**How much is a rank boost on Miya?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

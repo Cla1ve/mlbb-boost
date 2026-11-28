@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/alucard/obi-wan-kenobi.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Alucard skins](https://boostmlbb.ru/en/skins/alucard.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Alucard](https://boostmlbb.ru/en/skins/alucard.html)/Obi-Wan Kenobi
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/kimmy/first-order-jet-trooper.webp)First Order Jet TrooperKimmy · 2023](https://boostmlbb.ru/en/skins/kimmy/first-order-jet-trooper.html)[![](/images/skins/cards/argus/darth-vader.webp)Darth VaderArgus · 2021](https://boostmlbb.ru/en/skins/argus/darth-vader.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Master YodaCyclops · 2021](https://boostmlbb.ru/en/skins/cyclops/master-yoda.html)
 
-**Rank up on Alucard**The calculator shows the price
+**How much is a rank boost on Alucard?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

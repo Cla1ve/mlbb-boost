@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lylia/neobeast-lylia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Lylia skins](https://boostmlbb.ru/en/skins/lylia.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Lylia](https://boostmlbb.ru/en/skins/lylia.html)/Neobeast Lylia
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/fredrinn/neobeast-fredrinn.webp)Neobeast FredrinnFredrinn · 2023](https://boostmlbb.ru/en/skins/fredrinn/neobeast-fredrinn.html)
 
-**Rank up on Lylia**The calculator shows the price
+**How much is a rank boost on Lylia?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

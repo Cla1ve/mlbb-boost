@@ -1,4 +1,4 @@
-/* Nickname generator on /news/mlbb-change-nickname/. Uses the journal tokens (--j-*). */
+/* Nickname generator on /nickname-generator/. Uses the journal tokens (--j-*). */
 .nickgen { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 24px; align-items: start; padding-block: 20px 8px; scroll-margin-top: 88px; }
 .nickgen *, .nickgen *::before, .nickgen *::after { box-sizing: border-box; }
 .nickgen [hidden] { display: none !important; }

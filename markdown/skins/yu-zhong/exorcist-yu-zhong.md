@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yu-zhong/exorcist-yu-zhong.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чонга](https://boostmlbb.ru/skins/yu-zhong.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чонг](https://boostmlbb.ru/skins/yu-zhong.html)/Экзорцист Чонг
 
@@ -49,7 +49,7 @@ Exorcist Yu Zhong
 
 [![](/images/skins/cards/hayabusa/exorcist-hayabusa.webp)Экзорцист ХаябусаХаябуса · 2024](https://boostmlbb.ru/skins/hayabusa/exorcist-hayabusa.html)[![](/images/skins/cards/granger/exorcist-granger.webp)Экзорцист ГрейнджерГрейнджер · 2023](https://boostmlbb.ru/skins/granger/exorcist-granger.html)[![](/images/skins/cards/kagura/exorcist-kagura.webp)Экзор­цистка КагураКагура · 2022](https://boostmlbb.ru/skins/kagura/exorcist-kagura.html)
 
-**Поднимем ранг на герое Чонг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чонг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

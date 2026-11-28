@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/julian.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Джулиан
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/julian/meowkin-tracker.webp)Следопыт МяукиновДелюкс · 2025](https://boostmlbb.ru/skins/julian/meowkin-tracker.html)[![](/images/skins/cards/julian/kurapika.webp)КурапикаГрандиозный · 2025](https://boostmlbb.ru/skins/julian/kurapika.html)[![](/images/skins/cards/julian/megumi-fushiguro.webp)Мегуми ФушигуроГрандиозный · 2023](https://boostmlbb.ru/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/julian/silent-edge.webp)Безмолвный клинокОбычный · 2022](https://boostmlbb.ru/skins/julian/silent-edge.html)[![](/images/skins/cards/julian/itachi-uchiha.webp)Итачи Учиха](https://boostmlbb.ru/skins/julian/itachi-uchiha.html)
 
-**Поднимем ранг на герое Джулиан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джулиан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

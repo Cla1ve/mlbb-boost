@@ -243,7 +243,7 @@ export function skinGuides(data, ruNames, heroesData, cases = {}) {
   };
   const cta = (lang, hero) => {
     const t = (ru, en) => lang === 'en' ? en : ru;
-    return `<aside class="hero-cta"><div><strong>${hero ? t(`Поднимем ранг на герое ${hero.ru}`, `Rank up on ${hero.en}`) : t('Поднимем ранг, пока вы заняты', 'We rank up while you are busy')}</strong><span>${t('Цена считается в калькуляторе', 'The calculator shows the price')}</span></div><a class="calc-btn" href="${BOT_PRICE}">${t('Рассчитать цену', 'Calculate price')}</a></aside>`;
+    return `<aside class="hero-cta"><div><strong>${hero ? t(`Сколько стоит буст на герое ${hero.ru}?`, `How much is a rank boost on ${hero.en}?`) : t('Поднимем ранг, пока вы заняты', 'We rank up while you are busy')}</strong><span>${t('Выберите текущий и желаемый ранг. Стоимость появится на сайте.', 'Choose your current and target ranks to see the price here.')}</span></div><a class="calc-btn" href="${BOT_PRICE}">${t('Рассчитать цену', 'Calculate price')}</a></aside>`;
   };
   const crumbs = (lang, steps) => `<nav class="skin-crumbs" aria-label="${lang === 'en' ? 'Breadcrumbs' : 'Хлебные крошки'}">${steps.map(([href, text]) => href ? `<a href="${href}">${esc(text)}</a>` : `<span aria-current="page">${esc(text)}</span>`).join('<span aria-hidden="true">/</span>')}</nav>`;
   const script = '<script src="/js/skins.js?v=2" defer></script>';

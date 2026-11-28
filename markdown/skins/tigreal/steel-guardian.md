@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/tigreal/steel-guardian.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Тигрила](https://boostmlbb.ru/skins/tigreal.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Тигрил](https://boostmlbb.ru/skins/tigreal.html)/Стальной страж
 
@@ -31,7 +31,7 @@ Steel Guardian
 
 [![](/images/skins/cards/tigreal/celestial-general.webp)Небесный генерал2026](https://boostmlbb.ru/skins/tigreal/celestial-general.html)[![](/images/skins/cards/tigreal/steel-guardian.webp)Стальной стражОбычный · 2025](https://boostmlbb.ru/skins/tigreal/steel-guardian.html)[![](/images/skins/cards/tigreal/pasha-of-justice.webp)Паша правосудияИсключительный · 2024](https://boostmlbb.ru/skins/tigreal/pasha-of-justice.html)[![](/images/skins/cards/tigreal/galactic-marshal.webp)Галакти­ческий маршалИсключительный · 2022](https://boostmlbb.ru/skins/tigreal/galactic-marshal.html)[![](/images/skins/cards/tigreal/gold-baron.webp)Золотой баронИсключительный · 2021](https://boostmlbb.ru/skins/tigreal/gold-baron.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Рождённый светом: ЗащитникДелюкс · 2019](https://boostmlbb.ru/skins/tigreal/lightborn-defender.html)[![](/images/skins/cards/tigreal/wyrmslayer.webp)Убийца змиевОбычный · 2018](https://boostmlbb.ru/skins/tigreal/wyrmslayer.html)[![](/images/skins/cards/tigreal/fallen-guard.webp)Павший стражОбычный · 2017](https://boostmlbb.ru/skins/tigreal/fallen-guard.html)[![](/images/skins/cards/tigreal/dark-guardian.webp)Тёмный стражОбычный · 2016](https://boostmlbb.ru/skins/tigreal/dark-guardian.html)
 
-**Поднимем ранг на герое Тигрил**Цена считается в калькуляторе
+**Сколько стоит буст на герое Тигрил?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

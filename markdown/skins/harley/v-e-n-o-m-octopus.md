@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harley/v-e-n-o-m-octopus.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Харли](https://boostmlbb.ru/skins/harley.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Харли](https://boostmlbb.ru/skins/harley.html)/Осьминог V.E.N.O.M.
 
@@ -47,7 +47,7 @@ V.E.N.O.M. Octopus
 
 [![](/images/skins/cards/dyrroth/v-e-n-o-m-cobra.webp)Кобра V.E.N.O.M.Дариус · 2022](https://boostmlbb.ru/skins/dyrroth/v-e-n-o-m-cobra.html)[![](/images/skins/cards/grock/v-e-n-o-m-monitor-lizard.webp)Варан V.E.N.O.M.Грок · 2019](https://boostmlbb.ru/skins/grock/v-e-n-o-m-monitor-lizard.html)[![](/images/skins/cards/hanabi/v-e-n-o-m-nephila.webp)Нефила V.E.N.O.M.Ханаби · 2019](https://boostmlbb.ru/skins/hanabi/v-e-n-o-m-nephila.html)[![](/images/skins/cards/gusion/v-e-n-o-m-emperor-scorpion.webp)Импера­торский скорпион V.E.N.O.M.Госсен · 2019](https://boostmlbb.ru/skins/gusion/v-e-n-o-m-emperor-scorpion.html)[![](/images/skins/cards/angela/v-e-n-o-m-vespid.webp)Оса V.E.N.O.M.Ангела · 2019](https://boostmlbb.ru/skins/angela/v-e-n-o-m-vespid.html)
 
-**Поднимем ранг на герое Харли**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харли?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

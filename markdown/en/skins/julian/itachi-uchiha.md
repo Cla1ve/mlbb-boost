@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/julian/itachi-uchiha.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Julian skins](https://boostmlbb.ru/en/skins/julian.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Julian](https://boostmlbb.ru/en/skins/julian.html)/Itachi Uchiha
 
@@ -29,7 +29,7 @@ Released in the Naruto Shippuden event. Limited skins come back in event draws f
 
 [![](/images/skins/cards/gusion/minato-namikaze.webp)Minato NamikazeGusion](https://boostmlbb.ru/en/skins/gusion/minato-namikaze.html)
 
-**Rank up on Julian**The calculator shows the price
+**How much is a rank boost on Julian?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

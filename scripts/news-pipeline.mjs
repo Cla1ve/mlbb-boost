@@ -1,8 +1,8 @@
+import { gameMenu } from './game-menu.mjs';
 import { access, mkdir, open, readFile, readdir, rename, rm, stat, unlink, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readFileSync } from 'node:fs';
-import { renderNickTool } from './nickname-page.mjs';
 import { renderM8, m8Toc } from './m8-page.mjs';
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
@@ -23,12 +23,6 @@ try { M8_DATA = JSON.parse(readFileSync(path.join(SITE_ROOT, 'content', 'm8.json
 let HEROES = [];
 try { HEROES = JSON.parse(readFileSync(path.join(SITE_ROOT, 'content', 'heroes.json'), 'utf8')).heroes; } catch { /* drafts show without hero icons */ }
 const TOOLS = {
-  nicknames: {
-    css: '/styles/nicknames.css?v=5',
-    render: locale => renderNickTool(locale),
-    lead: () => '',
-    toc: () => []
-  },
   m8: {
     css: '/styles/m8.css?v=7',
     render: locale => M8_DATA ? renderM8(M8_DATA, locale, HEROES) : '',
@@ -1422,7 +1416,7 @@ function renderNavigation(active = 'news', locale = 'ru', languageTargets = null
         </a>
         <div class="nav-menu" id="news-navigation">
           <ul class="nav-list">
-            ${items.map(([href, label, icon, key]) => `
+            ${items.map(([href, label, icon, key]) => key === 'news' ? gameMenu(locale) : `
             <li><a href="${siteHref(href, locale)}" class="nav-link${key === active ? ' active' : ''}"${key === active ? ' aria-current="page"' : ''}>
               <i class="${icon}" aria-hidden="true"></i>${escapeHtml(label)}
             </a></li>`).join('')}
@@ -1534,14 +1528,14 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=33">
+  <link rel="stylesheet" href="/styles/ui.css?v=34">
   <link rel="stylesheet" href="/styles/arena.css?v=9">
   <link rel="stylesheet" href="/styles/journal.css?v=7">`;
 }
 
 function renderScripts() {
   return `
-  <script defer src="/js/consent.js?v=31"></script>
+  <script defer src="/js/consent.js?v=32"></script>
   <script defer src="/js/news-language.js?v=1"></script>
   <script defer src="/js/news.js?v=9"></script>`;
 }
@@ -1587,7 +1581,6 @@ function renderIndex(posts, { previewSlug = null, locale = 'ru' } = {}) {
   const copy = UI[locale];
   const indexCopy = copy.index;
   const featured = posts[0];
-  const arenaNav = renderArenaNav(locale, 'news');
   const preview = Boolean(previewSlug);
   const pageSize = 13;
   const socialImage = featured?.hero ?? {
@@ -1683,7 +1676,7 @@ ${GENERATED_MARKER}
   ${preview ? `<div class="preview-banner" role="status">${escapeHtml(copy.previewFeed)}</div>` : ''}
   ${renderNavigation('news', locale, languageTargets)}
   <main id="main-content">
-    <header class="container journal-heading">${arenaNav}<h1>${escapeHtml(indexCopy.heroLine)}</h1></header>
+    <header class="container journal-heading"><h1>${escapeHtml(indexCopy.heroLine)}</h1></header>
     <section class="news-feed-section" id="latest" data-news-feed data-page-size="${pageSize}">
       <div class="container">
         <div class="news-section-heading">
@@ -2052,7 +2045,7 @@ function renderBlock(block, locale = 'ru') {
         </div>
         <div class="rank-cta__action">
           <a href="${escapeHtml(siteHref(block.href, locale))}" data-news-cta data-cta-position="${escapeHtml(block.position)}">
-            <span class="rank-cta__button-label">${escapeHtml(block.button)}</span>
+            <span class="rank-cta__button-label">${locale === 'en' ? 'Check my rank boost price' : 'Узнать цену для моего ранга'}</span>
           </a>
         </div>
       </aside>`;
@@ -2061,10 +2054,6 @@ function renderBlock(block, locale = 'ru') {
   }
 }
 
-function renderArenaNav(locale, active) {
-  const ru = locale === 'ru';
-  return `<nav class="arena-context" aria-label="${ru ? 'Разделы Mobile Legends' : 'Mobile Legends sections'}"><a href="${siteHref('/heroes/', locale)}"${active === 'tier' ? ' aria-current="page"' : ''}>${ru ? 'Тир-лист' : 'Tier list'}</a><a href="${siteHref('/items/', locale)}">${ru ? 'Предметы' : 'Items'}</a><a href="${siteHref('/skins/', locale)}">${ru ? 'Скины' : 'Skins'}</a><a href="${siteHref('/news/', locale)}"${active === 'news' ? ' aria-current="page"' : ''}>${ru ? 'Новости<span class="ctx-more"> и гайды</span>' : 'News<span class="ctx-more"> & guides</span>'}</a></nav>`;
-}
 
 const articleRoutes = {
   'msc-2026-playoff-schedule': ['results', 'Результаты матчей', 'Match results'],
@@ -2200,7 +2189,6 @@ ${GENERATED_MARKER}
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner">${renderArenaNav(locale, 'news')}</div>
         <div class="container journal-hero${tool ? ' journal-hero--tool' : ''}">
           <div class="journal-title">
             <a class="page-back" href="${config.rootPath}" data-back><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg><span>${escapeHtml(articleCopy.allNews)}</span></a><script>document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('[data-back]');if(!a)return;try{var r=new URL(document.referrer);if(r.origin===location.origin&&r.pathname===new URL(a.href,location.href).pathname&&history.length>1){e.preventDefault();history.back();}}catch(x){}});</script>
@@ -2227,7 +2215,7 @@ ${GENERATED_MARKER}
 
         </div>
       </header>
-      ${tool ? tool.render(locale) : ''}
+      ${tool ? tool.render(locale) : post.slug === 'mlbb-change-nickname' ? `<p class="container"><a class="page-back" href="${siteHref('/nickname-generator/', locale)}">${locale === 'en' ? 'Open nickname generator →' : 'Открыть генератор ников →'}</a></p>` : ''}
 
       <div class="container article-layout">
         <aside class="article-rail">

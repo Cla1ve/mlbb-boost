@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 [All items](https://boostmlbb.ru/en/items/)
 
 ![Blade of the Heptaseas item icon](/images/mlbb/items/3007.webp)

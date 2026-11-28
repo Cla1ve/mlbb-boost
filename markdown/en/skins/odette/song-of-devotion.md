@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/odette/song-of-devotion.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Odette skins](https://boostmlbb.ru/en/skins/odette.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Odette](https://boostmlbb.ru/en/skins/odette.html)/Song of Devotion
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/lancelot/blade-of-devotion.webp)Blade of DevotionLancelot · 2026](https://boostmlbb.ru/en/skins/lancelot/blade-of-devotion.html)
 
-**Rank up on Odette**The calculator shows the price
+**How much is a rank boost on Odette?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

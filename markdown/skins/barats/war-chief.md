@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/barats/war-chief.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Бартса](https://boostmlbb.ru/skins/barats.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Бартс](https://boostmlbb.ru/skins/barats.html)/Вождь
 
@@ -38,7 +38,7 @@ War Chief
 
 [![](/images/skins/cards/barats/sunken-predator.webp)Затонувший хищникДелюкс · 2025](https://boostmlbb.ru/skins/barats/sunken-predator.html)[![](/images/skins/cards/barats/war-chief.webp)ВождьОбычный · 2022](https://boostmlbb.ru/skins/barats/war-chief.html)[![](/images/skins/cards/barats/baratstein.webp)БартсштейнИсключительный · 2021](https://boostmlbb.ru/skins/barats/baratstein.html)[![](/images/skins/cards/barats/toy-rex.webp)Игрушечный рексОбычный · 2021](https://boostmlbb.ru/skins/barats/toy-rex.html)[![](/images/skins/cards/barats/armored-lizard.webp)Брониро­ванный ящерОбычный · 2020](https://boostmlbb.ru/skins/barats/armored-lizard.html)
 
-**Поднимем ранг на герое Бартс**Цена считается в калькуляторе
+**Сколько стоит буст на герое Бартс?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

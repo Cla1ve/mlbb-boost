@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/gord/no-1-controller.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Gord skins](https://boostmlbb.ru/en/skins/gord.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Gord](https://boostmlbb.ru/en/skins/gord.html)/No.1 Controller
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/vale/concerto-of-light.webp)Concerto of LightVale · 2024](https://boostmlbb.ru/en/skins/vale/concerto-of-light.html)[![](/images/skins/cards/angela/avatar-of-time.webp)Avatar of TimeAngela · 2023](https://boostmlbb.ru/en/skins/angela/avatar-of-time.html)[![](/images/skins/cards/lesley/hawk-eyed-sniper.webp)Hawk-eyed SniperLesley · 2021](https://boostmlbb.ru/en/skins/lesley/hawk-eyed-sniper.html)[![](/images/skins/cards/kagura/water-lily.webp)Water LilyKagura · 2021](https://boostmlbb.ru/en/skins/kagura/water-lily.html)[![](/images/skins/cards/karrie/neon-lightwheel.webp)Neon LightwheelKarrie · 2020](https://boostmlbb.ru/en/skins/karrie/neon-lightwheel.html)[![](/images/skins/cards/hayabusa/experiment-21.webp)Experiment 21Hayabusa · 2018](https://boostmlbb.ru/en/skins/hayabusa/experiment-21.html)
 
-**Rank up on Gord**The calculator shows the price
+**How much is a rank boost on Gord?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

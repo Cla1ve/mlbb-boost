@@ -221,7 +221,8 @@ document.addEventListener('DOMContentLoaded', () => {
       }));
     } catch (error) {}
 
-    window.location.href = 'https://t.me/cla1ve_boost_bot?start=site_order';
+    const link = 'https://t.me/cla1ve_boost_bot?start=site_order';
+    window.location.href = window.mlbbSiteBotLink?.(link) || link;
   }
 
   function showNotification(message, type) {

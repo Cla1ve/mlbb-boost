@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/alpha/general-void.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Альфы](https://boostmlbb.ru/skins/alpha.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Альфа](https://boostmlbb.ru/skins/alpha.html)/Генерал Пустота
 
@@ -45,7 +45,7 @@ General Void
 
 [![](/images/skins/cards/moskov/doom-incarnate.webp)Воплощение рокаМосков · 2023](https://boostmlbb.ru/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Рыцарь тениЛеоморд · 2023](https://boostmlbb.ru/skins/leomord/shadow-knight.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Леди МестьСелена · 2021](https://boostmlbb.ru/skins/selena/lady-vengeance.html)
 
-**Поднимем ранг на герое Альфа**Цена считается в калькуляторе
+**Сколько стоит буст на герое Альфа?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

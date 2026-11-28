@@ -200,3 +200,17 @@ main [id] { scroll-margin-top:104px; }
   .logo span { font-size:1.08rem; white-space:nowrap; }
   .logo svg { width:30px; height:30px; }
 }
+
+.game-menu { position: relative; }
+.game-menu summary { list-style: none; cursor: pointer; }
+.game-menu summary::-webkit-details-marker { display: none; }
+.game-links { position: absolute; right: 0; top: 100%; z-index: 30; width: 20rem; padding: .65rem; display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .25rem; border: 1px solid #30465e; border-radius: .8rem; background: #102339; box-shadow: 0 .6rem 2rem #0005; }
+.game-links a { display: flex; align-items: center; min-height: 44px; padding: .4rem .65rem; color: #f5f8fb; border-radius: .4rem; line-height: 1.3; text-decoration: none; }
+.game-links a:is(:hover,:focus-visible) { background: #213d54; color: #6dffbb; }
+@media(max-width: 1024px) {
+  .game-links { position: static; width: auto; box-shadow: none; }
+  .nav-menu.active { max-height: calc(100dvh - 60px); overflow-y: auto; }
+}
+
+.nickname-page { padding-block: 7rem 4rem; }
+.nickname-page header { margin-bottom: 2rem; }

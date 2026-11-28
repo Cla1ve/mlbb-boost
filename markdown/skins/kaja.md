@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kaja.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Кайя
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/kaja/inferno-taskmaster.webp)Адский надсмотрщикДелюкс · 2023](https://boostmlbb.ru/skins/kaja/inferno-taskmaster.html)[![](/images/skins/cards/kaja/crow-magician.webp)Ворон-магОбычный · 2020](https://boostmlbb.ru/skins/kaja/crow-magician.html)[![](/images/skins/cards/kaja/skyblocker.webp)Небесный заслонИзысканный · 2019](https://boostmlbb.ru/skins/kaja/skyblocker.html)[![](/images/skins/cards/kaja/horror-whiplash.webp)Хлыст ужасаОбычный · 2019](https://boostmlbb.ru/skins/kaja/horror-whiplash.html)[![](/images/skins/cards/kaja/kaminari.webp)КаминариИсключительный · 2019](https://boostmlbb.ru/skins/kaja/kaminari.html)[![](/images/skins/cards/kaja/commandment.webp)ЗаповедьОбычный · 2018](https://boostmlbb.ru/skins/kaja/commandment.html)
 
-**Поднимем ранг на герое Кайя**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кайя?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

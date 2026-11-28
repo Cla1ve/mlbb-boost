@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lesley/hawk-eyed-sniper.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лесли](https://boostmlbb.ru/skins/lesley.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лесли](https://boostmlbb.ru/skins/lesley.html)/Зоркий снайпер
 
@@ -47,7 +47,7 @@ Hawk-eyed Sniper
 
 [![](/images/skins/cards/vale/concerto-of-light.webp)Концерт светаВэйл · 2024](https://boostmlbb.ru/skins/vale/concerto-of-light.html)[![](/images/skins/cards/angela/avatar-of-time.webp)Аватар времениАнгела · 2023](https://boostmlbb.ru/skins/angela/avatar-of-time.html)[![](/images/skins/cards/kagura/water-lily.webp)КувшинкаКагура · 2021](https://boostmlbb.ru/skins/kagura/water-lily.html)[![](/images/skins/cards/karrie/neon-lightwheel.webp)Неоновое колесоКэрри · 2020](https://boostmlbb.ru/skins/karrie/neon-lightwheel.html)[![](/images/skins/cards/gord/no-1-controller.webp)Контролёр №1Горд · 2019](https://boostmlbb.ru/skins/gord/no-1-controller.html)[![](/images/skins/cards/hayabusa/experiment-21.webp)Экспе­римент 21Хаябуса · 2018](https://boostmlbb.ru/skins/hayabusa/experiment-21.html)
 
-**Поднимем ранг на герое Лесли**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лесли?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lolita/starwatcher.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Lolita skins](https://boostmlbb.ru/en/skins/lolita.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Lolita](https://boostmlbb.ru/en/skins/lolita.html)/Starwatcher
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/uranus/mech-protector.webp)Mech ProtectorUranus · 2019](https://boostmlbb.ru/en/skins/uranus/mech-protector.html)
 
-**Rank up on Lolita**The calculator shows the price
+**How much is a rank boost on Lolita?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

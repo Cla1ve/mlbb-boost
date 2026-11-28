@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kalea/sakura-haruno.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Калеа](https://boostmlbb.ru/skins/kalea.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Калеа](https://boostmlbb.ru/skins/kalea.html)/Сакура Харуно
 
@@ -49,7 +49,7 @@ Sakura Haruno
 
 [![](/images/skins/cards/hayabusa/kakashi-hatake.webp)Какаши ХатакеХаябуса · 2025](https://boostmlbb.ru/skins/hayabusa/kakashi-hatake.html)[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Наруто УзумакиЛукас · 2025](https://boostmlbb.ru/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Саске УчихаСу Ё · 2025](https://boostmlbb.ru/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/vale/gaara.webp)ГаараВэйл · 2025](https://boostmlbb.ru/skins/vale/gaara.html)
 
-**Поднимем ранг на герое Калеа**Цена считается в калькуляторе
+**Сколько стоит буст на герое Калеа?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

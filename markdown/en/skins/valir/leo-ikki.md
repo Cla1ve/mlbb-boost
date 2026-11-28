@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/valir/leo-ikki.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Valir skins](https://boostmlbb.ru/en/skins/valir.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Valir](https://boostmlbb.ru/en/skins/valir.html)/Leo Ikki
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/valir/phoenix-ikki.webp)Phoenix IkkiValir · 2022](https://boostmlbb.ru/en/skins/valir/phoenix-ikki.html)[![](/images/skins/cards/chou/dragon-shiryu.webp)Dragon ShiryuChou · 2022](https://boostmlbb.ru/en/skins/chou/dragon-shiryu.html)[![](/images/skins/cards/chou/libra-shiryu.webp)Libra ShiryuChou · 2022](https://boostmlbb.ru/en/skins/chou/libra-shiryu.html)[![](/images/skins/cards/badang/sagittarius-seiya.webp)Sagit­tarius SeiyaBadang · 2022](https://boostmlbb.ru/en/skins/badang/sagittarius-seiya.html)[![](/images/skins/cards/badang/pegasus-seiya.webp)Pegasus SeiyaBadang · 2022](https://boostmlbb.ru/en/skins/badang/pegasus-seiya.html)
 
-**Rank up on Valir**The calculator shows the price
+**How much is a rank boost on Valir?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

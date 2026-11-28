@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/dyrroth/gon.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Дариуса](https://boostmlbb.ru/skins/dyrroth.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Дариус](https://boostmlbb.ru/skins/dyrroth.html)/Гон
 
@@ -49,7 +49,7 @@ Gon
 
 [![](/images/skins/cards/cecilion/hisoka.webp)ХисокаСесилион · 2025](https://boostmlbb.ru/skins/cecilion/hisoka.html)[![](/images/skins/cards/harith/killua.webp)КиллуаХарит · 2025](https://boostmlbb.ru/skins/harith/killua.html)[![](/images/skins/cards/julian/kurapika.webp)КурапикаДжулиан · 2025](https://boostmlbb.ru/skins/julian/kurapika.html)
 
-**Поднимем ранг на герое Дариус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Дариус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

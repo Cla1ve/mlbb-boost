@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/julian/megumi-fushiguro.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Джулиана](https://boostmlbb.ru/skins/julian.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Джулиан](https://boostmlbb.ru/skins/julian.html)/Мегуми Фушигуро
 
@@ -49,7 +49,7 @@ Megumi Fushiguro
 
 [![](/images/skins/cards/xavier/satoru-gojo.webp)Сатору ГоджоКсавьер · 2023](https://boostmlbb.ru/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Нобара КугисакиМелисса · 2023](https://boostmlbb.ru/skins/melissa/nobara-kugisaki.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Юдзи ИтадориИнь · 2023](https://boostmlbb.ru/skins/yin/yuji-itadori.html)
 
-**Поднимем ранг на герое Джулиан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джулиан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

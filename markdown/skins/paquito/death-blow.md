@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/paquito/death-blow.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Пакито](https://boostmlbb.ru/skins/paquito.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Пакито](https://boostmlbb.ru/skins/paquito.html)/Смертельный удар
 
@@ -39,7 +39,7 @@ Death Blow
 
 [![](/images/skins/cards/paquito/fist-of-glory.webp)Кулак славыДелюкс · 2024](https://boostmlbb.ru/skins/paquito/fist-of-glory.html)[![](/images/skins/cards/paquito/terry-bogard.webp)Терри БогардГрандиозный · 2024](https://boostmlbb.ru/skins/paquito/terry-bogard.html)[![](/images/skins/cards/paquito/blazing-tiger.webp)Пылающий тигрИзысканный · 2023](https://boostmlbb.ru/skins/paquito/blazing-tiger.html)[![](/images/skins/cards/paquito/fist-of-light.webp)Кулак светаИсключительный · 2022](https://boostmlbb.ru/skins/paquito/fist-of-light.html)[![](/images/skins/cards/paquito/fulgent-punch.webp)Сверкающий ударИсключительный · 2022](https://boostmlbb.ru/skins/paquito/fulgent-punch.html)[![](/images/skins/cards/paquito/underground-boxer.webp)Подпольный боксёрИсключительный · 2021](https://boostmlbb.ru/skins/paquito/underground-boxer.html)[![](/images/skins/cards/paquito/manny-pacquiao.webp)Мэнни ПакьяоДелюкс · 2021](https://boostmlbb.ru/skins/paquito/manny-pacquiao.html)[![](/images/skins/cards/paquito/death-blow.webp)Смер­тельный ударОбычный · 2021](https://boostmlbb.ru/skins/paquito/death-blow.html)
 
-**Поднимем ранг на герое Пакито**Цена считается в калькуляторе
+**Сколько стоит буст на герое Пакито?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

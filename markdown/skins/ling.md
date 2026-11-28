@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/ling.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Линг
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/ling/neobeast-ling.webp)Линг NeobeastГрандиозный · 2025](https://boostmlbb.ru/skins/ling/neobeast-ling.html)[![](/images/skins/cards/ling/cosmo-guard.webp)Косми­ческий стражИсключительный · 2024](https://boostmlbb.ru/skins/ling/cosmo-guard.html)[![](/images/skins/cards/ling/night-shade.webp)Ночная теньДелюкс · 2024](https://boostmlbb.ru/skins/ling/night-shade.html)[![](/images/skins/cards/ling/lord-shen.webp)Лорд ШэньГрандиозный · 2022](https://boostmlbb.ru/skins/ling/lord-shen.html)[![](/images/skins/cards/ling/m-world-ling.webp)Линг M-WorldДелюкс · 2022](https://boostmlbb.ru/skins/ling/m-world-ling.html)[![](/images/skins/cards/ling/serene-plume.webp)Безмя­тежное пероИзысканный · 2021](https://boostmlbb.ru/skins/ling/serene-plume.html)[![](/images/skins/cards/ling/street-punk.webp)Уличный панкИсключительный · 2020](https://boostmlbb.ru/skins/ling/street-punk.html)[![](/images/skins/cards/ling/fiery-dance.webp)Огненный танецОбычный · 2019](https://boostmlbb.ru/skins/ling/fiery-dance.html)
 
-**Поднимем ранг на герое Линг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Линг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

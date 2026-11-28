@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/atlas/rune-of-sentinel.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Atlas skins](https://boostmlbb.ru/en/skins/atlas.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Atlas](https://boostmlbb.ru/en/skins/atlas.html)/Rune of Sentinel
 
@@ -39,7 +39,7 @@ Released
 
 [![](/images/skins/cards/atlas/sunken-curse.webp)Sunken CurseDeluxe · 2026](https://boostmlbb.ru/en/skins/atlas/sunken-curse.html)[![](/images/skins/cards/atlas/mecha-infernus.webp)Mecha InfernusExquisite · 2024](https://boostmlbb.ru/en/skins/atlas/mecha-infernus.html)[![](/images/skins/cards/atlas/rune-of-sentinel.webp)Rune of SentinelDeluxe · 2023](https://boostmlbb.ru/en/skins/atlas/rune-of-sentinel.html)[![](/images/skins/cards/atlas/space-mech.webp)Space MechExceptional · 2022](https://boostmlbb.ru/en/skins/atlas/space-mech.html)[![](/images/skins/cards/atlas/fuel-turbine.webp)Fuel TurbineCommon · 2020](https://boostmlbb.ru/en/skins/atlas/fuel-turbine.html)[![](/images/skins/cards/atlas/reactor-core.webp)Reactor CoreCommon · 2020](https://boostmlbb.ru/en/skins/atlas/reactor-core.html)[![](/images/skins/cards/atlas/maelstrom-lurker.webp)Maelstrom Lurker](https://boostmlbb.ru/en/skins/atlas/maelstrom-lurker.html)
 
-**Rank up on Atlas**The calculator shows the price
+**How much is a rank boost on Atlas?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/eudora/midnight-s-allure.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Eudora skins](https://boostmlbb.ru/en/skins/eudora.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Eudora](https://boostmlbb.ru/en/skins/eudora.html)/Midnight's Allure
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Phantasmal RevelryLylia · 2026](https://boostmlbb.ru/en/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/natan/sanguine-steward.webp)Sanguine StewardNatan · 2026](https://boostmlbb.ru/en/skins/natan/sanguine-steward.html)[![](/images/skins/cards/benedetta/phantom-mirage.webp)Phantom MirageBenedetta · 2025](https://boostmlbb.ru/en/skins/benedetta/phantom-mirage.html)[![](/images/skins/cards/lesley/duchess-of-tides.webp)Duchess of TidesLesley · 2025](https://boostmlbb.ru/en/skins/lesley/duchess-of-tides.html)
 
-**Rank up on Eudora**The calculator shows the price
+**How much is a rank boost on Eudora?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

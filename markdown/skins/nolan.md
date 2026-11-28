@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/nolan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Нолан
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/nolan/the-navigator.webp)НавигаторГрандиозный · 2024](https://boostmlbb.ru/skins/nolan/the-navigator.html)[![](/images/skins/cards/nolan/fashion-mogul.webp)Магнат модыИсключительный · 2024](https://boostmlbb.ru/skins/nolan/fashion-mogul.html)[![](/images/skins/cards/nolan/voidwalker.webp)Странник пустотыОбычный · 2023](https://boostmlbb.ru/skins/nolan/voidwalker.html)
 
-**Поднимем ранг на герое Нолан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Нолан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

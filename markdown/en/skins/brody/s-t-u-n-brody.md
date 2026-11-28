@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/brody/s-t-u-n-brody.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Brody skins](https://boostmlbb.ru/en/skins/brody.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Brody](https://boostmlbb.ru/en/skins/brody.html)/S.T.U.N. Brody
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/selena/s-t-u-n-selena.webp)S.T.U.N. SelenaSelena · 2021](https://boostmlbb.ru/en/skins/selena/s-t-u-n-selena.html)[![](/images/skins/cards/chou/s-t-u-n-chou.webp)S.T.U.N. ChouChou · 2021](https://boostmlbb.ru/en/skins/chou/s-t-u-n-chou.html)
 
-**Rank up on Brody**The calculator shows the price
+**How much is a rank boost on Brody?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

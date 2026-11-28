@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/leomord/diavel-v4-rider.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Leomord skins](https://boostmlbb.ru/en/skins/leomord.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Leomord](https://boostmlbb.ru/en/skins/leomord.html)/Diavel V4 Rider
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/benedetta/panigale-v4s-rider.webp)Panigale V4S RiderBenedetta · 2023](https://boostmlbb.ru/en/skins/benedetta/panigale-v4s-rider.html)[![](/images/skins/cards/irithel/monster-sp-rider.webp)Monster SP RiderIrithel · 2023](https://boostmlbb.ru/en/skins/irithel/monster-sp-rider.html)
 
-**Rank up on Leomord**The calculator shows the price
+**How much is a rank boost on Leomord?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

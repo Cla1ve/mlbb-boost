@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/cecilion/wisteria-count.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Сесилиона](https://boostmlbb.ru/skins/cecilion.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сесилион](https://boostmlbb.ru/skins/cecilion.html)/Граф глицинии
 
@@ -39,7 +39,7 @@ Wisteria Count
 
 [![](/images/skins/cards/cecilion/hisoka.webp)ХисокаГрандиозный · 2025](https://boostmlbb.ru/skins/cecilion/hisoka.html)[![](/images/skins/cards/cecilion/crimson-wings.webp)Багровые крыльяИзысканный · 2022](https://boostmlbb.ru/skins/cecilion/crimson-wings.html)[![](/images/skins/cards/cecilion/stargazer.webp)ЗвездочётИсключительный · 2022](https://boostmlbb.ru/skins/cecilion/stargazer.html)[![](/images/skins/cards/cecilion/phantom-count.webp)Призрачный графИсключительный · 2021](https://boostmlbb.ru/skins/cecilion/phantom-count.html)[![](/images/skins/cards/cecilion/the-illusionist.webp)Иллю­зионистОбычный · 2020](https://boostmlbb.ru/skins/cecilion/the-illusionist.html)[![](/images/skins/cards/cecilion/wisteria-count.webp)Граф глицинииОбычный · 2020](https://boostmlbb.ru/skins/cecilion/wisteria-count.html)
 
-**Поднимем ранг на герое Сесилион**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сесилион?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

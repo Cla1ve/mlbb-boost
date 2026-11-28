@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yve/forest-hymn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ив](https://boostmlbb.ru/skins/yve.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ив](https://boostmlbb.ru/skins/yve.html)/Лесной гимн
 
@@ -39,7 +39,7 @@ Forest Hymn
 
 [![](/images/skins/cards/yve/flame-lotus.webp)Огненный лотосИсключительный · 2025](https://boostmlbb.ru/skins/yve/flame-lotus.html)[![](/images/skins/cards/yve/ruin-protectress.webp)Защитница руинОбычный · 2022](https://boostmlbb.ru/skins/yve/ruin-protectress.html)[![](/images/skins/cards/yve/forest-hymn.webp)Лесной гимнОбычный · 2021](https://boostmlbb.ru/skins/yve/forest-hymn.html)
 
-**Поднимем ранг на герое Ив**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ив?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

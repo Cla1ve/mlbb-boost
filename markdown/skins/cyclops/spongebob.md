@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/cyclops/spongebob.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Циклопа](https://boostmlbb.ru/skins/cyclops.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Циклоп](https://boostmlbb.ru/skins/cyclops.html)/Губка Боб
 
@@ -47,7 +47,7 @@ SpongeBob
 
 [![](/images/skins/cards/gloo/patrick.webp)ПатрикГлу · 2025](https://boostmlbb.ru/skins/gloo/patrick.html)
 
-**Поднимем ранг на герое Циклоп**Цена считается в калькуляторе
+**Сколько стоит буст на герое Циклоп?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/belerick.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Belerick
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/belerick/smouldering-fortress.webp)Smoul­dering FortressExceptional · 2026](https://boostmlbb.ru/en/skins/belerick/smouldering-fortress.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Arbiter of StarsDeluxe · 2025](https://boostmlbb.ru/en/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/belerick/tiger-s-claw.webp)Tiger's ClawCommon · 2022](https://boostmlbb.ru/en/skins/belerick/tiger-s-claw.html)[![](/images/skins/cards/belerick/torch-guardian.webp)Torch GuardianCommon · 2019](https://boostmlbb.ru/en/skins/belerick/torch-guardian.html)[![](/images/skins/cards/belerick/emerald-guardian.webp)Emerald GuardianExceptional · 2018](https://boostmlbb.ru/en/skins/belerick/emerald-guardian.html)[![](/images/skins/cards/belerick/the-deep-one.webp)The Deep OneExceptional · 2018](https://boostmlbb.ru/en/skins/belerick/the-deep-one.html)
 
-**Rank up on Belerick**The calculator shows the price
+**How much is a rank boost on Belerick?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

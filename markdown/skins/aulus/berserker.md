@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/aulus/berserker.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Аулуса](https://boostmlbb.ru/skins/aulus.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Аулус](https://boostmlbb.ru/skins/aulus.html)/Берсерк
 
@@ -39,7 +39,7 @@ Berserker
 
 [![](/images/skins/cards/aulus/ironmane-reaver.webp)Разоритель Железная ГриваОбычный · 2024](https://boostmlbb.ru/skins/aulus/ironmane-reaver.html)[![](/images/skins/cards/aulus/war-lion.webp)Боевой левИсключительный · 2023](https://boostmlbb.ru/skins/aulus/war-lion.html)[![](/images/skins/cards/aulus/barren-pioneer.webp)Первоп­роходец пустошейОбычный · 2022](https://boostmlbb.ru/skins/aulus/barren-pioneer.html)[![](/images/skins/cards/aulus/berserker.webp)БерсеркОбычный · 2021](https://boostmlbb.ru/skins/aulus/berserker.html)
 
-**Поднимем ранг на герое Аулус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Аулус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

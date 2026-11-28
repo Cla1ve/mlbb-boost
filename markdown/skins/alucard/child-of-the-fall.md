@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/alucard/child-of-the-fall.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Алукарда](https://boostmlbb.ru/skins/alucard.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Алукард](https://boostmlbb.ru/skins/alucard.html)/Дитя осени
 
@@ -43,7 +43,7 @@ Child of the Fall
 
 [![](/images/skins/cards/guinevere/lady-crane.webp)Леди-журавльГвиневра · 2025](https://boostmlbb.ru/skins/guinevere/lady-crane.html)[![](/images/skins/cards/lunox/butterfly-seraphim.webp)Серафим-бабочкаЛюнокс · 2025](https://boostmlbb.ru/skins/lunox/butterfly-seraphim.html)[![](/images/skins/cards/claude/mecha-dragon.webp)МехадраконКлауд · 2025](https://boostmlbb.ru/skins/claude/mecha-dragon.html)[![](/images/skins/cards/change/lunar-magic.webp)Лунная магияЧан'Э · 2020](https://boostmlbb.ru/skins/change/lunar-magic.html)[![](/images/skins/cards/selena/thunder-flash.webp)Громовая вспышкаСелена · 2020](https://boostmlbb.ru/skins/selena/thunder-flash.html)[![](/images/skins/cards/hanabi/rakshesha.webp)РакшасаХанаби · 2020](https://boostmlbb.ru/skins/hanabi/rakshesha.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Повелитель видеоигрУранус · 2020](https://boostmlbb.ru/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/martis/god-of-war.webp)Бог войныМартис · 2020](https://boostmlbb.ru/skins/martis/god-of-war.html)
 
-**Поднимем ранг на герое Алукард**Цена считается в калькуляторе
+**Сколько стоит буст на герое Алукард?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

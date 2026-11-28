@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/ling/lord-shen.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Ling skins](https://boostmlbb.ru/en/skins/ling.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Ling](https://boostmlbb.ru/en/skins/ling.html)/Lord Shen
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/thamuz/general-kai.webp)General KaiThamuz · 2023](https://boostmlbb.ru/en/skins/thamuz/general-kai.html)[![](/images/skins/cards/akai/kung-fu-panda.webp)Kung Fu PandaAkai · 2022](https://boostmlbb.ru/en/skins/akai/kung-fu-panda.html)
 
-**Rank up on Ling**The calculator shows the price
+**How much is a rank boost on Ling?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

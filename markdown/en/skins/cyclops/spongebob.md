@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/cyclops/spongebob.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Cyclops skins](https://boostmlbb.ru/en/skins/cyclops.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Cyclops](https://boostmlbb.ru/en/skins/cyclops.html)/SpongeBob
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/gloo/patrick.webp)PatrickGloo · 2025](https://boostmlbb.ru/en/skins/gloo/patrick.html)
 
-**Rank up on Cyclops**The calculator shows the price
+**How much is a rank boost on Cyclops?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

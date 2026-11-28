@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kalea/sakura-haruno.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Kalea skins](https://boostmlbb.ru/en/skins/kalea.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Kalea](https://boostmlbb.ru/en/skins/kalea.html)/Sakura Haruno
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/hayabusa/kakashi-hatake.webp)Kakashi HatakeHayabusa · 2025](https://boostmlbb.ru/en/skins/hayabusa/kakashi-hatake.html)[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Naruto UzumakiLukas · 2025](https://boostmlbb.ru/en/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Sasuke UchihaSuyou · 2025](https://boostmlbb.ru/en/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/vale/gaara.webp)GaaraVale · 2025](https://boostmlbb.ru/en/skins/vale/gaara.html)
 
-**Rank up on Kalea**The calculator shows the price
+**How much is a rank boost on Kalea?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

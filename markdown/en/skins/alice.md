@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/alice.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Alice
 
@@ -33,7 +33,7 @@ AllExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/alice/dreaming-monarch.webp)Dreaming Monarch2026](https://boostmlbb.ru/en/skins/alice/dreaming-monarch.html)[![](/images/skins/cards/alice/darknet-temptress.webp)Darknet TemptressDeluxe · 2024](https://boostmlbb.ru/en/skins/alice/darknet-temptress.html)[![](/images/skins/cards/alice/jade-empress.webp)Jade EmpressCommon · 2023](https://boostmlbb.ru/en/skins/alice/jade-empress.html)[![](/images/skins/cards/alice/steam-glider.webp)Steam GliderExceptional · 2019](https://boostmlbb.ru/en/skins/alice/steam-glider.html)[![](/images/skins/cards/alice/divine-owl.webp)Divine OwlExceptional · 2018](https://boostmlbb.ru/en/skins/alice/divine-owl.html)[![](/images/skins/cards/alice/wizardry-teacher.webp)Wizardry TeacherExquisite · 2017](https://boostmlbb.ru/en/skins/alice/wizardry-teacher.html)[![](/images/skins/cards/alice/spirit-woman.webp)Spirit WomanCommon · 2016](https://boostmlbb.ru/en/skins/alice/spirit-woman.html)
 
-**Rank up on Alice**The calculator shows the price
+**How much is a rank boost on Alice?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

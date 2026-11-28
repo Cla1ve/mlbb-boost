@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/selena/lady-vengeance.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Селены](https://boostmlbb.ru/skins/selena.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Селена](https://boostmlbb.ru/skins/selena.html)/Леди Месть
 
@@ -48,7 +48,7 @@ Lady Vengeance
 
 [![](/images/skins/cards/moskov/doom-incarnate.webp)Воплощение рокаМосков · 2023](https://boostmlbb.ru/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/alpha/general-void.webp)Генерал ПустотаАльфа · 2023](https://boostmlbb.ru/skins/alpha/general-void.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Рыцарь тениЛеоморд · 2023](https://boostmlbb.ru/skins/leomord/shadow-knight.html)
 
-**Поднимем ранг на герое Селена**Цена считается в калькуляторе
+**Сколько стоит буст на герое Селена?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

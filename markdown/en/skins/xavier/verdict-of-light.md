@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/xavier/verdict-of-light.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Xavier skins](https://boostmlbb.ru/en/skins/xavier.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Xavier](https://boostmlbb.ru/en/skins/xavier.html)/Verdict of Light
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/xavier/sunborn-monarch.webp)Sunborn Monarch2026](https://boostmlbb.ru/en/skins/xavier/sunborn-monarch.html)[![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Beyond the Clouds XavierExquisite · 2024](https://boostmlbb.ru/en/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/xavier/hardlight-artificer.webp)Hardlight ArtificerExceptional · 2024](https://boostmlbb.ru/en/skins/xavier/hardlight-artificer.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Satoru GojoGrand · 2023](https://boostmlbb.ru/en/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/xavier/verdict-of-light.webp)Verdict of LightCommon · 2022](https://boostmlbb.ru/en/skins/xavier/verdict-of-light.html)
 
-**Rank up on Xavier**The calculator shows the price
+**How much is a rank boost on Xavier?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

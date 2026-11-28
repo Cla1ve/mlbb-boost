@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/minsitthar.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Minsitthar
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/minsitthar/symbol-of-valor.webp)Symbol of ValorCommon · 2024](https://boostmlbb.ru/en/skins/minsitthar/symbol-of-valor.html)[![](/images/skins/cards/minsitthar/sol-invictus.webp)Sol InvictusExquisite · 2024](https://boostmlbb.ru/en/skins/minsitthar/sol-invictus.html)[![](/images/skins/cards/minsitthar/war-lion.webp)War LionExceptional · 2023](https://boostmlbb.ru/en/skins/minsitthar/war-lion.html)[![](/images/skins/cards/minsitthar/king-of-war.webp)King of WarCommon · 2022](https://boostmlbb.ru/en/skins/minsitthar/king-of-war.html)[![](/images/skins/cards/minsitthar/gilded-king.webp)Gilded KingCommon · 2018](https://boostmlbb.ru/en/skins/minsitthar/gilded-king.html)
 
-**Rank up on Minsitthar**The calculator shows the price
+**How much is a rank boost on Minsitthar?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

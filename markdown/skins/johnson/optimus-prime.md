@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/johnson/optimus-prime.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Джонсона](https://boostmlbb.ru/skins/johnson.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Джонсон](https://boostmlbb.ru/skins/johnson.html)/Оптимус Прайм
 
@@ -46,7 +46,7 @@ Optimus Prime
 
 [![](/images/skins/cards/x-borg/bumblebee.webp)БамблбиИкс.Борг · 2025](https://boostmlbb.ru/skins/x-borg/bumblebee.html)[![](/images/skins/cards/granger/megatron.webp)МегатронГрейнджер · 2023](https://boostmlbb.ru/skins/granger/megatron.html)[![](/images/skins/cards/popol-and-kupa/soundwave-ravage.webp)Саундвейв и РэвиджПополь и Купа · 2022](https://boostmlbb.ru/skins/popol-and-kupa/soundwave-ravage.html)[![](/images/skins/cards/aldous/starscream.webp)СтарскримАлдос · 2022](https://boostmlbb.ru/skins/aldous/starscream.html)[![](/images/skins/cards/roger/grimlock.webp)ГримлокРоджер · 2022](https://boostmlbb.ru/skins/roger/grimlock.html)
 
-**Поднимем ранг на герое Джонсон**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джонсон?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/karina/keyforged-champion.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Карины](https://boostmlbb.ru/skins/karina.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Карина](https://boostmlbb.ru/skins/karina.html)/Чемпионка ключа
 
@@ -42,7 +42,7 @@ Keyforged Champion
 
 [![](/images/skins/cards/x-borg/pecados-rioter.webp)Бунтарь ПекадосИкс.Борг · 2025](https://boostmlbb.ru/skins/x-borg/pecados-rioter.html)
 
-**Поднимем ранг на герое Карина**Цена считается в калькуляторе
+**Сколько стоит буст на герое Карина?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

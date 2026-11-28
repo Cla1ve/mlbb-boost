@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/nana/mistbender-nana.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Наны](https://boostmlbb.ru/skins/nana.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Нана](https://boostmlbb.ru/skins/nana.html)/Нана, заклинательница тумана
 
@@ -48,7 +48,7 @@ Mistbender Nana
 
 [![](/images/skins/cards/aldous/mistbender-aldous.webp)Алдос, закли­натель туманаАлдос · 2023](https://boostmlbb.ru/skins/aldous/mistbender-aldous.html)
 
-**Поднимем ранг на герое Нана**Цена считается в калькуляторе
+**Сколько стоит буст на герое Нана?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

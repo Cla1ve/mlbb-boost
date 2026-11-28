@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/pharsa/neobeast-pharsa.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фаши](https://boostmlbb.ru/skins/pharsa.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фаша](https://boostmlbb.ru/skins/pharsa.html)/Фаша Neobeast
 
@@ -49,7 +49,7 @@ Neobeast Pharsa
 
 [![](/images/skins/cards/ling/neobeast-ling.webp)Линг NeobeastЛинг · 2025](https://boostmlbb.ru/skins/ling/neobeast-ling.html)[![](/images/skins/cards/brody/neobeast-brody.webp)Броуди NeobeastБроуди · 2025](https://boostmlbb.ru/skins/brody/neobeast-brody.html)
 
-**Поднимем ранг на герое Фаша**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фаша?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

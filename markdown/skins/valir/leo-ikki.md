@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/valir/leo-ikki.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Валира](https://boostmlbb.ru/skins/valir.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Валир](https://boostmlbb.ru/skins/valir.html)/Лев Икки
 
@@ -48,7 +48,7 @@ Leo Ikki
 
 [![](/images/skins/cards/valir/phoenix-ikki.webp)Феникс ИккиВалир · 2022](https://boostmlbb.ru/skins/valir/phoenix-ikki.html)[![](/images/skins/cards/chou/dragon-shiryu.webp)Дракон СирюЧу · 2022](https://boostmlbb.ru/skins/chou/dragon-shiryu.html)[![](/images/skins/cards/chou/libra-shiryu.webp)Весы СирюЧу · 2022](https://boostmlbb.ru/skins/chou/libra-shiryu.html)[![](/images/skins/cards/badang/sagittarius-seiya.webp)Стрелец СэйяБаданг · 2022](https://boostmlbb.ru/skins/badang/sagittarius-seiya.html)[![](/images/skins/cards/badang/pegasus-seiya.webp)Пегас СэйяБаданг · 2022](https://boostmlbb.ru/skins/badang/pegasus-seiya.html)
 
-**Поднимем ранг на герое Валир**Цена считается в калькуляторе
+**Сколько стоит буст на герое Валир?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

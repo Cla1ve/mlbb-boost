@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yin/fists-of-valor.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Иня](https://boostmlbb.ru/skins/yin.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Инь](https://boostmlbb.ru/skins/yin.html)/Кулаки доблести
 
@@ -39,7 +39,7 @@ Fists of Valor
 
 [![](/images/skins/cards/yin/eternal-guardian.webp)Вечный стражИсключительный · 2023](https://boostmlbb.ru/skins/yin/eternal-guardian.html)[![](/images/skins/cards/yin/eren.webp)ЭренГрандиозный · 2023](https://boostmlbb.ru/skins/yin/eren.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Юдзи ИтадориГрандиозный · 2023](https://boostmlbb.ru/skins/yin/yuji-itadori.html)[![](/images/skins/cards/yin/m-world-yin.webp)Инь M-WorldДелюкс · 2022](https://boostmlbb.ru/skins/yin/m-world-yin.html)[![](/images/skins/cards/yin/fists-of-valor.webp)Кулаки доблестиОбычный · 2022](https://boostmlbb.ru/skins/yin/fists-of-valor.html)
 
-**Поднимем ранг на герое Инь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Инь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

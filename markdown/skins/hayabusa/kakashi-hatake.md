@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hayabusa/kakashi-hatake.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Хаябусы](https://boostmlbb.ru/skins/hayabusa.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Хаябуса](https://boostmlbb.ru/skins/hayabusa.html)/Какаши Хатаке
 
@@ -49,7 +49,7 @@ Kakashi Hatake
 
 [![](/images/skins/cards/kalea/sakura-haruno.webp)Сакура ХаруноКалеа · 2025](https://boostmlbb.ru/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Наруто УзумакиЛукас · 2025](https://boostmlbb.ru/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Саске УчихаСу Ё · 2025](https://boostmlbb.ru/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/vale/gaara.webp)ГаараВэйл · 2025](https://boostmlbb.ru/skins/vale/gaara.html)
 
-**Поднимем ранг на герое Хаябуса**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хаябуса?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

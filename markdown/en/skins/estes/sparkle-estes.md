@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/estes/sparkle-estes.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Estes skins](https://boostmlbb.ru/en/skins/estes.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Estes](https://boostmlbb.ru/en/skins/estes.html)/SPARKLE Estes
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/fredrinn/sparkle-fredrinn.webp)SPARKLE FredrinnFredrinn · 2024](https://boostmlbb.ru/en/skins/fredrinn/sparkle-fredrinn.html)[![](/images/skins/cards/melissa/sparkle-melissa.webp)SPARKLE MelissaMelissa · 2024](https://boostmlbb.ru/en/skins/melissa/sparkle-melissa.html)
 
-**Rank up on Estes**The calculator shows the price
+**How much is a rank boost on Estes?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

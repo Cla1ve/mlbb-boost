@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/dyrroth.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Дариус
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/dyrroth/gon.webp)ГонГрандиозный · 2025](https://boostmlbb.ru/skins/dyrroth/gon.html)[![](/images/skins/cards/dyrroth/naraka-flame.webp)Пламя НаракиИзысканный · 2023](https://boostmlbb.ru/skins/dyrroth/naraka-flame.html)[![](/images/skins/cards/dyrroth/v-e-n-o-m-cobra.webp)Кобра V.E.N.O.M.Делюкс · 2022](https://boostmlbb.ru/skins/dyrroth/v-e-n-o-m-cobra.html)[![](/images/skins/cards/dyrroth/orochi-chris.webp)Орочи КрисГрандиозный · 2020](https://boostmlbb.ru/skins/dyrroth/orochi-chris.html)[![](/images/skins/cards/dyrroth/ruins-scavenger.webp)Мародёр руинИсключительный · 2019](https://boostmlbb.ru/skins/dyrroth/ruins-scavenger.html)[![](/images/skins/cards/dyrroth/scalebore.webp)Чешуйчатый бурОбычный · 2019](https://boostmlbb.ru/skins/dyrroth/scalebore.html)
 
-**Поднимем ранг на герое Дариус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Дариус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/leomord/shadow-knight.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Leomord skins](https://boostmlbb.ru/en/skins/leomord.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Leomord](https://boostmlbb.ru/en/skins/leomord.html)/Shadow Knight
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/moskov/doom-incarnate.webp)Doom IncarnateMoskov · 2023](https://boostmlbb.ru/en/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/alpha/general-void.webp)General VoidAlpha · 2023](https://boostmlbb.ru/en/skins/alpha/general-void.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Lady VengeanceSelena · 2021](https://boostmlbb.ru/en/skins/selena/lady-vengeance.html)
 
-**Rank up on Leomord**The calculator shows the price
+**How much is a rank boost on Leomord?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/harith/lightborn-inspirer.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Harith skins](https://boostmlbb.ru/en/skins/harith.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Harith](https://boostmlbb.ru/en/skins/harith.html)/Lightborn - Inspirer
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/granger/lightborn-overrider.webp)Lightborn - OverriderGranger · 2024](https://boostmlbb.ru/en/skins/granger/lightborn-overrider.html)[![](/images/skins/cards/fanny/lightborn-ranger.webp)Lightborn - RangerFanny · 2019](https://boostmlbb.ru/en/skins/fanny/lightborn-ranger.html)[![](/images/skins/cards/alucard/lightborn-striker.webp)Lightborn - StrikerAlucard · 2019](https://boostmlbb.ru/en/skins/alucard/lightborn-striker.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Lightborn - DefenderTigreal · 2019](https://boostmlbb.ru/en/skins/tigreal/lightborn-defender.html)
 
-**Rank up on Harith**The calculator shows the price
+**How much is a rank boost on Harith?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

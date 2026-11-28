@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/guinevere/psion-of-tomorrow.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Гвиневры](https://boostmlbb.ru/skins/guinevere.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Гвиневра](https://boostmlbb.ru/skins/guinevere.html)/Псион будущего
 
@@ -51,7 +51,7 @@ Psion of Tomorrow
 
 [![](/images/skins/cards/alpha/revenant-of-roses.webp)Призрак розАльфа · 2025](https://boostmlbb.ru/skins/alpha/revenant-of-roses.html)[![](/images/skins/cards/johnson/sovereign-of-realms.webp)Повелитель мировДжонсон · 2025](https://boostmlbb.ru/skins/johnson/sovereign-of-realms.html)[![](/images/skins/cards/freya/galactic-vanquisher.webp)Галакти­ческая победи­тельницаФрейя · 2024](https://boostmlbb.ru/skins/freya/galactic-vanquisher.html)[![](/images/skins/cards/lunox/divine-goddess.webp)Божествен­ная богиняЛюнокс · 2023](https://boostmlbb.ru/skins/lunox/divine-goddess.html)[![](/images/skins/cards/franco/king-of-hell.webp)Король адаФранко · 2023](https://boostmlbb.ru/skins/franco/king-of-hell.html)[![](/images/skins/cards/valir/infernal-blaze.webp)Адское пламяВалир · 2022](https://boostmlbb.ru/skins/valir/infernal-blaze.html)[![](/images/skins/cards/gusion/cosmic-gleam.webp)Косми­ческий отблескГоссен · 2022](https://boostmlbb.ru/skins/gusion/cosmic-gleam.html)[![](/images/skins/cards/granger/starfall-knight.webp)Рыцарь звездопадаГрейнджер · 2021](https://boostmlbb.ru/skins/granger/starfall-knight.html)
 
-**Поднимем ранг на герое Гвиневра**Цена считается в калькуляторе
+**Сколько стоит буст на герое Гвиневра?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

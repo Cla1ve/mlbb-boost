@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/vale.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Вэйл
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/vale/windborne-waltz.webp)Вальс на ветруИсключительный · 2026](https://boostmlbb.ru/skins/vale/windborne-waltz.html)[![](/images/skins/cards/vale/gaara.webp)ГаараДелюкс · 2025](https://boostmlbb.ru/skins/vale/gaara.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Хранитель ветровДелюкс · 2025](https://boostmlbb.ru/skins/vale/keeper-of-the-winds.html)[![](/images/skins/cards/vale/concerto-of-light.webp)Концерт светаИзысканный · 2024](https://boostmlbb.ru/skins/vale/concerto-of-light.html)[![](/images/skins/cards/vale/kannagi.webp)КаннагиОбычный · 2023](https://boostmlbb.ru/skins/vale/kannagi.html)[![](/images/skins/cards/vale/blizzard-storm.webp)Снежная буряГрандиозный · 2023](https://boostmlbb.ru/skins/vale/blizzard-storm.html)[![](/images/skins/cards/vale/supernal-tempest.webp)Высшая буряИзысканный · 2022](https://boostmlbb.ru/skins/vale/supernal-tempest.html)[![](/images/skins/cards/vale/soaring-devata.webp)Парящий дэватаИсключительный · 2021](https://boostmlbb.ru/skins/vale/soaring-devata.html)[![](/images/skins/cards/vale/cerulean-winds.webp)Лазурные ветраОбычный · 2019](https://boostmlbb.ru/skins/vale/cerulean-winds.html)
 
-**Поднимем ранг на герое Вэйл**Цена считается в калькуляторе
+**Сколько стоит буст на герое Вэйл?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

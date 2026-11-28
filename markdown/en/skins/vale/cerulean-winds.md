@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/vale/cerulean-winds.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Vale skins](https://boostmlbb.ru/en/skins/vale.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Vale](https://boostmlbb.ru/en/skins/vale.html)/Cerulean Winds
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/vale/windborne-waltz.webp)Windborne WaltzExceptional · 2026](https://boostmlbb.ru/en/skins/vale/windborne-waltz.html)[![](/images/skins/cards/vale/gaara.webp)GaaraDeluxe · 2025](https://boostmlbb.ru/en/skins/vale/gaara.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Keeper of the WindsDeluxe · 2025](https://boostmlbb.ru/en/skins/vale/keeper-of-the-winds.html)[![](/images/skins/cards/vale/concerto-of-light.webp)Concerto of LightExquisite · 2024](https://boostmlbb.ru/en/skins/vale/concerto-of-light.html)[![](/images/skins/cards/vale/kannagi.webp)KannagiCommon · 2023](https://boostmlbb.ru/en/skins/vale/kannagi.html)[![](/images/skins/cards/vale/blizzard-storm.webp)Blizzard StormGrand · 2023](https://boostmlbb.ru/en/skins/vale/blizzard-storm.html)[![](/images/skins/cards/vale/supernal-tempest.webp)Supernal TempestExquisite · 2022](https://boostmlbb.ru/en/skins/vale/supernal-tempest.html)[![](/images/skins/cards/vale/soaring-devata.webp)Soaring DevataExceptional · 2021](https://boostmlbb.ru/en/skins/vale/soaring-devata.html)[![](/images/skins/cards/vale/cerulean-winds.webp)Cerulean WindsCommon · 2019](https://boostmlbb.ru/en/skins/vale/cerulean-winds.html)
 
-**Rank up on Vale**The calculator shows the price
+**How much is a rank boost on Vale?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

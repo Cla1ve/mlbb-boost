@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/gusion/minato-namikaze.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Госсена](https://boostmlbb.ru/skins/gusion.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Госсен](https://boostmlbb.ru/skins/gusion.html)/Минато Намикадзе
 
@@ -31,7 +31,7 @@ Naruto ShippudenОграниченный
 
 [![](/images/skins/cards/julian/itachi-uchiha.webp)Итачи УчихаДжулиан](https://boostmlbb.ru/skins/julian/itachi-uchiha.html)
 
-**Поднимем ранг на герое Госсен**Цена считается в калькуляторе
+**Сколько стоит буст на герое Госсен?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

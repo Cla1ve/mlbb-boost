@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/nana/mistbender-nana.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Nana skins](https://boostmlbb.ru/en/skins/nana.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Nana](https://boostmlbb.ru/en/skins/nana.html)/Mistbender Nana
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/aldous/mistbender-aldous.webp)Mistbender AldousAldous · 2023](https://boostmlbb.ru/en/skins/aldous/mistbender-aldous.html)
 
-**Rank up on Nana**The calculator shows the price
+**How much is a rank boost on Nana?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

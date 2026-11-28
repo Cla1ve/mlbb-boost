@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/zhask/crystallized-predator.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Zhask skins](https://boostmlbb.ru/en/skins/zhask.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Zhask](https://boostmlbb.ru/en/skins/zhask.html)/Crystallized Predator
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/zhask/death-s-shadow.webp)Death's ShadowExceptional · 2024](https://boostmlbb.ru/en/skins/zhask/death-s-shadow.html)[![](/images/skins/cards/zhask/extraterrestrial.webp)Extrater­restrialExceptional · 2020](https://boostmlbb.ru/en/skins/zhask/extraterrestrial.html)[![](/images/skins/cards/zhask/cancer.webp)CancerDeluxe · 2019](https://boostmlbb.ru/en/skins/zhask/cancer.html)[![](/images/skins/cards/zhask/bone-flamen.webp)Bone FlamenExquisite · 2018](https://boostmlbb.ru/en/skins/zhask/bone-flamen.html)[![](/images/skins/cards/zhask/crystallized-predator.webp)Crystal­lized PredatorCommon · 2017](https://boostmlbb.ru/en/skins/zhask/crystallized-predator.html)
 
-**Rank up on Zhask**The calculator shows the price
+**How much is a rank boost on Zhask?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

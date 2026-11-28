@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/suyou/venerated-vigilance.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Су Ё](https://boostmlbb.ru/skins/suyou.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Су Ё](https://boostmlbb.ru/skins/suyou.html)/Почтенная бдительность
 
@@ -39,7 +39,7 @@ Venerated Vigilance
 
 [![](/images/skins/cards/suyou/sasuke-uchiha.webp)Саске УчихаГрандиозный · 2025](https://boostmlbb.ru/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/suyou/venerated-vigilance.webp)Почтенная бди­тельностьОбычный · 2024](https://boostmlbb.ru/skins/suyou/venerated-vigilance.html)
 
-**Поднимем ранг на герое Су Ё**Цена считается в калькуляторе
+**Сколько стоит буст на герое Су Ё?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

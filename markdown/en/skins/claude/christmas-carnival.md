@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/claude/christmas-carnival.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Claude skins](https://boostmlbb.ru/en/skins/claude.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Claude](https://boostmlbb.ru/en/skins/claude.html)/Christmas Carnival
 
@@ -41,7 +41,7 @@ Released
 
 [![](/images/skins/cards/harith/christmas-carnival.webp)Christmas CarnivalHarith · 2025](https://boostmlbb.ru/en/skins/harith/christmas-carnival.html)[![](/images/skins/cards/rafaela/angelic-sonata.webp)Angelic SonataRafaela · 2022](https://boostmlbb.ru/en/skins/rafaela/angelic-sonata.html)[![](/images/skins/cards/fanny/christmas-carnival.webp)Christmas CarnivalFanny · 2020](https://boostmlbb.ru/en/skins/fanny/christmas-carnival.html)[![](/images/skins/cards/lancelot/christmas-carnival.webp)Christmas CarnivalLancelot · 2018](https://boostmlbb.ru/en/skins/lancelot/christmas-carnival.html)[![](/images/skins/cards/odette/christmas-carnival.webp)Christmas CarnivalOdette · 2018](https://boostmlbb.ru/en/skins/odette/christmas-carnival.html)[![](/images/skins/cards/freya/christmas-carnival.webp)Christmas CarnivalFreya · 2018](https://boostmlbb.ru/en/skins/freya/christmas-carnival.html)[![](/images/skins/cards/zilong/christmas-carnival.webp)Christmas CarnivalZilong · 2018](https://boostmlbb.ru/en/skins/zilong/christmas-carnival.html)[![](/images/skins/cards/gord/christmas-carnival.webp)Christmas CarnivalGord · 2016](https://boostmlbb.ru/en/skins/gord/christmas-carnival.html)
 
-**Rank up on Claude**The calculator shows the price
+**How much is a rank boost on Claude?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

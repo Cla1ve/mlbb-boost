@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/vexana/twisted-fairytale.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Vexana skins](https://boostmlbb.ru/en/skins/vexana.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Vexana](https://boostmlbb.ru/en/skins/vexana.html)/Twisted Fairytale
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/selena/curse-of-cinder.webp)Curse of CinderSelena · 2025](https://boostmlbb.ru/en/skins/selena/curse-of-cinder.html)
 
-**Rank up on Vexana**The calculator shows the price
+**How much is a rank boost on Vexana?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

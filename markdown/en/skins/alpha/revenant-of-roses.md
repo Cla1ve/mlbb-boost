@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/alpha/revenant-of-roses.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Alpha skins](https://boostmlbb.ru/en/skins/alpha.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Alpha](https://boostmlbb.ru/en/skins/alpha.html)/Revenant of Roses
 
@@ -51,7 +51,7 @@ Released
 
 [![](/images/skins/cards/johnson/sovereign-of-realms.webp)Sovereign of RealmsJohnson · 2025](https://boostmlbb.ru/en/skins/johnson/sovereign-of-realms.html)[![](/images/skins/cards/freya/galactic-vanquisher.webp)Galactic VanquisherFreya · 2024](https://boostmlbb.ru/en/skins/freya/galactic-vanquisher.html)[![](/images/skins/cards/lunox/divine-goddess.webp)Divine GoddessLunox · 2023](https://boostmlbb.ru/en/skins/lunox/divine-goddess.html)[![](/images/skins/cards/franco/king-of-hell.webp)King of HellFranco · 2023](https://boostmlbb.ru/en/skins/franco/king-of-hell.html)[![](/images/skins/cards/guinevere/psion-of-tomorrow.webp)Psion of TomorrowGuinevere · 2022](https://boostmlbb.ru/en/skins/guinevere/psion-of-tomorrow.html)[![](/images/skins/cards/valir/infernal-blaze.webp)Infernal BlazeValir · 2022](https://boostmlbb.ru/en/skins/valir/infernal-blaze.html)[![](/images/skins/cards/gusion/cosmic-gleam.webp)Cosmic GleamGusion · 2022](https://boostmlbb.ru/en/skins/gusion/cosmic-gleam.html)[![](/images/skins/cards/granger/starfall-knight.webp)Starfall KnightGranger · 2021](https://boostmlbb.ru/en/skins/granger/starfall-knight.html)
 
-**Rank up on Alpha**The calculator shows the price
+**How much is a rank boost on Alpha?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

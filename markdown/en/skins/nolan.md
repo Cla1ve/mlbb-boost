@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/nolan.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Nolan
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/nolan/the-navigator.webp)The NavigatorGrand · 2024](https://boostmlbb.ru/en/skins/nolan/the-navigator.html)[![](/images/skins/cards/nolan/fashion-mogul.webp)Fashion MogulExceptional · 2024](https://boostmlbb.ru/en/skins/nolan/fashion-mogul.html)[![](/images/skins/cards/nolan/voidwalker.webp)VoidwalkerCommon · 2023](https://boostmlbb.ru/en/skins/nolan/voidwalker.html)
 
-**Rank up on Nolan**The calculator shows the price
+**How much is a rank boost on Nolan?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

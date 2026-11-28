@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/karrie.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Karrie
 
@@ -33,7 +33,7 @@ AllGrandExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/karrie/breath-of-naraka.webp)Breath of NarakaGrand · 2025](https://boostmlbb.ru/en/skins/karrie/breath-of-naraka.html)[![](/images/skins/cards/karrie/ice-talon.webp)Ice TalonDeluxe · 2023](https://boostmlbb.ru/en/skins/karrie/ice-talon.html)[![](/images/skins/cards/karrie/wheel-of-justice.webp)Wheel of JusticeCommon · 2021](https://boostmlbb.ru/en/skins/karrie/wheel-of-justice.html)[![](/images/skins/cards/karrie/neon-lightwheel.webp)Neon LightwheelExquisite · 2020](https://boostmlbb.ru/en/skins/karrie/neon-lightwheel.html)[![](/images/skins/cards/karrie/gill-girl.webp)Gill-GirlDeluxe · 2020](https://boostmlbb.ru/en/skins/karrie/gill-girl.html)[![](/images/skins/cards/karrie/hawkwatch.webp)HawkwatchExquisite · 2019](https://boostmlbb.ru/en/skins/karrie/hawkwatch.html)[![](/images/skins/cards/karrie/jester.webp)JesterExceptional · 2018](https://boostmlbb.ru/en/skins/karrie/jester.html)[![](/images/skins/cards/karrie/dragon-queen.webp)Dragon QueenExceptional · 2018](https://boostmlbb.ru/en/skins/karrie/dragon-queen.html)[![](/images/skins/cards/karrie/rising-star.webp)Rising StarCommon · 2017](https://boostmlbb.ru/en/skins/karrie/rising-star.html)[![](/images/skins/cards/karrie/bladed-mantis.webp)Bladed MantisCommon · 2017](https://boostmlbb.ru/en/skins/karrie/bladed-mantis.html)
 
-**Rank up on Karrie**The calculator shows the price
+**How much is a rank boost on Karrie?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

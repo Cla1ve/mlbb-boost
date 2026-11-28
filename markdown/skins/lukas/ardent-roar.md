@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lukas/ardent-roar.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лукаса](https://boostmlbb.ru/skins/lukas.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лукас](https://boostmlbb.ru/skins/lukas.html)/Пылкий рёв
 
@@ -39,7 +39,7 @@ Ardent Roar
 
 [![](/images/skins/cards/lukas/naruto-uzumaki.webp)Наруто УзумакиГрандиозный · 2025](https://boostmlbb.ru/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/lukas/ardent-roar.webp)Пылкий рёвОбычный · 2024](https://boostmlbb.ru/skins/lukas/ardent-roar.html)
 
-**Поднимем ранг на герое Лукас**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лукас?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/fanny/mikasa.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фанни](https://boostmlbb.ru/skins/fanny.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фанни](https://boostmlbb.ru/skins/fanny.html)/Микаса
 
@@ -49,7 +49,7 @@ Mikasa
 
 [![](/images/skins/cards/martis/levi.webp)ЛевиМартис · 2024](https://boostmlbb.ru/skins/martis/levi.html)[![](/images/skins/cards/yin/eren.webp)ЭренИнь · 2023](https://boostmlbb.ru/skins/yin/eren.html)
 
-**Поднимем ранг на герое Фанни**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фанни?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

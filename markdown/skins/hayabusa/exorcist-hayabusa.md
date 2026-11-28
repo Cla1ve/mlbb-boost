@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hayabusa/exorcist-hayabusa.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Хаябусы](https://boostmlbb.ru/skins/hayabusa.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Хаябуса](https://boostmlbb.ru/skins/hayabusa.html)/Экзорцист Хаябуса
 
@@ -49,7 +49,7 @@ Exorcist Hayabusa
 
 [![](/images/skins/cards/granger/exorcist-granger.webp)Экзорцист ГрейнджерГрейнджер · 2023](https://boostmlbb.ru/skins/granger/exorcist-granger.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Экзорцист ЧонгЧонг · 2022](https://boostmlbb.ru/skins/yu-zhong/exorcist-yu-zhong.html)[![](/images/skins/cards/kagura/exorcist-kagura.webp)Экзор­цистка КагураКагура · 2022](https://boostmlbb.ru/skins/kagura/exorcist-kagura.html)
 
-**Поднимем ранг на герое Хаябуса**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хаябуса?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

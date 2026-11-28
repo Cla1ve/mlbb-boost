@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lylia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Лилия
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Призрачное весельеДелюкс · 2026](https://boostmlbb.ru/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/lylia/magitech-arsenal.webp)Магитех­нический арсеналИсключительный · 2024](https://boostmlbb.ru/skins/lylia/magitech-arsenal.html)[![](/images/skins/cards/lylia/neobeast-lylia.webp)Лилия NeobeastГрандиозный · 2023](https://boostmlbb.ru/skins/lylia/neobeast-lylia.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Проклятая куклаИсключительный · 2020](https://boostmlbb.ru/skins/lylia/haunted-doll.html)[![](/images/skins/cards/lylia/future-star.webp)Звезда будущегоИсключительный · 2020](https://boostmlbb.ru/skins/lylia/future-star.html)[![](/images/skins/cards/lylia/star-student.webp)Звёздная ученицаОбычный · 2020](https://boostmlbb.ru/skins/lylia/star-student.html)[![](/images/skins/cards/lylia/school-idol.webp)Школьный кумирОбычный · 2019](https://boostmlbb.ru/skins/lylia/school-idol.html)
 
-**Поднимем ранг на герое Лилия**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лилия?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

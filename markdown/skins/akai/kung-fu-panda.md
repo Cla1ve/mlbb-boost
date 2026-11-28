@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/akai/kung-fu-panda.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Акая](https://boostmlbb.ru/skins/akai.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Акай](https://boostmlbb.ru/skins/akai.html)/Кунг-фу Панда
 
@@ -49,7 +49,7 @@ Kung Fu Panda
 
 [![](/images/skins/cards/thamuz/general-kai.webp)Генерал КайТамуз · 2023](https://boostmlbb.ru/skins/thamuz/general-kai.html)[![](/images/skins/cards/ling/lord-shen.webp)Лорд ШэньЛинг · 2022](https://boostmlbb.ru/skins/ling/lord-shen.html)
 
-**Поднимем ранг на герое Акай**Цена считается в калькуляторе
+**Сколько стоит буст на герое Акай?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

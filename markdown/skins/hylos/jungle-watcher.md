@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hylos/jungle-watcher.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Хилоса](https://boostmlbb.ru/skins/hylos.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Хилос](https://boostmlbb.ru/skins/hylos.html)/Хранитель джунглей
 
@@ -38,7 +38,7 @@ Jungle Watcher
 
 [![](/images/skins/cards/hylos/lord-of-the-tundra.webp)Владыка тундрыДелюкс · 2025](https://boostmlbb.ru/skins/hylos/lord-of-the-tundra.html)[![](/images/skins/cards/hylos/bloodhoof-marauder.webp)Мародёр Кровавое КопытоОбычный · 2024](https://boostmlbb.ru/skins/hylos/bloodhoof-marauder.html)[![](/images/skins/cards/hylos/iron-steed.webp)Железный скакунДелюкс · 2021](https://boostmlbb.ru/skins/hylos/iron-steed.html)[![](/images/skins/cards/hylos/jungle-watcher.webp)Хранитель джунглейОбычный · 2019](https://boostmlbb.ru/skins/hylos/jungle-watcher.html)[![](/images/skins/cards/hylos/phantom-seer.webp)Призрачный провидецИсключительный · 2018](https://boostmlbb.ru/skins/hylos/phantom-seer.html)[![](/images/skins/cards/hylos/abyssal-shaman.webp)Шаман бездныОбычный · 2018](https://boostmlbb.ru/skins/hylos/abyssal-shaman.html)
 
-**Поднимем ранг на герое Хилос**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хилос?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

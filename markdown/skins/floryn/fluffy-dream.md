@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/floryn/fluffy-dream.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Флорин](https://boostmlbb.ru/skins/floryn.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Флорин](https://boostmlbb.ru/skins/floryn.html)/Пушистая мечта
 
@@ -46,7 +46,7 @@ Fluffy Dream
 
 [![](/images/skins/cards/change/moon-artist.webp)Лунная художницаЧан'Э · 2022](https://boostmlbb.ru/skins/change/moon-artist.html)[![](/images/skins/cards/angela/heartstring.webp)Струны сердцаАнгела · 2022](https://boostmlbb.ru/skins/angela/heartstring.html)[![](/images/skins/cards/claude/bad-bro.webp)Плохой броКлауд · 2020](https://boostmlbb.ru/skins/claude/bad-bro.html)
 
-**Поднимем ранг на герое Флорин**Цена считается в калькуляторе
+**Сколько стоит буст на герое Флорин?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

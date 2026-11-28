@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yin/m-world-yin.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Иня](https://boostmlbb.ru/skins/yin.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Инь](https://boostmlbb.ru/skins/yin.html)/Инь M-World
 
@@ -45,7 +45,7 @@ M-World Yin
 
 [![](/images/skins/cards/ling/m-world-ling.webp)Линг M-WorldЛинг · 2022](https://boostmlbb.ru/skins/ling/m-world-ling.html)[![](/images/skins/cards/wanwan/m-world-wanwan.webp)Ванван M-WorldВанван · 2022](https://boostmlbb.ru/skins/wanwan/m-world-wanwan.html)
 
-**Поднимем ранг на герое Инь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Инь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

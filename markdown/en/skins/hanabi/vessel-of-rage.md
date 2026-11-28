@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hanabi/vessel-of-rage.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hanabi skins](https://boostmlbb.ru/en/skins/hanabi.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hanabi](https://boostmlbb.ru/en/skins/hanabi.html)/Vessel of Rage
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/aamon/vessel-of-deceit.webp)Vessel of DeceitAamon · 2023](https://boostmlbb.ru/en/skins/aamon/vessel-of-deceit.html)
 
-**Rank up on Hanabi**The calculator shows the price
+**How much is a rank boost on Hanabi?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

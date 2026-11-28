@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/grock/tremor-of-the-deep.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Грока](https://boostmlbb.ru/skins/grock.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Грок](https://boostmlbb.ru/skins/grock.html)/Дрожь глубин
 
@@ -35,7 +35,7 @@ Tremor of the Deep
 
 [![](/images/skins/cards/bruno/the-purifier.webp)ОчистительБруно · 2026](https://boostmlbb.ru/skins/bruno/the-purifier.html)[![](/images/skins/cards/sun/celestial-rebel.webp)Небесный бунтарьСан · 2026](https://boostmlbb.ru/skins/sun/celestial-rebel.html)[![](/images/skins/cards/helcurt/kaiju-of-the-deep.webp)Кайдзю глубинХелкарт · 2026](https://boostmlbb.ru/skins/helcurt/kaiju-of-the-deep.html)[![](/images/skins/cards/kimmy/starbound-sentry.webp)Звёздный дозорныйКимми · 2026](https://boostmlbb.ru/skins/kimmy/starbound-sentry.html)[![](/images/skins/cards/alice/dreaming-monarch.webp)Монархиня грёзАлиса · 2026](https://boostmlbb.ru/skins/alice/dreaming-monarch.html)[![](/images/skins/cards/tigreal/celestial-general.webp)Небесный генералТигрил · 2026](https://boostmlbb.ru/skins/tigreal/celestial-general.html)[![](/images/skins/cards/xavier/sunborn-monarch.webp)Монарх, рождённый солнцемКсавьер · 2026](https://boostmlbb.ru/skins/xavier/sunborn-monarch.html)[![](/images/skins/cards/aamon/soul-reaver.webp)Похититель душЭймон · 2025](https://boostmlbb.ru/skins/aamon/soul-reaver.html)
 
-**Поднимем ранг на герое Грок**Цена считается в калькуляторе
+**Сколько стоит буст на герое Грок?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/benedetta/panigale-v4s-rider.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Бенедетты](https://boostmlbb.ru/skins/benedetta.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Бенедетта](https://boostmlbb.ru/skins/benedetta.html)/Гонщица на Panigale V4S
 
@@ -49,7 +49,7 @@ Panigale V4S Rider
 
 [![](/images/skins/cards/irithel/monster-sp-rider.webp)Гонщица на Monster SPИритель · 2023](https://boostmlbb.ru/skins/irithel/monster-sp-rider.html)[![](/images/skins/cards/leomord/diavel-v4-rider.webp)Гонщик на Diavel V4Леоморд · 2023](https://boostmlbb.ru/skins/leomord/diavel-v4-rider.html)
 
-**Поднимем ранг на герое Бенедетта**Цена считается в калькуляторе
+**Сколько стоит буст на герое Бенедетта?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

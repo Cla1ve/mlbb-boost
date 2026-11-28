@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hanabi/twin-crescent.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ханаби](https://boostmlbb.ru/skins/hanabi.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ханаби](https://boostmlbb.ru/skins/hanabi.html)/Двойной полумесяц
 
@@ -42,7 +42,7 @@ Twin Crescent
 
 [![](/images/skins/cards/ruby/neon-edge.webp)Неоновый клинокРуби · 2025](https://boostmlbb.ru/skins/ruby/neon-edge.html)[![](/images/skins/cards/ruby/crescent-dervish.webp)Дервиш полумесяцаРуби · 2025](https://boostmlbb.ru/skins/ruby/crescent-dervish.html)
 
-**Поднимем ранг на герое Ханаби**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ханаби?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

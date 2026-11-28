@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/argus/darth-vader.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Argus skins](https://boostmlbb.ru/en/skins/argus.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Argus](https://boostmlbb.ru/en/skins/argus.html)/Darth Vader
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/kimmy/first-order-jet-trooper.webp)First Order Jet TrooperKimmy · 2023](https://boostmlbb.ru/en/skins/kimmy/first-order-jet-trooper.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Master YodaCyclops · 2021](https://boostmlbb.ru/en/skins/cyclops/master-yoda.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Obi-Wan KenobiAlucard · 2021](https://boostmlbb.ru/en/skins/alucard/obi-wan-kenobi.html)
 
-**Rank up on Argus**The calculator shows the price
+**How much is a rank boost on Argus?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/bane.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Bane
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/bane/lord-of-scalding-seas.webp)Lord of Scalding SeasExceptional · 2025](https://boostmlbb.ru/en/skins/bane/lord-of-scalding-seas.html)[![](/images/skins/cards/bane/soul-defiler.webp)Soul DefilerDeluxe · 2023](https://boostmlbb.ru/en/skins/bane/soul-defiler.html)[![](/images/skins/cards/bane/underworld-outlaw.webp)Underworld OutlawCommon · 2022](https://boostmlbb.ru/en/skins/bane/underworld-outlaw.html)[![](/images/skins/cards/bane/warlord.webp)WarlordCommon · 2019](https://boostmlbb.ru/en/skins/bane/warlord.html)[![](/images/skins/cards/bane/deep-sea-monster.webp)Deep Sea MonsterCommon · 2018](https://boostmlbb.ru/en/skins/bane/deep-sea-monster.html)[![](/images/skins/cards/bane/castle-master.webp)Castle MasterDeluxe · 2016](https://boostmlbb.ru/en/skins/bane/castle-master.html)
 
-**Rank up on Bane**The calculator shows the price
+**How much is a rank boost on Bane?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/claude/bad-bro.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Claude skins](https://boostmlbb.ru/en/skins/claude.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Claude](https://boostmlbb.ru/en/skins/claude.html)/Bad Bro
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/floryn/fluffy-dream.webp)Fluffy DreamFloryn · 2022](https://boostmlbb.ru/en/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/change/moon-artist.webp)Moon ArtistChang'e · 2022](https://boostmlbb.ru/en/skins/change/moon-artist.html)[![](/images/skins/cards/angela/heartstring.webp)HeartstringAngela · 2022](https://boostmlbb.ru/en/skins/angela/heartstring.html)
 
-**Rank up on Claude**The calculator shows the price
+**How much is a rank boost on Claude?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

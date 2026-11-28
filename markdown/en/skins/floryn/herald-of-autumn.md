@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/floryn/herald-of-autumn.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Floryn skins](https://boostmlbb.ru/en/skins/floryn.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Floryn](https://boostmlbb.ru/en/skins/floryn.html)/Herald of Autumn
 
@@ -48,7 +48,7 @@ Released
 
 [![](/images/skins/cards/miya/arrow-of-springs.webp)Arrow of SpringsMiya · 2026](https://boostmlbb.ru/en/skins/miya/arrow-of-springs.html)
 
-**Rank up on Floryn**The calculator shows the price
+**How much is a rank boost on Floryn?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

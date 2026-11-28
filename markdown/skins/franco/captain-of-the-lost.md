@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/franco/captain-of-the-lost.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Франко](https://boostmlbb.ru/skins/franco.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Франко](https://boostmlbb.ru/skins/franco.html)/Капитан потерянных
 
@@ -42,7 +42,7 @@ Captain of the Lost
 
 [![](/images/skins/cards/mathilda/arcane-verdict.webp)Тайный вердиктМатильда · 2026](https://boostmlbb.ru/skins/mathilda/arcane-verdict.html)[![](/images/skins/cards/vale/windborne-waltz.webp)Вальс на ветруВэйл · 2026](https://boostmlbb.ru/skins/vale/windborne-waltz.html)[![](/images/skins/cards/yi-sun-shin/wavebreaker.webp)ВолнорезЛи Сун-Син · 2025](https://boostmlbb.ru/skins/yi-sun-shin/wavebreaker.html)[![](/images/skins/cards/badang/steel-arms.webp)Стальные рукиБаданг · 2025](https://boostmlbb.ru/skins/badang/steel-arms.html)[![](/images/skins/cards/kagura/lady-parasol.webp)Леди с зонтикомКагура · 2025](https://boostmlbb.ru/skins/kagura/lady-parasol.html)[![](/images/skins/cards/aldous/fathom-terror.webp)Ужас пучиныАлдос · 2025](https://boostmlbb.ru/skins/aldous/fathom-terror.html)[![](/images/skins/cards/change/moonglow-troupe.webp)Труппа лунного светаЧан'Э · 2025](https://boostmlbb.ru/skins/change/moonglow-troupe.html)[![](/images/skins/cards/estes/arcane-magistrate.webp)Тайный магистратЭстес · 2025](https://boostmlbb.ru/skins/estes/arcane-magistrate.html)
 
-**Поднимем ранг на герое Франко**Цена считается в калькуляторе
+**Сколько стоит буст на герое Франко?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/change/tech-tensai.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Chang'e skins](https://boostmlbb.ru/en/skins/change.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Chang'e](https://boostmlbb.ru/en/skins/change.html)/Tech Tensai
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/selena/silverbolt-raiko.webp)Silverbolt RaikoSelena · 2026](https://boostmlbb.ru/en/skins/selena/silverbolt-raiko.html)[![](/images/skins/cards/obsidia/imperatrix-arashi.webp)Imperatrix ArashiObsidia · 2026](https://boostmlbb.ru/en/skins/obsidia/imperatrix-arashi.html)[![](/images/skins/cards/guinevere/daybreak-halo.webp)Daybreak HaloGuinevere · 2025](https://boostmlbb.ru/en/skins/guinevere/daybreak-halo.html)[![](/images/skins/cards/vexana/twilight-star.webp)Twilight StarVexana · 2025](https://boostmlbb.ru/en/skins/vexana/twilight-star.html)[![](/images/skins/cards/lesley/deadeye-spectre.webp)Deadeye SpectreLesley · 2024](https://boostmlbb.ru/en/skins/lesley/deadeye-spectre.html)[![](/images/skins/cards/ruby/mecha-maiden.webp)Mecha MaidenRuby · 2023](https://boostmlbb.ru/en/skins/ruby/mecha-maiden.html)[![](/images/skins/cards/fanny/blade-of-kibou.webp)Blade of KibouFanny · 2022](https://boostmlbb.ru/en/skins/fanny/blade-of-kibou.html)[![](/images/skins/cards/layla/miss-hikari.webp)Miss HikariLayla · 2022](https://boostmlbb.ru/en/skins/layla/miss-hikari.html)
 
-**Rank up on Chang'e**The calculator shows the price
+**How much is a rank boost on Chang'e?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

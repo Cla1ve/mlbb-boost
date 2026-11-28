@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/zetian/heavenly-splendor.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Цзэтянь](https://boostmlbb.ru/skins/zetian.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Цзэтянь](https://boostmlbb.ru/skins/zetian.html)/Небесное великолепие
 
@@ -39,7 +39,7 @@ Heavenly Splendor
 
 [![](/images/skins/cards/zetian/elysian-luminance.webp)Элизийское сияние2026](https://boostmlbb.ru/skins/zetian/elysian-luminance.html)[![](/images/skins/cards/zetian/heavenly-splendor.webp)Небесное велико­лепиеОбычный · 2025](https://boostmlbb.ru/skins/zetian/heavenly-splendor.html)
 
-**Поднимем ранг на герое Цзэтянь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Цзэтянь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/items/
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 # MLBB items
 
 97 items · prices as in the game on 25 November 2026

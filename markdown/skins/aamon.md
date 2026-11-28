@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/aamon.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Эймон
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/aamon/soul-reaver.webp)Похититель душИзысканный · 2025](https://boostmlbb.ru/skins/aamon/soul-reaver.html)[![](/images/skins/cards/aamon/vessel-of-deceit.webp)Сосуд обманаГрандиозный · 2023](https://boostmlbb.ru/skins/aamon/vessel-of-deceit.html)[![](/images/skins/cards/aamon/cyber-assassin.webp)Кибер-убийцаИсключительный · 2023](https://boostmlbb.ru/skins/aamon/cyber-assassin.html)[![](/images/skins/cards/aamon/noble-crest.webp)Благо­родный гербОбычный · 2022](https://boostmlbb.ru/skins/aamon/noble-crest.html)[![](/images/skins/cards/aamon/night-s-edge.webp)Лезвие ночиОбычный · 2021](https://boostmlbb.ru/skins/aamon/night-s-edge.html)
 
-**Поднимем ранг на герое Эймон**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эймон?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

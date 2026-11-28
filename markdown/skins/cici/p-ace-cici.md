@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/cici/p-ace-cici.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чичи](https://boostmlbb.ru/skins/cici.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чичи](https://boostmlbb.ru/skins/cici.html)/Чичи P.ACE
 
@@ -50,7 +50,7 @@ P.ACE Cici
 
 [![](/images/skins/cards/fanny/p-ace-fanny.webp)Фанни P.ACEФанни · 2025](https://boostmlbb.ru/skins/fanny/p-ace-fanny.html)[![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)Чжусинь P.ACEЧжусинь · 2025](https://boostmlbb.ru/skins/zhuxin/p-ace-zhuxin.html)
 
-**Поднимем ранг на герое Чичи**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чичи?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/selena/s-t-u-n-selena.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Selena skins](https://boostmlbb.ru/en/skins/selena.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Selena](https://boostmlbb.ru/en/skins/selena.html)/S.T.U.N. Selena
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/brody/s-t-u-n-brody.webp)S.T.U.N. BrodyBrody · 2021](https://boostmlbb.ru/en/skins/brody/s-t-u-n-brody.html)[![](/images/skins/cards/chou/s-t-u-n-chou.webp)S.T.U.N. ChouChou · 2021](https://boostmlbb.ru/en/skins/chou/s-t-u-n-chou.html)
 
-**Rank up on Selena**The calculator shows the price
+**How much is a rank boost on Selena?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

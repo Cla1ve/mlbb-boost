@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/julian/meowkin-tracker.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Julian skins](https://boostmlbb.ru/en/skins/julian.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Julian](https://boostmlbb.ru/en/skins/julian.html)/Meowkin Tracker
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/lesley/meowkin-hunter.webp)Meowkin HunterLesley · 2025](https://boostmlbb.ru/en/skins/lesley/meowkin-hunter.html)[![](/images/skins/cards/silvanna/meowkin-warden.webp)Meowkin WardenSilvanna · 2025](https://boostmlbb.ru/en/skins/silvanna/meowkin-warden.html)
 
-**Rank up on Julian**The calculator shows the price
+**How much is a rank boost on Julian?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

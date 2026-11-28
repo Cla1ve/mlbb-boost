@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kimmy/frost-wing.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Kimmy skins](https://boostmlbb.ru/en/skins/kimmy.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Kimmy](https://boostmlbb.ru/en/skins/kimmy.html)/Frost Wing
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/ling/night-shade.webp)Night ShadeLing · 2024](https://boostmlbb.ru/en/skins/ling/night-shade.html)[![](/images/skins/cards/lancelot/empyrean-flame.webp)Empyrean FlameLancelot · 2021](https://boostmlbb.ru/en/skins/lancelot/empyrean-flame.html)[![](/images/skins/cards/masha/dragon-armor.webp)Dragon ArmorMasha · 2020](https://boostmlbb.ru/en/skins/masha/dragon-armor.html)[![](/images/skins/cards/valir/draconic-flame.webp)Draconic FlameValir · 2019](https://boostmlbb.ru/en/skins/valir/draconic-flame.html)[![](/images/skins/cards/estes/rattan-dragon.webp)Rattan DragonEstes · 2017](https://boostmlbb.ru/en/skins/estes/rattan-dragon.html)
 
-**Rank up on Kimmy**The calculator shows the price
+**How much is a rank boost on Kimmy?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

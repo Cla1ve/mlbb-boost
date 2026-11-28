@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/estes/holy-priest.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эстеса](https://boostmlbb.ru/skins/estes.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эстес](https://boostmlbb.ru/skins/estes.html)/Святой жрец
 
@@ -39,7 +39,7 @@ Holy Priest
 
 [![](/images/skins/cards/estes/arcane-magistrate.webp)Тайный магистратИсключительный · 2025](https://boostmlbb.ru/skins/estes/arcane-magistrate.html)[![](/images/skins/cards/estes/sparkle-estes.webp)Эстес SPARKLEДелюкс · 2024](https://boostmlbb.ru/skins/estes/sparkle-estes.html)[![](/images/skins/cards/estes/blacklist-international.webp)Blacklist Interna­tionalДелюкс · 2024](https://boostmlbb.ru/skins/estes/blacklist-international.html)[![](/images/skins/cards/estes/crow-bishop.webp)Епископ-воронИсключительный · 2020](https://boostmlbb.ru/skins/estes/crow-bishop.html)[![](/images/skins/cards/estes/white-crane.webp)Белый журавльОбычный · 2018](https://boostmlbb.ru/skins/estes/white-crane.html)[![](/images/skins/cards/estes/galaxy-dominator.webp)Повелитель галактикиИзысканный](https://boostmlbb.ru/skins/estes/galaxy-dominator.html)[![](/images/skins/cards/estes/rattan-dragon.webp)Ротанговый драконДелюкс · 2017](https://boostmlbb.ru/skins/estes/rattan-dragon.html)[![](/images/skins/cards/estes/holy-priest.webp)Святой жрецОбычный · 2017](https://boostmlbb.ru/skins/estes/holy-priest.html)
 
-**Поднимем ранг на герое Эстес**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эстес?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

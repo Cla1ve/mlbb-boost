@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/claude/heart-aflame.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Клауда](https://boostmlbb.ru/skins/claude.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Клауд](https://boostmlbb.ru/skins/claude.html)/Пылающее сердце
 
@@ -45,7 +45,7 @@ Heart Aflame
 
 [![](/images/skins/cards/granger/alluring-enigma.webp)Манящая загадкаГрейнджер · 2024](https://boostmlbb.ru/skins/granger/alluring-enigma.html)[![](/images/skins/cards/silvanna/alluring-mystique.webp)Манящая мистикаСильвана · 2024](https://boostmlbb.ru/skins/silvanna/alluring-mystique.html)[![](/images/skins/cards/khufra/gentleman-thief.webp)Джентльмен-ворХуфра · 2023](https://boostmlbb.ru/skins/khufra/gentleman-thief.html)[![](/images/skins/cards/fanny/heart-afloat.webp)Парящее сердцеФанни · 2022](https://boostmlbb.ru/skins/fanny/heart-afloat.html)[![](/images/skins/cards/carmilla/phantom-countess.webp)Призрачная графиняКармилла · 2021](https://boostmlbb.ru/skins/carmilla/phantom-countess.html)[![](/images/skins/cards/cecilion/phantom-count.webp)Призрачный графСесилион · 2021](https://boostmlbb.ru/skins/cecilion/phantom-count.html)[![](/images/skins/cards/esmeralda/lady-thief.webp)Леди-воровкаЭсмеральда · 2020](https://boostmlbb.ru/skins/esmeralda/lady-thief.html)[![](/images/skins/cards/lesley/dangerous-love.webp)Опасная любовьЛесли · 2019](https://boostmlbb.ru/skins/lesley/dangerous-love.html)
 
-**Поднимем ранг на герое Клауд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Клауд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

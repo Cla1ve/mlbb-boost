@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/gloo/patrick.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Глу](https://boostmlbb.ru/skins/gloo.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Глу](https://boostmlbb.ru/skins/gloo.html)/Патрик
 
@@ -47,7 +47,7 @@ Patrick
 
 [![](/images/skins/cards/cyclops/spongebob.webp)Губка БобЦиклоп · 2025](https://boostmlbb.ru/skins/cyclops/spongebob.html)
 
-**Поднимем ранг на герое Глу**Цена считается в калькуляторе
+**Сколько стоит буст на герое Глу?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

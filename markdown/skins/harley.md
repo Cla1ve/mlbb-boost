@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harley.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Харли
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/harley/dreaming-koi.webp)Мечта­тельный коиИсключительный · 2026](https://boostmlbb.ru/skins/harley/dreaming-koi.html)[![](/images/skins/cards/harley/star-magician.webp)Звёздный фокусникОбычный · 2024](https://boostmlbb.ru/skins/harley/star-magician.html)[![](/images/skins/cards/harley/pulsar-prodigy.webp)Вундеркинд-пульсарИсключительный · 2023](https://boostmlbb.ru/skins/harley/pulsar-prodigy.html)[![](/images/skins/cards/harley/dream-caster.webp)Закли­натель сновИзысканный · 2021](https://boostmlbb.ru/skins/harley/dream-caster.html)[![](/images/skins/cards/harley/v-e-n-o-m-octopus.webp)Осьминог V.E.N.O.M.Делюкс · 2019](https://boostmlbb.ru/skins/harley/v-e-n-o-m-octopus.html)[![](/images/skins/cards/harley/great-inventor.webp)Великий изобре­тательДелюкс · 2018](https://boostmlbb.ru/skins/harley/great-inventor.html)[![](/images/skins/cards/harley/referee.webp)СудьяИсключительный · 2018](https://boostmlbb.ru/skins/harley/referee.html)[![](/images/skins/cards/harley/royal-magister.webp)Коро­левский магистрИсключительный · 2018](https://boostmlbb.ru/skins/harley/royal-magister.html)[![](/images/skins/cards/harley/naughty-joker.webp)Озорной шутникОбычный · 2017](https://boostmlbb.ru/skins/harley/naughty-joker.html)
 
-**Поднимем ранг на герое Харли**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харли?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

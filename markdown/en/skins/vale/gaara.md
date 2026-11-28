@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/vale/gaara.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Vale skins](https://boostmlbb.ru/en/skins/vale.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Vale](https://boostmlbb.ru/en/skins/vale.html)/Gaara
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/hayabusa/kakashi-hatake.webp)Kakashi HatakeHayabusa · 2025](https://boostmlbb.ru/en/skins/hayabusa/kakashi-hatake.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Sakura HarunoKalea · 2025](https://boostmlbb.ru/en/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Naruto UzumakiLukas · 2025](https://boostmlbb.ru/en/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Sasuke UchihaSuyou · 2025](https://boostmlbb.ru/en/skins/suyou/sasuke-uchiha.html)
 
-**Rank up on Vale**The calculator shows the price
+**How much is a rank boost on Vale?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

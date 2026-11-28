@@ -901,7 +901,8 @@ async function calculatePrice() {
 
     if (result.success && result.total !== undefined) {
       const orderButton = document.getElementById('order-btn');
-      if (orderButton) orderButton.href = orderUrl;
+      if (orderButton) orderButton.href = window.mlbbSiteBotLink?.(orderUrl) || orderUrl;
+      window.mlbbMeasure?.('calculator_result');
       displayResult(
         result.total, 
         formatResultRank(result.rank_from, rankFrom),

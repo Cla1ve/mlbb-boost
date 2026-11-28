@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/floryn.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Floryn
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/floryn/herald-of-autumn.webp)Herald of AutumnGrand · 2026](https://boostmlbb.ru/en/skins/floryn/herald-of-autumn.html)[![](/images/skins/cards/floryn/melody-of-light.webp)Melody of LightExquisite · 2025](https://boostmlbb.ru/en/skins/floryn/melody-of-light.html)[![](/images/skins/cards/floryn/yatai-waitress.webp)Yatai WaitressExceptional · 2024](https://boostmlbb.ru/en/skins/floryn/yatai-waitress.html)[![](/images/skins/cards/floryn/paw-power.webp)Paw PowerCommon · 2023](https://boostmlbb.ru/en/skins/floryn/paw-power.html)[![](/images/skins/cards/floryn/fluffy-dream.webp)Fluffy DreamGrand · 2022](https://boostmlbb.ru/en/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/floryn/springtide.webp)SpringtideCommon · 2021](https://boostmlbb.ru/en/skins/floryn/springtide.html)
 
-**Rank up on Floryn**The calculator shows the price
+**How much is a rank boost on Floryn?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

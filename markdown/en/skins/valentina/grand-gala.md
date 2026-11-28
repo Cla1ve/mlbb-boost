@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/valentina/grand-gala.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Valentina skins](https://boostmlbb.ru/en/skins/valentina.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Valentina](https://boostmlbb.ru/en/skins/valentina.html)/Grand Gala
 
@@ -38,7 +38,7 @@ Released
 
 [![](/images/skins/cards/faramis/enigmatic-wayfarer.webp)Enigmatic WayfarerFaramis · 2025](https://boostmlbb.ru/en/skins/faramis/enigmatic-wayfarer.html)
 
-**Rank up on Valentina**The calculator shows the price
+**How much is a rank boost on Valentina?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

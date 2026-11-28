@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/cecilion/hisoka.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Сесилиона](https://boostmlbb.ru/skins/cecilion.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сесилион](https://boostmlbb.ru/skins/cecilion.html)/Хисока
 
@@ -49,7 +49,7 @@ Hisoka
 
 [![](/images/skins/cards/dyrroth/gon.webp)ГонДариус · 2025](https://boostmlbb.ru/skins/dyrroth/gon.html)[![](/images/skins/cards/harith/killua.webp)КиллуаХарит · 2025](https://boostmlbb.ru/skins/harith/killua.html)[![](/images/skins/cards/julian/kurapika.webp)КурапикаДжулиан · 2025](https://boostmlbb.ru/skins/julian/kurapika.html)
 
-**Поднимем ранг на герое Сесилион**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сесилион?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

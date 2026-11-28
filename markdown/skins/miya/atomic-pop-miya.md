@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/miya/atomic-pop-miya.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Мии](https://boostmlbb.ru/skins/miya.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Мия](https://boostmlbb.ru/skins/miya.html)/Мия Atomic Pop
 
@@ -39,7 +39,7 @@ Atomic Pop Miya
 
 [![](/images/skins/cards/eudora/atomic-pop-eudora.webp)Эйдора Atomic PopЭйдора · 2023](https://boostmlbb.ru/skins/eudora/atomic-pop-eudora.html)
 
-**Поднимем ранг на герое Мия**Цена считается в калькуляторе
+**Сколько стоит буст на герое Мия?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

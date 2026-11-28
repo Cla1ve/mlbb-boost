@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/zilong/storm-rider.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Зилонга](https://boostmlbb.ru/skins/zilong.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Зилонг](https://boostmlbb.ru/skins/zilong.html)/Всадник бури
 
@@ -42,7 +42,7 @@ Storm Rider
 
 [![](/images/skins/cards/harith/fashion-expert.webp)Знаток модыХарит · 2021](https://boostmlbb.ru/skins/harith/fashion-expert.html)
 
-**Поднимем ранг на герое Зилонг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Зилонг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

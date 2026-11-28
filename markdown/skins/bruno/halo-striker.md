@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/bruno/halo-striker.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Бруно](https://boostmlbb.ru/skins/bruno.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Бруно](https://boostmlbb.ru/skins/bruno.html)/Нападающий Halo
 
@@ -48,7 +48,7 @@ Halo Striker
 
 [![](/images/skins/cards/bruno/neymar-jr.webp)Неймар-младшийБруно · 2022](https://boostmlbb.ru/skins/bruno/neymar-jr.html)
 
-**Поднимем ранг на герое Бруно**Цена считается в калькуляторе
+**Сколько стоит буст на герое Бруно?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

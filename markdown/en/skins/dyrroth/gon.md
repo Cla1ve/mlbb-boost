@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/dyrroth/gon.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Dyrroth skins](https://boostmlbb.ru/en/skins/dyrroth.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Dyrroth](https://boostmlbb.ru/en/skins/dyrroth.html)/Gon
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/cecilion/hisoka.webp)HisokaCecilion · 2025](https://boostmlbb.ru/en/skins/cecilion/hisoka.html)[![](/images/skins/cards/harith/killua.webp)KilluaHarith · 2025](https://boostmlbb.ru/en/skins/harith/killua.html)[![](/images/skins/cards/julian/kurapika.webp)KurapikaJulian · 2025](https://boostmlbb.ru/en/skins/julian/kurapika.html)
 
-**Rank up on Dyrroth**The calculator shows the price
+**How much is a rank boost on Dyrroth?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

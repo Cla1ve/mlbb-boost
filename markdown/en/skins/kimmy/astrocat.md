@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kimmy/astrocat.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Kimmy skins](https://boostmlbb.ru/en/skins/kimmy.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Kimmy](https://boostmlbb.ru/en/skins/kimmy.html)/Astrocat
 
@@ -41,7 +41,7 @@ Released
 
 [![](/images/skins/cards/guinevere/lady-crane.webp)Lady CraneGuinevere · 2025](https://boostmlbb.ru/en/skins/guinevere/lady-crane.html)[![](/images/skins/cards/lunox/butterfly-seraphim.webp)Butterfly SeraphimLunox · 2025](https://boostmlbb.ru/en/skins/lunox/butterfly-seraphim.html)[![](/images/skins/cards/claude/mecha-dragon.webp)Mecha DragonClaude · 2025](https://boostmlbb.ru/en/skins/claude/mecha-dragon.html)[![](/images/skins/cards/change/lunar-magic.webp)Lunar MagicChang'e · 2020](https://boostmlbb.ru/en/skins/change/lunar-magic.html)[![](/images/skins/cards/selena/thunder-flash.webp)Thunder FlashSelena · 2020](https://boostmlbb.ru/en/skins/selena/thunder-flash.html)[![](/images/skins/cards/hanabi/rakshesha.webp)RaksheshaHanabi · 2020](https://boostmlbb.ru/en/skins/hanabi/rakshesha.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Video-Game DominatorUranus · 2020](https://boostmlbb.ru/en/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/martis/god-of-war.webp)God of WarMartis · 2020](https://boostmlbb.ru/en/skins/martis/god-of-war.html)
 
-**Rank up on Kimmy**The calculator shows the price
+**How much is a rank boost on Kimmy?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

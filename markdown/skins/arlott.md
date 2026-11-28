@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/arlott.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Арлотт
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/arlott/aeon-of-twilight.webp)Эон сумерекИзысканный · 2025](https://boostmlbb.ru/skins/arlott/aeon-of-twilight.html)[![](/images/skins/cards/arlott/fury-of-the-deep.webp)Ярость глубинИсключительный · 2023](https://boostmlbb.ru/skins/arlott/fury-of-the-deep.html)[![](/images/skins/cards/arlott/wandering-spear.webp)Странствующее копьёОбычный · 2023](https://boostmlbb.ru/skins/arlott/wandering-spear.html)
 
-**Поднимем ранг на герое Арлотт**Цена считается в калькуляторе
+**Сколько стоит буст на герое Арлотт?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

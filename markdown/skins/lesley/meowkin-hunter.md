@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lesley/meowkin-hunter.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лесли](https://boostmlbb.ru/skins/lesley.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лесли](https://boostmlbb.ru/skins/lesley.html)/Охотница из Мяукинов
 
@@ -46,7 +46,7 @@ Meowkin Hunter
 
 [![](/images/skins/cards/julian/meowkin-tracker.webp)Следопыт МяукиновДжулиан · 2025](https://boostmlbb.ru/skins/julian/meowkin-tracker.html)[![](/images/skins/cards/silvanna/meowkin-warden.webp)Стражница МяукиновСильвана · 2025](https://boostmlbb.ru/skins/silvanna/meowkin-warden.html)
 
-**Поднимем ранг на герое Лесли**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лесли?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

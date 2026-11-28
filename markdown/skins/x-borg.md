@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/x-borg.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Икс.Борг
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/x-borg/bumblebee.webp)БамблбиГрандиозный · 2025](https://boostmlbb.ru/skins/x-borg/bumblebee.html)[![](/images/skins/cards/x-borg/pecados-rioter.webp)Бунтарь ПекадосОбычный · 2025](https://boostmlbb.ru/skins/x-borg/pecados-rioter.html)[![](/images/skins/cards/x-borg/moto-drifter.webp)Мотод­рифтерОбычный · 2023](https://boostmlbb.ru/skins/x-borg/moto-drifter.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Маньяк ТеслыГрандиозный · 2020](https://boostmlbb.ru/skins/x-borg/tesla-maniac.html)[![](/images/skins/cards/x-borg/graffiti-fashion.webp)Граффити-модаИсключительный · 2020](https://boostmlbb.ru/skins/x-borg/graffiti-fashion.html)[![](/images/skins/cards/x-borg/blue-storm.webp)Синяя буряОбычный · 2019](https://boostmlbb.ru/skins/x-borg/blue-storm.html)
 
-**Поднимем ранг на герое Икс.Борг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Икс.Борг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

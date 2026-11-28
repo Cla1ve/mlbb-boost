@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/miya/arrow-of-springs.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Мии](https://boostmlbb.ru/skins/miya.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Мия](https://boostmlbb.ru/skins/miya.html)/Стрела весны
 
@@ -50,7 +50,7 @@ Arrow of Springs
 
 [![](/images/skins/cards/floryn/herald-of-autumn.webp)Вестница осениФлорин · 2026](https://boostmlbb.ru/skins/floryn/herald-of-autumn.html)
 
-**Поднимем ранг на герое Мия**Цена считается в калькуляторе
+**Сколько стоит буст на герое Мия?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/joy.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Джой
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/joy/exostar-scout.webp)Разведчица ЭкзостарИсключительный · 2025](https://boostmlbb.ru/skins/joy/exostar-scout.html)[![](/images/skins/cards/joy/royal-protector.webp)Коро­левская защитницаОбычный · 2023](https://boostmlbb.ru/skins/joy/royal-protector.html)[![](/images/skins/cards/joy/feline-ranger.webp)Кошачий рейнджерОбычный · 2022](https://boostmlbb.ru/skins/joy/feline-ranger.html)
 
-**Поднимем ранг на герое Джой**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джой?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

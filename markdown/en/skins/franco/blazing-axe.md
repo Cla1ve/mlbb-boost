@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/franco/blazing-axe.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Franco skins](https://boostmlbb.ru/en/skins/franco.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Franco](https://boostmlbb.ru/en/skins/franco.html)/Blazing Axe
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/claude/blazing-trace.webp)Blazing TraceClaude · 2024](https://boostmlbb.ru/en/skins/claude/blazing-trace.html)[![](/images/skins/cards/esmeralda/blazing-shadow.webp)Blazing ShadowEsmeralda · 2020](https://boostmlbb.ru/en/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/layla/blazing-gun.webp)Blazing GunLayla · 2020](https://boostmlbb.ru/en/skins/layla/blazing-gun.html)[![](/images/skins/cards/aldous/blazing-force.webp)Blazing ForceAldous · 2020](https://boostmlbb.ru/en/skins/aldous/blazing-force.html)
 
-**Rank up on Franco**The calculator shows the price
+**How much is a rank boost on Franco?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

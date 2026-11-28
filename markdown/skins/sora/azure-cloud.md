@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/sora/azure-cloud.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Соры](https://boostmlbb.ru/skins/sora.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сора](https://boostmlbb.ru/skins/sora.html)/Лазурное облако
 
@@ -35,7 +35,7 @@ Azure Cloud
 
 -   Бонус к характеристикам
 
-**Поднимем ранг на герое Сора**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сора?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

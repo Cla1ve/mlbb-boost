@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lolita/special-op.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Lolita skins](https://boostmlbb.ru/en/skins/lolita.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Lolita](https://boostmlbb.ru/en/skins/lolita.html)/Special Op
 
@@ -33,7 +33,7 @@ Released
 
 [![](/images/skins/cards/lolita/angelic-fan.webp)Angelic FanExceptional · 2025](https://boostmlbb.ru/en/skins/lolita/angelic-fan.html)[![](/images/skins/cards/lolita/starwatcher.webp)Star­watcherDeluxe · 2024](https://boostmlbb.ru/en/skins/lolita/starwatcher.html)[![](/images/skins/cards/lolita/astro-mallet.webp)Astro MalletExceptional · 2024](https://boostmlbb.ru/en/skins/lolita/astro-mallet.html)[![](/images/skins/cards/lolita/genki-slam.webp)Genki SlamExceptional · 2023](https://boostmlbb.ru/en/skins/lolita/genki-slam.html)[![](/images/skins/cards/lolita/special-op.webp)Special OpCommon · 2020](https://boostmlbb.ru/en/skins/lolita/special-op.html)[![](/images/skins/cards/lolita/lion-dance.webp)Lion DanceExceptional · 2019](https://boostmlbb.ru/en/skins/lolita/lion-dance.html)[![](/images/skins/cards/lolita/impish-trickster.webp)Impish TricksterExceptional · 2017](https://boostmlbb.ru/en/skins/lolita/impish-trickster.html)[![](/images/skins/cards/lolita/soldier-in-training.webp)Soldier in TrainingCommon · 2016](https://boostmlbb.ru/en/skins/lolita/soldier-in-training.html)
 
-**Rank up on Lolita**The calculator shows the price
+**How much is a rank boost on Lolita?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

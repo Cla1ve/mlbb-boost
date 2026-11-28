@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/estes/white-crane.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эстеса](https://boostmlbb.ru/skins/estes.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эстес](https://boostmlbb.ru/skins/estes.html)/Белый журавль
 
@@ -42,7 +42,7 @@ White Crane
 
 [![](/images/skins/cards/franco/locomotive.webp)ЛокомотивФранко · 2018](https://boostmlbb.ru/skins/franco/locomotive.html)
 
-**Поднимем ранг на герое Эстес**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эстес?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

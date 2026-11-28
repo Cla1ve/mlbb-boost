@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/aulus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Aulus
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/aulus/ironmane-reaver.webp)Ironmane ReaverCommon · 2024](https://boostmlbb.ru/en/skins/aulus/ironmane-reaver.html)[![](/images/skins/cards/aulus/war-lion.webp)War LionExceptional · 2023](https://boostmlbb.ru/en/skins/aulus/war-lion.html)[![](/images/skins/cards/aulus/barren-pioneer.webp)Barren PioneerCommon · 2022](https://boostmlbb.ru/en/skins/aulus/barren-pioneer.html)[![](/images/skins/cards/aulus/berserker.webp)BerserkerCommon · 2021](https://boostmlbb.ru/en/skins/aulus/berserker.html)
 
-**Rank up on Aulus**The calculator shows the price
+**How much is a rank boost on Aulus?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

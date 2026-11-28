@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hanzo.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Ханзо
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/hanzo/fangs-of-slaughter.webp)Клыки резниИсключительный · 2026](https://boostmlbb.ru/skins/hanzo/fangs-of-slaughter.html)[![](/images/skins/cards/hanzo/soulfire-netherlord.webp)Владыка преис­подней с огнём душиИзысканный · 2025](https://boostmlbb.ru/skins/hanzo/soulfire-netherlord.html)[![](/images/skins/cards/hanzo/undead-king.webp)Король нежитиОбычный · 2023](https://boostmlbb.ru/skins/hanzo/undead-king.html)[![](/images/skins/cards/hanzo/the-pale-phantom.webp)Бледный фантомОбычный · 2022](https://boostmlbb.ru/skins/hanzo/the-pale-phantom.html)[![](/images/skins/cards/hanzo/insidious-tutor.webp)Коварный наставникИсключительный · 2020](https://boostmlbb.ru/skins/hanzo/insidious-tutor.html)
 
-**Поднимем ранг на герое Ханзо**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ханзо?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

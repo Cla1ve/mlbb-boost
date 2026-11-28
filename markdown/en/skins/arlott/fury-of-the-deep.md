@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/arlott/fury-of-the-deep.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Arlott skins](https://boostmlbb.ru/en/skins/arlott.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Arlott](https://boostmlbb.ru/en/skins/arlott.html)/Fury of the Deep
 
@@ -41,7 +41,7 @@ December 2023
 
 [![](/images/skins/cards/kalea/tideborn-sailor.webp)Tideborn SailorKalea · 2026](https://boostmlbb.ru/en/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/hayabusa/kitsune-s-shadow.webp)Kitsune's ShadowHayabusa · 2026](https://boostmlbb.ru/en/skins/hayabusa/kitsune-s-shadow.html)[![](/images/skins/cards/hanzo/fangs-of-slaughter.webp)Fangs of SlaughterHanzo · 2026](https://boostmlbb.ru/en/skins/hanzo/fangs-of-slaughter.html)[![](/images/skins/cards/belerick/smouldering-fortress.webp)Smoul­dering FortressBelerick · 2026](https://boostmlbb.ru/en/skins/belerick/smouldering-fortress.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Magitech WraithObsidia · 2026](https://boostmlbb.ru/en/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/zetian/elysian-luminance.webp)Elysian LuminanceZetian · 2026](https://boostmlbb.ru/en/skins/zetian/elysian-luminance.html)[![](/images/skins/cards/hilda/guardian-battalion.webp)Guardian BattalionHilda · 2026](https://boostmlbb.ru/en/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/harley/dreaming-koi.webp)Dreaming KoiHarley · 2026](https://boostmlbb.ru/en/skins/harley/dreaming-koi.html)
 
-**Rank up on Arlott**The calculator shows the price
+**How much is a rank boost on Arlott?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

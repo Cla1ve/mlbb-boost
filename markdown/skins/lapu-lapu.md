@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lapu-lapu.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Лапу-Лапу
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/lapu-lapu/adlaw-s-chosen.webp)Избранник АдлауИзысканный · 2024](https://boostmlbb.ru/skins/lapu-lapu/adlaw-s-chosen.html)[![](/images/skins/cards/lapu-lapu/son-of-the-wild.webp)Сын дикой природыОбычный · 2022](https://boostmlbb.ru/skins/lapu-lapu/son-of-the-wild.html)[![](/images/skins/cards/lapu-lapu/special-force.webp)СпецназИсключительный · 2021](https://boostmlbb.ru/skins/lapu-lapu/special-force.html)[![](/images/skins/cards/lapu-lapu/vulcan.webp)ВулканИсключительный · 2019](https://boostmlbb.ru/skins/lapu-lapu/vulcan.html)[![](/images/skins/cards/lapu-lapu/ancestral-blade.webp)Клинок предковОбычный · 2017](https://boostmlbb.ru/skins/lapu-lapu/ancestral-blade.html)[![](/images/skins/cards/lapu-lapu/imperial-champion.webp)Имперский чемпионОбычный · 2017](https://boostmlbb.ru/skins/lapu-lapu/imperial-champion.html)
 
-**Поднимем ранг на герое Лапу-Лапу**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лапу-Лапу?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

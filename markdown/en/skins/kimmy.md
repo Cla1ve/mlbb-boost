@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kimmy.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Kimmy
 
@@ -33,7 +33,7 @@ AllGrandExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/kimmy/starbound-sentry.webp)Starbound Sentry2026](https://boostmlbb.ru/en/skins/kimmy/starbound-sentry.html)[![](/images/skins/cards/kimmy/frost-wing.webp)Frost WingDeluxe · 2025](https://boostmlbb.ru/en/skins/kimmy/frost-wing.html)[![](/images/skins/cards/kimmy/rising-nova.webp)Rising NovaExceptional · 2025](https://boostmlbb.ru/en/skins/kimmy/rising-nova.html)[![](/images/skins/cards/kimmy/high-seas-cadet.webp)High Seas CadetCommon · 2024](https://boostmlbb.ru/en/skins/kimmy/high-seas-cadet.html)[![](/images/skins/cards/kimmy/first-order-jet-trooper.webp)First Order Jet TrooperGrand · 2023](https://boostmlbb.ru/en/skins/kimmy/first-order-jet-trooper.html)[![](/images/skins/cards/kimmy/steam-researcher.webp)Steam ResearcherCommon · 2022](https://boostmlbb.ru/en/skins/kimmy/steam-researcher.html)[![](/images/skins/cards/kimmy/bio-frontier.webp)Bio FrontierExceptional · 2019](https://boostmlbb.ru/en/skins/kimmy/bio-frontier.html)[![](/images/skins/cards/kimmy/charge-leader.webp)Charge LeaderExceptional · 2018](https://boostmlbb.ru/en/skins/kimmy/charge-leader.html)[![](/images/skins/cards/kimmy/astrocat.webp)AstrocatExquisite · 2018](https://boostmlbb.ru/en/skins/kimmy/astrocat.html)
 
-**Rank up on Kimmy**The calculator shows the price
+**How much is a rank boost on Kimmy?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

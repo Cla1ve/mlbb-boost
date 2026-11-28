@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/eudora/midnight-s-allure.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эйдоры](https://boostmlbb.ru/skins/eudora.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эйдора](https://boostmlbb.ru/skins/eudora.html)/Чары полуночи
 
@@ -46,7 +46,7 @@ Midnight's Allure
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Призрачное весельеЛилия · 2026](https://boostmlbb.ru/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/natan/sanguine-steward.webp)Кровавый распоря­дительНатан · 2026](https://boostmlbb.ru/skins/natan/sanguine-steward.html)[![](/images/skins/cards/benedetta/phantom-mirage.webp)Призрачный миражБенедетта · 2025](https://boostmlbb.ru/skins/benedetta/phantom-mirage.html)[![](/images/skins/cards/lesley/duchess-of-tides.webp)Герцогиня приливовЛесли · 2025](https://boostmlbb.ru/skins/lesley/duchess-of-tides.html)
 
-**Поднимем ранг на герое Эйдора**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эйдора?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

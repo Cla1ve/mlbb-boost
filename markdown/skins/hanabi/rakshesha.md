@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hanabi/rakshesha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ханаби](https://boostmlbb.ru/skins/hanabi.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ханаби](https://boostmlbb.ru/skins/hanabi.html)/Ракшаса
 
@@ -44,7 +44,7 @@ Rakshesha
 
 [![](/images/skins/cards/guinevere/lady-crane.webp)Леди-журавльГвиневра · 2025](https://boostmlbb.ru/skins/guinevere/lady-crane.html)[![](/images/skins/cards/lunox/butterfly-seraphim.webp)Серафим-бабочкаЛюнокс · 2025](https://boostmlbb.ru/skins/lunox/butterfly-seraphim.html)[![](/images/skins/cards/claude/mecha-dragon.webp)МехадраконКлауд · 2025](https://boostmlbb.ru/skins/claude/mecha-dragon.html)[![](/images/skins/cards/change/lunar-magic.webp)Лунная магияЧан'Э · 2020](https://boostmlbb.ru/skins/change/lunar-magic.html)[![](/images/skins/cards/selena/thunder-flash.webp)Громовая вспышкаСелена · 2020](https://boostmlbb.ru/skins/selena/thunder-flash.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Повелитель видеоигрУранус · 2020](https://boostmlbb.ru/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/martis/god-of-war.webp)Бог войныМартис · 2020](https://boostmlbb.ru/skins/martis/god-of-war.html)[![](/images/skins/cards/franco/valhalla-ruler.webp)Владыка ВальгаллыФранко · 2020](https://boostmlbb.ru/skins/franco/valhalla-ruler.html)
 
-**Поднимем ранг на герое Ханаби**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ханаби?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

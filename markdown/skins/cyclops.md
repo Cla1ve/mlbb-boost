@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/cyclops.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Циклоп
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/cyclops/spongebob.webp)Губка БобДелюкс · 2025](https://boostmlbb.ru/skins/cyclops/spongebob.html)[![](/images/skins/cards/cyclops/yokai-warlock.webp)Чернок­нижник-ёкайИзысканный · 2023](https://boostmlbb.ru/skins/cyclops/yokai-warlock.html)[![](/images/skins/cards/cyclops/straw-doll.webp)Соломенная куклаИсключительный · 2021](https://boostmlbb.ru/skins/cyclops/straw-doll.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Мастер ЙодаГрандиозный · 2021](https://boostmlbb.ru/skins/cyclops/master-yoda.html)[![](/images/skins/cards/cyclops/deep-sea-rescuer.webp)Глубоко­водный спасательИсключительный · 2018](https://boostmlbb.ru/skins/cyclops/deep-sea-rescuer.html)[![](/images/skins/cards/cyclops/zombie-bambino.webp)Зомби-малышОбычный · 2018](https://boostmlbb.ru/skins/cyclops/zombie-bambino.html)[![](/images/skins/cards/cyclops/s-a-b-e-r-enforcer.webp)Каратель S.A.B.E.R.Делюкс · 2018](https://boostmlbb.ru/skins/cyclops/s-a-b-e-r-enforcer.html)[![](/images/skins/cards/cyclops/super-adventurer.webp)Супер-искатель приклю­ченийОбычный · 2017](https://boostmlbb.ru/skins/cyclops/super-adventurer.html)[![](/images/skins/cards/cyclops/exorcist.webp)ЭкзорцистОбычный · 2017](https://boostmlbb.ru/skins/cyclops/exorcist.html)
 
-**Поднимем ранг на герое Циклоп**Цена считается в калькуляторе
+**Сколько стоит буст на герое Циклоп?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

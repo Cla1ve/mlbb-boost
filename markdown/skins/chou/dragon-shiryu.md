@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/chou/dragon-shiryu.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чу](https://boostmlbb.ru/skins/chou.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чу](https://boostmlbb.ru/skins/chou.html)/Дракон Сирю
 
@@ -46,7 +46,7 @@ Dragon Shiryu
 
 [![](/images/skins/cards/valir/phoenix-ikki.webp)Феникс ИккиВалир · 2022](https://boostmlbb.ru/skins/valir/phoenix-ikki.html)[![](/images/skins/cards/chou/libra-shiryu.webp)Весы СирюЧу · 2022](https://boostmlbb.ru/skins/chou/libra-shiryu.html)[![](/images/skins/cards/badang/sagittarius-seiya.webp)Стрелец СэйяБаданг · 2022](https://boostmlbb.ru/skins/badang/sagittarius-seiya.html)[![](/images/skins/cards/badang/pegasus-seiya.webp)Пегас СэйяБаданг · 2022](https://boostmlbb.ru/skins/badang/pegasus-seiya.html)[![](/images/skins/cards/valir/leo-ikki.webp)Лев ИккиВалир · 2022](https://boostmlbb.ru/skins/valir/leo-ikki.html)
 
-**Поднимем ранг на герое Чу**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чу?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/wanwan/m-world-wanwan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ванван](https://boostmlbb.ru/skins/wanwan.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ванван](https://boostmlbb.ru/skins/wanwan.html)/Ванван M-World
 
@@ -45,7 +45,7 @@ M-World Wanwan
 
 [![](/images/skins/cards/yin/m-world-yin.webp)Инь M-WorldИнь · 2022](https://boostmlbb.ru/skins/yin/m-world-yin.html)[![](/images/skins/cards/ling/m-world-ling.webp)Линг M-WorldЛинг · 2022](https://boostmlbb.ru/skins/ling/m-world-ling.html)
 
-**Поднимем ранг на герое Ванван**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ванван?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

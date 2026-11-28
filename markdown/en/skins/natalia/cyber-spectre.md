@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/natalia/cyber-spectre.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Natalia skins](https://boostmlbb.ru/en/skins/natalia.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Natalia](https://boostmlbb.ru/en/skins/natalia.html)/Cyber Spectre
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/zilong/ascendant-of-flame.webp)Ascendant of FlameZilong · 2026](https://boostmlbb.ru/en/skins/zilong/ascendant-of-flame.html)[![](/images/skins/cards/luo-yi/starborne-matron.webp)Starborne MatronLuo Yi · 2025](https://boostmlbb.ru/en/skins/luo-yi/starborne-matron.html)[![](/images/skins/cards/kadita/heart-of-the-sea.webp)Heart of the SeaKadita · 2024](https://boostmlbb.ru/en/skins/kadita/heart-of-the-sea.html)[![](/images/skins/cards/granger/hellbringer.webp)HellbringerGranger · 2023](https://boostmlbb.ru/en/skins/granger/hellbringer.html)[![](/images/skins/cards/odette/sage-of-the-currents.webp)Sage of the CurrentsOdette · 2020](https://boostmlbb.ru/en/skins/odette/sage-of-the-currents.html)
 
-**Rank up on Natalia**The calculator shows the price
+**How much is a rank boost on Natalia?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

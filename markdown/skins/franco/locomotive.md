@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/franco/locomotive.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Франко](https://boostmlbb.ru/skins/franco.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Франко](https://boostmlbb.ru/skins/franco.html)/Локомотив
 
@@ -42,7 +42,7 @@ Locomotive
 
 [![](/images/skins/cards/estes/white-crane.webp)Белый журавльЭстес · 2018](https://boostmlbb.ru/skins/estes/white-crane.html)
 
-**Поднимем ранг на герое Франко**Цена считается в калькуляторе
+**Сколько стоит буст на герое Франко?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

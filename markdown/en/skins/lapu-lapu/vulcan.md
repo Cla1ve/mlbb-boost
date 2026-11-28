@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lapu-lapu/vulcan.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Lapu-Lapu skins](https://boostmlbb.ru/en/skins/lapu-lapu.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Lapu-Lapu](https://boostmlbb.ru/en/skins/lapu-lapu.html)/Vulcan
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/mathilda/arcane-verdict.webp)Arcane VerdictMathilda · 2026](https://boostmlbb.ru/en/skins/mathilda/arcane-verdict.html)[![](/images/skins/cards/vale/windborne-waltz.webp)Windborne WaltzVale · 2026](https://boostmlbb.ru/en/skins/vale/windborne-waltz.html)[![](/images/skins/cards/franco/captain-of-the-lost.webp)Captain of the LostFranco · 2026](https://boostmlbb.ru/en/skins/franco/captain-of-the-lost.html)[![](/images/skins/cards/yi-sun-shin/wavebreaker.webp)Waveb­reakerYi Sun-shin · 2025](https://boostmlbb.ru/en/skins/yi-sun-shin/wavebreaker.html)[![](/images/skins/cards/badang/steel-arms.webp)Steel ArmsBadang · 2025](https://boostmlbb.ru/en/skins/badang/steel-arms.html)[![](/images/skins/cards/kagura/lady-parasol.webp)Lady ParasolKagura · 2025](https://boostmlbb.ru/en/skins/kagura/lady-parasol.html)[![](/images/skins/cards/aldous/fathom-terror.webp)Fathom TerrorAldous · 2025](https://boostmlbb.ru/en/skins/aldous/fathom-terror.html)[![](/images/skins/cards/change/moonglow-troupe.webp)Moonglow TroupeChang'e · 2025](https://boostmlbb.ru/en/skins/change/moonglow-troupe.html)
 
-**Rank up on Lapu-Lapu**The calculator shows the price
+**How much is a rank boost on Lapu-Lapu?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

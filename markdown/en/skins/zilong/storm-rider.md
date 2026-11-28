@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/zilong/storm-rider.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Zilong skins](https://boostmlbb.ru/en/skins/zilong.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Zilong](https://boostmlbb.ru/en/skins/zilong.html)/Storm Rider
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/harith/fashion-expert.webp)Fashion ExpertHarith · 2021](https://boostmlbb.ru/en/skins/harith/fashion-expert.html)
 
-**Rank up on Zilong**The calculator shows the price
+**How much is a rank boost on Zilong?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

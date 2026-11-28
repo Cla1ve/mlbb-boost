@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/edith/beyond-the-clouds-edith.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эдит](https://boostmlbb.ru/skins/edith.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эдит](https://boostmlbb.ru/skins/edith.html)/Эдит «За облаками»
 
@@ -46,7 +46,7 @@ Beyond the Clouds Edith
 
 [![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Ксавьер «За облаками»Ксавьер · 2024](https://boostmlbb.ru/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/kagura/beyond-the-clouds-kagura.webp)Кагура «За облаками»Кагура · 2023](https://boostmlbb.ru/skins/kagura/beyond-the-clouds-kagura.html)
 
-**Поднимем ранг на герое Эдит**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эдит?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/leomord/triumph-eagle.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Леоморда](https://boostmlbb.ru/skins/leomord.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Леоморд](https://boostmlbb.ru/skins/leomord.html)/Триумф: Орёл
 
@@ -38,7 +38,7 @@ Triumph - Eagle
 
 [![](/images/skins/cards/leomord/auspicious-blaze.webp)Благое пламяДелюкс · 2026](https://boostmlbb.ru/skins/leomord/auspicious-blaze.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Граф кошмаровДелюкс · 2025](https://boostmlbb.ru/skins/leomord/nightmare-count.html)[![](/images/skins/cards/leomord/triumph-eagle.webp)Триумф: ОрёлИсключительный · 2024](https://boostmlbb.ru/skins/leomord/triumph-eagle.html)[![](/images/skins/cards/leomord/diavel-v4-rider.webp)Гонщик на Diavel V4Грандиозный · 2023](https://boostmlbb.ru/skins/leomord/diavel-v4-rider.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Рыцарь тениГрандиозный · 2023](https://boostmlbb.ru/skins/leomord/shadow-knight.html)[![](/images/skins/cards/leomord/hell-knight.webp)Адский рыцарьОбычный · 2022](https://boostmlbb.ru/skins/leomord/hell-knight.html)[![](/images/skins/cards/leomord/jack-o-lantern.webp)Светильник ДжекаИсключительный · 2020](https://boostmlbb.ru/skins/leomord/jack-o-lantern.html)[![](/images/skins/cards/leomord/inferno-soul.webp)Душа преис­поднейИзысканный · 2019](https://boostmlbb.ru/skins/leomord/inferno-soul.html)[![](/images/skins/cards/leomord/frostborn-paladin.webp)Паладин, рождённый во льдахИсключительный · 2019](https://boostmlbb.ru/skins/leomord/frostborn-paladin.html)
 
-**Поднимем ранг на герое Леоморд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Леоморд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

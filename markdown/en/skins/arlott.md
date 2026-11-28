@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/arlott.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Arlott
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/arlott/aeon-of-twilight.webp)Aeon of TwilightExquisite · 2025](https://boostmlbb.ru/en/skins/arlott/aeon-of-twilight.html)[![](/images/skins/cards/arlott/fury-of-the-deep.webp)Fury of the DeepExceptional · 2023](https://boostmlbb.ru/en/skins/arlott/fury-of-the-deep.html)[![](/images/skins/cards/arlott/wandering-spear.webp)Wandering SpearCommon · 2023](https://boostmlbb.ru/en/skins/arlott/wandering-spear.html)
 
-**Rank up on Arlott**The calculator shows the price
+**How much is a rank boost on Arlott?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

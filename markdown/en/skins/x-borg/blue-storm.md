@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/x-borg/blue-storm.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[X.Borg skins](https://boostmlbb.ru/en/skins/x-borg.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[X.Borg](https://boostmlbb.ru/en/skins/x-borg.html)/Blue Storm
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/x-borg/bumblebee.webp)BumblebeeGrand · 2025](https://boostmlbb.ru/en/skins/x-borg/bumblebee.html)[![](/images/skins/cards/x-borg/pecados-rioter.webp)Pecados RioterCommon · 2025](https://boostmlbb.ru/en/skins/x-borg/pecados-rioter.html)[![](/images/skins/cards/x-borg/moto-drifter.webp)Moto DrifterCommon · 2023](https://boostmlbb.ru/en/skins/x-borg/moto-drifter.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Tesla ManiacGrand · 2020](https://boostmlbb.ru/en/skins/x-borg/tesla-maniac.html)[![](/images/skins/cards/x-borg/graffiti-fashion.webp)Graffiti FashionExceptional · 2020](https://boostmlbb.ru/en/skins/x-borg/graffiti-fashion.html)[![](/images/skins/cards/x-borg/blue-storm.webp)Blue StormCommon · 2019](https://boostmlbb.ru/en/skins/x-borg/blue-storm.html)
 
-**Rank up on X.Borg**The calculator shows the price
+**How much is a rank boost on X.Borg?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/selena/wasp-queen.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Selena skins](https://boostmlbb.ru/en/skins/selena.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Selena](https://boostmlbb.ru/en/skins/selena.html)/Wasp Queen
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/selena/silverbolt-raiko.webp)Silverbolt RaikoGrand · 2026](https://boostmlbb.ru/en/skins/selena/silverbolt-raiko.html)[![](/images/skins/cards/selena/curse-of-cinder.webp)Curse of CinderGrand · 2025](https://boostmlbb.ru/en/skins/selena/curse-of-cinder.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Lady VengeanceGrand · 2021](https://boostmlbb.ru/en/skins/selena/lady-vengeance.html)[![](/images/skins/cards/selena/gothic-curse.webp)Gothic CurseCommon · 2021](https://boostmlbb.ru/en/skins/selena/gothic-curse.html)[![](/images/skins/cards/selena/s-t-u-n-selena.webp)S.T.U.N. SelenaDeluxe · 2021](https://boostmlbb.ru/en/skins/selena/s-t-u-n-selena.html)[![](/images/skins/cards/selena/thunder-flash.webp)Thunder FlashExquisite · 2020](https://boostmlbb.ru/en/skins/selena/thunder-flash.html)[![](/images/skins/cards/selena/double-identity.webp)Double IdentityExceptional · 2019](https://boostmlbb.ru/en/skins/selena/double-identity.html)[![](/images/skins/cards/selena/gemini-shadow.webp)Gemini - ShadowDeluxe · 2019](https://boostmlbb.ru/en/skins/selena/gemini-shadow.html)[![](/images/skins/cards/selena/virus.webp)VirusDeluxe · 2019](https://boostmlbb.ru/en/skins/selena/virus.html)[![](/images/skins/cards/selena/wasp-queen.webp)Wasp QueenCommon · 2018](https://boostmlbb.ru/en/skins/selena/wasp-queen.html)
 
-**Rank up on Selena**The calculator shows the price
+**How much is a rank boost on Selena?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

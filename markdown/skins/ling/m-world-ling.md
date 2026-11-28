@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/ling/m-world-ling.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Линга](https://boostmlbb.ru/skins/ling.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Линг](https://boostmlbb.ru/skins/ling.html)/Линг M-World
 
@@ -45,7 +45,7 @@ M-World Ling
 
 [![](/images/skins/cards/yin/m-world-yin.webp)Инь M-WorldИнь · 2022](https://boostmlbb.ru/skins/yin/m-world-yin.html)[![](/images/skins/cards/wanwan/m-world-wanwan.webp)Ванван M-WorldВанван · 2022](https://boostmlbb.ru/skins/wanwan/m-world-wanwan.html)
 
-**Поднимем ранг на герое Линг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Линг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

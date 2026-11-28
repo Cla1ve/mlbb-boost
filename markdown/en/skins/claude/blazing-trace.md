@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/claude/blazing-trace.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Claude skins](https://boostmlbb.ru/en/skins/claude.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Claude](https://boostmlbb.ru/en/skins/claude.html)/Blazing Trace
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/esmeralda/blazing-shadow.webp)Blazing ShadowEsmeralda · 2020](https://boostmlbb.ru/en/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/layla/blazing-gun.webp)Blazing GunLayla · 2020](https://boostmlbb.ru/en/skins/layla/blazing-gun.html)[![](/images/skins/cards/aldous/blazing-force.webp)Blazing ForceAldous · 2020](https://boostmlbb.ru/en/skins/aldous/blazing-force.html)[![](/images/skins/cards/franco/blazing-axe.webp)Blazing AxeFranco · 2020](https://boostmlbb.ru/en/skins/franco/blazing-axe.html)
 
-**Rank up on Claude**The calculator shows the price
+**How much is a rank boost on Claude?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

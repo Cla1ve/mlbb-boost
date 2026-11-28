@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/aurora.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Aurora
 
@@ -33,7 +33,7 @@ AllGrandExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/aurora/veil-of-the-celestials.webp)Veil of the CelestialsExquisite · 2025](https://boostmlbb.ru/en/skins/aurora/veil-of-the-celestials.html)[![](/images/skins/cards/aurora/kula-diamond.webp)Kula DiamondGrand · 2019](https://boostmlbb.ru/en/skins/aurora/kula-diamond.html)[![](/images/skins/cards/aurora/aquarius.webp)AquariusDeluxe · 2019](https://boostmlbb.ru/en/skins/aurora/aquarius.html)[![](/images/skins/cards/aurora/foxy-lady.webp)Foxy LadyExceptional · 2018](https://boostmlbb.ru/en/skins/aurora/foxy-lady.html)[![](/images/skins/cards/aurora/heartbreak-empress.webp)Heartbreak EmpressExceptional · 2017](https://boostmlbb.ru/en/skins/aurora/heartbreak-empress.html)[![](/images/skins/cards/aurora/nature-s-throne.webp)Nature's ThroneCommon · 2017](https://boostmlbb.ru/en/skins/aurora/nature-s-throne.html)[![](/images/skins/cards/aurora/candle-s-vigil.webp)Candle's Vigil](https://boostmlbb.ru/en/skins/aurora/candle-s-vigil.html)
 
-**Rank up on Aurora**The calculator shows the price
+**How much is a rank boost on Aurora?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

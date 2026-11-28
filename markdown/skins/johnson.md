@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/johnson.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Джонсон
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/johnson/sovereign-of-realms.webp)Повелитель мировВысший · 2025](https://boostmlbb.ru/skins/johnson/sovereign-of-realms.html)[![](/images/skins/cards/johnson/optimus-prime.webp)Оптимус ПраймГрандиозный · 2023](https://boostmlbb.ru/skins/johnson/optimus-prime.html)[![](/images/skins/cards/johnson/starblazer.webp)Звёздный гонщикИсключительный · 2023](https://boostmlbb.ru/skins/johnson/starblazer.html)[![](/images/skins/cards/johnson/death-ride.webp)Смер­тельная поездкаИсключительный · 2021](https://boostmlbb.ru/skins/johnson/death-ride.html)[![](/images/skins/cards/johnson/wreck-king.webp)Король крушенияИзысканный · 2019](https://boostmlbb.ru/skins/johnson/wreck-king.html)[![](/images/skins/cards/johnson/jeepney-racer.webp)Гонщик на джипниОбычный · 2018](https://boostmlbb.ru/skins/johnson/jeepney-racer.html)[![](/images/skins/cards/johnson/s-a-b-e-r-automata.webp)Автомат S.A.B.E.R.Делюкс · 2018](https://boostmlbb.ru/skins/johnson/s-a-b-e-r-automata.html)[![](/images/skins/cards/johnson/fire-chief.webp)Начальник пожарныхОбычный · 2017](https://boostmlbb.ru/skins/johnson/fire-chief.html)
 
-**Поднимем ранг на герое Джонсон**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джонсон?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

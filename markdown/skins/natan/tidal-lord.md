@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/natan/tidal-lord.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Натана](https://boostmlbb.ru/skins/natan.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Натан](https://boostmlbb.ru/skins/natan.html)/Владыка приливов
 
@@ -47,7 +47,7 @@ Tidal Lord
 
 [![](/images/skins/cards/bruno/the-purifier.webp)ОчистительБруно · 2026](https://boostmlbb.ru/skins/bruno/the-purifier.html)[![](/images/skins/cards/sun/celestial-rebel.webp)Небесный бунтарьСан · 2026](https://boostmlbb.ru/skins/sun/celestial-rebel.html)[![](/images/skins/cards/helcurt/kaiju-of-the-deep.webp)Кайдзю глубинХелкарт · 2026](https://boostmlbb.ru/skins/helcurt/kaiju-of-the-deep.html)[![](/images/skins/cards/kimmy/starbound-sentry.webp)Звёздный дозорныйКимми · 2026](https://boostmlbb.ru/skins/kimmy/starbound-sentry.html)[![](/images/skins/cards/alice/dreaming-monarch.webp)Монархиня грёзАлиса · 2026](https://boostmlbb.ru/skins/alice/dreaming-monarch.html)[![](/images/skins/cards/grock/tremor-of-the-deep.webp)Дрожь глубинГрок · 2026](https://boostmlbb.ru/skins/grock/tremor-of-the-deep.html)[![](/images/skins/cards/tigreal/celestial-general.webp)Небесный генералТигрил · 2026](https://boostmlbb.ru/skins/tigreal/celestial-general.html)[![](/images/skins/cards/xavier/sunborn-monarch.webp)Монарх, рождённый солнцемКсавьер · 2026](https://boostmlbb.ru/skins/xavier/sunborn-monarch.html)
 
-**Поднимем ранг на герое Натан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Натан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

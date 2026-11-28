@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/aamon/vessel-of-deceit.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эймона](https://boostmlbb.ru/skins/aamon.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эймон](https://boostmlbb.ru/skins/aamon.html)/Сосуд обмана
 
@@ -49,7 +49,7 @@ Vessel of Deceit
 
 [![](/images/skins/cards/hanabi/vessel-of-rage.webp)Сосуд яростиХанаби · 2023](https://boostmlbb.ru/skins/hanabi/vessel-of-rage.html)
 
-**Поднимем ранг на герое Эймон**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эймон?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

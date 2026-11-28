@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/roger/grimlock.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Roger skins](https://boostmlbb.ru/en/skins/roger.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Roger](https://boostmlbb.ru/en/skins/roger.html)/Grimlock
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/x-borg/bumblebee.webp)BumblebeeX.Borg · 2025](https://boostmlbb.ru/en/skins/x-borg/bumblebee.html)[![](/images/skins/cards/johnson/optimus-prime.webp)Optimus PrimeJohnson · 2023](https://boostmlbb.ru/en/skins/johnson/optimus-prime.html)[![](/images/skins/cards/granger/megatron.webp)MegatronGranger · 2023](https://boostmlbb.ru/en/skins/granger/megatron.html)[![](/images/skins/cards/popol-and-kupa/soundwave-ravage.webp)Soundwave & RavagePopol and Kupa · 2022](https://boostmlbb.ru/en/skins/popol-and-kupa/soundwave-ravage.html)[![](/images/skins/cards/aldous/starscream.webp)StarscreamAldous · 2022](https://boostmlbb.ru/en/skins/aldous/starscream.html)
 
-**Rank up on Roger**The calculator shows the price
+**How much is a rank boost on Roger?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

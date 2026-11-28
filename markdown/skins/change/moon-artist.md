@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/change/moon-artist.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чан'Э](https://boostmlbb.ru/skins/change.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чан'Э](https://boostmlbb.ru/skins/change.html)/Лунная художница
 
@@ -48,7 +48,7 @@ Moon Artist
 
 [![](/images/skins/cards/floryn/fluffy-dream.webp)Пушистая мечтаФлорин · 2022](https://boostmlbb.ru/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/angela/heartstring.webp)Струны сердцаАнгела · 2022](https://boostmlbb.ru/skins/angela/heartstring.html)[![](/images/skins/cards/claude/bad-bro.webp)Плохой броКлауд · 2020](https://boostmlbb.ru/skins/claude/bad-bro.html)
 
-**Поднимем ранг на герое Чан'Э**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чан'Э?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

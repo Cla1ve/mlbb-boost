@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/zhuxin/ethereal-serenity.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Zhuxin skins](https://boostmlbb.ru/en/skins/zhuxin.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Zhuxin](https://boostmlbb.ru/en/skins/zhuxin.html)/Ethereal Serenity
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)P.ACE ZhuxinDeluxe · 2025](https://boostmlbb.ru/en/skins/zhuxin/p-ace-zhuxin.html)[![](/images/skins/cards/zhuxin/emberwisp-mystic.webp)Emberwisp MysticExceptional · 2025](https://boostmlbb.ru/en/skins/zhuxin/emberwisp-mystic.html)[![](/images/skins/cards/zhuxin/ethereal-serenity.webp)Ethereal SerenityCommon · 2024](https://boostmlbb.ru/en/skins/zhuxin/ethereal-serenity.html)
 
-**Rank up on Zhuxin**The calculator shows the price
+**How much is a rank boost on Zhuxin?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

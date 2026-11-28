@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/eudora/atomic-pop-eudora.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эйдоры](https://boostmlbb.ru/skins/eudora.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эйдора](https://boostmlbb.ru/skins/eudora.html)/Эйдора Atomic Pop
 
@@ -46,7 +46,7 @@ Atomic Pop Eudora
 
 [![](/images/skins/cards/miya/atomic-pop-miya.webp)Мия Atomic PopМия · 2023](https://boostmlbb.ru/skins/miya/atomic-pop-miya.html)
 
-**Поднимем ранг на герое Эйдора**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эйдора?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

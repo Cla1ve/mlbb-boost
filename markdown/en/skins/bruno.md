@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/bruno.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Bruno
 
@@ -33,7 +33,7 @@ AllGrandExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/bruno/the-purifier.webp)The PurifierExquisite · 2026](https://boostmlbb.ru/en/skins/bruno/the-purifier.html)[![](/images/skins/cards/bruno/street-hype.webp)Street HypeExceptional · 2024](https://boostmlbb.ru/en/skins/bruno/street-hype.html)[![](/images/skins/cards/bruno/neymar-jr.webp)Neymar JrExceptional · 2022](https://boostmlbb.ru/en/skins/bruno/neymar-jr.html)[![](/images/skins/cards/bruno/halo-striker.webp)Halo StrikerDeluxe · 2022](https://boostmlbb.ru/en/skins/bruno/halo-striker.html)[![](/images/skins/cards/bruno/firebolt.webp)FireboltGrand · 2020](https://boostmlbb.ru/en/skins/bruno/firebolt.html)[![](/images/skins/cards/bruno/the-falcon.webp)The FalconExceptional · 2020](https://boostmlbb.ru/en/skins/bruno/the-falcon.html)[![](/images/skins/cards/bruno/street-football.webp)Street FootballCommon · 2018](https://boostmlbb.ru/en/skins/bruno/street-football.html)[![](/images/skins/cards/bruno/best-dj.webp)Best DJExceptional · 2016](https://boostmlbb.ru/en/skins/bruno/best-dj.html)[![](/images/skins/cards/bruno/vanguard-elite.webp)Vanguard EliteCommon · 2016](https://boostmlbb.ru/en/skins/bruno/vanguard-elite.html)
 
-**Rank up on Bruno**The calculator shows the price
+**How much is a rank boost on Bruno?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

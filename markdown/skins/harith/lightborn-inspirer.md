@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harith/lightborn-inspirer.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Харита](https://boostmlbb.ru/skins/harith.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Харит](https://boostmlbb.ru/skins/harith.html)/Рождённый светом: Вдохновитель
 
@@ -47,7 +47,7 @@ Lightborn - Inspirer
 
 [![](/images/skins/cards/granger/lightborn-overrider.webp)Рождённый светом: ПодавительГрейнджер · 2024](https://boostmlbb.ru/skins/granger/lightborn-overrider.html)[![](/images/skins/cards/fanny/lightborn-ranger.webp)Рождённая светом: РейнджерФанни · 2019](https://boostmlbb.ru/skins/fanny/lightborn-ranger.html)[![](/images/skins/cards/alucard/lightborn-striker.webp)Рождённый светом: УдарникАлукард · 2019](https://boostmlbb.ru/skins/alucard/lightborn-striker.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Рождённый светом: ЗащитникТигрил · 2019](https://boostmlbb.ru/skins/tigreal/lightborn-defender.html)
 
-**Поднимем ранг на герое Харит**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харит?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

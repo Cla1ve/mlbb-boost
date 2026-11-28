@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/roger/dark-gent.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Роджера](https://boostmlbb.ru/skins/roger.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Роджер](https://boostmlbb.ru/skins/roger.html)/Тёмный джентльмен
 
@@ -39,7 +39,7 @@ Dark Gent
 
 [![](/images/skins/cards/roger/grimlock.webp)ГримлокГрандиозный · 2022](https://boostmlbb.ru/skins/roger/grimlock.html)[![](/images/skins/cards/roger/phantom-ranger.webp)Призрачный рейнджерДелюкс · 2021](https://boostmlbb.ru/skins/roger/phantom-ranger.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Охотник на нечистьГрандиозный · 2021](https://boostmlbb.ru/skins/roger/fiend-hunter.html)[![](/images/skins/cards/roger/cyborg-werewolf.webp)Киборг-оборотеньДелюкс · 2021](https://boostmlbb.ru/skins/roger/cyborg-werewolf.html)[![](/images/skins/cards/roger/phantom-hunter.webp)Призрачный охотникДелюкс · 2018](https://boostmlbb.ru/skins/roger/phantom-hunter.html)[![](/images/skins/cards/roger/anubis.webp)АнубисИсключительный · 2018](https://boostmlbb.ru/skins/roger/anubis.html)[![](/images/skins/cards/roger/dr-beast.webp)Доктор ЗверьИзысканный · 2017](https://boostmlbb.ru/skins/roger/dr-beast.html)[![](/images/skins/cards/roger/dark-gent.webp)Тёмный джентльменОбычный · 2017](https://boostmlbb.ru/skins/roger/dark-gent.html)
 
-**Поднимем ранг на герое Роджер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Роджер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

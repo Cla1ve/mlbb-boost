@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/obsidia/undying-remnants.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Obsidia skins](https://boostmlbb.ru/en/skins/obsidia.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Obsidia](https://boostmlbb.ru/en/skins/obsidia.html)/Undying Remnants
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/obsidia/imperatrix-arashi.webp)Imperatrix ArashiGrand · 2026](https://boostmlbb.ru/en/skins/obsidia/imperatrix-arashi.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Magitech Wraith2026](https://boostmlbb.ru/en/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/obsidia/undying-remnants.webp)Undying RemnantsCommon · 2025](https://boostmlbb.ru/en/skins/obsidia/undying-remnants.html)
 
-**Rank up on Obsidia**The calculator shows the price
+**How much is a rank boost on Obsidia?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

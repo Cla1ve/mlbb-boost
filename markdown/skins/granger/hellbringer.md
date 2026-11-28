@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/granger/hellbringer.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Грейнджера](https://boostmlbb.ru/skins/granger.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Грейнджер](https://boostmlbb.ru/skins/granger.html)/Вестник ада
 
@@ -46,7 +46,7 @@ Hellbringer
 
 [![](/images/skins/cards/zilong/ascendant-of-flame.webp)Восходящий пламениЗилонг · 2026](https://boostmlbb.ru/skins/zilong/ascendant-of-flame.html)[![](/images/skins/cards/luo-yi/starborne-matron.webp)Звёздная матронаЛо Йи · 2025](https://boostmlbb.ru/skins/luo-yi/starborne-matron.html)[![](/images/skins/cards/kadita/heart-of-the-sea.webp)Сердце моряКадита · 2024](https://boostmlbb.ru/skins/kadita/heart-of-the-sea.html)[![](/images/skins/cards/odette/sage-of-the-currents.webp)Мудрица теченийОдетта · 2020](https://boostmlbb.ru/skins/odette/sage-of-the-currents.html)[![](/images/skins/cards/natalia/cyber-spectre.webp)Кибер-призракНаталья · 2020](https://boostmlbb.ru/skins/natalia/cyber-spectre.html)
 
-**Поднимем ранг на герое Грейнджер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Грейнджер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

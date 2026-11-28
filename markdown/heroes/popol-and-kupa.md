@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/heroes/popol-and-kupa.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 [Тир-лист](https://boostmlbb.ru/heroes/)
 
 ![Арт героя Пополь и Купа](/images/heroes/art/popol-and-kupa.webp)

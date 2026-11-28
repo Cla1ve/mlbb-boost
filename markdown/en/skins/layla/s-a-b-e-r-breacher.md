@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/layla/s-a-b-e-r-breacher.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Layla skins](https://boostmlbb.ru/en/skins/layla.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Layla](https://boostmlbb.ru/en/skins/layla.html)/S.A.B.E.R. Breacher
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/freya/s-a-b-e-r-manhunter.webp)S.A.B.E.R. ManhunterFreya · 2022](https://boostmlbb.ru/en/skins/freya/s-a-b-e-r-manhunter.html)[![](/images/skins/cards/cyclops/s-a-b-e-r-enforcer.webp)S.A.B.E.R. EnforcerCyclops · 2018](https://boostmlbb.ru/en/skins/cyclops/s-a-b-e-r-enforcer.html)[![](/images/skins/cards/johnson/s-a-b-e-r-automata.webp)S.A.B.E.R. AutomataJohnson · 2018](https://boostmlbb.ru/en/skins/johnson/s-a-b-e-r-automata.html)[![](/images/skins/cards/saber/s-a-b-e-r-regulator.webp)S.A.B.E.R. RegulatorSaber · 2018](https://boostmlbb.ru/en/skins/saber/s-a-b-e-r-regulator.html)[![](/images/skins/cards/rafaela/s-a-b-e-r-savior.webp)S.A.B.E.R. SaviorRafaela · 2017](https://boostmlbb.ru/en/skins/rafaela/s-a-b-e-r-savior.html)
 
-**Rank up on Layla**The calculator shows the price
+**How much is a rank boost on Layla?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

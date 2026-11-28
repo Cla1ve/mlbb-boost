@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/beatrix/stellar-briliance.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Беатрис](https://boostmlbb.ru/skins/beatrix.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Беатрис](https://boostmlbb.ru/skins/beatrix.html)/Звёздный блеск
 
@@ -47,7 +47,7 @@ Stellar Briliance
 
 [![](/images/skins/cards/claude/cosmic-blaze.webp)Косми­ческое пламяКлауд · 2024](https://boostmlbb.ru/skins/claude/cosmic-blaze.html)[![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Косми­ческий драконЧонг · 2023](https://boostmlbb.ru/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Охотник на нечистьРоджер · 2021](https://boostmlbb.ru/skins/roger/fiend-hunter.html)[![](/images/skins/cards/granger/cosmic-finality.webp)Косми­ческий финалГрейнджер](https://boostmlbb.ru/skins/granger/cosmic-finality.html)
 
-**Поднимем ранг на герое Беатрис**Цена считается в калькуляторе
+**Сколько стоит буст на герое Беатрис?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

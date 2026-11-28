@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 [Tier list](https://boostmlbb.ru/en/heroes/)
 
 ![Kagura hero art](/images/heroes/art/kagura.webp)

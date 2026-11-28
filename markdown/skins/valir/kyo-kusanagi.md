@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/valir/kyo-kusanagi.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Валира](https://boostmlbb.ru/skins/valir.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Валир](https://boostmlbb.ru/skins/valir.html)/Кё Кусанаги
 
@@ -49,7 +49,7 @@ Kyo Kusanagi
 
 [![](/images/skins/cards/paquito/terry-bogard.webp)Терри БогардПакито · 2024](https://boostmlbb.ru/skins/paquito/terry-bogard.html)[![](/images/skins/cards/masha/mai-shiranui.webp)Май ШирануиМаша · 2024](https://boostmlbb.ru/skins/masha/mai-shiranui.html)[![](/images/skins/cards/gusion/k.webp)К'Госсен · 2024](https://boostmlbb.ru/skins/gusion/k.html)[![](/images/skins/cards/dyrroth/orochi-chris.webp)Орочи КрисДариус · 2020](https://boostmlbb.ru/skins/dyrroth/orochi-chris.html)[![](/images/skins/cards/aurora/kula-diamond.webp)Кула ДаймондАврора · 2019](https://boostmlbb.ru/skins/aurora/kula-diamond.html)[![](/images/skins/cards/guinevere/athena-asamiya.webp)Афина АсамияГвиневра · 2019](https://boostmlbb.ru/skins/guinevere/athena-asamiya.html)[![](/images/skins/cards/chou/iori-yagami.webp)Иори ЯгамиЧу · 2019](https://boostmlbb.ru/skins/chou/iori-yagami.html)[![](/images/skins/cards/karina/leona.webp)ЛеонаКарина · 2019](https://boostmlbb.ru/skins/karina/leona.html)
 
-**Поднимем ранг на герое Валир**Цена считается в калькуляторе
+**Сколько стоит буст на герое Валир?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

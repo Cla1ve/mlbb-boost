@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lukas/ardent-roar.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Lukas skins](https://boostmlbb.ru/en/skins/lukas.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Lukas](https://boostmlbb.ru/en/skins/lukas.html)/Ardent Roar
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/lukas/naruto-uzumaki.webp)Naruto UzumakiGrand · 2025](https://boostmlbb.ru/en/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/lukas/ardent-roar.webp)Ardent RoarCommon · 2024](https://boostmlbb.ru/en/skins/lukas/ardent-roar.html)
 
-**Rank up on Lukas**The calculator shows the price
+**How much is a rank boost on Lukas?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

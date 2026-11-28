@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/cecilion.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Cecilion
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/cecilion/hisoka.webp)HisokaGrand · 2025](https://boostmlbb.ru/en/skins/cecilion/hisoka.html)[![](/images/skins/cards/cecilion/crimson-wings.webp)Crimson WingsExquisite · 2022](https://boostmlbb.ru/en/skins/cecilion/crimson-wings.html)[![](/images/skins/cards/cecilion/stargazer.webp)StargazerExceptional · 2022](https://boostmlbb.ru/en/skins/cecilion/stargazer.html)[![](/images/skins/cards/cecilion/phantom-count.webp)Phantom CountExceptional · 2021](https://boostmlbb.ru/en/skins/cecilion/phantom-count.html)[![](/images/skins/cards/cecilion/the-illusionist.webp)The Illu­sionistCommon · 2020](https://boostmlbb.ru/en/skins/cecilion/the-illusionist.html)[![](/images/skins/cards/cecilion/wisteria-count.webp)Wisteria CountCommon · 2020](https://boostmlbb.ru/en/skins/cecilion/wisteria-count.html)
 
-**Rank up on Cecilion**The calculator shows the price
+**How much is a rank boost on Cecilion?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

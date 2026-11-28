@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/leomord/shadow-knight.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Леоморда](https://boostmlbb.ru/skins/leomord.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Леоморд](https://boostmlbb.ru/skins/leomord.html)/Рыцарь тени
 
@@ -49,7 +49,7 @@ Shadow Knight
 
 [![](/images/skins/cards/moskov/doom-incarnate.webp)Воплощение рокаМосков · 2023](https://boostmlbb.ru/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/alpha/general-void.webp)Генерал ПустотаАльфа · 2023](https://boostmlbb.ru/skins/alpha/general-void.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Леди МестьСелена · 2021](https://boostmlbb.ru/skins/selena/lady-vengeance.html)
 
-**Поднимем ранг на герое Леоморд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Леоморд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

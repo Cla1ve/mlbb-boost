@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/irithel.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Иритель
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/irithel/checkered-knight.webp)Клетчатый рыцарьИсключительный · 2025](https://boostmlbb.ru/skins/irithel/checkered-knight.html)[![](/images/skins/cards/irithel/monster-sp-rider.webp)Гонщица на Monster SPГрандиозный · 2023](https://boostmlbb.ru/skins/irithel/monster-sp-rider.html)[![](/images/skins/cards/irithel/astral-wanderer.webp)Астральный странникИзысканный · 2019](https://boostmlbb.ru/skins/irithel/astral-wanderer.html)[![](/images/skins/cards/irithel/sagittarius.webp)СтрелецДелюкс · 2018](https://boostmlbb.ru/skins/irithel/sagittarius.html)[![](/images/skins/cards/irithel/nightarrow.webp)Ночная стрелаИсключительный · 2018](https://boostmlbb.ru/skins/irithel/nightarrow.html)[![](/images/skins/cards/irithel/hellfire.webp)Адское пламяДелюкс · 2017](https://boostmlbb.ru/skins/irithel/hellfire.html)[![](/images/skins/cards/irithel/silver-cyclone.webp)Серебряный циклонОбычный · 2017](https://boostmlbb.ru/skins/irithel/silver-cyclone.html)
 
-**Поднимем ранг на герое Иритель**Цена считается в калькуляторе
+**Сколько стоит буст на герое Иритель?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

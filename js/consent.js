@@ -118,3 +118,68 @@
   };
 
 })();
+
+/* The Telegram start parameter also carries a calculator draft. Keep it within 64 characters. */
+(() => {
+  const routes = { h:'heroes', i:'items', s:'skins', n:'news', b:'boost', g:'guides', t:'nickname-generator' };
+  function landingCode(path) {
+    const en = path.startsWith('/en/');
+    path = path.replace(/^\/en\//, '/').replace(/index\.html$/, '');
+    const parts = path.split('/').filter(Boolean);
+    const section = Object.keys(routes).find(k => routes[k] === parts[0]);
+    const slug = (section ? parts.slice(1) : parts).join('_').replace(/\.html$/, '');
+    if (!/^[a-z0-9_-]*$/.test(slug) || (!section && parts.length > 1)) return '';
+    return (en ? 'E' : 'R') + (section || 'p') + slug;
+  }
+  const key = 'mlbb_first_landing_v1';
+  let code = '';
+  try {
+    code = localStorage.getItem(key) || '';
+    if (!code && (!document.referrer || new URL(document.referrer).origin !== location.origin))
+      code = landingCode(location.pathname);
+    const remember = () => { if (code && !localStorage.getItem(key)) localStorage.setItem(key, code); };
+    if (localStorage.getItem('mlbb_consent_accepted') === 'true') remember();
+    window.addEventListener('mlbb:consent-granted', remember);
+  } catch { /* Unavailable storage leaves previous visits unknown. */ }
+  function tracked(href) {
+    if (!code || !href) return href;
+    const url = new URL(href, location.href);
+    if (url.origin !== 'https://t.me' || url.pathname !== '/cla1ve_boost_bot') return href;
+    const start = url.searchParams.get('start');
+    if (!/^(site|site_order|siteq1_[a-z0-9_-]+)$/.test(start || '') || start.includes('__')) return href;
+    const suffix = start.length + 2 + code.length <= 64 ? code : code[1] === 'p' ? '' : code.slice(0,2) + 'X';
+    if (suffix) url.searchParams.set('start', start + '__' + suffix);
+    return url.href;
+  }
+  window.mlbbSiteBotLink = tracked;
+  function measure(event) {
+    try {
+      if (localStorage.getItem('mlbb_consent_accepted') !== 'true') return;
+      const section = routes[code[1]] || (code ? code.slice(2) || 'home' : 'unknown');
+      const params = { first_section: section, content_language: document.documentElement.lang };
+      window.gtag?.('event', event, params);
+      window.ym?.(99684184, 'reachGoal', event, params);
+    } catch { /* Measurement must not interrupt navigation. */ }
+  }
+  window.mlbbMeasure = measure;
+  if (location.pathname.endsWith('/order.html')) measure('calculator_open');
+  document.addEventListener('click', event => {
+    const link = event.target.closest?.('a[href]');
+    if (!link) return;
+    if (link.hostname === 't.me' && link.pathname === '/cla1ve_boost_bot') measure('site_bot_click');
+    if (link.origin === location.origin && link.pathname.endsWith('/order.html')) measure('calculator_link_click');
+  }, true);
+  const decorate = () => document.querySelectorAll('a[href^="https://t.me/cla1ve_boost_bot"]').forEach(a => { a.href = tracked(a.href); });
+  decorate();
+  for (const event of ['pointerdown','click','contextmenu','focusin']) document.addEventListener(event, e => {
+    const a = e.target.closest?.('a[href^="https://t.me/cla1ve_boost_bot"]');
+    if (a) a.href = tracked(a.href);
+  }, true);
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.game-menu')) document.querySelector('.game-menu details[open]')?.removeAttribute('open');
+  });
+  document.addEventListener('keydown', e => {
+    const open = document.querySelector('.game-menu details[open]');
+    if (open && e.key === 'Escape') { open.open = false; open.querySelector('summary').focus(); }
+  });
+})();

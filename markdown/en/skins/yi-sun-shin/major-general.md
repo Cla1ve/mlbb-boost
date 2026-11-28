@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/yi-sun-shin/major-general.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Yi Sun-shin skins](https://boostmlbb.ru/en/skins/yi-sun-shin.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Yi Sun-shin](https://boostmlbb.ru/en/skins/yi-sun-shin.html)/Major General
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/yi-sun-shin/wavebreaker.webp)Waveb­reakerExceptional · 2025](https://boostmlbb.ru/en/skins/yi-sun-shin/wavebreaker.html)[![](/images/skins/cards/yi-sun-shin/surging-torrent.webp)Surging TorrentCommon · 2023](https://boostmlbb.ru/en/skins/yi-sun-shin/surging-torrent.html)[![](/images/skins/cards/yi-sun-shin/azure-sentry.webp)Azure SentryExceptional · 2021](https://boostmlbb.ru/en/skins/yi-sun-shin/azure-sentry.html)[![](/images/skins/cards/yi-sun-shin/astral-wanderer.webp)Astral WandererExquisite · 2019](https://boostmlbb.ru/en/skins/yi-sun-shin/astral-wanderer.html)[![](/images/skins/cards/yi-sun-shin/fleet-warden.webp)Fleet WardenDeluxe · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/fleet-warden.html)[![](/images/skins/cards/yi-sun-shin/roguish-ranger.webp)Roguish RangerCommon · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/roguish-ranger.html)[![](/images/skins/cards/yi-sun-shin/apocalypse-agent.webp)Apocalypse AgentCommon · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/apocalypse-agent.html)[![](/images/skins/cards/yi-sun-shin/major-general.webp)Major GeneralCommon · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/major-general.html)
 
-**Rank up on Yi Sun-shin**The calculator shows the price
+**How much is a rank boost on Yi Sun-shin?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

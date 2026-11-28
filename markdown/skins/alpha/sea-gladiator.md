@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/alpha/sea-gladiator.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Альфы](https://boostmlbb.ru/skins/alpha.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Альфа](https://boostmlbb.ru/skins/alpha.html)/Морской гладиатор
 
@@ -38,7 +38,7 @@ Sea Gladiator
 
 [![](/images/skins/cards/alpha/revenant-of-roses.webp)Призрак розВысший · 2025](https://boostmlbb.ru/skins/alpha/revenant-of-roses.html)[![](/images/skins/cards/alpha/mecha-king-perseus.webp)Меха-король ПерсейИзысканный · 2024](https://boostmlbb.ru/skins/alpha/mecha-king-perseus.html)[![](/images/skins/cards/alpha/general-void.webp)Генерал ПустотаГрандиозный · 2023](https://boostmlbb.ru/skins/alpha/general-void.html)[![](/images/skins/cards/alpha/star-enforcer.webp)Звёздный стражИсключительный · 2023](https://boostmlbb.ru/skins/alpha/star-enforcer.html)[![](/images/skins/cards/alpha/crimson-warrior.webp)Багровый воинИсключительный · 2020](https://boostmlbb.ru/skins/alpha/crimson-warrior.html)[![](/images/skins/cards/alpha/sea-gladiator.webp)Морской гладиаторОбычный · 2018](https://boostmlbb.ru/skins/alpha/sea-gladiator.html)[![](/images/skins/cards/alpha/fierce-dragon.webp)Свирепый драконОбычный · 2017](https://boostmlbb.ru/skins/alpha/fierce-dragon.html)[![](/images/skins/cards/alpha/onimusha-commander.webp)Командир ОнимусяИзысканный · 2017](https://boostmlbb.ru/skins/alpha/onimusha-commander.html)[![](/images/skins/cards/alpha/edict-of-the-sands.webp)Эдикт песков](https://boostmlbb.ru/skins/alpha/edict-of-the-sands.html)
 
-**Поднимем ранг на герое Альфа**Цена считается в калькуляторе
+**Сколько стоит буст на герое Альфа?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

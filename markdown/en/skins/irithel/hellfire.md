@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/irithel/hellfire.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Irithel skins](https://boostmlbb.ru/en/skins/irithel.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Irithel](https://boostmlbb.ru/en/skins/irithel.html)/Hellfire
 
@@ -51,7 +51,7 @@ The same skin in other colours. A painted version needs the skin itself.
 
 [![](/images/skins/cards/minotaur/nether-overseer.webp)Nether OverseerMinotaur · 2026](https://boostmlbb.ru/en/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/atlas/sunken-curse.webp)Sunken CurseAtlas · 2026](https://boostmlbb.ru/en/skins/atlas/sunken-curse.html)[![](/images/skins/cards/vexana/eternal-vow.webp)Eternal VowVexana · 2026](https://boostmlbb.ru/en/skins/vexana/eternal-vow.html)[![](/images/skins/cards/khufra/cursed-scroll.webp)Cursed ScrollKhufra · 2025](https://boostmlbb.ru/en/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/natalia/soul-huntress.webp)Soul HuntressNatalia · 2025](https://boostmlbb.ru/en/skins/natalia/soul-huntress.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Nightmare CountLeomord · 2025](https://boostmlbb.ru/en/skins/leomord/nightmare-count.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Arbiter of StarsBelerick · 2025](https://boostmlbb.ru/en/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Keeper of the WindsVale · 2025](https://boostmlbb.ru/en/skins/vale/keeper-of-the-winds.html)
 
-**Rank up on Irithel**The calculator shows the price
+**How much is a rank boost on Irithel?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

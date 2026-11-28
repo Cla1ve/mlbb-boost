@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const navMenu = document.querySelector('.nav-menu');
   const body = document.body;
   const mobileMenuQuery = window.matchMedia('(max-width: 1024px)');
-  const menuFocusableSelector = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
+  const menuFocusableSelector = 'summary, a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
   
   let overlay = document.querySelector('.menu-overlay');
   if (!overlay) {

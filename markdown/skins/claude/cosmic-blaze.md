@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/claude/cosmic-blaze.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Клауда](https://boostmlbb.ru/skins/claude.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Клауд](https://boostmlbb.ru/skins/claude.html)/Космическое пламя
 
@@ -50,7 +50,7 @@ Cosmic Blaze
 
 [![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Косми­ческий драконЧонг · 2023](https://boostmlbb.ru/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Звёздный блескБеатрис · 2022](https://boostmlbb.ru/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Охотник на нечистьРоджер · 2021](https://boostmlbb.ru/skins/roger/fiend-hunter.html)[![](/images/skins/cards/granger/cosmic-finality.webp)Косми­ческий финалГрейнджер](https://boostmlbb.ru/skins/granger/cosmic-finality.html)
 
-**Поднимем ранг на герое Клауд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Клауд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

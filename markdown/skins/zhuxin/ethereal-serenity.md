@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/zhuxin/ethereal-serenity.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чжусинь](https://boostmlbb.ru/skins/zhuxin.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чжусинь](https://boostmlbb.ru/skins/zhuxin.html)/Неземная безмятежность
 
@@ -39,7 +39,7 @@ Ethereal Serenity
 
 [![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)Чжусинь P.ACEДелюкс · 2025](https://boostmlbb.ru/skins/zhuxin/p-ace-zhuxin.html)[![](/images/skins/cards/zhuxin/emberwisp-mystic.webp)Мистик тлеющего огонькаИсключительный · 2025](https://boostmlbb.ru/skins/zhuxin/emberwisp-mystic.html)[![](/images/skins/cards/zhuxin/ethereal-serenity.webp)Неземная безмя­тежностьОбычный · 2024](https://boostmlbb.ru/skins/zhuxin/ethereal-serenity.html)
 
-**Поднимем ранг на герое Чжусинь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чжусинь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

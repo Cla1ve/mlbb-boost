@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/harith/savannah-cat.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Harith skins](https://boostmlbb.ru/en/skins/harith.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Harith](https://boostmlbb.ru/en/skins/harith.html)/Savannah Cat
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsDeluxe · 2025](https://boostmlbb.ru/en/skins/harith/evos-legends.html)[![](/images/skins/cards/harith/christmas-carnival.webp)Christmas CarnivalExceptional · 2025](https://boostmlbb.ru/en/skins/harith/christmas-carnival.html)[![](/images/skins/cards/harith/killua.webp)KilluaGrand · 2025](https://boostmlbb.ru/en/skins/harith/killua.html)[![](/images/skins/cards/harith/psychic.webp)PsychicExquisite · 2024](https://boostmlbb.ru/en/skins/harith/psychic.html)[![](/images/skins/cards/harith/fashion-expert.webp)Fashion ExpertExceptional · 2021](https://boostmlbb.ru/en/skins/harith/fashion-expert.html)[![](/images/skins/cards/harith/lightborn-inspirer.webp)Lightborn - InspirerDeluxe · 2018](https://boostmlbb.ru/en/skins/harith/lightborn-inspirer.html)[![](/images/skins/cards/harith/savannah-cat.webp)Savannah CatCommon · 2018](https://boostmlbb.ru/en/skins/harith/savannah-cat.html)[![](/images/skins/cards/harith/stardust.webp)StardustCommon · 2018](https://boostmlbb.ru/en/skins/harith/stardust.html)
 
-**Rank up on Harith**The calculator shows the price
+**How much is a rank boost on Harith?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

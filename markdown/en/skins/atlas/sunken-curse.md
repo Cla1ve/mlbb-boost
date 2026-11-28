@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/atlas/sunken-curse.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Atlas skins](https://boostmlbb.ru/en/skins/atlas.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Atlas](https://boostmlbb.ru/en/skins/atlas.html)/Sunken Curse
 
@@ -41,7 +41,7 @@ Released
 
 [![](/images/skins/cards/minotaur/nether-overseer.webp)Nether OverseerMinotaur · 2026](https://boostmlbb.ru/en/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/vexana/eternal-vow.webp)Eternal VowVexana · 2026](https://boostmlbb.ru/en/skins/vexana/eternal-vow.html)[![](/images/skins/cards/khufra/cursed-scroll.webp)Cursed ScrollKhufra · 2025](https://boostmlbb.ru/en/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/natalia/soul-huntress.webp)Soul HuntressNatalia · 2025](https://boostmlbb.ru/en/skins/natalia/soul-huntress.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Nightmare CountLeomord · 2025](https://boostmlbb.ru/en/skins/leomord/nightmare-count.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Arbiter of StarsBelerick · 2025](https://boostmlbb.ru/en/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Keeper of the WindsVale · 2025](https://boostmlbb.ru/en/skins/vale/keeper-of-the-winds.html)[![](/images/skins/cards/mathilda/dreambound-pixie.webp)Dreambound PixieMathilda · 2025](https://boostmlbb.ru/en/skins/mathilda/dreambound-pixie.html)
 
-**Rank up on Atlas**The calculator shows the price
+**How much is a rank boost on Atlas?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

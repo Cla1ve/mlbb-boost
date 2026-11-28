@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/items/demon-hunter-sword.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 [Все предметы](https://boostmlbb.ru/items/)
 
 ![Иконка предмета Меч охотника на демонов](/images/mlbb/items/2006.webp)

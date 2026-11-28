@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/baxia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Baxia
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/baxia/dauntless-shield.webp)Dauntless ShieldExceptional · 2024](https://boostmlbb.ru/en/skins/baxia/dauntless-shield.html)[![](/images/skins/cards/baxia/black-tortoise.webp)Black TortoiseCommon · 2023](https://boostmlbb.ru/en/skins/baxia/black-tortoise.html)[![](/images/skins/cards/baxia/ba-tender.webp)Ba-tenderExceptional · 2021](https://boostmlbb.ru/en/skins/baxia/ba-tender.html)[![](/images/skins/cards/baxia/badass-roller.webp)Badass RollerCommon · 2020](https://boostmlbb.ru/en/skins/baxia/badass-roller.html)[![](/images/skins/cards/baxia/wild-totem.webp)Wild TotemCommon · 2019](https://boostmlbb.ru/en/skins/baxia/wild-totem.html)[![](/images/skins/cards/baxia/aegis-of-honor.webp)Aegis of Honor](https://boostmlbb.ru/en/skins/baxia/aegis-of-honor.html)
 
-**Rank up on Baxia**The calculator shows the price
+**How much is a rank boost on Baxia?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

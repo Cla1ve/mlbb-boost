@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/items/clock-of-destiny.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 [All items](https://boostmlbb.ru/en/items/)
 
 ![Clock of Destiny item icon](/images/mlbb/items/3113.webp)

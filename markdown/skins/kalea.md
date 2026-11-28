@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kalea.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Калеа
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/kalea/tideborn-sailor.webp)Морячка, рождённая приливом2026](https://boostmlbb.ru/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Сакура ХаруноГрандиозный · 2025](https://boostmlbb.ru/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/kalea/shimmering-waves.webp)Мерцающие волныОбычный · 2025](https://boostmlbb.ru/skins/kalea/shimmering-waves.html)
 
-**Поднимем ранг на герое Калеа**Цена считается в калькуляторе
+**Сколько стоит буст на герое Калеа?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

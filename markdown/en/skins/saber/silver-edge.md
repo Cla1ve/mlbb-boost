@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/saber/silver-edge.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Saber skins](https://boostmlbb.ru/en/skins/saber.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Saber](https://boostmlbb.ru/en/skins/saber.html)/Silver Edge
 
@@ -34,7 +34,7 @@ Released
 
 [![](/images/skins/cards/saber/iron-hound.webp)Iron HoundExceptional · 2023](https://boostmlbb.ru/en/skins/saber/iron-hound.html)[![](/images/skins/cards/saber/silver-edge.webp)Silver EdgeCommon · 2021](https://boostmlbb.ru/en/skins/saber/silver-edge.html)[![](/images/skins/cards/saber/onimaru.webp)OnimaruExquisite · 2019](https://boostmlbb.ru/en/skins/saber/onimaru.html)[![](/images/skins/cards/saber/s-a-b-e-r-regulator.webp)S.A.B.E.R. RegulatorDeluxe · 2018](https://boostmlbb.ru/en/skins/saber/s-a-b-e-r-regulator.html)[![](/images/skins/cards/saber/fullmetal-ronin.webp)Fullmetal RoninCommon · 2018](https://boostmlbb.ru/en/skins/saber/fullmetal-ronin.html)[![](/images/skins/cards/saber/codename-storm.webp)Codename - StormSupreme · 2017](https://boostmlbb.ru/en/skins/saber/codename-storm.html)[![](/images/skins/cards/saber/force-warrior.webp)Force WarriorExceptional · 2016](https://boostmlbb.ru/en/skins/saber/force-warrior.html)[![](/images/skins/cards/saber/golden-flash.webp)Golden FlashCommon · 2016](https://boostmlbb.ru/en/skins/saber/golden-flash.html)
 
-**Rank up on Saber**The calculator shows the price
+**How much is a rank boost on Saber?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

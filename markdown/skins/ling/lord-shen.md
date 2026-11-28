@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/ling/lord-shen.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Линга](https://boostmlbb.ru/skins/ling.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Линг](https://boostmlbb.ru/skins/ling.html)/Лорд Шэнь
 
@@ -49,7 +49,7 @@ Lord Shen
 
 [![](/images/skins/cards/thamuz/general-kai.webp)Генерал КайТамуз · 2023](https://boostmlbb.ru/skins/thamuz/general-kai.html)[![](/images/skins/cards/akai/kung-fu-panda.webp)Кунг-фу ПандаАкай · 2022](https://boostmlbb.ru/skins/akai/kung-fu-panda.html)
 
-**Поднимем ранг на герое Линг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Линг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

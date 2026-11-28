@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/argus/darth-vader.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Аргуса](https://boostmlbb.ru/skins/argus.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Аргус](https://boostmlbb.ru/skins/argus.html)/Дарт Вейдер
 
@@ -47,7 +47,7 @@ Darth Vader
 
 [![](/images/skins/cards/kimmy/first-order-jet-trooper.webp)Реактивный штурмовик Первого орденаКимми · 2023](https://boostmlbb.ru/skins/kimmy/first-order-jet-trooper.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Мастер ЙодаЦиклоп · 2021](https://boostmlbb.ru/skins/cyclops/master-yoda.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Оби-Ван КенобиАлукард · 2021](https://boostmlbb.ru/skins/alucard/obi-wan-kenobi.html)
 
-**Поднимем ранг на герое Аргус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Аргус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

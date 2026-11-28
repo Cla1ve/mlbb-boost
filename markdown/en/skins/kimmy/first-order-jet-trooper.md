@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kimmy/first-order-jet-trooper.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Kimmy skins](https://boostmlbb.ru/en/skins/kimmy.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Kimmy](https://boostmlbb.ru/en/skins/kimmy.html)/First Order Jet Trooper
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/argus/darth-vader.webp)Darth VaderArgus · 2021](https://boostmlbb.ru/en/skins/argus/darth-vader.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Master YodaCyclops · 2021](https://boostmlbb.ru/en/skins/cyclops/master-yoda.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Obi-Wan KenobiAlucard · 2021](https://boostmlbb.ru/en/skins/alucard/obi-wan-kenobi.html)
 
-**Rank up on Kimmy**The calculator shows the price
+**How much is a rank boost on Kimmy?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

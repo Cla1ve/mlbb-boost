@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/yin/yuji-itadori.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Yin skins](https://boostmlbb.ru/en/skins/yin.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Yin](https://boostmlbb.ru/en/skins/yin.html)/Yuji Itadori
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/julian/megumi-fushiguro.webp)Megumi FushiguroJulian · 2023](https://boostmlbb.ru/en/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Satoru GojoXavier · 2023](https://boostmlbb.ru/en/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Nobara KugisakiMelissa · 2023](https://boostmlbb.ru/en/skins/melissa/nobara-kugisaki.html)
 
-**Rank up on Yin**The calculator shows the price
+**How much is a rank boost on Yin?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/skins/
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 # Скины MLBB
 
 946 обликов у 133 героев · цены и как получить

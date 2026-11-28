@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/karina/keyforged-champion.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Karina skins](https://boostmlbb.ru/en/skins/karina.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Karina](https://boostmlbb.ru/en/skins/karina.html)/Keyforged Champion
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/x-borg/pecados-rioter.webp)Pecados RioterX.Borg · 2025](https://boostmlbb.ru/en/skins/x-borg/pecados-rioter.html)
 
-**Rank up on Karina**The calculator shows the price
+**How much is a rank boost on Karina?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

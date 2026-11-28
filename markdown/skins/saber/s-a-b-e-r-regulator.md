@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/saber/s-a-b-e-r-regulator.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Сабера](https://boostmlbb.ru/skins/saber.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сабер](https://boostmlbb.ru/skins/saber.html)/Регулятор S.A.B.E.R.
 
@@ -48,7 +48,7 @@ S.A.B.E.R. Regulator
 
 [![](/images/skins/cards/freya/s-a-b-e-r-manhunter.webp)Ловчая S.A.B.E.R.Фрейя · 2022](https://boostmlbb.ru/skins/freya/s-a-b-e-r-manhunter.html)[![](/images/skins/cards/cyclops/s-a-b-e-r-enforcer.webp)Каратель S.A.B.E.R.Циклоп · 2018](https://boostmlbb.ru/skins/cyclops/s-a-b-e-r-enforcer.html)[![](/images/skins/cards/johnson/s-a-b-e-r-automata.webp)Автомат S.A.B.E.R.Джонсон · 2018](https://boostmlbb.ru/skins/johnson/s-a-b-e-r-automata.html)[![](/images/skins/cards/layla/s-a-b-e-r-breacher.webp)Штурмовик S.A.B.E.R.Лейла · 2018](https://boostmlbb.ru/skins/layla/s-a-b-e-r-breacher.html)[![](/images/skins/cards/rafaela/s-a-b-e-r-savior.webp)Спаси­тельница S.A.B.E.R.Рафаэль · 2017](https://boostmlbb.ru/skins/rafaela/s-a-b-e-r-savior.html)
 
-**Поднимем ранг на герое Сабер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сабер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

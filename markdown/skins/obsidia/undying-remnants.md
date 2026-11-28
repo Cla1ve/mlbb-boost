@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/obsidia/undying-remnants.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Обсидии](https://boostmlbb.ru/skins/obsidia.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Обсидия](https://boostmlbb.ru/skins/obsidia.html)/Неумирающие останки
 
@@ -39,7 +39,7 @@ Undying Remnants
 
 [![](/images/skins/cards/obsidia/imperatrix-arashi.webp)Импе­ратрица АрасиГрандиозный · 2026](https://boostmlbb.ru/skins/obsidia/imperatrix-arashi.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Магитех­нический призрак2026](https://boostmlbb.ru/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/obsidia/undying-remnants.webp)Неуми­рающие останкиОбычный · 2025](https://boostmlbb.ru/skins/obsidia/undying-remnants.html)
 
-**Поднимем ранг на герое Обсидия**Цена считается в калькуляторе
+**Сколько стоит буст на герое Обсидия?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

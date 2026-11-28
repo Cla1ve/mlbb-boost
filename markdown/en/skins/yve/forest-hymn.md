@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/yve/forest-hymn.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Yve skins](https://boostmlbb.ru/en/skins/yve.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Yve](https://boostmlbb.ru/en/skins/yve.html)/Forest Hymn
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/yve/flame-lotus.webp)Flame LotusExceptional · 2025](https://boostmlbb.ru/en/skins/yve/flame-lotus.html)[![](/images/skins/cards/yve/ruin-protectress.webp)Ruin Pro­tectressCommon · 2022](https://boostmlbb.ru/en/skins/yve/ruin-protectress.html)[![](/images/skins/cards/yve/forest-hymn.webp)Forest HymnCommon · 2021](https://boostmlbb.ru/en/skins/yve/forest-hymn.html)
 
-**Rank up on Yve**The calculator shows the price
+**How much is a rank boost on Yve?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

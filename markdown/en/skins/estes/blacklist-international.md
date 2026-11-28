@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/estes/blacklist-international.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Estes skins](https://boostmlbb.ru/en/skins/estes.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Estes](https://boostmlbb.ru/en/skins/estes.html)/Blacklist International
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsHarith · 2025](https://boostmlbb.ru/en/skins/harith/evos-legends.html)[![](/images/skins/cards/brody/apbren.webp)APBrenBrody · 2024](https://boostmlbb.ru/en/skins/brody/apbren.html)[![](/images/skins/cards/chou/echo.webp)ECHOChou · 2023](https://boostmlbb.ru/en/skins/chou/echo.html)[![](/images/skins/cards/lancelot/bren-esports.webp)Bren EsportsLancelot · 2020](https://boostmlbb.ru/en/skins/lancelot/bren-esports.html)
 
-**Rank up on Estes**The calculator shows the price
+**How much is a rank boost on Estes?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

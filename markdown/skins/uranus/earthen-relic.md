@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/uranus/earthen-relic.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Урануса](https://boostmlbb.ru/skins/uranus.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Уранус](https://boostmlbb.ru/skins/uranus.html)/Земная реликвия
 
@@ -38,7 +38,7 @@ Earthen Relic
 
 [![](/images/skins/cards/uranus/earthen-relic.webp)Земная реликвияОбычный · 2023](https://boostmlbb.ru/skins/uranus/earthen-relic.html)[![](/images/skins/cards/uranus/pinball-machine.webp)ПинболИсключительный · 2022](https://boostmlbb.ru/skins/uranus/pinball-machine.html)[![](/images/skins/cards/uranus/celestial-bastion.webp)Небесный бастионДелюкс · 2022](https://boostmlbb.ru/skins/uranus/celestial-bastion.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Повелитель видеоигрИзысканный · 2020](https://boostmlbb.ru/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/uranus/mech-protector.webp)Механи­ческий защитникИсключительный · 2019](https://boostmlbb.ru/skins/uranus/mech-protector.html)[![](/images/skins/cards/uranus/ancient-soul.webp)Древняя душаОбычный · 2018](https://boostmlbb.ru/skins/uranus/ancient-soul.html)
 
-**Поднимем ранг на герое Уранус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Уранус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

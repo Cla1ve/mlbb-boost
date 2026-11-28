@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/pharsa/neobeast-pharsa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Pharsa skins](https://boostmlbb.ru/en/skins/pharsa.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Pharsa](https://boostmlbb.ru/en/skins/pharsa.html)/Neobeast Pharsa
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/ling/neobeast-ling.webp)Neobeast LingLing · 2025](https://boostmlbb.ru/en/skins/ling/neobeast-ling.html)[![](/images/skins/cards/brody/neobeast-brody.webp)Neobeast BrodyBrody · 2025](https://boostmlbb.ru/en/skins/brody/neobeast-brody.html)
 
-**Rank up on Pharsa**The calculator shows the price
+**How much is a rank boost on Pharsa?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

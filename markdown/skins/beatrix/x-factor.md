@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/beatrix/x-factor.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Беатрис](https://boostmlbb.ru/skins/beatrix.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Беатрис](https://boostmlbb.ru/skins/beatrix.html)/Фактор X
 
@@ -39,7 +39,7 @@ X Factor
 
 [![](/images/skins/cards/beatrix/sky-force-maverick.webp)Небесный асДелюкс · 2025](https://boostmlbb.ru/skins/beatrix/sky-force-maverick.html)[![](/images/skins/cards/beatrix/vibrant-fiesta.webp)Яркая фиестаИсключительный · 2023](https://boostmlbb.ru/skins/beatrix/vibrant-fiesta.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Звёздный блескГрандиозный · 2022](https://boostmlbb.ru/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/beatrix/light-chaser.webp)Охотница за светомДелюкс · 2022](https://boostmlbb.ru/skins/beatrix/light-chaser.html)[![](/images/skins/cards/beatrix/space-agent.webp)Косми­ческий агентИсключительный · 2022](https://boostmlbb.ru/skins/beatrix/space-agent.html)[![](/images/skins/cards/beatrix/blitz-attack.webp)Блиц-атакаОбычный · 2021](https://boostmlbb.ru/skins/beatrix/blitz-attack.html)[![](/images/skins/cards/beatrix/x-factor.webp)Фактор XОбычный · 2021](https://boostmlbb.ru/skins/beatrix/x-factor.html)
 
-**Поднимем ранг на герое Беатрис**Цена считается в калькуляторе
+**Сколько стоит буст на герое Беатрис?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

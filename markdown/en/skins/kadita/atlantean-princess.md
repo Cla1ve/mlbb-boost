@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kadita/atlantean-princess.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Kadita skins](https://boostmlbb.ru/en/skins/kadita.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Kadita](https://boostmlbb.ru/en/skins/kadita.html)/Atlantean Princess
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/kadita/maiden-of-the-tide.webp)Maiden of the TideExceptional · 2025](https://boostmlbb.ru/en/skins/kadita/maiden-of-the-tide.html)[![](/images/skins/cards/kadita/heart-of-the-sea.webp)Heart of the SeaDeluxe · 2024](https://boostmlbb.ru/en/skins/kadita/heart-of-the-sea.html)[![](/images/skins/cards/kadita/hydromancer.webp)Hydro­mancerExceptional · 2023](https://boostmlbb.ru/en/skins/kadita/hydromancer.html)[![](/images/skins/cards/kadita/white-robin.webp)White RobinExceptional · 2019](https://boostmlbb.ru/en/skins/kadita/white-robin.html)[![](/images/skins/cards/kadita/atlantean-princess.webp)Atlantean PrincessCommon · 2018](https://boostmlbb.ru/en/skins/kadita/atlantean-princess.html)[![](/images/skins/cards/kadita/anthem-of-tides.webp)Anthem of Tides](https://boostmlbb.ru/en/skins/kadita/anthem-of-tides.html)
 
-**Rank up on Kadita**The calculator shows the price
+**How much is a rank boost on Kadita?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

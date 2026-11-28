@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/gloo/verdant-enchanter.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Gloo skins](https://boostmlbb.ru/en/skins/gloo.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Gloo](https://boostmlbb.ru/en/skins/gloo.html)/Verdant Enchanter
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/gloo/patrick.webp)PatrickDeluxe · 2025](https://boostmlbb.ru/en/skins/gloo/patrick.html)[![](/images/skins/cards/gloo/jellyman.webp)JellymanExceptional · 2023](https://boostmlbb.ru/en/skins/gloo/jellyman.html)[![](/images/skins/cards/gloo/verdant-enchanter.webp)Verdant EnchanterCommon · 2021](https://boostmlbb.ru/en/skins/gloo/verdant-enchanter.html)[![](/images/skins/cards/gloo/abominable-snowgloo.webp)Abominable Snowgloo](https://boostmlbb.ru/en/skins/gloo/abominable-snowgloo.html)
 
-**Rank up on Gloo**The calculator shows the price
+**How much is a rank boost on Gloo?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

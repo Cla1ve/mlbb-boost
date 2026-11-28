@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/aurora/nature-s-throne.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Авроры](https://boostmlbb.ru/skins/aurora.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Аврора](https://boostmlbb.ru/skins/aurora.html)/Трон природы
 
@@ -39,7 +39,7 @@ Nature's Throne
 
 [![](/images/skins/cards/aurora/veil-of-the-celestials.webp)Вуаль небожи­телейИзысканный · 2025](https://boostmlbb.ru/skins/aurora/veil-of-the-celestials.html)[![](/images/skins/cards/aurora/kula-diamond.webp)Кула ДаймондГрандиозный · 2019](https://boostmlbb.ru/skins/aurora/kula-diamond.html)[![](/images/skins/cards/aurora/aquarius.webp)ВодолейДелюкс · 2019](https://boostmlbb.ru/skins/aurora/aquarius.html)[![](/images/skins/cards/aurora/foxy-lady.webp)Лисья ледиИсключительный · 2018](https://boostmlbb.ru/skins/aurora/foxy-lady.html)[![](/images/skins/cards/aurora/heartbreak-empress.webp)Импе­ратрица разбитых сердецИсключительный · 2017](https://boostmlbb.ru/skins/aurora/heartbreak-empress.html)[![](/images/skins/cards/aurora/nature-s-throne.webp)Трон природыОбычный · 2017](https://boostmlbb.ru/skins/aurora/nature-s-throne.html)[![](/images/skins/cards/aurora/candle-s-vigil.webp)Бдение свечи](https://boostmlbb.ru/skins/aurora/candle-s-vigil.html)
 
-**Поднимем ранг на герое Аврора**Цена считается в калькуляторе
+**Сколько стоит буст на герое Аврора?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

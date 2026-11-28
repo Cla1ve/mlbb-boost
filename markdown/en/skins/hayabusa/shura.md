@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hayabusa/shura.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hayabusa skins](https://boostmlbb.ru/en/skins/hayabusa.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hayabusa](https://boostmlbb.ru/en/skins/hayabusa.html)/Shura
 
@@ -42,7 +42,7 @@ November 2021
 
 [![](/images/skins/cards/nolan/the-navigator.webp)The NavigatorNolan · 2024](https://boostmlbb.ru/en/skins/nolan/the-navigator.html)[![](/images/skins/cards/wanwan/flying-swallow.webp)Flying SwallowWanwan · 2024](https://boostmlbb.ru/en/skins/wanwan/flying-swallow.html)[![](/images/skins/cards/gusion/dimension-walker.webp)Dimension WalkerGusion · 2023](https://boostmlbb.ru/en/skins/gusion/dimension-walker.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Tesla ManiacX.Borg · 2020](https://boostmlbb.ru/en/skins/x-borg/tesla-maniac.html)
 
-**Rank up on Hayabusa**The calculator shows the price
+**How much is a rank boost on Hayabusa?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

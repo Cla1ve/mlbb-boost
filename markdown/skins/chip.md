@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/chip.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Чип
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/chip/nexus-engineer.webp)Инженер нексусаОбычный · 2024](https://boostmlbb.ru/skins/chip/nexus-engineer.html)[![](/images/skins/cards/chip/badlands-hiatus.webp)Привал в пустошахОбычный · 2024](https://boostmlbb.ru/skins/chip/badlands-hiatus.html)
 
-**Поднимем ранг на герое Чип**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чип?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

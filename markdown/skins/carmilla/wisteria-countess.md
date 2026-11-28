@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/carmilla/wisteria-countess.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Кармиллы](https://boostmlbb.ru/skins/carmilla.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Кармилла](https://boostmlbb.ru/skins/carmilla.html)/Графиня глицинии
 
@@ -39,7 +39,7 @@ Wisteria Countess
 
 [![](/images/skins/cards/carmilla/astral-arcana.webp)Астральный арканДелюкс · 2024](https://boostmlbb.ru/skins/carmilla/astral-arcana.html)[![](/images/skins/cards/carmilla/phantom-countess.webp)Призрачная графиняИсключительный · 2021](https://boostmlbb.ru/skins/carmilla/phantom-countess.html)[![](/images/skins/cards/carmilla/magician-girl.webp)Девочка-волшебницаОбычный · 2020](https://boostmlbb.ru/skins/carmilla/magician-girl.html)[![](/images/skins/cards/carmilla/wisteria-countess.webp)Графиня глицинииОбычный · 2020](https://boostmlbb.ru/skins/carmilla/wisteria-countess.html)
 
-**Поднимем ранг на герое Кармилла**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кармилла?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/natan/sanguine-steward.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Natan skins](https://boostmlbb.ru/en/skins/natan.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Natan](https://boostmlbb.ru/en/skins/natan.html)/Sanguine Steward
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Phantasmal RevelryLylia · 2026](https://boostmlbb.ru/en/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/eudora/midnight-s-allure.webp)Midnight's AllureEudora · 2026](https://boostmlbb.ru/en/skins/eudora/midnight-s-allure.html)[![](/images/skins/cards/benedetta/phantom-mirage.webp)Phantom MirageBenedetta · 2025](https://boostmlbb.ru/en/skins/benedetta/phantom-mirage.html)[![](/images/skins/cards/lesley/duchess-of-tides.webp)Duchess of TidesLesley · 2025](https://boostmlbb.ru/en/skins/lesley/duchess-of-tides.html)
 
-**Rank up on Natan**The calculator shows the price
+**How much is a rank boost on Natan?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

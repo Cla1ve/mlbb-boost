@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/karrie/jester.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Кэрри](https://boostmlbb.ru/skins/karrie.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Кэрри](https://boostmlbb.ru/skins/karrie.html)/Шутиха
 
@@ -53,7 +53,7 @@ Jester
 
 [![](/images/skins/cards/akai/pumpkin-brawler.webp)Тыквенный драчунАкай · 2023](https://boostmlbb.ru/skins/akai/pumpkin-brawler.html)[![](/images/skins/cards/barats/baratstein.webp)БартсштейнБартс · 2021](https://boostmlbb.ru/skins/barats/baratstein.html)[![](/images/skins/cards/cyclops/straw-doll.webp)Соломенная куклаЦиклоп · 2021](https://boostmlbb.ru/skins/cyclops/straw-doll.html)[![](/images/skins/cards/leomord/jack-o-lantern.webp)Светильник ДжекаЛеоморд · 2020](https://boostmlbb.ru/skins/leomord/jack-o-lantern.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Проклятая куклаЛилия · 2020](https://boostmlbb.ru/skins/lylia/haunted-doll.html)[![](/images/skins/cards/angela/scream-doll.webp)Кричащая куклаАнгела · 2019](https://boostmlbb.ru/skins/angela/scream-doll.html)[![](/images/skins/cards/franco/wheatfield-nightmare.webp)Кошмар пшеничного поляФранко · 2019](https://boostmlbb.ru/skins/franco/wheatfield-nightmare.html)[![](/images/skins/cards/lolita/impish-trickster.webp)ПроказницаЛолита · 2017](https://boostmlbb.ru/skins/lolita/impish-trickster.html)
 
-**Поднимем ранг на герое Кэрри**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кэрри?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

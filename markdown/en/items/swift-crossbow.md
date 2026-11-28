@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/items/swift-crossbow.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 [All items](https://boostmlbb.ru/en/items/)
 
 ![Swift Crossbow item icon](/images/mlbb/items/1007.webp)

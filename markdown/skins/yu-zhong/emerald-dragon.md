@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yu-zhong/emerald-dragon.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чонга](https://boostmlbb.ru/skins/yu-zhong.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чонг](https://boostmlbb.ru/skins/yu-zhong.html)/Изумрудный дракон
 
@@ -39,7 +39,7 @@ Emerald Dragon
 
 [![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Косми­ческий драконГрандиозный · 2023](https://boostmlbb.ru/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/yu-zhong/dragon-s-shade.webp)Тень драконаДелюкс · 2023](https://boostmlbb.ru/skins/yu-zhong/dragon-s-shade.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Экзорцист ЧонгГрандиозный · 2022](https://boostmlbb.ru/skins/yu-zhong/exorcist-yu-zhong.html)[![](/images/skins/cards/yu-zhong/blood-serpent.webp)Кровавый змейИзысканный · 2021](https://boostmlbb.ru/skins/yu-zhong/blood-serpent.html)[![](/images/skins/cards/yu-zhong/biohazard.webp)БиоугрозаИсключительный · 2020](https://boostmlbb.ru/skins/yu-zhong/biohazard.html)[![](/images/skins/cards/yu-zhong/emerald-dragon.webp)Изумрудный драконОбычный · 2020](https://boostmlbb.ru/skins/yu-zhong/emerald-dragon.html)
 
-**Поднимем ранг на герое Чонг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чонг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/sora.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Sora
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/sora/azure-cloud.webp)Azure CloudCommon · 2025](https://boostmlbb.ru/en/skins/sora/azure-cloud.html)
 
-**Rank up on Sora**The calculator shows the price
+**How much is a rank boost on Sora?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/melissa.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Мелисса
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/melissa/umbra-bloom.webp)Цветение тениИзысканный · 2025](https://boostmlbb.ru/skins/melissa/umbra-bloom.html)[![](/images/skins/cards/melissa/sparkle-melissa.webp)Мелисса SPARKLEДелюкс · 2024](https://boostmlbb.ru/skins/melissa/sparkle-melissa.html)[![](/images/skins/cards/melissa/nightwalker.webp)Ночная странницаИсключительный · 2023](https://boostmlbb.ru/skins/melissa/nightwalker.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Нобара КугисакиГрандиозный · 2023](https://boostmlbb.ru/skins/melissa/nobara-kugisaki.html)[![](/images/skins/cards/melissa/twinge-weaver.webp)Ткачиха болиОбычный · 2022](https://boostmlbb.ru/skins/melissa/twinge-weaver.html)
 
-**Поднимем ранг на герое Мелисса**Цена считается в калькуляторе
+**Сколько стоит буст на герое Мелисса?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

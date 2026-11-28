@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/argus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Argus
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/argus/raiden-maru.webp)Raiden MaruExquisite · 2026](https://boostmlbb.ru/en/skins/argus/raiden-maru.html)[![](/images/skins/cards/argus/darth-vader.webp)Darth VaderGrand · 2021](https://boostmlbb.ru/en/skins/argus/darth-vader.html)[![](/images/skins/cards/argus/winged-nightmare.webp)Winged NightmareCommon · 2019](https://boostmlbb.ru/en/skins/argus/winged-nightmare.html)[![](/images/skins/cards/argus/catastrophe.webp)CatastropheCommon · 2018](https://boostmlbb.ru/en/skins/argus/catastrophe.html)[![](/images/skins/cards/argus/dark-draconic.webp)Dark DraconicExceptional · 2017](https://boostmlbb.ru/en/skins/argus/dark-draconic.html)[![](/images/skins/cards/argus/light-of-dawn.webp)Light of DawnCommon · 2017](https://boostmlbb.ru/en/skins/argus/light-of-dawn.html)
 
-**Rank up on Argus**The calculator shows the price
+**How much is a rank boost on Argus?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/gusion/minato-namikaze.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Gusion skins](https://boostmlbb.ru/en/skins/gusion.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Gusion](https://boostmlbb.ru/en/skins/gusion.html)/Minato Namikaze
 
@@ -29,7 +29,7 @@ Released in the Naruto Shippuden event. Limited skins come back in event draws f
 
 [![](/images/skins/cards/julian/itachi-uchiha.webp)Itachi UchihaJulian](https://boostmlbb.ru/en/skins/julian/itachi-uchiha.html)
 
-**Rank up on Gusion**The calculator shows the price
+**How much is a rank boost on Gusion?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/leomord/hell-knight.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Leomord skins](https://boostmlbb.ru/en/skins/leomord.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Leomord](https://boostmlbb.ru/en/skins/leomord.html)/Hell Knight
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/leomord/auspicious-blaze.webp)Auspicious BlazeDeluxe · 2026](https://boostmlbb.ru/en/skins/leomord/auspicious-blaze.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Nightmare CountDeluxe · 2025](https://boostmlbb.ru/en/skins/leomord/nightmare-count.html)[![](/images/skins/cards/leomord/triumph-eagle.webp)Triumph - EagleExceptional · 2024](https://boostmlbb.ru/en/skins/leomord/triumph-eagle.html)[![](/images/skins/cards/leomord/diavel-v4-rider.webp)Diavel V4 RiderGrand · 2023](https://boostmlbb.ru/en/skins/leomord/diavel-v4-rider.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Shadow KnightGrand · 2023](https://boostmlbb.ru/en/skins/leomord/shadow-knight.html)[![](/images/skins/cards/leomord/hell-knight.webp)Hell KnightCommon · 2022](https://boostmlbb.ru/en/skins/leomord/hell-knight.html)[![](/images/skins/cards/leomord/jack-o-lantern.webp)Jack-o'-lanternExceptional · 2020](https://boostmlbb.ru/en/skins/leomord/jack-o-lantern.html)[![](/images/skins/cards/leomord/inferno-soul.webp)Inferno SoulExquisite · 2019](https://boostmlbb.ru/en/skins/leomord/inferno-soul.html)[![](/images/skins/cards/leomord/frostborn-paladin.webp)Frostborn PaladinExceptional · 2019](https://boostmlbb.ru/en/skins/leomord/frostborn-paladin.html)
 
-**Rank up on Leomord**The calculator shows the price
+**How much is a rank boost on Leomord?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

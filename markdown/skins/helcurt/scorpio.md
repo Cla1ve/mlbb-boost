@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/helcurt/scorpio.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Хелкарта](https://boostmlbb.ru/skins/helcurt.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Хелкарт](https://boostmlbb.ru/skins/helcurt.html)/Скорпион
 
@@ -45,7 +45,7 @@ Scorpio
 
 [![](/images/skins/cards/martis/capricorn.webp)КозерогМартис · 2022](https://boostmlbb.ru/skins/martis/capricorn.html)[![](/images/skins/cards/lunox/libra.webp)ВесыЛюнокс · 2019](https://boostmlbb.ru/skins/lunox/libra.html)[![](/images/skins/cards/badang/leo.webp)ЛевБаданг · 2019](https://boostmlbb.ru/skins/badang/leo.html)[![](/images/skins/cards/zhask/cancer.webp)РакЗаск · 2019](https://boostmlbb.ru/skins/zhask/cancer.html)[![](/images/skins/cards/selena/gemini-shadow.webp)Близнецы: ТеньСелена · 2019](https://boostmlbb.ru/skins/selena/gemini-shadow.html)[![](/images/skins/cards/karina/gemini-halo.webp)Близнецы: СияниеКарина · 2019](https://boostmlbb.ru/skins/karina/gemini-halo.html)[![](/images/skins/cards/minotaur/taurus.webp)ТелецМинотавр · 2019](https://boostmlbb.ru/skins/minotaur/taurus.html)[![](/images/skins/cards/hilda/aries.webp)ОвенХильда · 2019](https://boostmlbb.ru/skins/hilda/aries.html)
 
-**Поднимем ранг на герое Хелкарт**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хелкарт?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

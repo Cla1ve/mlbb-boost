@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kalea.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Kalea
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/kalea/tideborn-sailor.webp)Tideborn Sailor2026](https://boostmlbb.ru/en/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Sakura HarunoGrand · 2025](https://boostmlbb.ru/en/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/kalea/shimmering-waves.webp)Shimmering WavesCommon · 2025](https://boostmlbb.ru/en/skins/kalea/shimmering-waves.html)
 
-**Rank up on Kalea**The calculator shows the price
+**How much is a rank boost on Kalea?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

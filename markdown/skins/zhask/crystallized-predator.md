@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/zhask/crystallized-predator.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Заска](https://boostmlbb.ru/skins/zhask.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Заск](https://boostmlbb.ru/skins/zhask.html)/Кристальный хищник
 
@@ -39,7 +39,7 @@ Crystallized Predator
 
 [![](/images/skins/cards/zhask/death-s-shadow.webp)Тень смертиИсключительный · 2024](https://boostmlbb.ru/skins/zhask/death-s-shadow.html)[![](/images/skins/cards/zhask/extraterrestrial.webp)ПришелецИсключительный · 2020](https://boostmlbb.ru/skins/zhask/extraterrestrial.html)[![](/images/skins/cards/zhask/cancer.webp)РакДелюкс · 2019](https://boostmlbb.ru/skins/zhask/cancer.html)[![](/images/skins/cards/zhask/bone-flamen.webp)Костяной жрецИзысканный · 2018](https://boostmlbb.ru/skins/zhask/bone-flamen.html)[![](/images/skins/cards/zhask/crystallized-predator.webp)Крис­тальный хищникОбычный · 2017](https://boostmlbb.ru/skins/zhask/crystallized-predator.html)
 
-**Поднимем ранг на герое Заск**Цена считается в калькуляторе
+**Сколько стоит буст на герое Заск?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

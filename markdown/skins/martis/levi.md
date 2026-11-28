@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/martis/levi.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Мартиса](https://boostmlbb.ru/skins/martis.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Мартис](https://boostmlbb.ru/skins/martis.html)/Леви
 
@@ -49,7 +49,7 @@ Levi
 
 [![](/images/skins/cards/fanny/mikasa.webp)МикасаФанни · 2023](https://boostmlbb.ru/skins/fanny/mikasa.html)[![](/images/skins/cards/yin/eren.webp)ЭренИнь · 2023](https://boostmlbb.ru/skins/yin/eren.html)
 
-**Поднимем ранг на герое Мартис**Цена считается в калькуляторе
+**Сколько стоит буст на герое Мартис?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/gatotkaca.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Гатоткача
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/gatotkaca/nutcracker-monarch.webp)Щелкунчик-монархИсключительный · 2024](https://boostmlbb.ru/skins/gatotkaca/nutcracker-monarch.html)[![](/images/skins/cards/gatotkaca/tide-preserver.webp)Хранитель приливовДелюкс · 2024](https://boostmlbb.ru/skins/gatotkaca/tide-preserver.html)[![](/images/skins/cards/gatotkaca/spark.webp)ИскраОбычный · 2019](https://boostmlbb.ru/skins/gatotkaca/spark.html)[![](/images/skins/cards/gatotkaca/sentinel.webp)ЧасовойИзысканный · 2018](https://boostmlbb.ru/skins/gatotkaca/sentinel.html)[![](/images/skins/cards/gatotkaca/arhat-king.webp)Король архатовОбычный · 2018](https://boostmlbb.ru/skins/gatotkaca/arhat-king.html)[![](/images/skins/cards/gatotkaca/mighty-guardian.webp)Могучий стражОбычный · 2017](https://boostmlbb.ru/skins/gatotkaca/mighty-guardian.html)[![](/images/skins/cards/gatotkaca/solar-spark.webp)Солнечная искра](https://boostmlbb.ru/skins/gatotkaca/solar-spark.html)
 
-**Поднимем ранг на герое Гатоткача**Цена считается в калькуляторе
+**Сколько стоит буст на герое Гатоткача?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

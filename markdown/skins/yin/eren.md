@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yin/eren.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Иня](https://boostmlbb.ru/skins/yin.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Инь](https://boostmlbb.ru/skins/yin.html)/Эрен
 
@@ -49,7 +49,7 @@ Eren
 
 [![](/images/skins/cards/martis/levi.webp)ЛевиМартис · 2024](https://boostmlbb.ru/skins/martis/levi.html)[![](/images/skins/cards/fanny/mikasa.webp)МикасаФанни · 2023](https://boostmlbb.ru/skins/fanny/mikasa.html)
 
-**Поднимем ранг на герое Инь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Инь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

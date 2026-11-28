@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/floryn/yatai-waitress.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Флорин](https://boostmlbb.ru/skins/floryn.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Флорин](https://boostmlbb.ru/skins/floryn.html)/Официантка ятай
 
@@ -47,7 +47,7 @@ Yatai Waitress
 
 [![](/images/skins/cards/wanwan/summer-splash.webp)Летние брызгиВанван · 2025](https://boostmlbb.ru/skins/wanwan/summer-splash.html)[![](/images/skins/cards/guinevere/summer-breeze.webp)Летний бризГвиневра · 2024](https://boostmlbb.ru/skins/guinevere/summer-breeze.html)[![](/images/skins/cards/claude/lifeguard.webp)Спаса­тельницаКлауд · 2024](https://boostmlbb.ru/skins/claude/lifeguard.html)[![](/images/skins/cards/zilong/summer-waves.webp)Летние волныЗилонг · 2020](https://boostmlbb.ru/skins/zilong/summer-waves.html)[![](/images/skins/cards/angela/summer-vibes.webp)Летнее настроениеАнгела · 2019](https://boostmlbb.ru/skins/angela/summer-vibes.html)[![](/images/skins/cards/nana/sundress.webp)Летнее платьеНана · 2019](https://boostmlbb.ru/skins/nana/sundress.html)[![](/images/skins/cards/kagura/summer-festival.webp)Летний фестивальКагура · 2019](https://boostmlbb.ru/skins/kagura/summer-festival.html)[![](/images/skins/cards/hayabusa/sushi-master.webp)Мастер сушиХаябуса · 2019](https://boostmlbb.ru/skins/hayabusa/sushi-master.html)
 
-**Поднимем ранг на герое Флорин**Цена считается в калькуляторе
+**Сколько стоит буст на герое Флорин?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

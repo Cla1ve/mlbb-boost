@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/yu-zhong/cosmic-dragon.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Yu Zhong skins](https://boostmlbb.ru/en/skins/yu-zhong.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Yu Zhong](https://boostmlbb.ru/en/skins/yu-zhong.html)/Cosmic Dragon
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/claude/cosmic-blaze.webp)Cosmic BlazeClaude · 2024](https://boostmlbb.ru/en/skins/claude/cosmic-blaze.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Stellar BrilianceBeatrix · 2022](https://boostmlbb.ru/en/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Fiend HunterRoger · 2021](https://boostmlbb.ru/en/skins/roger/fiend-hunter.html)[![](/images/skins/cards/granger/cosmic-finality.webp)Cosmic FinalityGranger](https://boostmlbb.ru/en/skins/granger/cosmic-finality.html)
 
-**Rank up on Yu Zhong**The calculator shows the price
+**How much is a rank boost on Yu Zhong?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

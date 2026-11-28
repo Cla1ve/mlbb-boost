@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/aldous/contractor.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Aldous skins](https://boostmlbb.ru/en/skins/aldous.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Aldous](https://boostmlbb.ru/en/skins/aldous.html)/Contractor
 
@@ -33,7 +33,7 @@ Released
 
 [![](/images/skins/cards/aldous/fathom-terror.webp)Fathom TerrorExceptional · 2025](https://boostmlbb.ru/en/skins/aldous/fathom-terror.html)[![](/images/skins/cards/aldous/mistbender-aldous.webp)Mistbender AldousGrand · 2023](https://boostmlbb.ru/en/skins/aldous/mistbender-aldous.html)[![](/images/skins/cards/aldous/starscream.webp)StarscreamGrand · 2022](https://boostmlbb.ru/en/skins/aldous/starscream.html)[![](/images/skins/cards/aldous/realm-watcher.webp)Realm WatcherExquisite · 2021](https://boostmlbb.ru/en/skins/aldous/realm-watcher.html)[![](/images/skins/cards/aldous/blazing-force.webp)Blazing ForceDeluxe · 2020](https://boostmlbb.ru/en/skins/aldous/blazing-force.html)[![](/images/skins/cards/aldous/king-of-supremacy.webp)King of SupremacyDeluxe · 2019](https://boostmlbb.ru/en/skins/aldous/king-of-supremacy.html)[![](/images/skins/cards/aldous/the-insentient.webp)The InsentientExceptional · 2019](https://boostmlbb.ru/en/skins/aldous/the-insentient.html)[![](/images/skins/cards/aldous/death.webp)DeathCommon · 2019](https://boostmlbb.ru/en/skins/aldous/death.html)[![](/images/skins/cards/aldous/red-mantle.webp)Red MantleCommon · 2018](https://boostmlbb.ru/en/skins/aldous/red-mantle.html)[![](/images/skins/cards/aldous/contractor.webp)Contractor2018](https://boostmlbb.ru/en/skins/aldous/contractor.html)
 
-**Rank up on Aldous**The calculator shows the price
+**How much is a rank boost on Aldous?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

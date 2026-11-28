@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/fanny/lifeguard.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Fanny skins](https://boostmlbb.ru/en/skins/fanny.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Fanny](https://boostmlbb.ru/en/skins/fanny.html)/Lifeguard
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/wanwan/summer-splash.webp)Summer SplashWanwan · 2025](https://boostmlbb.ru/en/skins/wanwan/summer-splash.html)[![](/images/skins/cards/floryn/yatai-waitress.webp)Yatai WaitressFloryn · 2024](https://boostmlbb.ru/en/skins/floryn/yatai-waitress.html)[![](/images/skins/cards/guinevere/summer-breeze.webp)Summer BreezeGuinevere · 2024](https://boostmlbb.ru/en/skins/guinevere/summer-breeze.html)[![](/images/skins/cards/claude/lifeguard.webp)LifeguardClaude · 2024](https://boostmlbb.ru/en/skins/claude/lifeguard.html)[![](/images/skins/cards/zilong/summer-waves.webp)Summer WavesZilong · 2020](https://boostmlbb.ru/en/skins/zilong/summer-waves.html)[![](/images/skins/cards/angela/summer-vibes.webp)Summer VibesAngela · 2019](https://boostmlbb.ru/en/skins/angela/summer-vibes.html)[![](/images/skins/cards/nana/sundress.webp)SundressNana · 2019](https://boostmlbb.ru/en/skins/nana/sundress.html)[![](/images/skins/cards/kagura/summer-festival.webp)Summer FestivalKagura · 2019](https://boostmlbb.ru/en/skins/kagura/summer-festival.html)
 
-**Rank up on Fanny**The calculator shows the price
+**How much is a rank boost on Fanny?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

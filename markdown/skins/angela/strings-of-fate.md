@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/angela/strings-of-fate.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ангелы](https://boostmlbb.ru/skins/angela.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ангела](https://boostmlbb.ru/skins/angela.html)/Нити судьбы
 
@@ -49,7 +49,7 @@ Strings of Fate
 
 [![](/images/skins/cards/lancelot/guardian-of-the-shrine.webp)Страж святилищаЛанселот · 2025](https://boostmlbb.ru/skins/lancelot/guardian-of-the-shrine.html)[![](/images/skins/cards/karrie/breath-of-naraka.webp)Дыхание НаракиКэрри · 2025](https://boostmlbb.ru/skins/karrie/breath-of-naraka.html)
 
-**Поднимем ранг на герое Ангела**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ангела?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -325,7 +325,7 @@
     const menu = document.querySelector('.nav-menu');
     if (!toggle || !menu) return;
     const mobileQuery = window.matchMedia('(max-width: 1024px)');
-    const focusableSelector = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
+    const focusableSelector = 'summary, a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
 
     let overlay = document.querySelector('.menu-overlay');
     if (!overlay) {

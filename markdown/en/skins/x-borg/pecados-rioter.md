@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/x-borg/pecados-rioter.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[X.Borg skins](https://boostmlbb.ru/en/skins/x-borg.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[X.Borg](https://boostmlbb.ru/en/skins/x-borg.html)/Pecados Rioter
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/karina/keyforged-champion.webp)Keyforged ChampionKarina · 2025](https://boostmlbb.ru/en/skins/karina/keyforged-champion.html)
 
-**Rank up on X.Borg**The calculator shows the price
+**How much is a rank boost on X.Borg?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

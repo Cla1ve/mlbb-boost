@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/bane.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Бэйн
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/bane/lord-of-scalding-seas.webp)Владыка кипящих морейИсключительный · 2025](https://boostmlbb.ru/skins/bane/lord-of-scalding-seas.html)[![](/images/skins/cards/bane/soul-defiler.webp)Осквер­нитель душДелюкс · 2023](https://boostmlbb.ru/skins/bane/soul-defiler.html)[![](/images/skins/cards/bane/underworld-outlaw.webp)Изгой подземного мираОбычный · 2022](https://boostmlbb.ru/skins/bane/underworld-outlaw.html)[![](/images/skins/cards/bane/warlord.webp)Воена­чальникОбычный · 2019](https://boostmlbb.ru/skins/bane/warlord.html)[![](/images/skins/cards/bane/deep-sea-monster.webp)Чудовище глубинОбычный · 2018](https://boostmlbb.ru/skins/bane/deep-sea-monster.html)[![](/images/skins/cards/bane/castle-master.webp)Хозяин замкаДелюкс · 2016](https://boostmlbb.ru/skins/bane/castle-master.html)
 
-**Поднимем ранг на герое Бэйн**Цена считается в калькуляторе
+**Сколько стоит буст на герое Бэйн?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

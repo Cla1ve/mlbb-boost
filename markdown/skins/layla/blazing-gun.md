@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/layla/blazing-gun.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лейлы](https://boostmlbb.ru/skins/layla.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лейла](https://boostmlbb.ru/skins/layla.html)/Пылающее орудие
 
@@ -49,7 +49,7 @@ Blazing Gun
 
 [![](/images/skins/cards/claude/blazing-trace.webp)Пылающий следКлауд · 2024](https://boostmlbb.ru/skins/claude/blazing-trace.html)[![](/images/skins/cards/esmeralda/blazing-shadow.webp)Пылающая теньЭсмеральда · 2020](https://boostmlbb.ru/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/aldous/blazing-force.webp)Пылающая силаАлдос · 2020](https://boostmlbb.ru/skins/aldous/blazing-force.html)[![](/images/skins/cards/franco/blazing-axe.webp)Пылающий топорФранко · 2020](https://boostmlbb.ru/skins/franco/blazing-axe.html)
 
-**Поднимем ранг на герое Лейла**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лейла?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

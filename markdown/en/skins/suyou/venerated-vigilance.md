@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/suyou/venerated-vigilance.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Suyou skins](https://boostmlbb.ru/en/skins/suyou.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Suyou](https://boostmlbb.ru/en/skins/suyou.html)/Venerated Vigilance
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/suyou/sasuke-uchiha.webp)Sasuke UchihaGrand · 2025](https://boostmlbb.ru/en/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/suyou/venerated-vigilance.webp)Venerated VigilanceCommon · 2024](https://boostmlbb.ru/en/skins/suyou/venerated-vigilance.html)
 
-**Rank up on Suyou**The calculator shows the price
+**How much is a rank boost on Suyou?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

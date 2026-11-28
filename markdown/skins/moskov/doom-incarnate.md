@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/moskov/doom-incarnate.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Москова](https://boostmlbb.ru/skins/moskov.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Москов](https://boostmlbb.ru/skins/moskov.html)/Воплощение рока
 
@@ -45,7 +45,7 @@ Doom Incarnate
 
 [![](/images/skins/cards/alpha/general-void.webp)Генерал ПустотаАльфа · 2023](https://boostmlbb.ru/skins/alpha/general-void.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Рыцарь тениЛеоморд · 2023](https://boostmlbb.ru/skins/leomord/shadow-knight.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Леди МестьСелена · 2021](https://boostmlbb.ru/skins/selena/lady-vengeance.html)
 
-**Поднимем ранг на герое Москов**Цена считается в калькуляторе
+**Сколько стоит буст на герое Москов?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

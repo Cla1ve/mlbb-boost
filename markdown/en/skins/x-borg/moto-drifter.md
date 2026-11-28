@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/x-borg/moto-drifter.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[X.Borg skins](https://boostmlbb.ru/en/skins/x-borg.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[X.Borg](https://boostmlbb.ru/en/skins/x-borg.html)/Moto Drifter
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/change/golden-osmanthus.webp)Golden OsmanthusChang'e · 2026](https://boostmlbb.ru/en/skins/change/golden-osmanthus.html)[![](/images/skins/cards/martis/warlord-king.webp)Warlord KingMartis · 2025](https://boostmlbb.ru/en/skins/martis/warlord-king.html)[![](/images/skins/cards/kimmy/high-seas-cadet.webp)High Seas CadetKimmy · 2024](https://boostmlbb.ru/en/skins/kimmy/high-seas-cadet.html)[![](/images/skins/cards/silvanna/verdant-lancer.webp)Verdant LancerSilvanna · 2024](https://boostmlbb.ru/en/skins/silvanna/verdant-lancer.html)[![](/images/skins/cards/hylos/bloodhoof-marauder.webp)Bloodhoof MarauderHylos · 2024](https://boostmlbb.ru/en/skins/hylos/bloodhoof-marauder.html)[![](/images/skins/cards/guinevere/elegant-butterfly.webp)Elegant ButterflyGuinevere · 2024](https://boostmlbb.ru/en/skins/guinevere/elegant-butterfly.html)[![](/images/skins/cards/lancelot/marques-of-blades.webp)Marques of BladesLancelot · 2024](https://boostmlbb.ru/en/skins/lancelot/marques-of-blades.html)[![](/images/skins/cards/chip/badlands-hiatus.webp)Badlands HiatusChip · 2024](https://boostmlbb.ru/en/skins/chip/badlands-hiatus.html)
 
-**Rank up on X.Borg**The calculator shows the price
+**How much is a rank boost on X.Borg?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

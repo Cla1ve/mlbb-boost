@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/chou.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Чу
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/chou/echo.webp)ECHOДелюкс · 2023](https://boostmlbb.ru/skins/chou/echo.html)[![](/images/skins/cards/chou/dragon-shiryu.webp)Дракон СирюДелюкс · 2022](https://boostmlbb.ru/skins/chou/dragon-shiryu.html)[![](/images/skins/cards/chou/libra-shiryu.webp)Весы СирюГрандиозный · 2022](https://boostmlbb.ru/skins/chou/libra-shiryu.html)[![](/images/skins/cards/chou/s-t-u-n-chou.webp)Чу S.T.U.N.Делюкс · 2021](https://boostmlbb.ru/skins/chou/s-t-u-n-chou.html)[![](/images/skins/cards/chou/thunderfist.webp)Громовой кулакГрандиозный · 2021](https://boostmlbb.ru/skins/chou/thunderfist.html)[![](/images/skins/cards/chou/go-ballistic.webp)Вне себяИсключительный · 2019](https://boostmlbb.ru/skins/chou/go-ballistic.html)[![](/images/skins/cards/chou/iori-yagami.webp)Иори ЯгамиГрандиозный · 2019](https://boostmlbb.ru/skins/chou/iori-yagami.html)[![](/images/skins/cards/chou/furious-tiger.webp)Яростный тигрИсключительный · 2018](https://boostmlbb.ru/skins/chou/furious-tiger.html)[![](/images/skins/cards/chou/king-of-muay-thai.webp)Король муай-тайОбычный · 2017](https://boostmlbb.ru/skins/chou/king-of-muay-thai.html)[![](/images/skins/cards/chou/dragon-boy.webp)Мальчик-драконИзысканный · 2017](https://boostmlbb.ru/skins/chou/dragon-boy.html)[![](/images/skins/cards/chou/hip-hop-boy.webp)Хип-хоп пареньОбычный · 2016](https://boostmlbb.ru/skins/chou/hip-hop-boy.html)
 
-**Поднимем ранг на герое Чу**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чу?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

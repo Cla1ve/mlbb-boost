@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/cici/p-ace-cici.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Cici skins](https://boostmlbb.ru/en/skins/cici.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Cici](https://boostmlbb.ru/en/skins/cici.html)/P.ACE Cici
 
@@ -48,7 +48,7 @@ Released
 
 [![](/images/skins/cards/fanny/p-ace-fanny.webp)P.ACE FannyFanny · 2025](https://boostmlbb.ru/en/skins/fanny/p-ace-fanny.html)[![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)P.ACE ZhuxinZhuxin · 2025](https://boostmlbb.ru/en/skins/zhuxin/p-ace-zhuxin.html)
 
-**Rank up on Cici**The calculator shows the price
+**How much is a rank boost on Cici?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

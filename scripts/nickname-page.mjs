@@ -1,4 +1,4 @@
-// Server markup of the nickname generator on /news/mlbb-change-nickname/. The browser logic lives in js/nicknames/.
+// Server markup of the nickname generator on /nickname-generator/. The browser logic lives in js/nicknames/.
 // The first list of names is generated with a fixed seed, so a rebuild never changes the page.
 import { generate, STYLES } from '../js/nicknames/engine.js';
 

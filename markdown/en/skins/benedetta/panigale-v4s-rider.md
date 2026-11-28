@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/benedetta/panigale-v4s-rider.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Benedetta skins](https://boostmlbb.ru/en/skins/benedetta.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Benedetta](https://boostmlbb.ru/en/skins/benedetta.html)/Panigale V4S Rider
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/irithel/monster-sp-rider.webp)Monster SP RiderIrithel · 2023](https://boostmlbb.ru/en/skins/irithel/monster-sp-rider.html)[![](/images/skins/cards/leomord/diavel-v4-rider.webp)Diavel V4 RiderLeomord · 2023](https://boostmlbb.ru/en/skins/leomord/diavel-v4-rider.html)
 
-**Rank up on Benedetta**The calculator shows the price
+**How much is a rank boost on Benedetta?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

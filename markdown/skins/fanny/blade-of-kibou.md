@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/fanny/blade-of-kibou.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фанни](https://boostmlbb.ru/skins/fanny.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фанни](https://boostmlbb.ru/skins/fanny.html)/Клинок надежды
 
@@ -49,7 +49,7 @@ Blade of Kibou
 
 [![](/images/skins/cards/selena/silverbolt-raiko.webp)Райко Серебряная МолнияСелена · 2026](https://boostmlbb.ru/skins/selena/silverbolt-raiko.html)[![](/images/skins/cards/obsidia/imperatrix-arashi.webp)Импе­ратрица АрасиОбсидия · 2026](https://boostmlbb.ru/skins/obsidia/imperatrix-arashi.html)[![](/images/skins/cards/guinevere/daybreak-halo.webp)Сияние рассветаГвиневра · 2025](https://boostmlbb.ru/skins/guinevere/daybreak-halo.html)[![](/images/skins/cards/vexana/twilight-star.webp)Сумеречная звездаВексана · 2025](https://boostmlbb.ru/skins/vexana/twilight-star.html)[![](/images/skins/cards/change/tech-tensai.webp)Техни­ческий генийЧан'Э · 2024](https://boostmlbb.ru/skins/change/tech-tensai.html)[![](/images/skins/cards/lesley/deadeye-spectre.webp)Меткий призракЛесли · 2024](https://boostmlbb.ru/skins/lesley/deadeye-spectre.html)[![](/images/skins/cards/ruby/mecha-maiden.webp)Меха-деваРуби · 2023](https://boostmlbb.ru/skins/ruby/mecha-maiden.html)[![](/images/skins/cards/layla/miss-hikari.webp)Мисс ХикариЛейла · 2022](https://boostmlbb.ru/skins/layla/miss-hikari.html)
 
-**Поднимем ранг на герое Фанни**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фанни?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

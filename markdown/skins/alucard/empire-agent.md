@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/alucard/empire-agent.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Алукарда](https://boostmlbb.ru/skins/alucard.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Алукард](https://boostmlbb.ru/skins/alucard.html)/Агент Империи
 
@@ -36,7 +36,7 @@ Empire Agent
 
 [![](/images/skins/cards/alucard/demon-s-bane.webp)Погибель демоновИсключительный · 2025](https://boostmlbb.ru/skins/alucard/demon-s-bane.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Оби-Ван КенобиГрандиозный · 2021](https://boostmlbb.ru/skins/alucard/obi-wan-kenobi.html)[![](/images/skins/cards/alucard/lightborn-striker.webp)Рождённый светом: УдарникДелюкс · 2019](https://boostmlbb.ru/skins/alucard/lightborn-striker.html)[![](/images/skins/cards/alucard/empire-agent.webp)Агент ИмперииОбычный · 2019](https://boostmlbb.ru/skins/alucard/empire-agent.html)[![](/images/skins/cards/alucard/obsidian-blade.webp)Обсидиа­новый клинокВысший · 2019](https://boostmlbb.ru/skins/alucard/obsidian-blade.html)[![](/images/skins/cards/alucard/romantic-fantasy.webp)Романти­ческая фантазияИсключительный · 2018](https://boostmlbb.ru/skins/alucard/romantic-fantasy.html)[![](/images/skins/cards/alucard/viscount.webp)ВиконтИсключительный · 2017](https://boostmlbb.ru/skins/alucard/viscount.html)[![](/images/skins/cards/alucard/child-of-the-fall.webp)Дитя осениИзысканный · 2017](https://boostmlbb.ru/skins/alucard/child-of-the-fall.html)[![](/images/skins/cards/alucard/fiery-inferno.webp)Огненная преис­подняяОбычный · 2017](https://boostmlbb.ru/skins/alucard/fiery-inferno.html)[![](/images/skins/cards/alucard/lone-hero.webp)Одинокий геройОбычный · 2016](https://boostmlbb.ru/skins/alucard/lone-hero.html)
 
-**Поднимем ранг на герое Алукард**Цена считается в калькуляторе
+**Сколько стоит буст на герое Алукард?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

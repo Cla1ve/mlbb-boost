@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/grock/v-e-n-o-m-monitor-lizard.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Grock skins](https://boostmlbb.ru/en/skins/grock.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Grock](https://boostmlbb.ru/en/skins/grock.html)/V.E.N.O.M. Monitor Lizard
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/dyrroth/v-e-n-o-m-cobra.webp)V.E.N.O.M. CobraDyrroth · 2022](https://boostmlbb.ru/en/skins/dyrroth/v-e-n-o-m-cobra.html)[![](/images/skins/cards/hanabi/v-e-n-o-m-nephila.webp)V.E.N.O.M. NephilaHanabi · 2019](https://boostmlbb.ru/en/skins/hanabi/v-e-n-o-m-nephila.html)[![](/images/skins/cards/gusion/v-e-n-o-m-emperor-scorpion.webp)V.E.N.O.M. Emperor ScorpionGusion · 2019](https://boostmlbb.ru/en/skins/gusion/v-e-n-o-m-emperor-scorpion.html)[![](/images/skins/cards/angela/v-e-n-o-m-vespid.webp)V.E.N.O.M. VespidAngela · 2019](https://boostmlbb.ru/en/skins/angela/v-e-n-o-m-vespid.html)[![](/images/skins/cards/harley/v-e-n-o-m-octopus.webp)V.E.N.O.M. OctopusHarley · 2019](https://boostmlbb.ru/en/skins/harley/v-e-n-o-m-octopus.html)
 
-**Rank up on Grock**The calculator shows the price
+**How much is a rank boost on Grock?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

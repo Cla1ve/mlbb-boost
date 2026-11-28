@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/granger/cosmic-finality.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Granger skins](https://boostmlbb.ru/en/skins/granger.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Granger](https://boostmlbb.ru/en/skins/granger.html)/Cosmic Finality
 
@@ -29,7 +29,7 @@ Released in the PRIME event. Limited skins come back in event draws from time to
 
 [![](/images/skins/cards/claude/cosmic-blaze.webp)Cosmic BlazeClaude · 2024](https://boostmlbb.ru/en/skins/claude/cosmic-blaze.html)[![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Cosmic DragonYu Zhong · 2023](https://boostmlbb.ru/en/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Stellar BrilianceBeatrix · 2022](https://boostmlbb.ru/en/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Fiend HunterRoger · 2021](https://boostmlbb.ru/en/skins/roger/fiend-hunter.html)
 
-**Rank up on Granger**The calculator shows the price
+**How much is a rank boost on Granger?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lolita.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Лолита
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/lolita/angelic-fan.webp)Ангельский веерИсключительный · 2025](https://boostmlbb.ru/skins/lolita/angelic-fan.html)[![](/images/skins/cards/lolita/starwatcher.webp)ЗвездочётДелюкс · 2024](https://boostmlbb.ru/skins/lolita/starwatcher.html)[![](/images/skins/cards/lolita/astro-mallet.webp)АстромолотИсключительный · 2024](https://boostmlbb.ru/skins/lolita/astro-mallet.html)[![](/images/skins/cards/lolita/genki-slam.webp)Удар генкиИсключительный · 2023](https://boostmlbb.ru/skins/lolita/genki-slam.html)[![](/images/skins/cards/lolita/special-op.webp)Спецопе­рацияОбычный · 2020](https://boostmlbb.ru/skins/lolita/special-op.html)[![](/images/skins/cards/lolita/lion-dance.webp)Танец льваИсключительный · 2019](https://boostmlbb.ru/skins/lolita/lion-dance.html)[![](/images/skins/cards/lolita/impish-trickster.webp)ПроказницаИсключительный · 2017](https://boostmlbb.ru/skins/lolita/impish-trickster.html)[![](/images/skins/cards/lolita/soldier-in-training.webp)Солдат-новобранецОбычный · 2016](https://boostmlbb.ru/skins/lolita/soldier-in-training.html)
 
-**Поднимем ранг на герое Лолита**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лолита?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

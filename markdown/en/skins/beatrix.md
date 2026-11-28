@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/beatrix.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Beatrix
 
@@ -33,7 +33,7 @@ AllGrandDeluxeExceptionalCommon
 
 [![](/images/skins/cards/beatrix/sky-force-maverick.webp)Sky Force MaverickDeluxe · 2025](https://boostmlbb.ru/en/skins/beatrix/sky-force-maverick.html)[![](/images/skins/cards/beatrix/vibrant-fiesta.webp)Vibrant FiestaExceptional · 2023](https://boostmlbb.ru/en/skins/beatrix/vibrant-fiesta.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Stellar BrilianceGrand · 2022](https://boostmlbb.ru/en/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/beatrix/light-chaser.webp)Light ChaserDeluxe · 2022](https://boostmlbb.ru/en/skins/beatrix/light-chaser.html)[![](/images/skins/cards/beatrix/space-agent.webp)Space AgentExceptional · 2022](https://boostmlbb.ru/en/skins/beatrix/space-agent.html)[![](/images/skins/cards/beatrix/blitz-attack.webp)Blitz AttackCommon · 2021](https://boostmlbb.ru/en/skins/beatrix/blitz-attack.html)[![](/images/skins/cards/beatrix/x-factor.webp)X FactorCommon · 2021](https://boostmlbb.ru/en/skins/beatrix/x-factor.html)
 
-**Rank up on Beatrix**The calculator shows the price
+**How much is a rank boost on Beatrix?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

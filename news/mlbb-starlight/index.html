@@ -69,7 +69,7 @@
   <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=33">
+  <link rel="stylesheet" href="/styles/ui.css?v=34">
   <link rel="stylesheet" href="/styles/arena.css?v=9">
   <link rel="stylesheet" href="/styles/journal.css?v=7">
   <script type="application/ld+json">{
@@ -229,10 +229,7 @@
             </a></li>
             <li><a href="/reviews.html" class="nav-link">
               <i class="fas fa-comments" aria-hidden="true"></i>Отзывы
-            </a></li>
-            <li><a href="/news/" class="nav-link active" aria-current="page">
-              <i class="fas fa-newspaper" aria-hidden="true"></i>Новости
-            </a></li>
+            </a></li><li class="game-menu"><details><summary class="nav-link">Разделы MLBB ▾</summary><div class="game-links"><a href="/heroes/">Герои и тир-лист</a><a href="/items/">Предметы</a><a href="/skins/">Скины</a><a href="/news/">Новости</a><a href="/news/?category=guides">Гайды</a><a href="/news/mlbb-current-patch/">Патч</a><a href="/nickname-generator/">Генератор ников</a></div></details></li>
             <li><a href="/faq.html" class="nav-link">
               <i class="fas fa-question-circle" aria-hidden="true"></i>FAQ
             </a></li>
@@ -273,7 +270,6 @@
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner"><nav class="arena-context" aria-label="Разделы Mobile Legends"><a href="/heroes/">Тир-лист</a><a href="/items/">Предметы</a><a href="/skins/">Скины</a><a href="/news/" aria-current="page">Новости<span class="ctx-more"> и гайды</span></a></nav></div>
         <div class="container journal-hero">
           <div class="journal-title">
             <a class="page-back" href="/news/" data-back><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Все новости</span></a><script>document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('[data-back]');if(!a)return;try{var r=new URL(document.referrer);if(r.origin===location.origin&&r.pathname===new URL(a.href,location.href).pathname&&history.length>1){e.preventDefault();history.back();}}catch(x){}});</script>
@@ -420,7 +416,7 @@
         </div>
         <div class="rank-cta__action">
           <a href="/order.html?type=standard" data-news-cta data-cta-position="end-of-article">
-            <span class="rank-cta__button-label">Рассчитать стоимость</span>
+            <span class="rank-cta__button-label">Узнать цену для моего ранга</span>
           </a>
         </div>
       </aside>
@@ -509,7 +505,7 @@
     </div>
   </footer>
 
-  <script defer src="/js/consent.js?v=31"></script>
+  <script defer src="/js/consent.js?v=32"></script>
   <script defer src="/js/news-language.js?v=1"></script>
   <script defer src="/js/news.js?v=9"></script>
 </body>

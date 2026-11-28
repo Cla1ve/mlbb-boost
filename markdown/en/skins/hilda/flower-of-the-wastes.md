@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hilda/flower-of-the-wastes.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hilda skins](https://boostmlbb.ru/en/skins/hilda.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hilda](https://boostmlbb.ru/en/skins/hilda.html)/Flower of the Wastes
 
@@ -36,7 +36,7 @@ Released
 
 [![](/images/skins/cards/hilda/guardian-battalion.webp)Guardian Battalion2026](https://boostmlbb.ru/en/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/hilda/bass-craze.webp)Bass CrazeExceptional · 2021](https://boostmlbb.ru/en/skins/hilda/bass-craze.html)[![](/images/skins/cards/hilda/aries.webp)AriesDeluxe · 2019](https://boostmlbb.ru/en/skins/hilda/aries.html)[![](/images/skins/cards/hilda/sacred-guard.webp)Sacred GuardCommon · 2018](https://boostmlbb.ru/en/skins/hilda/sacred-guard.html)[![](/images/skins/cards/hilda/flower-of-the-wastes.webp)Flower of the WastesCommon · 2017](https://boostmlbb.ru/en/skins/hilda/flower-of-the-wastes.html)[![](/images/skins/cards/hilda/power-of-wildness.webp)Power of WildnessCommon · 2017](https://boostmlbb.ru/en/skins/hilda/power-of-wildness.html)
 
-**Rank up on Hilda**The calculator shows the price
+**How much is a rank boost on Hilda?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

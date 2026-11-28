@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/fredrinn/regal-renegade.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Fredrinn skins](https://boostmlbb.ru/en/skins/fredrinn.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Fredrinn](https://boostmlbb.ru/en/skins/fredrinn.html)/Regal Renegade
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/fredrinn/royal-marshal.webp)Royal MarshalExceptional · 2025](https://boostmlbb.ru/en/skins/fredrinn/royal-marshal.html)[![](/images/skins/cards/fredrinn/sparkle-fredrinn.webp)SPARKLE FredrinnDeluxe · 2024](https://boostmlbb.ru/en/skins/fredrinn/sparkle-fredrinn.html)[![](/images/skins/cards/fredrinn/neobeast-fredrinn.webp)Neobeast FredrinnGrand · 2023](https://boostmlbb.ru/en/skins/fredrinn/neobeast-fredrinn.html)[![](/images/skins/cards/fredrinn/jewel-connoisseur.webp)Jewel Connois­seurCommon · 2023](https://boostmlbb.ru/en/skins/fredrinn/jewel-connoisseur.html)[![](/images/skins/cards/fredrinn/regal-renegade.webp)Regal RenegadeCommon · 2022](https://boostmlbb.ru/en/skins/fredrinn/regal-renegade.html)
 
-**Rank up on Fredrinn**The calculator shows the price
+**How much is a rank boost on Fredrinn?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

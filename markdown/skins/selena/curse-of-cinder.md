@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/selena/curse-of-cinder.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Селены](https://boostmlbb.ru/skins/selena.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Селена](https://boostmlbb.ru/skins/selena.html)/Пепельное проклятие
 
@@ -48,7 +48,7 @@ Curse of Cinder
 
 [![](/images/skins/cards/vexana/twisted-fairytale.webp)Искажённая сказкаВексана · 2024](https://boostmlbb.ru/skins/vexana/twisted-fairytale.html)
 
-**Поднимем ранг на герое Селена**Цена считается в калькуляторе
+**Сколько стоит буст на герое Селена?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

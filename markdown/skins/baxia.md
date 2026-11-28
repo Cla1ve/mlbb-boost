@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/baxia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Баксий
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/baxia/dauntless-shield.webp)Бесстрашный щитИсключительный · 2024](https://boostmlbb.ru/skins/baxia/dauntless-shield.html)[![](/images/skins/cards/baxia/black-tortoise.webp)Чёрная черепахаОбычный · 2023](https://boostmlbb.ru/skins/baxia/black-tortoise.html)[![](/images/skins/cards/baxia/ba-tender.webp)Ба-рменИсключительный · 2021](https://boostmlbb.ru/skins/baxia/ba-tender.html)[![](/images/skins/cards/baxia/badass-roller.webp)Крутой роллерОбычный · 2020](https://boostmlbb.ru/skins/baxia/badass-roller.html)[![](/images/skins/cards/baxia/wild-totem.webp)Дикий тотемОбычный · 2019](https://boostmlbb.ru/skins/baxia/wild-totem.html)[![](/images/skins/cards/baxia/aegis-of-honor.webp)Эгида чести](https://boostmlbb.ru/skins/baxia/aegis-of-honor.html)
 
-**Поднимем ранг на герое Баксий**Цена считается в калькуляторе
+**Сколько стоит буст на герое Баксий?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

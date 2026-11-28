@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/julian/megumi-fushiguro.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Julian skins](https://boostmlbb.ru/en/skins/julian.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Julian](https://boostmlbb.ru/en/skins/julian.html)/Megumi Fushiguro
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/xavier/satoru-gojo.webp)Satoru GojoXavier · 2023](https://boostmlbb.ru/en/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Nobara KugisakiMelissa · 2023](https://boostmlbb.ru/en/skins/melissa/nobara-kugisaki.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Yuji ItadoriYin · 2023](https://boostmlbb.ru/en/skins/yin/yuji-itadori.html)
 
-**Rank up on Julian**The calculator shows the price
+**How much is a rank boost on Julian?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

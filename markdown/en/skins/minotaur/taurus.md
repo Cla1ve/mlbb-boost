@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/minotaur/taurus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Minotaur skins](https://boostmlbb.ru/en/skins/minotaur.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Minotaur](https://boostmlbb.ru/en/skins/minotaur.html)/Taurus
 
@@ -43,7 +43,7 @@ Released
 
 [![](/images/skins/cards/martis/capricorn.webp)CapricornMartis · 2022](https://boostmlbb.ru/en/skins/martis/capricorn.html)[![](/images/skins/cards/helcurt/scorpio.webp)ScorpioHelcurt · 2019](https://boostmlbb.ru/en/skins/helcurt/scorpio.html)[![](/images/skins/cards/lunox/libra.webp)LibraLunox · 2019](https://boostmlbb.ru/en/skins/lunox/libra.html)[![](/images/skins/cards/badang/leo.webp)LeoBadang · 2019](https://boostmlbb.ru/en/skins/badang/leo.html)[![](/images/skins/cards/zhask/cancer.webp)CancerZhask · 2019](https://boostmlbb.ru/en/skins/zhask/cancer.html)[![](/images/skins/cards/selena/gemini-shadow.webp)Gemini - ShadowSelena · 2019](https://boostmlbb.ru/en/skins/selena/gemini-shadow.html)[![](/images/skins/cards/karina/gemini-halo.webp)Gemini - HaloKarina · 2019](https://boostmlbb.ru/en/skins/karina/gemini-halo.html)[![](/images/skins/cards/hilda/aries.webp)AriesHilda · 2019](https://boostmlbb.ru/en/skins/hilda/aries.html)
 
-**Rank up on Minotaur**The calculator shows the price
+**How much is a rank boost on Minotaur?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

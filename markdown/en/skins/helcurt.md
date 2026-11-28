@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/helcurt.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Helcurt
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/helcurt/kaiju-of-the-deep.webp)Kaiju of the DeepExquisite · 2026](https://boostmlbb.ru/en/skins/helcurt/kaiju-of-the-deep.html)[![](/images/skins/cards/helcurt/dream-prowler.webp)Dream ProwlerExceptional · 2024](https://boostmlbb.ru/en/skins/helcurt/dream-prowler.html)[![](/images/skins/cards/helcurt/scorpio.webp)ScorpioDeluxe · 2019](https://boostmlbb.ru/en/skins/helcurt/scorpio.html)[![](/images/skins/cards/helcurt/evolved-predator.webp)Evolved PredatorExceptional · 2018](https://boostmlbb.ru/en/skins/helcurt/evolved-predator.html)[![](/images/skins/cards/helcurt/ice-scythe.webp)Ice ScytheCommon · 2018](https://boostmlbb.ru/en/skins/helcurt/ice-scythe.html)[![](/images/skins/cards/helcurt/exoracial-executer.webp)Exoracial ExecuterCommon · 2017](https://boostmlbb.ru/en/skins/helcurt/exoracial-executer.html)
 
-**Rank up on Helcurt**The calculator shows the price
+**How much is a rank boost on Helcurt?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

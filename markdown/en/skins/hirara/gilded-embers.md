@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hirara/gilded-embers.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hirara skins](https://boostmlbb.ru/en/skins/hirara.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hirara](https://boostmlbb.ru/en/skins/hirara.html)/Gilded Embers
 
@@ -33,7 +33,7 @@ Released
 
 -   Attribute bonus
 
-**Rank up on Hirara**The calculator shows the price
+**How much is a rank boost on Hirara?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

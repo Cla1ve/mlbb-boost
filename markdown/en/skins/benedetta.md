@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/benedetta.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Benedetta
 
@@ -33,7 +33,7 @@ AllGrandExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/benedetta/phantom-mirage.webp)Phantom MirageDeluxe · 2025](https://boostmlbb.ru/en/skins/benedetta/phantom-mirage.html)[![](/images/skins/cards/benedetta/quantum-edge.webp)Quantum EdgeExceptional · 2024](https://boostmlbb.ru/en/skins/benedetta/quantum-edge.html)[![](/images/skins/cards/benedetta/panigale-v4s-rider.webp)Panigale V4S RiderGrand · 2023](https://boostmlbb.ru/en/skins/benedetta/panigale-v4s-rider.html)[![](/images/skins/cards/benedetta/moonblade.webp)MoonbladeExceptional · 2022](https://boostmlbb.ru/en/skins/benedetta/moonblade.html)[![](/images/skins/cards/benedetta/death-oath.webp)Death OathExquisite · 2021](https://boostmlbb.ru/en/skins/benedetta/death-oath.html)[![](/images/skins/cards/benedetta/street-thrasher.webp)Street ThrasherExceptional · 2021](https://boostmlbb.ru/en/skins/benedetta/street-thrasher.html)[![](/images/skins/cards/benedetta/honor-blade.webp)Honor BladeCommon · 2020](https://boostmlbb.ru/en/skins/benedetta/honor-blade.html)
 
-**Rank up on Benedetta**The calculator shows the price
+**How much is a rank boost on Benedetta?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

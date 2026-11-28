@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/rafaela/biomedic.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Рафаэль](https://boostmlbb.ru/skins/rafaela.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Рафаэль](https://boostmlbb.ru/skins/rafaela.html)/Биомедик
 
@@ -42,7 +42,7 @@ Biomedic
 
 [![](/images/skins/cards/badang/quantum-commando.webp)Квантовый коммандосБаданг · 2026](https://boostmlbb.ru/skins/badang/quantum-commando.html)[![](/images/skins/cards/lunox/quantum-polarity.webp)Квантовая полярностьЛюнокс · 2025](https://boostmlbb.ru/skins/lunox/quantum-polarity.html)[![](/images/skins/cards/edith/prismatic-sentinel.webp)Призмати­ческая часоваяЭдит · 2025](https://boostmlbb.ru/skins/edith/prismatic-sentinel.html)[![](/images/skins/cards/franco/quantum-vanguard.webp)Квантовый авангардФранко · 2024](https://boostmlbb.ru/skins/franco/quantum-vanguard.html)[![](/images/skins/cards/benedetta/quantum-edge.webp)Квантовое лезвиеБенедетта · 2024](https://boostmlbb.ru/skins/benedetta/quantum-edge.html)[![](/images/skins/cards/kadita/hydromancer.webp)ГидромантКадита · 2023](https://boostmlbb.ru/skins/kadita/hydromancer.html)[![](/images/skins/cards/jawhead/cyber-ranger.webp)Кибер-рейнджерКусака · 2023](https://boostmlbb.ru/skins/jawhead/cyber-ranger.html)[![](/images/skins/cards/brody/quantum-grip.webp)Квантовая хваткаБроуди · 2023](https://boostmlbb.ru/skins/brody/quantum-grip.html)
 
-**Поднимем ранг на герое Рафаэль**Цена считается в калькуляторе
+**Сколько стоит буст на герое Рафаэль?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

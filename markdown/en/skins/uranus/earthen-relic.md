@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/uranus/earthen-relic.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Uranus skins](https://boostmlbb.ru/en/skins/uranus.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Uranus](https://boostmlbb.ru/en/skins/uranus.html)/Earthen Relic
 
@@ -36,7 +36,7 @@ Released
 
 [![](/images/skins/cards/uranus/earthen-relic.webp)Earthen RelicCommon · 2023](https://boostmlbb.ru/en/skins/uranus/earthen-relic.html)[![](/images/skins/cards/uranus/pinball-machine.webp)Pinball MachineExceptional · 2022](https://boostmlbb.ru/en/skins/uranus/pinball-machine.html)[![](/images/skins/cards/uranus/celestial-bastion.webp)Celestial BastionDeluxe · 2022](https://boostmlbb.ru/en/skins/uranus/celestial-bastion.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Video-Game DominatorExquisite · 2020](https://boostmlbb.ru/en/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/uranus/mech-protector.webp)Mech ProtectorExceptional · 2019](https://boostmlbb.ru/en/skins/uranus/mech-protector.html)[![](/images/skins/cards/uranus/ancient-soul.webp)Ancient SoulCommon · 2018](https://boostmlbb.ru/en/skins/uranus/ancient-soul.html)
 
-**Rank up on Uranus**The calculator shows the price
+**How much is a rank boost on Uranus?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

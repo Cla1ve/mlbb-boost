@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/roger/grimlock.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Роджера](https://boostmlbb.ru/skins/roger.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Роджер](https://boostmlbb.ru/skins/roger.html)/Гримлок
 
@@ -47,7 +47,7 @@ Grimlock
 
 [![](/images/skins/cards/x-borg/bumblebee.webp)БамблбиИкс.Борг · 2025](https://boostmlbb.ru/skins/x-borg/bumblebee.html)[![](/images/skins/cards/johnson/optimus-prime.webp)Оптимус ПраймДжонсон · 2023](https://boostmlbb.ru/skins/johnson/optimus-prime.html)[![](/images/skins/cards/granger/megatron.webp)МегатронГрейнджер · 2023](https://boostmlbb.ru/skins/granger/megatron.html)[![](/images/skins/cards/popol-and-kupa/soundwave-ravage.webp)Саундвейв и РэвиджПополь и Купа · 2022](https://boostmlbb.ru/skins/popol-and-kupa/soundwave-ravage.html)[![](/images/skins/cards/aldous/starscream.webp)СтарскримАлдос · 2022](https://boostmlbb.ru/skins/aldous/starscream.html)
 
-**Поднимем ранг на герое Роджер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Роджер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

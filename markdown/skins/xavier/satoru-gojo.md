@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/xavier/satoru-gojo.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ксавьера](https://boostmlbb.ru/skins/xavier.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ксавьер](https://boostmlbb.ru/skins/xavier.html)/Сатору Годжо
 
@@ -49,7 +49,7 @@ Satoru Gojo
 
 [![](/images/skins/cards/julian/megumi-fushiguro.webp)Мегуми ФушигуроДжулиан · 2023](https://boostmlbb.ru/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Нобара КугисакиМелисса · 2023](https://boostmlbb.ru/skins/melissa/nobara-kugisaki.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Юдзи ИтадориИнь · 2023](https://boostmlbb.ru/skins/yin/yuji-itadori.html)
 
-**Поднимем ранг на герое Ксавьер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ксавьер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

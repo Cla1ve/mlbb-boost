@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/wanwan/e-girl.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Wanwan skins](https://boostmlbb.ru/en/skins/wanwan.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Wanwan](https://boostmlbb.ru/en/skins/wanwan.html)/E-girl
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/badang/quantum-commando.webp)Quantum CommandoBadang · 2026](https://boostmlbb.ru/en/skins/badang/quantum-commando.html)[![](/images/skins/cards/lunox/quantum-polarity.webp)Quantum PolarityLunox · 2025](https://boostmlbb.ru/en/skins/lunox/quantum-polarity.html)[![](/images/skins/cards/edith/prismatic-sentinel.webp)Prismatic SentinelEdith · 2025](https://boostmlbb.ru/en/skins/edith/prismatic-sentinel.html)[![](/images/skins/cards/franco/quantum-vanguard.webp)Quantum VanguardFranco · 2024](https://boostmlbb.ru/en/skins/franco/quantum-vanguard.html)[![](/images/skins/cards/benedetta/quantum-edge.webp)Quantum EdgeBenedetta · 2024](https://boostmlbb.ru/en/skins/benedetta/quantum-edge.html)[![](/images/skins/cards/kadita/hydromancer.webp)Hydro­mancerKadita · 2023](https://boostmlbb.ru/en/skins/kadita/hydromancer.html)[![](/images/skins/cards/jawhead/cyber-ranger.webp)Cyber RangerJawhead · 2023](https://boostmlbb.ru/en/skins/jawhead/cyber-ranger.html)[![](/images/skins/cards/brody/quantum-grip.webp)Quantum GripBrody · 2023](https://boostmlbb.ru/en/skins/brody/quantum-grip.html)
 
-**Rank up on Wanwan**The calculator shows the price
+**How much is a rank boost on Wanwan?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

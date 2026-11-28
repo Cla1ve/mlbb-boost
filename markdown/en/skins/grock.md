@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/grock.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Grock
 
@@ -33,7 +33,7 @@ AllDeluxeExceptionalCommon
 
 [![](/images/skins/cards/grock/tremor-of-the-deep.webp)Tremor of the Deep2026](https://boostmlbb.ru/en/skins/grock/tremor-of-the-deep.html)[![](/images/skins/cards/grock/codename-rhino.webp)Codename: RhinoDeluxe · 2020](https://boostmlbb.ru/en/skins/grock/codename-rhino.html)[![](/images/skins/cards/grock/ancient-golem.webp)Ancient GolemCommon · 2019](https://boostmlbb.ru/en/skins/grock/ancient-golem.html)[![](/images/skins/cards/grock/v-e-n-o-m-monitor-lizard.webp)V.E.N.O.M. Monitor LizardDeluxe · 2019](https://boostmlbb.ru/en/skins/grock/v-e-n-o-m-monitor-lizard.html)[![](/images/skins/cards/grock/iceland-golem.webp)Iceland GolemExceptional · 2019](https://boostmlbb.ru/en/skins/grock/iceland-golem.html)[![](/images/skins/cards/grock/wasteland-psycho.webp)Wasteland PsychoExceptional · 2018](https://boostmlbb.ru/en/skins/grock/wasteland-psycho.html)[![](/images/skins/cards/grock/castle-guard.webp)Castle GuardCommon · 2018](https://boostmlbb.ru/en/skins/grock/castle-guard.html)[![](/images/skins/cards/grock/grave-guardian.webp)Grave GuardianCommon · 2017](https://boostmlbb.ru/en/skins/grock/grave-guardian.html)
 
-**Rank up on Grock**The calculator shows the price
+**How much is a rank boost on Grock?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

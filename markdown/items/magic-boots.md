@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/items/magic-boots.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 [Все предметы](https://boostmlbb.ru/items/)
 
 ![Иконка предмета Магические ботинки](/images/mlbb/items/2303.webp)

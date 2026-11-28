@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/martis/levi.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Martis skins](https://boostmlbb.ru/en/skins/martis.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Martis](https://boostmlbb.ru/en/skins/martis.html)/Levi
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/fanny/mikasa.webp)MikasaFanny · 2023](https://boostmlbb.ru/en/skins/fanny/mikasa.html)[![](/images/skins/cards/yin/eren.webp)ErenYin · 2023](https://boostmlbb.ru/en/skins/yin/eren.html)
 
-**Rank up on Martis**The calculator shows the price
+**How much is a rank boost on Martis?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

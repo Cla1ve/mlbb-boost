@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/ixia/shifting-sand.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Ixia skins](https://boostmlbb.ru/en/skins/ixia.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Ixia](https://boostmlbb.ru/en/skins/ixia.html)/Shifting Sand
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/ixia/dynamic-streak.webp)Dynamic StreakExceptional · 2024](https://boostmlbb.ru/en/skins/ixia/dynamic-streak.html)[![](/images/skins/cards/ixia/shifting-sand.webp)Shifting SandCommon · 2023](https://boostmlbb.ru/en/skins/ixia/shifting-sand.html)
 
-**Rank up on Ixia**The calculator shows the price
+**How much is a rank boost on Ixia?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

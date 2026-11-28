@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/zilong.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Зилонг
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/zilong/ascendant-of-flame.webp)Восходящий пламениДелюкс · 2026](https://boostmlbb.ru/skins/zilong/ascendant-of-flame.html)[![](/images/skins/cards/zilong/dragon-of-prosperity.webp)Дракон процве­танияДелюкс · 2024](https://boostmlbb.ru/skins/zilong/dragon-of-prosperity.html)[![](/images/skins/cards/zilong/empyrean-paladin.webp)Небесный паладинИзысканный · 2022](https://boostmlbb.ru/skins/zilong/empyrean-paladin.html)[![](/images/skins/cards/zilong/storm-rider.webp)Всадник буриИсключительный · 2022](https://boostmlbb.ru/skins/zilong/storm-rider.html)[![](/images/skins/cards/zilong/loyal-spear.webp)Верное копьёОбычный · 2021](https://boostmlbb.ru/skins/zilong/loyal-spear.html)[![](/images/skins/cards/zilong/summer-waves.webp)Летние волныИсключительный · 2020](https://boostmlbb.ru/skins/zilong/summer-waves.html)[![](/images/skins/cards/zilong/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2018](https://boostmlbb.ru/skins/zilong/christmas-carnival.html)[![](/images/skins/cards/zilong/changbanpo-commander.webp)Командир ЧанбаньпоИзысканный · 2018](https://boostmlbb.ru/skins/zilong/changbanpo-commander.html)[![](/images/skins/cards/zilong/blazing-lancer.webp)Пылающий копейщикОбычный · 2018](https://boostmlbb.ru/skins/zilong/blazing-lancer.html)[![](/images/skins/cards/zilong/elite-warrior.webp)Элитный воинОбычный · 2017](https://boostmlbb.ru/skins/zilong/elite-warrior.html)[![](/images/skins/cards/zilong/eastern-warrior.webp)Восточный воинИсключительный · 2017](https://boostmlbb.ru/skins/zilong/eastern-warrior.html)[![](/images/skins/cards/zilong/glorious-general.webp)Славный генералДелюкс · 2017](https://boostmlbb.ru/skins/zilong/glorious-general.html)
 
-**Поднимем ранг на герое Зилонг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Зилонг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

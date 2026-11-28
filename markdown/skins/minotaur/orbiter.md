@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/minotaur/orbiter.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Минотавра](https://boostmlbb.ru/skins/minotaur.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Минотавр](https://boostmlbb.ru/skins/minotaur.html)/Орбитер
 
@@ -38,7 +38,7 @@ Orbiter
 
 [![](/images/skins/cards/minotaur/nether-overseer.webp)Надзи­ратель преис­поднейДелюкс · 2026](https://boostmlbb.ru/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/minotaur/dreadnought.webp)ДредноутИсключительный · 2023](https://boostmlbb.ru/skins/minotaur/dreadnought.html)[![](/images/skins/cards/minotaur/taurus.webp)ТелецДелюкс · 2019](https://boostmlbb.ru/skins/minotaur/taurus.html)[![](/images/skins/cards/minotaur/sacred-hammer.webp)Священный молотОбычный · 2018](https://boostmlbb.ru/skins/minotaur/sacred-hammer.html)[![](/images/skins/cards/minotaur/orbiter.webp)ОрбитерОбычный · 2018](https://boostmlbb.ru/skins/minotaur/orbiter.html)[![](/images/skins/cards/minotaur/bursting-yama.webp)Неистовый ЯмаОбычный · 2016](https://boostmlbb.ru/skins/minotaur/bursting-yama.html)
 
-**Поднимем ранг на герое Минотавр**Цена считается в калькуляторе
+**Сколько стоит буст на герое Минотавр?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/popol-and-kupa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Popol and Kupa
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/popol-and-kupa/proto-hunter.webp)Proto HunterExceptional · 2025](https://boostmlbb.ru/en/skins/popol-and-kupa/proto-hunter.html)[![](/images/skins/cards/popol-and-kupa/spirit-of-the-brush.webp)Spirit of the BrushExquisite · 2023](https://boostmlbb.ru/en/skins/popol-and-kupa/spirit-of-the-brush.html)[![](/images/skins/cards/popol-and-kupa/trouble-makers.webp)Trouble MakersExceptional · 2022](https://boostmlbb.ru/en/skins/popol-and-kupa/trouble-makers.html)[![](/images/skins/cards/popol-and-kupa/soundwave-ravage.webp)Soundwave & RavageGrand · 2022](https://boostmlbb.ru/en/skins/popol-and-kupa/soundwave-ravage.html)[![](/images/skins/cards/popol-and-kupa/tribal-howl.webp)Tribal HowlCommon · 2020](https://boostmlbb.ru/en/skins/popol-and-kupa/tribal-howl.html)[![](/images/skins/cards/popol-and-kupa/hunting-pals.webp)Hunting PalsCommon · 2020](https://boostmlbb.ru/en/skins/popol-and-kupa/hunting-pals.html)
 
-**Rank up on Popol and Kupa**The calculator shows the price
+**How much is a rank boost on Popol and Kupa?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

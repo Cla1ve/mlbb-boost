@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kagura/exorcist-kagura.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Кагуры](https://boostmlbb.ru/skins/kagura.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Кагура](https://boostmlbb.ru/skins/kagura.html)/Экзорцистка Кагура
 
@@ -48,7 +48,7 @@ Exorcist Kagura
 
 [![](/images/skins/cards/hayabusa/exorcist-hayabusa.webp)Экзорцист ХаябусаХаябуса · 2024](https://boostmlbb.ru/skins/hayabusa/exorcist-hayabusa.html)[![](/images/skins/cards/granger/exorcist-granger.webp)Экзорцист ГрейнджерГрейнджер · 2023](https://boostmlbb.ru/skins/granger/exorcist-granger.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Экзорцист ЧонгЧонг · 2022](https://boostmlbb.ru/skins/yu-zhong/exorcist-yu-zhong.html)
 
-**Поднимем ранг на герое Кагура**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кагура?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/masha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Маша
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/masha/mai-shiranui.webp)Май ШирануиГрандиозный · 2024](https://boostmlbb.ru/skins/masha/mai-shiranui.html)[![](/images/skins/cards/masha/rogue-talon.webp)Коготь разбойницыИсключительный · 2022](https://boostmlbb.ru/skins/masha/rogue-talon.html)[![](/images/skins/cards/masha/spirited-gauntlet.webp)Бойкая перчаткаОбычный · 2020](https://boostmlbb.ru/skins/masha/spirited-gauntlet.html)[![](/images/skins/cards/masha/dragon-armor.webp)Драконья броняДелюкс · 2020](https://boostmlbb.ru/skins/masha/dragon-armor.html)[![](/images/skins/cards/masha/combat-maiden.webp)Боевая деваИсключительный · 2020](https://boostmlbb.ru/skins/masha/combat-maiden.html)[![](/images/skins/cards/masha/winter-guard.webp)Зимняя стражаОбычный · 2019](https://boostmlbb.ru/skins/masha/winter-guard.html)
 
-**Поднимем ранг на герое Маша**Цена считается в калькуляторе
+**Сколько стоит буст на герое Маша?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

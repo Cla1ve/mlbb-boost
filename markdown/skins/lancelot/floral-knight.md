@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lancelot/floral-knight.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ланселота](https://boostmlbb.ru/skins/lancelot.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ланселот](https://boostmlbb.ru/skins/lancelot.html)/Цветочный рыцарь
 
@@ -47,7 +47,7 @@ Floral Knight
 
 [![](/images/skins/cards/minotaur/nether-overseer.webp)Надзи­ратель преис­поднейМинотавр · 2026](https://boostmlbb.ru/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/atlas/sunken-curse.webp)Затонувшее проклятиеАтлас · 2026](https://boostmlbb.ru/skins/atlas/sunken-curse.html)[![](/images/skins/cards/vexana/eternal-vow.webp)Вечная клятваВексана · 2026](https://boostmlbb.ru/skins/vexana/eternal-vow.html)[![](/images/skins/cards/khufra/cursed-scroll.webp)Проклятый свитокХуфра · 2025](https://boostmlbb.ru/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/natalia/soul-huntress.webp)Охотница за душамиНаталья · 2025](https://boostmlbb.ru/skins/natalia/soul-huntress.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Граф кошмаровЛеоморд · 2025](https://boostmlbb.ru/skins/leomord/nightmare-count.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Вершитель звёздБелерик · 2025](https://boostmlbb.ru/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Хранитель ветровВэйл · 2025](https://boostmlbb.ru/skins/vale/keeper-of-the-winds.html)
 
-**Поднимем ранг на герое Ланселот**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ланселот?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

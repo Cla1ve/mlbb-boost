@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/yin/fists-of-valor.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Yin skins](https://boostmlbb.ru/en/skins/yin.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Yin](https://boostmlbb.ru/en/skins/yin.html)/Fists of Valor
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/yin/eternal-guardian.webp)Eternal GuardianExceptional · 2023](https://boostmlbb.ru/en/skins/yin/eternal-guardian.html)[![](/images/skins/cards/yin/eren.webp)ErenGrand · 2023](https://boostmlbb.ru/en/skins/yin/eren.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Yuji ItadoriGrand · 2023](https://boostmlbb.ru/en/skins/yin/yuji-itadori.html)[![](/images/skins/cards/yin/m-world-yin.webp)M-World YinDeluxe · 2022](https://boostmlbb.ru/en/skins/yin/m-world-yin.html)[![](/images/skins/cards/yin/fists-of-valor.webp)Fists of ValorCommon · 2022](https://boostmlbb.ru/en/skins/yin/fists-of-valor.html)
 
-**Rank up on Yin**The calculator shows the price
+**How much is a rank boost on Yin?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

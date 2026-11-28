@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/helcurt.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Хелкарт
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/helcurt/kaiju-of-the-deep.webp)Кайдзю глубинИзысканный · 2026](https://boostmlbb.ru/skins/helcurt/kaiju-of-the-deep.html)[![](/images/skins/cards/helcurt/dream-prowler.webp)Хищник сновИсключительный · 2024](https://boostmlbb.ru/skins/helcurt/dream-prowler.html)[![](/images/skins/cards/helcurt/scorpio.webp)СкорпионДелюкс · 2019](https://boostmlbb.ru/skins/helcurt/scorpio.html)[![](/images/skins/cards/helcurt/evolved-predator.webp)Эволюциони­ровавший хищникИсключительный · 2018](https://boostmlbb.ru/skins/helcurt/evolved-predator.html)[![](/images/skins/cards/helcurt/ice-scythe.webp)Ледяная косаОбычный · 2018](https://boostmlbb.ru/skins/helcurt/ice-scythe.html)[![](/images/skins/cards/helcurt/exoracial-executer.webp)Палач-чужакОбычный · 2017](https://boostmlbb.ru/skins/helcurt/exoracial-executer.html)
 
-**Поднимем ранг на герое Хелкарт**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хелкарт?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

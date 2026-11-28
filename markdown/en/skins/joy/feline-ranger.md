@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/joy/feline-ranger.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Joy skins](https://boostmlbb.ru/en/skins/joy.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Joy](https://boostmlbb.ru/en/skins/joy.html)/Feline Ranger
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/joy/exostar-scout.webp)Exostar ScoutExceptional · 2025](https://boostmlbb.ru/en/skins/joy/exostar-scout.html)[![](/images/skins/cards/joy/royal-protector.webp)Royal ProtectorCommon · 2023](https://boostmlbb.ru/en/skins/joy/royal-protector.html)[![](/images/skins/cards/joy/feline-ranger.webp)Feline RangerCommon · 2022](https://boostmlbb.ru/en/skins/joy/feline-ranger.html)
 
-**Rank up on Joy**The calculator shows the price
+**How much is a rank boost on Joy?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

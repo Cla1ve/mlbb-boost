@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/eudora/atomic-pop-eudora.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Eudora skins](https://boostmlbb.ru/en/skins/eudora.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Eudora](https://boostmlbb.ru/en/skins/eudora.html)/Atomic Pop Eudora
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/miya/atomic-pop-miya.webp)Atomic Pop MiyaMiya · 2023](https://boostmlbb.ru/en/skins/miya/atomic-pop-miya.html)
 
-**Rank up on Eudora**The calculator shows the price
+**How much is a rank boost on Eudora?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

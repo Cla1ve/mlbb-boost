@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/change/moon-artist.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Chang'e skins](https://boostmlbb.ru/en/skins/change.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Chang'e](https://boostmlbb.ru/en/skins/change.html)/Moon Artist
 
@@ -46,7 +46,7 @@ Released
 
 [![](/images/skins/cards/floryn/fluffy-dream.webp)Fluffy DreamFloryn · 2022](https://boostmlbb.ru/en/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/angela/heartstring.webp)HeartstringAngela · 2022](https://boostmlbb.ru/en/skins/angela/heartstring.html)[![](/images/skins/cards/claude/bad-bro.webp)Bad BroClaude · 2020](https://boostmlbb.ru/en/skins/claude/bad-bro.html)
 
-**Rank up on Chang'e**The calculator shows the price
+**How much is a rank boost on Chang'e?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

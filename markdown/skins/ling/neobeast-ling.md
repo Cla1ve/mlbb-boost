@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/ling/neobeast-ling.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Линга](https://boostmlbb.ru/skins/ling.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Линг](https://boostmlbb.ru/skins/ling.html)/Линг Neobeast
 
@@ -49,7 +49,7 @@ Neobeast Ling
 
 [![](/images/skins/cards/pharsa/neobeast-pharsa.webp)Фаша NeobeastФаша · 2025](https://boostmlbb.ru/skins/pharsa/neobeast-pharsa.html)[![](/images/skins/cards/brody/neobeast-brody.webp)Броуди NeobeastБроуди · 2025](https://boostmlbb.ru/skins/brody/neobeast-brody.html)
 
-**Поднимем ранг на герое Линг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Линг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/beatrix/sky-force-maverick.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Беатрис](https://boostmlbb.ru/skins/beatrix.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Беатрис](https://boostmlbb.ru/skins/beatrix.html)/Небесный ас
 
@@ -46,7 +46,7 @@ Sky Force Maverick
 
 [![](/images/skins/cards/paquito/fist-of-glory.webp)Кулак славыПакито · 2024](https://boostmlbb.ru/skins/paquito/fist-of-glory.html)
 
-**Поднимем ранг на герое Беатрис**Цена считается в калькуляторе
+**Сколько стоит буст на герое Беатрис?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

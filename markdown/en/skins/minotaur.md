@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/minotaur.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Minotaur
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/minotaur/nether-overseer.webp)Nether OverseerDeluxe · 2026](https://boostmlbb.ru/en/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/minotaur/dreadnought.webp)Dread­noughtExceptional · 2023](https://boostmlbb.ru/en/skins/minotaur/dreadnought.html)[![](/images/skins/cards/minotaur/taurus.webp)TaurusDeluxe · 2019](https://boostmlbb.ru/en/skins/minotaur/taurus.html)[![](/images/skins/cards/minotaur/sacred-hammer.webp)Sacred HammerCommon · 2018](https://boostmlbb.ru/en/skins/minotaur/sacred-hammer.html)[![](/images/skins/cards/minotaur/orbiter.webp)OrbiterCommon · 2018](https://boostmlbb.ru/en/skins/minotaur/orbiter.html)[![](/images/skins/cards/minotaur/bursting-yama.webp)Bursting YamaCommon · 2016](https://boostmlbb.ru/en/skins/minotaur/bursting-yama.html)
 
-**Rank up on Minotaur**The calculator shows the price
+**How much is a rank boost on Minotaur?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

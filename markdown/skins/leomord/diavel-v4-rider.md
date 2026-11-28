@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/leomord/diavel-v4-rider.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Леоморда](https://boostmlbb.ru/skins/leomord.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Леоморд](https://boostmlbb.ru/skins/leomord.html)/Гонщик на Diavel V4
 
@@ -49,7 +49,7 @@ Diavel V4 Rider
 
 [![](/images/skins/cards/benedetta/panigale-v4s-rider.webp)Гонщица на Panigale V4SБенедетта · 2023](https://boostmlbb.ru/skins/benedetta/panigale-v4s-rider.html)[![](/images/skins/cards/irithel/monster-sp-rider.webp)Гонщица на Monster SPИритель · 2023](https://boostmlbb.ru/skins/irithel/monster-sp-rider.html)
 
-**Поднимем ранг на герое Леоморд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Леоморд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

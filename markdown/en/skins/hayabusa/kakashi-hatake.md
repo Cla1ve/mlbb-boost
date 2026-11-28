@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hayabusa/kakashi-hatake.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hayabusa skins](https://boostmlbb.ru/en/skins/hayabusa.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hayabusa](https://boostmlbb.ru/en/skins/hayabusa.html)/Kakashi Hatake
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/kalea/sakura-haruno.webp)Sakura HarunoKalea · 2025](https://boostmlbb.ru/en/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Naruto UzumakiLukas · 2025](https://boostmlbb.ru/en/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Sasuke UchihaSuyou · 2025](https://boostmlbb.ru/en/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/vale/gaara.webp)GaaraVale · 2025](https://boostmlbb.ru/en/skins/vale/gaara.html)
 
-**Rank up on Hayabusa**The calculator shows the price
+**How much is a rank boost on Hayabusa?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

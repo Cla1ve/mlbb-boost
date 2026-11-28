@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/irithel.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Irithel
 
@@ -33,7 +33,7 @@ AllGrandExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/irithel/checkered-knight.webp)Checkered KnightExceptional · 2025](https://boostmlbb.ru/en/skins/irithel/checkered-knight.html)[![](/images/skins/cards/irithel/monster-sp-rider.webp)Monster SP RiderGrand · 2023](https://boostmlbb.ru/en/skins/irithel/monster-sp-rider.html)[![](/images/skins/cards/irithel/astral-wanderer.webp)Astral WandererExquisite · 2019](https://boostmlbb.ru/en/skins/irithel/astral-wanderer.html)[![](/images/skins/cards/irithel/sagittarius.webp)Sagit­tariusDeluxe · 2018](https://boostmlbb.ru/en/skins/irithel/sagittarius.html)[![](/images/skins/cards/irithel/nightarrow.webp)NightarrowExceptional · 2018](https://boostmlbb.ru/en/skins/irithel/nightarrow.html)[![](/images/skins/cards/irithel/hellfire.webp)HellfireDeluxe · 2017](https://boostmlbb.ru/en/skins/irithel/hellfire.html)[![](/images/skins/cards/irithel/silver-cyclone.webp)Silver CycloneCommon · 2017](https://boostmlbb.ru/en/skins/irithel/silver-cyclone.html)
 
-**Rank up on Irithel**The calculator shows the price
+**How much is a rank boost on Irithel?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

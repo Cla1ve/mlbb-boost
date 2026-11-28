@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/marcel/split-shadows.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Марселя](https://boostmlbb.ru/skins/marcel.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Марсель](https://boostmlbb.ru/skins/marcel.html)/Расколотые тени
 
@@ -35,7 +35,7 @@ Split Shadows
 
 -   Бонус к характеристикам
 
-**Поднимем ранг на герое Марсель**Цена считается в калькуляторе
+**Сколько стоит буст на герое Марсель?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

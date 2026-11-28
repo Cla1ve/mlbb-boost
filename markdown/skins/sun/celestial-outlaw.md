@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/sun/celestial-outlaw.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Сана](https://boostmlbb.ru/skins/sun.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сан](https://boostmlbb.ru/skins/sun.html)/Небесный изгой
 
@@ -35,7 +35,7 @@ Celestial Outlaw
 
 [![](/images/skins/cards/sun/celestial-rebel.webp)Небесный бунтарьИзысканный · 2026](https://boostmlbb.ru/skins/sun/celestial-rebel.html)[![](/images/skins/cards/sun/wicked-flames.webp)Злое пламяИзысканный · 2022](https://boostmlbb.ru/skins/sun/wicked-flames.html)[![](/images/skins/cards/sun/spring-blessings.webp)Весенние благос­ловенияДелюкс · 2022](https://boostmlbb.ru/skins/sun/spring-blessings.html)[![](/images/skins/cards/sun/simian-curse.webp)Обезьянье проклятиеИсключительный · 2021](https://boostmlbb.ru/skins/sun/simian-curse.html)[![](/images/skins/cards/sun/celestial-outlaw.webp)Небесный изгойОбычный · 2020](https://boostmlbb.ru/skins/sun/celestial-outlaw.html)[![](/images/skins/cards/sun/street-legend.webp)Уличная легендаИсключительный · 2018](https://boostmlbb.ru/skins/sun/street-legend.html)[![](/images/skins/cards/sun/battle-buddha.webp)Боевой БуддаОбычный · 2017](https://boostmlbb.ru/skins/sun/battle-buddha.html)[![](/images/skins/cards/sun/rock-star.webp)Рок-звездаИсключительный · 2017](https://boostmlbb.ru/skins/sun/rock-star.html)
 
-**Поднимем ранг на герое Сан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

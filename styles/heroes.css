@@ -467,3 +467,11 @@ body:has(.arena-profile) { overflow-x: clip; overflow-y: visible; }
   .combo__icon { width: 44px; height: 44px; }
   .time-bars { gap: 4px; }
 }
+
+.skill-tab { min-width: 0; }
+.skill-tab b { overflow-wrap: anywhere; }
+@media (max-width: 540px) {
+  .skill-tabs { grid-template-columns: minmax(0, 1fr); }
+  .atlas-nav { position: static; flex-wrap: wrap; gap: 0 16px; height: auto; }
+  .atlas-nav a { padding-block: 10px; }
+}

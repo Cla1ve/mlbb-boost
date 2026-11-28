@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/valentina.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Valentina
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/valentina/grand-gala.webp)Grand GalaCommon · 2025](https://boostmlbb.ru/en/skins/valentina/grand-gala.html)[![](/images/skins/cards/valentina/dark-nexus.webp)Dark NexusDeluxe · 2024](https://boostmlbb.ru/en/skins/valentina/dark-nexus.html)[![](/images/skins/cards/valentina/celestial-judicator.webp)Celestial JudicatorExquisite · 2023](https://boostmlbb.ru/en/skins/valentina/celestial-judicator.html)[![](/images/skins/cards/valentina/cyber-agent.webp)Cyber AgentExceptional · 2023](https://boostmlbb.ru/en/skins/valentina/cyber-agent.html)[![](/images/skins/cards/valentina/archmagister.webp)Archma­gisterCommon · 2022](https://boostmlbb.ru/en/skins/valentina/archmagister.html)[![](/images/skins/cards/valentina/twilight-charmer.webp)Twilight CharmerCommon · 2021](https://boostmlbb.ru/en/skins/valentina/twilight-charmer.html)
 
-**Rank up on Valentina**The calculator shows the price
+**How much is a rank boost on Valentina?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

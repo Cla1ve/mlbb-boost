@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/julian/itachi-uchiha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Джулиана](https://boostmlbb.ru/skins/julian.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Джулиан](https://boostmlbb.ru/skins/julian.html)/Итачи Учиха
 
@@ -31,7 +31,7 @@ Naruto ShippudenОграниченный
 
 [![](/images/skins/cards/gusion/minato-namikaze.webp)Минато НамикадзеГоссен](https://boostmlbb.ru/skins/gusion/minato-namikaze.html)
 
-**Поднимем ранг на герое Джулиан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джулиан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

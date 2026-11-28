@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/khaleed/prince-of-sand.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Халида](https://boostmlbb.ru/skins/khaleed.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Халид](https://boostmlbb.ru/skins/khaleed.html)/Принц песков
 
@@ -39,7 +39,7 @@ Prince of Sand
 
 [![](/images/skins/cards/khaleed/desert-salamander.webp)Пустынная саламандраОбычный · 2025](https://boostmlbb.ru/skins/khaleed/desert-salamander.html)[![](/images/skins/cards/khaleed/wave-strider.webp)Покоритель волнДелюкс · 2024](https://boostmlbb.ru/skins/khaleed/wave-strider.html)[![](/images/skins/cards/khaleed/crescent-scimitar.webp)Скимитар полумесяцаОбычный · 2021](https://boostmlbb.ru/skins/khaleed/crescent-scimitar.html)[![](/images/skins/cards/khaleed/prince-of-sand.webp)Принц песковОбычный · 2020](https://boostmlbb.ru/skins/khaleed/prince-of-sand.html)
 
-**Поднимем ранг на герое Халид**Цена считается в калькуляторе
+**Сколько стоит буст на герое Халид?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/uranus/mech-protector.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Uranus skins](https://boostmlbb.ru/en/skins/uranus.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Uranus](https://boostmlbb.ru/en/skins/uranus.html)/Mech Protector
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/lolita/starwatcher.webp)Star­watcherLolita · 2024](https://boostmlbb.ru/en/skins/lolita/starwatcher.html)
 
-**Rank up on Uranus**The calculator shows the price
+**How much is a rank boost on Uranus?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harith/fashion-expert.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Харита](https://boostmlbb.ru/skins/harith.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Харит](https://boostmlbb.ru/skins/harith.html)/Знаток моды
 
@@ -42,7 +42,7 @@ Fashion Expert
 
 [![](/images/skins/cards/zilong/storm-rider.webp)Всадник буриЗилонг · 2022](https://boostmlbb.ru/skins/zilong/storm-rider.html)
 
-**Поднимем ранг на герое Харит**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харит?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

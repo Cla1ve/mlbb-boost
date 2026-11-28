@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hirara.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Хирара
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/hirara/gilded-embers.webp)Позоло­ченные углиОбычный · 2026](https://boostmlbb.ru/skins/hirara/gilded-embers.html)
 
-**Поднимем ранг на герое Хирара**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хирара?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

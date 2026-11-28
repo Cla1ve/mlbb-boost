@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/harith/killua.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Harith skins](https://boostmlbb.ru/en/skins/harith.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Harith](https://boostmlbb.ru/en/skins/harith.html)/Killua
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/cecilion/hisoka.webp)HisokaCecilion · 2025](https://boostmlbb.ru/en/skins/cecilion/hisoka.html)[![](/images/skins/cards/dyrroth/gon.webp)GonDyrroth · 2025](https://boostmlbb.ru/en/skins/dyrroth/gon.html)[![](/images/skins/cards/julian/kurapika.webp)KurapikaJulian · 2025](https://boostmlbb.ru/en/skins/julian/kurapika.html)
 
-**Rank up on Harith**The calculator shows the price
+**How much is a rank boost on Harith?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

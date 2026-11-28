@@ -1,3 +1,5 @@
+import { renderNickTool } from './nickname-page.mjs';
+import { gameMenu } from './game-menu.mjs';
 import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
@@ -46,6 +48,11 @@ const skins = skinsData ? skinGuides(skinsData, JSON.parse(await read('content/s
 config.guides.push(...heroGuides(heroesData, academyData, JSON.parse(await read('content/hero-story-fallbacks.json')), { play: playData, comboRu, cases: heroCases, skins }));
 config.guides.push(...itemGuides(itemsData, heroesData, academyData));
 if (skins) config.guides.push(...skins.guides);
+config.guides.push({
+  file: 'nickname-generator/index.html', kind: 'tool', published: '2026-11-28',
+  ru: ['Генератор ников и шрифтов для MLBB | MLBB Boost', 'Создайте ник для Mobile Legends по имени, герою или стилю. Примерьте шрифты и скопируйте готовый вариант.', ''],
+  en: ['MLBB nickname and font generator | MLBB Boost', 'Create a Mobile Legends nickname by name, hero or style. Preview fonts and copy your favorite.', '']
+});
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
 const context = vm.createContext({ window: { MLBB_DICT: {} } });
@@ -112,7 +119,7 @@ function block(document, tag, content) {
 }
 const guideOf = file => config.guides.find(g => g.file === file);
 const footerGuides = [
-  ['/news/mlbb-change-nickname/', 'Ники для MLBB', 'MLBB name generator'],
+  ['/nickname-generator/', 'Ники для MLBB', 'MLBB name generator'],
   ['/news/m8-istanbul-world-road/', 'M8: расписание', 'M8 schedule'],
   ['/news/mlbb-ranks-in-order/', 'Ранги по порядку', 'Ranks in order'],
   ['/news/mlbb-season-end-rank-reset/', 'Конец сезона и сброс', 'Season end and reset'],
@@ -275,11 +282,6 @@ function uiArt(kind, lang) {
   return '';
 }
 // The switch between the reference sections; news-pipeline.mjs draws the same one on the news pages.
-function arenaContext(lang, active, current) {
-  const en = lang === 'en';
-  const links = [['tier', '/heroes/', 'Тир-лист', 'Tier list'], ['items', '/items/', 'Предметы', 'Items'], ['skins', '/skins/', 'Скины', 'Skins'], ['news', '/news/', 'Новости<span class="ctx-more"> и гайды</span>', 'News<span class="ctx-more"> &amp; guides</span>']];
-  return `<nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}">${links.map(([key, href, ru, english]) => `<a href="${localized(href, lang)}"${key === active ? ` aria-current="${current ? 'page' : 'true'}"` : ''}>${en ? english : ru}</a>`).join('')}</nav>`;
-}
 // The way back to a section's list from its pages (hero profiles and rankings, items).
 const BACK_ARROW = '<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 const BACK_SCRIPT = `<script>document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('[data-back]');if(!a)return;try{var r=new URL(document.referrer);if(r.origin===location.origin&&r.pathname===new URL(a.href,location.href).pathname&&history.length>1){e.preventDefault();history.back();}}catch(x){}});</script>`;
@@ -290,11 +292,11 @@ function guideArticle(guide, lang) {
   const faq = rawFaq.map(([q, a]) => [q, fillTokens(a, lang)]);
   const crumbs = guide.crumb ? [localized(guide.crumb[0], lang), en ? guide.crumb[2] : guide.crumb[1]] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
+  if (guide.kind === 'tool') return `<article class="news-page nickname-page"><header class="container"><h1>${guide[lang][0].split(' | ')[0]}</h1><p>${guide[lang][1]}</p></header>${renderNickTool(lang)}<p class="container"><a href="${localized('/news/mlbb-change-nickname/', lang)}">${en ? 'How to change your nickname in MLBB' : 'Как сменить ник в MLBB'}</a></p></article>`;
   if (guide.kind === 'hero') {
     const head = guide[lang][4];
     const profile = Boolean(head.portrait);
     return `<article class="atlas container ${profile ? 'arena-profile' : 'arena-directory'}">
-      ${arenaContext(lang, 'tier', !profile)}
       ${guide.file !== 'heroes/index.html' ? backLink('/heroes/', 'Тир-лист', 'Tier list', lang) : ''}
       ${head.html}
       ${body}${faqHTML}</article>`;
@@ -303,7 +305,6 @@ function guideArticle(guide, lang) {
     const head = guide[lang][4];
     const index = guide.file === 'items/index.html';
     return `<article class="atlas container ${index ? 'arena-directory items-page' : 'arena-profile item-page'}">
-      ${arenaContext(lang, 'items', index)}
       ${index ? '' : backLink('/items/', 'Все предметы', 'All items', lang)}
       ${head.html}
       ${guide[lang][2]}${faqHTML}</article>`;
@@ -312,7 +313,7 @@ function guideArticle(guide, lang) {
     const head = guide[lang][4];
     const index = guide.file === 'skins/index.html';
     return `<article class="atlas container ${index ? 'arena-directory skins-page' : 'arena-profile skin-page'}">
-      ${arenaContext(lang, 'skins', index)}
+      ${index ? '' : guide.crumbs ? backLink(...guide.crumbs.at(-1), lang) : backLink('/skins/', 'Все скины', 'All skins', lang)}
       ${head.html}
       ${guide[lang][2]}${faqHTML}</article>`;
   }
@@ -337,7 +338,7 @@ function schema(document, file, lang, title, description, url) {
   const guide = guideOf(file);
   const isHeroIndex = file === 'heroes/index.html';
   const isList = Boolean(guide?.list || guide?.itemList);
-  const isArticle = guide && guide.kind !== 'service' && !isHeroIndex && !isList;
+  const isArticle = guide && !['tool','service'].includes(guide.kind) && !isHeroIndex && !isList;
   const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : (isHeroIndex || isList || file === 'reviews.html') ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
   if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.ogImage ? origin + guide.ogImage : guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   if (isHeroIndex) page.mainEntity = {
@@ -421,6 +422,11 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     const title = metadata?.[0] || (lang === 'en' ? translate(document.title, file) : document.title);
     const description = metadata?.[1] || (lang === 'en' ? translate(document.querySelector('meta[name="description"]')?.content || '', file) : document.querySelector('meta[name="description"]')?.content || '');
     if (guide) document.querySelector('main').innerHTML = guideArticle(guide, lang);
+    if (guide?.kind === 'tool') {
+      for (const href of ['/styles/arena.css?v=9','/styles/journal.css?v=7','/styles/nicknames.css?v=5']) {
+        const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = href; document.head.append(style);
+      }
+    }
     if (guide?.layout === 'landing' && !document.querySelector('link[href*="/styles/prices.css"]')) {
       const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/prices.css?v=mythic-calibration-3'; document.head.append(style);
     }
@@ -439,7 +445,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     document.title = title;
     for (const [name, value, property] of [
       ['description', description], ['robots', file === '404.html' ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
-      ['og:title', title, true], ['og:description', description, true], ['og:type', guide ? 'article' : 'website', true], ['og:locale', lang === 'en' ? 'en_US' : 'ru_RU', true],
+      ['og:title', title, true], ['og:description', description, true], ['og:type', guide && guide.kind !== 'tool' ? 'article' : 'website', true], ['og:locale', lang === 'en' ? 'en_US' : 'ru_RU', true],
       ['og:url', origin + localized(filePath(file), lang), true], ['og:image', guide?.ogImage ? origin + guide.ogImage : guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`, true],
       ['og:image:width', guide?.ogImage ? '1280' : '1200', true], ['og:image:height', guide?.ogImage ? '720' : guide?.image ? '675' : '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
       ['twitter:card', 'summary_large_image'], ['twitter:title', title], ['twitter:description', description], ['twitter:image', guide?.ogImage ? origin + guide.ogImage : guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`], ['theme-color', '#0A1A2F']
@@ -501,7 +507,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (['hero', 'item', 'skin'].includes(guideOf(file)?.kind)) {
       const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=9';
       document.head.append(arenaStyle);
-      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=14';
+      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=15';
       document.head.append(heroStyle);
       if (guideOf(file).kind === 'item') { const itemStyle = document.createElement('link'); itemStyle.rel = 'stylesheet'; itemStyle.href = '/styles/items.css?v=2'; document.head.append(itemStyle); }
       // Skin cards also sit on hero profiles (the Skins tab).
@@ -514,7 +520,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelector('link[rel="stylesheet"]')?.before(font);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
-    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=33'; document.head.append(interfaceStyle);
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=34'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
@@ -525,7 +531,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '31' : asset.pathname === '/js/prices.js' ? '31' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '34' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '32' : asset.pathname === '/js/prices.js' ? '31' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -615,6 +621,8 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelectorAll('[data-news-en-srcset]').forEach(el => el.setAttribute('srcset', el.getAttribute('data-news-en-srcset')));
       document.querySelectorAll('[data-news-en-alt]').forEach(el => el.setAttribute('alt', el.getAttribute('data-news-en-alt')));
     }
+    const newsLink = navigation?.querySelector('a[href$="/news/"]');
+    if (newsLink) newsLink.parentElement.outerHTML = gameMenu(lang);
     schema(document, file, lang, title, description, canonical);
     const output = lang === 'en' ? 'en/' + file : file;
     await save(output, '<!DOCTYPE html>\n' + document.documentElement.outerHTML + '\n');

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/eudora/christmas-carnival.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эйдоры](https://boostmlbb.ru/skins/eudora.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эйдора](https://boostmlbb.ru/skins/eudora.html)/Рождественский карнавал
 
@@ -43,7 +43,7 @@ Christmas Carnival
 
 [![](/images/skins/cards/harith/christmas-carnival.webp)Рож­дественский карнавалХарит · 2025](https://boostmlbb.ru/skins/harith/christmas-carnival.html)[![](/images/skins/cards/claude/christmas-carnival.webp)Рож­дественский карнавалКлауд · 2024](https://boostmlbb.ru/skins/claude/christmas-carnival.html)[![](/images/skins/cards/rafaela/angelic-sonata.webp)Ангельская сонатаРафаэль · 2022](https://boostmlbb.ru/skins/rafaela/angelic-sonata.html)[![](/images/skins/cards/fanny/christmas-carnival.webp)Рож­дественский карнавалФанни · 2020](https://boostmlbb.ru/skins/fanny/christmas-carnival.html)[![](/images/skins/cards/lancelot/christmas-carnival.webp)Рож­дественский карнавалЛанселот · 2018](https://boostmlbb.ru/skins/lancelot/christmas-carnival.html)[![](/images/skins/cards/odette/christmas-carnival.webp)Рож­дественский карнавалОдетта · 2018](https://boostmlbb.ru/skins/odette/christmas-carnival.html)[![](/images/skins/cards/freya/christmas-carnival.webp)Рож­дественский карнавалФрейя · 2018](https://boostmlbb.ru/skins/freya/christmas-carnival.html)[![](/images/skins/cards/zilong/christmas-carnival.webp)Рож­дественский карнавалЗилонг · 2018](https://boostmlbb.ru/skins/zilong/christmas-carnival.html)
 
-**Поднимем ранг на герое Эйдора**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эйдора?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

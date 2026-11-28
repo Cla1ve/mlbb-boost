@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/granger/exorcist-granger.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Granger skins](https://boostmlbb.ru/en/skins/granger.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Granger](https://boostmlbb.ru/en/skins/granger.html)/Exorcist Granger
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/hayabusa/exorcist-hayabusa.webp)Exorcist HayabusaHayabusa · 2024](https://boostmlbb.ru/en/skins/hayabusa/exorcist-hayabusa.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Exorcist Yu ZhongYu Zhong · 2022](https://boostmlbb.ru/en/skins/yu-zhong/exorcist-yu-zhong.html)[![](/images/skins/cards/kagura/exorcist-kagura.webp)Exorcist KaguraKagura · 2022](https://boostmlbb.ru/en/skins/kagura/exorcist-kagura.html)
 
-**Rank up on Granger**The calculator shows the price
+**How much is a rank boost on Granger?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

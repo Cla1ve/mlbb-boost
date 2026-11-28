@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/aldous/mistbender-aldous.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Алдоса](https://boostmlbb.ru/skins/aldous.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Алдос](https://boostmlbb.ru/skins/aldous.html)/Алдос, заклинатель тумана
 
@@ -48,7 +48,7 @@ Mistbender Aldous
 
 [![](/images/skins/cards/nana/mistbender-nana.webp)Нана, заклина­тельница туманаНана · 2023](https://boostmlbb.ru/skins/nana/mistbender-nana.html)
 
-**Поднимем ранг на герое Алдос**Цена считается в калькуляторе
+**Сколько стоит буст на герое Алдос?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

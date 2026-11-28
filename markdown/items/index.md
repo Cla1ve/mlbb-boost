@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/items/
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 # Предметы MLBB
 
 97 предметов · цены как в игре на 25 ноября 2026

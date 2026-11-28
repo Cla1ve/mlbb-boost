@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/faramis/enigmatic-wayfarer.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Faramis skins](https://boostmlbb.ru/en/skins/faramis.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Faramis](https://boostmlbb.ru/en/skins/faramis.html)/Enigmatic Wayfarer
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/valentina/grand-gala.webp)Grand GalaValentina · 2025](https://boostmlbb.ru/en/skins/valentina/grand-gala.html)
 
-**Rank up on Faramis**The calculator shows the price
+**How much is a rank boost on Faramis?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

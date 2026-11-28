@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lancelot/guardian-of-the-shrine.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ланселота](https://boostmlbb.ru/skins/lancelot.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ланселот](https://boostmlbb.ru/skins/lancelot.html)/Страж святилища
 
@@ -49,7 +49,7 @@ Guardian of the Shrine
 
 [![](/images/skins/cards/angela/strings-of-fate.webp)Нити судьбыАнгела · 2025](https://boostmlbb.ru/skins/angela/strings-of-fate.html)[![](/images/skins/cards/karrie/breath-of-naraka.webp)Дыхание НаракиКэрри · 2025](https://boostmlbb.ru/skins/karrie/breath-of-naraka.html)
 
-**Поднимем ранг на герое Ланселот**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ланселот?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

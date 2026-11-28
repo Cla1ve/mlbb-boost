@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/zhuxin/p-ace-zhuxin.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Zhuxin skins](https://boostmlbb.ru/en/skins/zhuxin.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Zhuxin](https://boostmlbb.ru/en/skins/zhuxin.html)/P.ACE Zhuxin
 
@@ -48,7 +48,7 @@ Released
 
 [![](/images/skins/cards/cici/p-ace-cici.webp)P.ACE CiciCici · 2025](https://boostmlbb.ru/en/skins/cici/p-ace-cici.html)[![](/images/skins/cards/fanny/p-ace-fanny.webp)P.ACE FannyFanny · 2025](https://boostmlbb.ru/en/skins/fanny/p-ace-fanny.html)
 
-**Rank up on Zhuxin**The calculator shows the price
+**How much is a rank boost on Zhuxin?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

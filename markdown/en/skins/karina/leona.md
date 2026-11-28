@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/karina/leona.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Karina skins](https://boostmlbb.ru/en/skins/karina.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Karina](https://boostmlbb.ru/en/skins/karina.html)/Leona
 
@@ -47,7 +47,7 @@ March 2019
 
 [![](/images/skins/cards/valir/kyo-kusanagi.webp)Kyo KusanagiValir · 2024](https://boostmlbb.ru/en/skins/valir/kyo-kusanagi.html)[![](/images/skins/cards/paquito/terry-bogard.webp)Terry BogardPaquito · 2024](https://boostmlbb.ru/en/skins/paquito/terry-bogard.html)[![](/images/skins/cards/masha/mai-shiranui.webp)Mai ShiranuiMasha · 2024](https://boostmlbb.ru/en/skins/masha/mai-shiranui.html)[![](/images/skins/cards/gusion/k.webp)K'Gusion · 2024](https://boostmlbb.ru/en/skins/gusion/k.html)[![](/images/skins/cards/dyrroth/orochi-chris.webp)Orochi ChrisDyrroth · 2020](https://boostmlbb.ru/en/skins/dyrroth/orochi-chris.html)[![](/images/skins/cards/aurora/kula-diamond.webp)Kula DiamondAurora · 2019](https://boostmlbb.ru/en/skins/aurora/kula-diamond.html)[![](/images/skins/cards/guinevere/athena-asamiya.webp)Athena AsamiyaGuinevere · 2019](https://boostmlbb.ru/en/skins/guinevere/athena-asamiya.html)[![](/images/skins/cards/chou/iori-yagami.webp)Iori YagamiChou · 2019](https://boostmlbb.ru/en/skins/chou/iori-yagami.html)
 
-**Rank up on Karina**The calculator shows the price
+**How much is a rank boost on Karina?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

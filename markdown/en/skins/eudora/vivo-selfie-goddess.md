@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/eudora/vivo-selfie-goddess.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Eudora skins](https://boostmlbb.ru/en/skins/eudora.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Eudora](https://boostmlbb.ru/en/skins/eudora.html)/Vivo Selfie Goddess
 
@@ -50,7 +50,7 @@ The same skin in other colours. A painted version needs the skin itself.
 
 [![](/images/skins/cards/miya/honor.webp)HonorMiya · 2017](https://boostmlbb.ru/en/skins/miya/honor.html)
 
-**Rank up on Eudora**The calculator shows the price
+**How much is a rank boost on Eudora?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

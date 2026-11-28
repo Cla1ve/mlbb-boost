@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/odette/song-of-devotion.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Одетты](https://boostmlbb.ru/skins/odette.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Одетта](https://boostmlbb.ru/skins/odette.html)/Песнь преданности
 
@@ -47,7 +47,7 @@ Song of Devotion
 
 [![](/images/skins/cards/lancelot/blade-of-devotion.webp)Клинок предан­ностиЛанселот · 2026](https://boostmlbb.ru/skins/lancelot/blade-of-devotion.html)
 
-**Поднимем ранг на герое Одетта**Цена считается в калькуляторе
+**Сколько стоит буст на герое Одетта?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

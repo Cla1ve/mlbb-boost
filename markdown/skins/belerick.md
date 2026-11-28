@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/belerick.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Белерик
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/belerick/smouldering-fortress.webp)Тлеющая крепостьИсключительный · 2026](https://boostmlbb.ru/skins/belerick/smouldering-fortress.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Вершитель звёздДелюкс · 2025](https://boostmlbb.ru/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/belerick/tiger-s-claw.webp)Тигриный коготьОбычный · 2022](https://boostmlbb.ru/skins/belerick/tiger-s-claw.html)[![](/images/skins/cards/belerick/torch-guardian.webp)Страж факелаОбычный · 2019](https://boostmlbb.ru/skins/belerick/torch-guardian.html)[![](/images/skins/cards/belerick/emerald-guardian.webp)Изумрудный стражИсключительный · 2018](https://boostmlbb.ru/skins/belerick/emerald-guardian.html)[![](/images/skins/cards/belerick/the-deep-one.webp)Глубоко­водныйИсключительный · 2018](https://boostmlbb.ru/skins/belerick/the-deep-one.html)
 
-**Поднимем ранг на герое Белерик**Цена считается в калькуляторе
+**Сколько стоит буст на герое Белерик?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

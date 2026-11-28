@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/ruby/crescent-dervish.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Руби](https://boostmlbb.ru/skins/ruby.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Руби](https://boostmlbb.ru/skins/ruby.html)/Дервиш полумесяца
 
@@ -42,7 +42,7 @@ Crescent Dervish
 
 [![](/images/skins/cards/hanabi/twin-crescent.webp)Двойной полумесяцХанаби · 2026](https://boostmlbb.ru/skins/hanabi/twin-crescent.html)[![](/images/skins/cards/ruby/neon-edge.webp)Неоновый клинокРуби · 2025](https://boostmlbb.ru/skins/ruby/neon-edge.html)
 
-**Поднимем ранг на герое Руби**Цена считается в калькуляторе
+**Сколько стоит буст на герое Руби?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

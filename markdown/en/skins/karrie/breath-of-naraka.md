@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/karrie/breath-of-naraka.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Karrie skins](https://boostmlbb.ru/en/skins/karrie.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Karrie](https://boostmlbb.ru/en/skins/karrie.html)/Breath of Naraka
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/angela/strings-of-fate.webp)Strings of FateAngela · 2025](https://boostmlbb.ru/en/skins/angela/strings-of-fate.html)[![](/images/skins/cards/lancelot/guardian-of-the-shrine.webp)Guardian of the ShrineLancelot · 2025](https://boostmlbb.ru/en/skins/lancelot/guardian-of-the-shrine.html)
 
-**Rank up on Karrie**The calculator shows the price
+**How much is a rank boost on Karrie?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

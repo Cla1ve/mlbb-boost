@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/change/new-moon.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чан'Э](https://boostmlbb.ru/skins/change.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чан'Э](https://boostmlbb.ru/skins/change.html)/Новолуние
 
@@ -48,7 +48,7 @@ New Moon
 
 [![](/images/skins/cards/leomord/auspicious-blaze.webp)Благое пламяЛеоморд · 2026](https://boostmlbb.ru/skins/leomord/auspicious-blaze.html)[![](/images/skins/cards/rafaela/bloom-of-abundance.webp)Цветение изобилияРафаэль · 2025](https://boostmlbb.ru/skins/rafaela/bloom-of-abundance.html)[![](/images/skins/cards/zilong/dragon-of-prosperity.webp)Дракон процве­танияЗилонг · 2024](https://boostmlbb.ru/skins/zilong/dragon-of-prosperity.html)[![](/images/skins/cards/sun/spring-blessings.webp)Весенние благос­ловенияСан · 2022](https://boostmlbb.ru/skins/sun/spring-blessings.html)[![](/images/skins/cards/luo-yi/dawning-fortune.webp)Рассветная удачаЛо Йи · 2021](https://boostmlbb.ru/skins/luo-yi/dawning-fortune.html)[![](/images/skins/cards/odette/auspicious-charm.webp)Благая удачаОдетта · 2019](https://boostmlbb.ru/skins/odette/auspicious-charm.html)[![](/images/skins/cards/lolita/lion-dance.webp)Танец льваЛолита · 2019](https://boostmlbb.ru/skins/lolita/lion-dance.html)[![](/images/skins/cards/aurora/foxy-lady.webp)Лисья ледиАврора · 2018](https://boostmlbb.ru/skins/aurora/foxy-lady.html)
 
-**Поднимем ранг на герое Чан'Э**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чан'Э?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

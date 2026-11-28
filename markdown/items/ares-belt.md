@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/items/ares-belt.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 [Все предметы](https://boostmlbb.ru/items/)
 
 ![Иконка предмета Пояс Ареса](/images/mlbb/items/2201.webp)

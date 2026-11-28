@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/fanny/p-ace-fanny.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фанни](https://boostmlbb.ru/skins/fanny.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фанни](https://boostmlbb.ru/skins/fanny.html)/Фанни P.ACE
 
@@ -46,7 +46,7 @@ P.ACE Fanny
 
 [![](/images/skins/cards/cici/p-ace-cici.webp)Чичи P.ACEЧичи · 2025](https://boostmlbb.ru/skins/cici/p-ace-cici.html)[![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)Чжусинь P.ACEЧжусинь · 2025](https://boostmlbb.ru/skins/zhuxin/p-ace-zhuxin.html)
 
-**Поднимем ранг на герое Фанни**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фанни?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

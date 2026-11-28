@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/cici.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Чичи
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/cici/p-ace-cici.webp)Чичи P.ACEДелюкс · 2025](https://boostmlbb.ru/skins/cici/p-ace-cici.html)[![](/images/skins/cards/cici/circus-reverie.webp)Цирковая грезаИсключительный · 2025](https://boostmlbb.ru/skins/cici/circus-reverie.html)[![](/images/skins/cards/cici/whimsical-carnival.webp)Причуд­ливый карнавалОбычный · 2023](https://boostmlbb.ru/skins/cici/whimsical-carnival.html)
 
-**Поднимем ранг на герое Чичи**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чичи?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

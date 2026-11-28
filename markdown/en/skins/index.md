@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/skins/
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 # MLBB skins
 
 946 skins of 133 heroes · prices and how to get them

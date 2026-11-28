@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/belerick/smouldering-fortress.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Belerick skins](https://boostmlbb.ru/en/skins/belerick.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Belerick](https://boostmlbb.ru/en/skins/belerick.html)/Smouldering Fortress
 
@@ -33,7 +33,7 @@ Released
 
 [![](/images/skins/cards/kalea/tideborn-sailor.webp)Tideborn SailorKalea · 2026](https://boostmlbb.ru/en/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/hayabusa/kitsune-s-shadow.webp)Kitsune's ShadowHayabusa · 2026](https://boostmlbb.ru/en/skins/hayabusa/kitsune-s-shadow.html)[![](/images/skins/cards/hanzo/fangs-of-slaughter.webp)Fangs of SlaughterHanzo · 2026](https://boostmlbb.ru/en/skins/hanzo/fangs-of-slaughter.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Magitech WraithObsidia · 2026](https://boostmlbb.ru/en/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/zetian/elysian-luminance.webp)Elysian LuminanceZetian · 2026](https://boostmlbb.ru/en/skins/zetian/elysian-luminance.html)[![](/images/skins/cards/hilda/guardian-battalion.webp)Guardian BattalionHilda · 2026](https://boostmlbb.ru/en/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/harley/dreaming-koi.webp)Dreaming KoiHarley · 2026](https://boostmlbb.ru/en/skins/harley/dreaming-koi.html)[![](/images/skins/cards/fredrinn/royal-marshal.webp)Royal MarshalFredrinn · 2025](https://boostmlbb.ru/en/skins/fredrinn/royal-marshal.html)
 
-**Rank up on Belerick**The calculator shows the price
+**How much is a rank boost on Belerick?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/julian/kurapika.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Джулиана](https://boostmlbb.ru/skins/julian.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Джулиан](https://boostmlbb.ru/skins/julian.html)/Курапика
 
@@ -49,7 +49,7 @@ Kurapika
 
 [![](/images/skins/cards/cecilion/hisoka.webp)ХисокаСесилион · 2025](https://boostmlbb.ru/skins/cecilion/hisoka.html)[![](/images/skins/cards/dyrroth/gon.webp)ГонДариус · 2025](https://boostmlbb.ru/skins/dyrroth/gon.html)[![](/images/skins/cards/harith/killua.webp)КиллуаХарит · 2025](https://boostmlbb.ru/skins/harith/killua.html)
 
-**Поднимем ранг на герое Джулиан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джулиан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

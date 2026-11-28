@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/estes/sparkle-estes.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эстеса](https://boostmlbb.ru/skins/estes.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эстес](https://boostmlbb.ru/skins/estes.html)/Эстес SPARKLE
 
@@ -46,7 +46,7 @@ SPARKLE Estes
 
 [![](/images/skins/cards/fredrinn/sparkle-fredrinn.webp)Фредрин SPARKLEФредрин · 2024](https://boostmlbb.ru/skins/fredrinn/sparkle-fredrinn.html)[![](/images/skins/cards/melissa/sparkle-melissa.webp)Мелисса SPARKLEМелисса · 2024](https://boostmlbb.ru/skins/melissa/sparkle-melissa.html)
 
-**Поднимем ранг на герое Эстес**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эстес?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/gatotkaca/mighty-guardian.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Gatotkaca skins](https://boostmlbb.ru/en/skins/gatotkaca.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Gatotkaca](https://boostmlbb.ru/en/skins/gatotkaca.html)/Mighty Guardian
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/gatotkaca/nutcracker-monarch.webp)Nutcracker MonarchExceptional · 2024](https://boostmlbb.ru/en/skins/gatotkaca/nutcracker-monarch.html)[![](/images/skins/cards/gatotkaca/tide-preserver.webp)Tide PreserverDeluxe · 2024](https://boostmlbb.ru/en/skins/gatotkaca/tide-preserver.html)[![](/images/skins/cards/gatotkaca/spark.webp)SparkCommon · 2019](https://boostmlbb.ru/en/skins/gatotkaca/spark.html)[![](/images/skins/cards/gatotkaca/sentinel.webp)SentinelExquisite · 2018](https://boostmlbb.ru/en/skins/gatotkaca/sentinel.html)[![](/images/skins/cards/gatotkaca/arhat-king.webp)Arhat KingCommon · 2018](https://boostmlbb.ru/en/skins/gatotkaca/arhat-king.html)[![](/images/skins/cards/gatotkaca/mighty-guardian.webp)Mighty GuardianCommon · 2017](https://boostmlbb.ru/en/skins/gatotkaca/mighty-guardian.html)[![](/images/skins/cards/gatotkaca/solar-spark.webp)Solar Spark](https://boostmlbb.ru/en/skins/gatotkaca/solar-spark.html)
 
-**Rank up on Gatotkaca**The calculator shows the price
+**How much is a rank boost on Gatotkaca?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

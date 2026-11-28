@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/badang.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Баданг
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/badang/quantum-commando.webp)Квантовый коммандосИсключительный · 2026](https://boostmlbb.ru/skins/badang/quantum-commando.html)[![](/images/skins/cards/badang/steel-arms.webp)Стальные рукиИсключительный · 2025](https://boostmlbb.ru/skins/badang/steel-arms.html)[![](/images/skins/cards/badang/sagittarius-seiya.webp)Стрелец СэйяГрандиозный · 2022](https://boostmlbb.ru/skins/badang/sagittarius-seiya.html)[![](/images/skins/cards/badang/pegasus-seiya.webp)Пегас СэйяДелюкс · 2022](https://boostmlbb.ru/skins/badang/pegasus-seiya.html)[![](/images/skins/cards/badang/ironfists.webp)Железные кулакиОбычный · 2022](https://boostmlbb.ru/skins/badang/ironfists.html)[![](/images/skins/cards/badang/fist-of-zen.webp)Кулак дзенИзысканный · 2020](https://boostmlbb.ru/skins/badang/fist-of-zen.html)[![](/images/skins/cards/badang/leo.webp)ЛевДелюкс · 2019](https://boostmlbb.ru/skins/badang/leo.html)[![](/images/skins/cards/badang/susanoo.webp)СусанооИсключительный · 2018](https://boostmlbb.ru/skins/badang/susanoo.html)
 
-**Поднимем ранг на герое Баданг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Баданг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

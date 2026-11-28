@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/julian/meowkin-tracker.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Джулиана](https://boostmlbb.ru/skins/julian.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Джулиан](https://boostmlbb.ru/skins/julian.html)/Следопыт Мяукинов
 
@@ -46,7 +46,7 @@ Meowkin Tracker
 
 [![](/images/skins/cards/lesley/meowkin-hunter.webp)Охотница из МяукиновЛесли · 2025](https://boostmlbb.ru/skins/lesley/meowkin-hunter.html)[![](/images/skins/cards/silvanna/meowkin-warden.webp)Стражница МяукиновСильвана · 2025](https://boostmlbb.ru/skins/silvanna/meowkin-warden.html)
 
-**Поднимем ранг на герое Джулиан**Цена считается в калькуляторе
+**Сколько стоит буст на герое Джулиан?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

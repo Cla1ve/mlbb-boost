@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/saber/golden-flash.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Сабера](https://boostmlbb.ru/skins/saber.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сабер](https://boostmlbb.ru/skins/saber.html)/Золотая вспышка
 
@@ -39,7 +39,7 @@ Golden Flash
 
 [![](/images/skins/cards/saber/iron-hound.webp)Железный пёсИсключительный · 2023](https://boostmlbb.ru/skins/saber/iron-hound.html)[![](/images/skins/cards/saber/silver-edge.webp)Серебряный клинокОбычный · 2021](https://boostmlbb.ru/skins/saber/silver-edge.html)[![](/images/skins/cards/saber/onimaru.webp)ОнимаруИзысканный · 2019](https://boostmlbb.ru/skins/saber/onimaru.html)[![](/images/skins/cards/saber/s-a-b-e-r-regulator.webp)Регулятор S.A.B.E.R.Делюкс · 2018](https://boostmlbb.ru/skins/saber/s-a-b-e-r-regulator.html)[![](/images/skins/cards/saber/fullmetal-ronin.webp)Цельноме­таллический ронинОбычный · 2018](https://boostmlbb.ru/skins/saber/fullmetal-ronin.html)[![](/images/skins/cards/saber/codename-storm.webp)Кодовое имя: ШтормВысший · 2017](https://boostmlbb.ru/skins/saber/codename-storm.html)[![](/images/skins/cards/saber/force-warrior.webp)Воин силыИсключительный · 2016](https://boostmlbb.ru/skins/saber/force-warrior.html)[![](/images/skins/cards/saber/golden-flash.webp)Золотая вспышкаОбычный · 2016](https://boostmlbb.ru/skins/saber/golden-flash.html)
 
-**Поднимем ранг на герое Сабер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сабер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

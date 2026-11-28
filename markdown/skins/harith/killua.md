@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harith/killua.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Харита](https://boostmlbb.ru/skins/harith.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Харит](https://boostmlbb.ru/skins/harith.html)/Киллуа
 
@@ -49,7 +49,7 @@ Killua
 
 [![](/images/skins/cards/cecilion/hisoka.webp)ХисокаСесилион · 2025](https://boostmlbb.ru/skins/cecilion/hisoka.html)[![](/images/skins/cards/dyrroth/gon.webp)ГонДариус · 2025](https://boostmlbb.ru/skins/dyrroth/gon.html)[![](/images/skins/cards/julian/kurapika.webp)КурапикаДжулиан · 2025](https://boostmlbb.ru/skins/julian/kurapika.html)
 
-**Поднимем ранг на герое Харит**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харит?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

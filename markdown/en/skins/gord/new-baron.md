@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/gord/new-baron.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Gord skins](https://boostmlbb.ru/en/skins/gord.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Gord](https://boostmlbb.ru/en/skins/gord.html)/New Baron
 
@@ -36,7 +36,7 @@ Released
 
 [![](/images/skins/cards/gord/imperator-vitalis.webp)Imperator VitalisExceptional · 2025](https://boostmlbb.ru/en/skins/gord/imperator-vitalis.html)[![](/images/skins/cards/gord/cyber-hacker.webp)Cyber HackerDeluxe · 2024](https://boostmlbb.ru/en/skins/gord/cyber-hacker.html)[![](/images/skins/cards/gord/new-baron.webp)New BaronCommon · 2021](https://boostmlbb.ru/en/skins/gord/new-baron.html)[![](/images/skins/cards/gord/no-1-controller.webp)No.1 ControllerExquisite · 2019](https://boostmlbb.ru/en/skins/gord/no-1-controller.html)[![](/images/skins/cards/gord/conqueror.webp)ConquerorSupreme · 2018](https://boostmlbb.ru/en/skins/gord/conqueror.html)[![](/images/skins/cards/gord/christmas-carnival.webp)Christmas CarnivalExceptional · 2016](https://boostmlbb.ru/en/skins/gord/christmas-carnival.html)[![](/images/skins/cards/gord/professor-of-hell.webp)Professor of HellCommon · 2016](https://boostmlbb.ru/en/skins/gord/professor-of-hell.html)
 
-**Rank up on Gord**The calculator shows the price
+**How much is a rank boost on Gord?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

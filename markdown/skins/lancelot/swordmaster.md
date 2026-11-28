@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lancelot/swordmaster.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ланселота](https://boostmlbb.ru/skins/lancelot.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ланселот](https://boostmlbb.ru/skins/lancelot.html)/Мастер меча
 
@@ -45,7 +45,7 @@ Swordmaster
 
 [![](/images/skins/cards/vale/blizzard-storm.webp)Снежная буряВэйл · 2023](https://boostmlbb.ru/skins/vale/blizzard-storm.html)[![](/images/skins/cards/esmeralda/the-foreseer.webp)Прорица­тельницаЭсмеральда · 2023](https://boostmlbb.ru/skins/esmeralda/the-foreseer.html)[![](/images/skins/cards/chou/thunderfist.webp)Громовой кулакЧу · 2021](https://boostmlbb.ru/skins/chou/thunderfist.html)[![](/images/skins/cards/bruno/firebolt.webp)Огненный разрядБруно · 2020](https://boostmlbb.ru/skins/bruno/firebolt.html)
 
-**Поднимем ранг на герое Ланселот**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ланселот?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

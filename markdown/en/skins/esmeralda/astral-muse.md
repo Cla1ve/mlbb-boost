@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/esmeralda/astral-muse.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Esmeralda skins](https://boostmlbb.ru/en/skins/esmeralda.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Esmeralda](https://boostmlbb.ru/en/skins/esmeralda.html)/Astral Muse
 
@@ -36,7 +36,7 @@ Released
 
 [![](/images/skins/cards/esmeralda/astral-muse.webp)Astral MuseExceptional · 2025](https://boostmlbb.ru/en/skins/esmeralda/astral-muse.html)[![](/images/skins/cards/esmeralda/the-foreseer.webp)The ForeseerGrand · 2023](https://boostmlbb.ru/en/skins/esmeralda/the-foreseer.html)[![](/images/skins/cards/esmeralda/light-envoy.webp)Light EnvoyExquisite · 2022](https://boostmlbb.ru/en/skins/esmeralda/light-envoy.html)[![](/images/skins/cards/esmeralda/blazing-shadow.webp)Blazing ShadowDeluxe · 2020](https://boostmlbb.ru/en/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/esmeralda/cleopatra.webp)CleopatraExceptional · 2020](https://boostmlbb.ru/en/skins/esmeralda/cleopatra.html)[![](/images/skins/cards/esmeralda/lady-thief.webp)Lady ThiefExceptional · 2020](https://boostmlbb.ru/en/skins/esmeralda/lady-thief.html)[![](/images/skins/cards/esmeralda/poison-vine.webp)Poison VineCommon · 2019](https://boostmlbb.ru/en/skins/esmeralda/poison-vine.html)[![](/images/skins/cards/esmeralda/ruddy-dusk.webp)Ruddy DuskCommon · 2019](https://boostmlbb.ru/en/skins/esmeralda/ruddy-dusk.html)
 
-**Rank up on Esmeralda**The calculator shows the price
+**How much is a rank boost on Esmeralda?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

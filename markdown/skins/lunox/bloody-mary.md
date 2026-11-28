@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lunox/bloody-mary.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Люнокс](https://boostmlbb.ru/skins/lunox.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Люнокс](https://boostmlbb.ru/skins/lunox.html)/Кровавая Мэри
 
@@ -39,7 +39,7 @@ Bloody Mary
 
 [![](/images/skins/cards/lunox/quantum-polarity.webp)Квантовая полярностьИсключительный · 2025](https://boostmlbb.ru/skins/lunox/quantum-polarity.html)[![](/images/skins/cards/lunox/butterfly-seraphim.webp)Серафим-бабочкаИзысканный · 2025](https://boostmlbb.ru/skins/lunox/butterfly-seraphim.html)[![](/images/skins/cards/lunox/nature-s-harmony.webp)Гармония природыОбычный · 2023](https://boostmlbb.ru/skins/lunox/nature-s-harmony.html)[![](/images/skins/cards/lunox/divine-goddess.webp)Божествен­ная богиняВысший · 2023](https://boostmlbb.ru/skins/lunox/divine-goddess.html)[![](/images/skins/cards/lunox/bloody-mary.webp)Кровавая МэриОбычный · 2022](https://boostmlbb.ru/skins/lunox/bloody-mary.html)[![](/images/skins/cards/lunox/libra.webp)ВесыДелюкс · 2019](https://boostmlbb.ru/skins/lunox/libra.html)[![](/images/skins/cards/lunox/dawn-revelation.webp)Откровение зариДелюкс · 2019](https://boostmlbb.ru/skins/lunox/dawn-revelation.html)[![](/images/skins/cards/lunox/eyes-of-eternity.webp)Глаза вечностиДелюкс · 2019](https://boostmlbb.ru/skins/lunox/eyes-of-eternity.html)[![](/images/skins/cards/lunox/ash-blossom.webp)Пепельный цветИсключительный · 2019](https://boostmlbb.ru/skins/lunox/ash-blossom.html)[![](/images/skins/cards/lunox/cosmic-harmony.webp)Косми­ческая гармонияОбычный · 2019](https://boostmlbb.ru/skins/lunox/cosmic-harmony.html)
 
-**Поднимем ранг на герое Люнокс**Цена считается в калькуляторе
+**Сколько стоит буст на герое Люнокс?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

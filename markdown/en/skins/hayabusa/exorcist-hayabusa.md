@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hayabusa/exorcist-hayabusa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hayabusa skins](https://boostmlbb.ru/en/skins/hayabusa.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hayabusa](https://boostmlbb.ru/en/skins/hayabusa.html)/Exorcist Hayabusa
 
@@ -47,7 +47,7 @@ May 2024
 
 [![](/images/skins/cards/granger/exorcist-granger.webp)Exorcist GrangerGranger · 2023](https://boostmlbb.ru/en/skins/granger/exorcist-granger.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Exorcist Yu ZhongYu Zhong · 2022](https://boostmlbb.ru/en/skins/yu-zhong/exorcist-yu-zhong.html)[![](/images/skins/cards/kagura/exorcist-kagura.webp)Exorcist KaguraKagura · 2022](https://boostmlbb.ru/en/skins/kagura/exorcist-kagura.html)
 
-**Rank up on Hayabusa**The calculator shows the price
+**How much is a rank boost on Hayabusa?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

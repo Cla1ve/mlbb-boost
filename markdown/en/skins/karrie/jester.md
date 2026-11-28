@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/karrie/jester.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Karrie skins](https://boostmlbb.ru/en/skins/karrie.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Karrie](https://boostmlbb.ru/en/skins/karrie.html)/Jester
 
@@ -51,7 +51,7 @@ The same skin in other colours. A painted version needs the skin itself.
 
 [![](/images/skins/cards/akai/pumpkin-brawler.webp)Pumpkin BrawlerAkai · 2023](https://boostmlbb.ru/en/skins/akai/pumpkin-brawler.html)[![](/images/skins/cards/barats/baratstein.webp)BaratsteinBarats · 2021](https://boostmlbb.ru/en/skins/barats/baratstein.html)[![](/images/skins/cards/cyclops/straw-doll.webp)Straw DollCyclops · 2021](https://boostmlbb.ru/en/skins/cyclops/straw-doll.html)[![](/images/skins/cards/leomord/jack-o-lantern.webp)Jack-o'-lanternLeomord · 2020](https://boostmlbb.ru/en/skins/leomord/jack-o-lantern.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Haunted DollLylia · 2020](https://boostmlbb.ru/en/skins/lylia/haunted-doll.html)[![](/images/skins/cards/angela/scream-doll.webp)Scream DollAngela · 2019](https://boostmlbb.ru/en/skins/angela/scream-doll.html)[![](/images/skins/cards/franco/wheatfield-nightmare.webp)Wheatfield NightmareFranco · 2019](https://boostmlbb.ru/en/skins/franco/wheatfield-nightmare.html)[![](/images/skins/cards/lolita/impish-trickster.webp)Impish TricksterLolita · 2017](https://boostmlbb.ru/en/skins/lolita/impish-trickster.html)
 
-**Rank up on Karrie**The calculator shows the price
+**How much is a rank boost on Karrie?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

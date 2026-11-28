@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/miya/arrow-of-springs.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Miya skins](https://boostmlbb.ru/en/skins/miya.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Miya](https://boostmlbb.ru/en/skins/miya.html)/Arrow of Springs
 
@@ -48,7 +48,7 @@ Released
 
 [![](/images/skins/cards/floryn/herald-of-autumn.webp)Herald of AutumnFloryn · 2026](https://boostmlbb.ru/en/skins/floryn/herald-of-autumn.html)
 
-**Rank up on Miya**The calculator shows the price
+**How much is a rank boost on Miya?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

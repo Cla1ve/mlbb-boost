@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/marcel.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Марсель
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/marcel/split-shadows.webp)Расколотые тениОбычный · 2026](https://boostmlbb.ru/skins/marcel/split-shadows.html)
 
-**Поднимем ранг на герое Марсель**Цена считается в калькуляторе
+**Сколько стоит буст на герое Марсель?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

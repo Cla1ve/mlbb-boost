@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/ixia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Иксия
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/ixia/dynamic-streak.webp)Динамичная полосаИсключительный · 2024](https://boostmlbb.ru/skins/ixia/dynamic-streak.html)[![](/images/skins/cards/ixia/shifting-sand.webp)Зыбучий песокОбычный · 2023](https://boostmlbb.ru/skins/ixia/shifting-sand.html)
 
-**Поднимем ранг на герое Иксия**Цена считается в калькуляторе
+**Сколько стоит буст на герое Иксия?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

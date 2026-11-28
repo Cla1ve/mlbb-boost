@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/terizla/rustwreck.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Terizla skins](https://boostmlbb.ru/en/skins/terizla.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Terizla](https://boostmlbb.ru/en/skins/terizla.html)/Rustwreck
 
@@ -36,7 +36,7 @@ Released
 
 [![](/images/skins/cards/terizla/soulblight-tyrant.webp)Soulblight TyrantExquisite · 2025](https://boostmlbb.ru/en/skins/terizla/soulblight-tyrant.html)[![](/images/skins/cards/terizla/flames-of-judgement.webp)Flames of JudgementDeluxe · 2024](https://boostmlbb.ru/en/skins/terizla/flames-of-judgement.html)[![](/images/skins/cards/terizla/rustwreck.webp)RustwreckCommon · 2023](https://boostmlbb.ru/en/skins/terizla/rustwreck.html)[![](/images/skins/cards/terizla/flare.webp)FlareCommon · 2023](https://boostmlbb.ru/en/skins/terizla/flare.html)[![](/images/skins/cards/terizla/hammer-giant.webp)Hammer GiantExceptional · 2020](https://boostmlbb.ru/en/skins/terizla/hammer-giant.html)[![](/images/skins/cards/terizla/abyss-guard.webp)Abyss GuardCommon · 2019](https://boostmlbb.ru/en/skins/terizla/abyss-guard.html)
 
-**Rank up on Terizla**The calculator shows the price
+**How much is a rank boost on Terizla?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

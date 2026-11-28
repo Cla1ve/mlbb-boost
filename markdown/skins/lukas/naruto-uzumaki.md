@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lukas/naruto-uzumaki.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лукаса](https://boostmlbb.ru/skins/lukas.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лукас](https://boostmlbb.ru/skins/lukas.html)/Наруто Узумаки
 
@@ -49,7 +49,7 @@ Naruto Uzumaki
 
 [![](/images/skins/cards/hayabusa/kakashi-hatake.webp)Какаши ХатакеХаябуса · 2025](https://boostmlbb.ru/skins/hayabusa/kakashi-hatake.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Сакура ХаруноКалеа · 2025](https://boostmlbb.ru/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Саске УчихаСу Ё · 2025](https://boostmlbb.ru/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/vale/gaara.webp)ГаараВэйл · 2025](https://boostmlbb.ru/skins/vale/gaara.html)
 
-**Поднимем ранг на герое Лукас**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лукас?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

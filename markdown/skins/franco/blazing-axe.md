@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/franco/blazing-axe.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Франко](https://boostmlbb.ru/skins/franco.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Франко](https://boostmlbb.ru/skins/franco.html)/Пылающий топор
 
@@ -49,7 +49,7 @@ Blazing Axe
 
 [![](/images/skins/cards/claude/blazing-trace.webp)Пылающий следКлауд · 2024](https://boostmlbb.ru/skins/claude/blazing-trace.html)[![](/images/skins/cards/esmeralda/blazing-shadow.webp)Пылающая теньЭсмеральда · 2020](https://boostmlbb.ru/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/layla/blazing-gun.webp)Пылающее орудиеЛейла · 2020](https://boostmlbb.ru/skins/layla/blazing-gun.html)[![](/images/skins/cards/aldous/blazing-force.webp)Пылающая силаАлдос · 2020](https://boostmlbb.ru/skins/aldous/blazing-force.html)
 
-**Поднимем ранг на герое Франко**Цена считается в калькуляторе
+**Сколько стоит буст на герое Франко?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/brody/neobeast-brody.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Brody skins](https://boostmlbb.ru/en/skins/brody.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Brody](https://boostmlbb.ru/en/skins/brody.html)/Neobeast Brody
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/ling/neobeast-ling.webp)Neobeast LingLing · 2025](https://boostmlbb.ru/en/skins/ling/neobeast-ling.html)[![](/images/skins/cards/pharsa/neobeast-pharsa.webp)Neobeast PharsaPharsa · 2025](https://boostmlbb.ru/en/skins/pharsa/neobeast-pharsa.html)
 
-**Rank up on Brody**The calculator shows the price
+**How much is a rank boost on Brody?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

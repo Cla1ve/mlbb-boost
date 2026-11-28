@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kadita/atlantean-princess.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Кадиты](https://boostmlbb.ru/skins/kadita.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Кадита](https://boostmlbb.ru/skins/kadita.html)/Принцесса Атлантиды
 
@@ -39,7 +39,7 @@ Atlantean Princess
 
 [![](/images/skins/cards/kadita/maiden-of-the-tide.webp)Дева приливаИсключительный · 2025](https://boostmlbb.ru/skins/kadita/maiden-of-the-tide.html)[![](/images/skins/cards/kadita/heart-of-the-sea.webp)Сердце моряДелюкс · 2024](https://boostmlbb.ru/skins/kadita/heart-of-the-sea.html)[![](/images/skins/cards/kadita/hydromancer.webp)ГидромантИсключительный · 2023](https://boostmlbb.ru/skins/kadita/hydromancer.html)[![](/images/skins/cards/kadita/white-robin.webp)Белая малиновкаИсключительный · 2019](https://boostmlbb.ru/skins/kadita/white-robin.html)[![](/images/skins/cards/kadita/atlantean-princess.webp)Принцесса АтлантидыОбычный · 2018](https://boostmlbb.ru/skins/kadita/atlantean-princess.html)[![](/images/skins/cards/kadita/anthem-of-tides.webp)Гимн приливов](https://boostmlbb.ru/skins/kadita/anthem-of-tides.html)
 
-**Поднимем ранг на герое Кадита**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кадита?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

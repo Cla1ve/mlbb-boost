@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lolita/starwatcher.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лолиты](https://boostmlbb.ru/skins/lolita.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лолита](https://boostmlbb.ru/skins/lolita.html)/Звездочёт
 
@@ -45,7 +45,7 @@ Starwatcher
 
 [![](/images/skins/cards/uranus/mech-protector.webp)Механи­ческий защитникУранус · 2019](https://boostmlbb.ru/skins/uranus/mech-protector.html)
 
-**Поднимем ранг на герое Лолита**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лолита?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

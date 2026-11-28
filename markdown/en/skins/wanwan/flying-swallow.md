@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/wanwan/flying-swallow.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Wanwan skins](https://boostmlbb.ru/en/skins/wanwan.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Wanwan](https://boostmlbb.ru/en/skins/wanwan.html)/Flying Swallow
 
@@ -47,7 +47,7 @@ Released
 
 [![](/images/skins/cards/nolan/the-navigator.webp)The NavigatorNolan · 2024](https://boostmlbb.ru/en/skins/nolan/the-navigator.html)[![](/images/skins/cards/gusion/dimension-walker.webp)Dimension WalkerGusion · 2023](https://boostmlbb.ru/en/skins/gusion/dimension-walker.html)[![](/images/skins/cards/hayabusa/shura.webp)ShuraHayabusa · 2021](https://boostmlbb.ru/en/skins/hayabusa/shura.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Tesla ManiacX.Borg · 2020](https://boostmlbb.ru/en/skins/x-borg/tesla-maniac.html)
 
-**Rank up on Wanwan**The calculator shows the price
+**How much is a rank boost on Wanwan?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

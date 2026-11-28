@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hilda.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Хильда
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/hilda/guardian-battalion.webp)Батальон стражей2026](https://boostmlbb.ru/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/hilda/bass-craze.webp)Басовое безумиеИсключительный · 2021](https://boostmlbb.ru/skins/hilda/bass-craze.html)[![](/images/skins/cards/hilda/aries.webp)ОвенДелюкс · 2019](https://boostmlbb.ru/skins/hilda/aries.html)[![](/images/skins/cards/hilda/sacred-guard.webp)Священная стражаОбычный · 2018](https://boostmlbb.ru/skins/hilda/sacred-guard.html)[![](/images/skins/cards/hilda/flower-of-the-wastes.webp)Цветок пустошейОбычный · 2017](https://boostmlbb.ru/skins/hilda/flower-of-the-wastes.html)[![](/images/skins/cards/hilda/power-of-wildness.webp)Сила дикой природыОбычный · 2017](https://boostmlbb.ru/skins/hilda/power-of-wildness.html)
 
-**Поднимем ранг на герое Хильда**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хильда?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/khaleed/prince-of-sand.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Khaleed skins](https://boostmlbb.ru/en/skins/khaleed.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Khaleed](https://boostmlbb.ru/en/skins/khaleed.html)/Prince of Sand
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/khaleed/desert-salamander.webp)Desert SalamanderCommon · 2025](https://boostmlbb.ru/en/skins/khaleed/desert-salamander.html)[![](/images/skins/cards/khaleed/wave-strider.webp)Wave StriderDeluxe · 2024](https://boostmlbb.ru/en/skins/khaleed/wave-strider.html)[![](/images/skins/cards/khaleed/crescent-scimitar.webp)Crescent ScimitarCommon · 2021](https://boostmlbb.ru/en/skins/khaleed/crescent-scimitar.html)[![](/images/skins/cards/khaleed/prince-of-sand.webp)Prince of SandCommon · 2020](https://boostmlbb.ru/en/skins/khaleed/prince-of-sand.html)
 
-**Rank up on Khaleed**The calculator shows the price
+**How much is a rank boost on Khaleed?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

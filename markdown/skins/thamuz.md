@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/thamuz.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Тамуз
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/thamuz/the-annihilator.webp)Анниги­ляторГрандиозный · 2025](https://boostmlbb.ru/skins/thamuz/the-annihilator.html)[![](/images/skins/cards/thamuz/abyssal-reaper.webp)Жнец бездныИсключительный · 2025](https://boostmlbb.ru/skins/thamuz/abyssal-reaper.html)[![](/images/skins/cards/thamuz/sanctified-flame.webp)Освящённое пламяИсключительный · 2023](https://boostmlbb.ru/skins/thamuz/sanctified-flame.html)[![](/images/skins/cards/thamuz/general-kai.webp)Генерал КайГрандиозный · 2023](https://boostmlbb.ru/skins/thamuz/general-kai.html)[![](/images/skins/cards/thamuz/lord-of-wraith.webp)Владыка призраковОбычный · 2022](https://boostmlbb.ru/skins/thamuz/lord-of-wraith.html)[![](/images/skins/cards/thamuz/liquid-fire.webp)Жидкий огоньОбычный · 2019](https://boostmlbb.ru/skins/thamuz/liquid-fire.html)
 
-**Поднимем ранг на герое Тамуз**Цена считается в калькуляторе
+**Сколько стоит буст на герое Тамуз?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/xavier.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Ксавьер
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/xavier/sunborn-monarch.webp)Монарх, рождённый солнцем2026](https://boostmlbb.ru/skins/xavier/sunborn-monarch.html)[![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Ксавьер «За облаками»Изысканный · 2024](https://boostmlbb.ru/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/xavier/hardlight-artificer.webp)Мастер твёрдого светаИсключительный · 2024](https://boostmlbb.ru/skins/xavier/hardlight-artificer.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Сатору ГоджоГрандиозный · 2023](https://boostmlbb.ru/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/xavier/verdict-of-light.webp)Вердикт светаОбычный · 2022](https://boostmlbb.ru/skins/xavier/verdict-of-light.html)
 
-**Поднимем ранг на герое Ксавьер**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ксавьер?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

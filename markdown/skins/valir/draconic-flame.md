@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/valir/draconic-flame.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Валира](https://boostmlbb.ru/skins/valir.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Валир](https://boostmlbb.ru/skins/valir.html)/Драконье пламя
 
@@ -47,7 +47,7 @@ Draconic Flame
 
 [![](/images/skins/cards/kimmy/frost-wing.webp)Морозное крылоКимми · 2025](https://boostmlbb.ru/skins/kimmy/frost-wing.html)[![](/images/skins/cards/ling/night-shade.webp)Ночная теньЛинг · 2024](https://boostmlbb.ru/skins/ling/night-shade.html)[![](/images/skins/cards/lancelot/empyrean-flame.webp)Небесное пламяЛанселот · 2021](https://boostmlbb.ru/skins/lancelot/empyrean-flame.html)[![](/images/skins/cards/masha/dragon-armor.webp)Драконья броняМаша · 2020](https://boostmlbb.ru/skins/masha/dragon-armor.html)[![](/images/skins/cards/estes/rattan-dragon.webp)Ротанговый драконЭстес · 2017](https://boostmlbb.ru/skins/estes/rattan-dragon.html)
 
-**Поднимем ранг на герое Валир**Цена считается в калькуляторе
+**Сколько стоит буст на герое Валир?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

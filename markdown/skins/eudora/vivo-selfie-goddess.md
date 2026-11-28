@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/eudora/vivo-selfie-goddess.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Эйдоры](https://boostmlbb.ru/skins/eudora.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Эйдора](https://boostmlbb.ru/skins/eudora.html)/Богиня селфи Vivo
 
@@ -52,7 +52,7 @@ Vivo Selfie Goddess
 
 [![](/images/skins/cards/miya/honor.webp)ЧестьМия · 2017](https://boostmlbb.ru/skins/miya/honor.html)
 
-**Поднимем ранг на герое Эйдора**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эйдора?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

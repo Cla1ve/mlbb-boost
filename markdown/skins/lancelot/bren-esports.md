@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lancelot/bren-esports.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ланселота](https://boostmlbb.ru/skins/lancelot.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ланселот](https://boostmlbb.ru/skins/lancelot.html)/Bren Esports
 
@@ -42,7 +42,7 @@ language: ru
 
 [![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsХарит · 2025](https://boostmlbb.ru/skins/harith/evos-legends.html)[![](/images/skins/cards/brody/apbren.webp)APBrenБроуди · 2024](https://boostmlbb.ru/skins/brody/apbren.html)[![](/images/skins/cards/estes/blacklist-international.webp)Blacklist Interna­tionalЭстес · 2024](https://boostmlbb.ru/skins/estes/blacklist-international.html)[![](/images/skins/cards/chou/echo.webp)ECHOЧу · 2023](https://boostmlbb.ru/skins/chou/echo.html)
 
-**Поднимем ранг на герое Ланселот**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ланселот?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

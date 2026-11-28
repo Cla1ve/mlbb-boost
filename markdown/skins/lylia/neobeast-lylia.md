@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lylia/neobeast-lylia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Лилии](https://boostmlbb.ru/skins/lylia.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Лилия](https://boostmlbb.ru/skins/lylia.html)/Лилия Neobeast
 
@@ -49,7 +49,7 @@ Neobeast Lylia
 
 [![](/images/skins/cards/fredrinn/neobeast-fredrinn.webp)Фредрин NeobeastФредрин · 2023](https://boostmlbb.ru/skins/fredrinn/neobeast-fredrinn.html)
 
-**Поднимем ранг на герое Лилия**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лилия?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

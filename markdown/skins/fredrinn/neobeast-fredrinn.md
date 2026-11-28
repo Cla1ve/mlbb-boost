@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/fredrinn/neobeast-fredrinn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фредрина](https://boostmlbb.ru/skins/fredrinn.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фредрин](https://boostmlbb.ru/skins/fredrinn.html)/Фредрин Neobeast
 
@@ -49,7 +49,7 @@ Neobeast Fredrinn
 
 [![](/images/skins/cards/lylia/neobeast-lylia.webp)Лилия NeobeastЛилия · 2023](https://boostmlbb.ru/skins/lylia/neobeast-lylia.html)
 
-**Поднимем ранг на герое Фредрин**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фредрин?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/phoveus/monolith-watcher.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фовиуса](https://boostmlbb.ru/skins/phoveus.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фовиус](https://boostmlbb.ru/skins/phoveus.html)/Страж монолита
 
@@ -39,7 +39,7 @@ Monolith Watcher
 
 [![](/images/skins/cards/phoveus/matrix-maverick.webp)Бунтарь матрицыИсключительный · 2025](https://boostmlbb.ru/skins/phoveus/matrix-maverick.html)[![](/images/skins/cards/phoveus/monolith-watcher.webp)Страж монолитаОбычный · 2021](https://boostmlbb.ru/skins/phoveus/monolith-watcher.html)
 
-**Поднимем ранг на герое Фовиус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фовиус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

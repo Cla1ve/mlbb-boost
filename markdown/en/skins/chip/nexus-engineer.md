@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/chip/nexus-engineer.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Chip skins](https://boostmlbb.ru/en/skins/chip.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Chip](https://boostmlbb.ru/en/skins/chip.html)/Nexus Engineer
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/chip/nexus-engineer.webp)Nexus EngineerCommon · 2024](https://boostmlbb.ru/en/skins/chip/nexus-engineer.html)[![](/images/skins/cards/chip/badlands-hiatus.webp)Badlands HiatusCommon · 2024](https://boostmlbb.ru/en/skins/chip/badlands-hiatus.html)
 
-**Rank up on Chip**The calculator shows the price
+**How much is a rank boost on Chip?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

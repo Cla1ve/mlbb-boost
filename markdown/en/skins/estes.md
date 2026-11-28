@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/estes.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Estes
 
@@ -33,7 +33,7 @@ AllExquisiteDeluxeExceptionalCommon
 
 [![](/images/skins/cards/estes/arcane-magistrate.webp)Arcane MagistrateExceptional · 2025](https://boostmlbb.ru/en/skins/estes/arcane-magistrate.html)[![](/images/skins/cards/estes/sparkle-estes.webp)SPARKLE EstesDeluxe · 2024](https://boostmlbb.ru/en/skins/estes/sparkle-estes.html)[![](/images/skins/cards/estes/blacklist-international.webp)Blacklist Interna­tionalDeluxe · 2024](https://boostmlbb.ru/en/skins/estes/blacklist-international.html)[![](/images/skins/cards/estes/crow-bishop.webp)Crow BishopExceptional · 2020](https://boostmlbb.ru/en/skins/estes/crow-bishop.html)[![](/images/skins/cards/estes/white-crane.webp)White CraneCommon · 2018](https://boostmlbb.ru/en/skins/estes/white-crane.html)[![](/images/skins/cards/estes/galaxy-dominator.webp)Galaxy DominatorExquisite](https://boostmlbb.ru/en/skins/estes/galaxy-dominator.html)[![](/images/skins/cards/estes/rattan-dragon.webp)Rattan DragonDeluxe · 2017](https://boostmlbb.ru/en/skins/estes/rattan-dragon.html)[![](/images/skins/cards/estes/holy-priest.webp)Holy PriestCommon · 2017](https://boostmlbb.ru/en/skins/estes/holy-priest.html)
 
-**Rank up on Estes**The calculator shows the price
+**How much is a rank boost on Estes?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

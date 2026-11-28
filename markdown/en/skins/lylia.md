@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/lylia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Lylia
 
@@ -33,7 +33,7 @@ AllGrandDeluxeExceptionalCommon
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Phantasmal RevelryDeluxe · 2026](https://boostmlbb.ru/en/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/lylia/magitech-arsenal.webp)Magitech ArsenalExceptional · 2024](https://boostmlbb.ru/en/skins/lylia/magitech-arsenal.html)[![](/images/skins/cards/lylia/neobeast-lylia.webp)Neobeast LyliaGrand · 2023](https://boostmlbb.ru/en/skins/lylia/neobeast-lylia.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Haunted DollExceptional · 2020](https://boostmlbb.ru/en/skins/lylia/haunted-doll.html)[![](/images/skins/cards/lylia/future-star.webp)Future StarExceptional · 2020](https://boostmlbb.ru/en/skins/lylia/future-star.html)[![](/images/skins/cards/lylia/star-student.webp)Star StudentCommon · 2020](https://boostmlbb.ru/en/skins/lylia/star-student.html)[![](/images/skins/cards/lylia/school-idol.webp)School IdolCommon · 2019](https://boostmlbb.ru/en/skins/lylia/school-idol.html)
 
-**Rank up on Lylia**The calculator shows the price
+**How much is a rank boost on Lylia?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

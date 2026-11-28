@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/suyou/sasuke-uchiha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Су Ё](https://boostmlbb.ru/skins/suyou.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Су Ё](https://boostmlbb.ru/skins/suyou.html)/Саске Учиха
 
@@ -49,7 +49,7 @@ Sasuke Uchiha
 
 [![](/images/skins/cards/hayabusa/kakashi-hatake.webp)Какаши ХатакеХаябуса · 2025](https://boostmlbb.ru/skins/hayabusa/kakashi-hatake.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Сакура ХаруноКалеа · 2025](https://boostmlbb.ru/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Наруто УзумакиЛукас · 2025](https://boostmlbb.ru/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/vale/gaara.webp)ГаараВэйл · 2025](https://boostmlbb.ru/skins/vale/gaara.html)
 
-**Поднимем ранг на герое Су Ё**Цена считается в калькуляторе
+**Сколько стоит буст на герое Су Ё?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

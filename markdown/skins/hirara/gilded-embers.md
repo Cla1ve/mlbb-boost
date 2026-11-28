@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hirara/gilded-embers.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Хирары](https://boostmlbb.ru/skins/hirara.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Хирара](https://boostmlbb.ru/skins/hirara.html)/Позолоченные угли
 
@@ -35,7 +35,7 @@ Gilded Embers
 
 -   Бонус к характеристикам
 
-**Поднимем ранг на герое Хирара**Цена считается в калькуляторе
+**Сколько стоит буст на герое Хирара?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

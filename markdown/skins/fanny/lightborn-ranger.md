@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/fanny/lightborn-ranger.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фанни](https://boostmlbb.ru/skins/fanny.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фанни](https://boostmlbb.ru/skins/fanny.html)/Рождённая светом: Рейнджер
 
@@ -47,7 +47,7 @@ Lightborn - Ranger
 
 [![](/images/skins/cards/granger/lightborn-overrider.webp)Рождённый светом: ПодавительГрейнджер · 2024](https://boostmlbb.ru/skins/granger/lightborn-overrider.html)[![](/images/skins/cards/alucard/lightborn-striker.webp)Рождённый светом: УдарникАлукард · 2019](https://boostmlbb.ru/skins/alucard/lightborn-striker.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Рождённый светом: ЗащитникТигрил · 2019](https://boostmlbb.ru/skins/tigreal/lightborn-defender.html)[![](/images/skins/cards/harith/lightborn-inspirer.webp)Рождённый светом: Вдохно­вительХарит · 2018](https://boostmlbb.ru/skins/harith/lightborn-inspirer.html)
 
-**Поднимем ранг на герое Фанни**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фанни?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

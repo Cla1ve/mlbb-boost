@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/paquito/fist-of-glory.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Пакито](https://boostmlbb.ru/skins/paquito.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Пакито](https://boostmlbb.ru/skins/paquito.html)/Кулак славы
 
@@ -46,7 +46,7 @@ Fist of Glory
 
 [![](/images/skins/cards/beatrix/sky-force-maverick.webp)Небесный асБеатрис · 2025](https://boostmlbb.ru/skins/beatrix/sky-force-maverick.html)
 
-**Поднимем ранг на герое Пакито**Цена считается в калькуляторе
+**Сколько стоит буст на герое Пакито?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

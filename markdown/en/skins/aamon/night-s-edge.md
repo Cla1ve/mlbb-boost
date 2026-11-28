@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/aamon/night-s-edge.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Aamon skins](https://boostmlbb.ru/en/skins/aamon.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Aamon](https://boostmlbb.ru/en/skins/aamon.html)/Night's Edge
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/aamon/soul-reaver.webp)Soul ReaverExquisite · 2025](https://boostmlbb.ru/en/skins/aamon/soul-reaver.html)[![](/images/skins/cards/aamon/vessel-of-deceit.webp)Vessel of DeceitGrand · 2023](https://boostmlbb.ru/en/skins/aamon/vessel-of-deceit.html)[![](/images/skins/cards/aamon/cyber-assassin.webp)Cyber AssassinExceptional · 2023](https://boostmlbb.ru/en/skins/aamon/cyber-assassin.html)[![](/images/skins/cards/aamon/noble-crest.webp)Noble CrestCommon · 2022](https://boostmlbb.ru/en/skins/aamon/noble-crest.html)[![](/images/skins/cards/aamon/night-s-edge.webp)Night's EdgeCommon · 2021](https://boostmlbb.ru/en/skins/aamon/night-s-edge.html)
 
-**Rank up on Aamon**The calculator shows the price
+**How much is a rank boost on Aamon?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

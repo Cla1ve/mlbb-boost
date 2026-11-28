@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/selena/wasp-queen.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Селены](https://boostmlbb.ru/skins/selena.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Селена](https://boostmlbb.ru/skins/selena.html)/Королева ос
 
@@ -39,7 +39,7 @@ Wasp Queen
 
 [![](/images/skins/cards/selena/silverbolt-raiko.webp)Райко Серебряная МолнияГрандиозный · 2026](https://boostmlbb.ru/skins/selena/silverbolt-raiko.html)[![](/images/skins/cards/selena/curse-of-cinder.webp)Пепельное проклятиеГрандиозный · 2025](https://boostmlbb.ru/skins/selena/curse-of-cinder.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Леди МестьГрандиозный · 2021](https://boostmlbb.ru/skins/selena/lady-vengeance.html)[![](/images/skins/cards/selena/gothic-curse.webp)Готическое проклятиеОбычный · 2021](https://boostmlbb.ru/skins/selena/gothic-curse.html)[![](/images/skins/cards/selena/s-t-u-n-selena.webp)Селена S.T.U.N.Делюкс · 2021](https://boostmlbb.ru/skins/selena/s-t-u-n-selena.html)[![](/images/skins/cards/selena/thunder-flash.webp)Громовая вспышкаИзысканный · 2020](https://boostmlbb.ru/skins/selena/thunder-flash.html)[![](/images/skins/cards/selena/double-identity.webp)Двойная личностьИсключительный · 2019](https://boostmlbb.ru/skins/selena/double-identity.html)[![](/images/skins/cards/selena/gemini-shadow.webp)Близнецы: ТеньДелюкс · 2019](https://boostmlbb.ru/skins/selena/gemini-shadow.html)[![](/images/skins/cards/selena/virus.webp)ВирусДелюкс · 2019](https://boostmlbb.ru/skins/selena/virus.html)[![](/images/skins/cards/selena/wasp-queen.webp)Королева осОбычный · 2018](https://boostmlbb.ru/skins/selena/wasp-queen.html)
 
-**Поднимем ранг на герое Селена**Цена считается в калькуляторе
+**Сколько стоит буст на герое Селена?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/khufra/desert-owl.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Khufra skins](https://boostmlbb.ru/en/skins/khufra.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Khufra](https://boostmlbb.ru/en/skins/khufra.html)/Desert Owl
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/khufra/cursed-scroll.webp)Cursed ScrollDeluxe · 2025](https://boostmlbb.ru/en/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/khufra/iron-hook.webp)Iron HookCommon · 2023](https://boostmlbb.ru/en/skins/khufra/iron-hook.html)[![](/images/skins/cards/khufra/gentleman-thief.webp)Gentleman ThiefExceptional · 2023](https://boostmlbb.ru/en/skins/khufra/gentleman-thief.html)[![](/images/skins/cards/khufra/apophis.webp)ApophisCommon · 2023](https://boostmlbb.ru/en/skins/khufra/apophis.html)[![](/images/skins/cards/khufra/dreadful-clown.webp)Dreadful ClownExceptional · 2021](https://boostmlbb.ru/en/skins/khufra/dreadful-clown.html)[![](/images/skins/cards/khufra/volcanic-overlord.webp)Volcanic OverlordExquisite · 2020](https://boostmlbb.ru/en/skins/khufra/volcanic-overlord.html)[![](/images/skins/cards/khufra/desert-owl.webp)Desert OwlCommon · 2019](https://boostmlbb.ru/en/skins/khufra/desert-owl.html)
 
-**Rank up on Khufra**The calculator shows the price
+**How much is a rank boost on Khufra?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

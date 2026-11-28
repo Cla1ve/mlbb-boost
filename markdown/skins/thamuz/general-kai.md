@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/thamuz/general-kai.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Тамуза](https://boostmlbb.ru/skins/thamuz.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Тамуз](https://boostmlbb.ru/skins/thamuz.html)/Генерал Кай
 
@@ -49,7 +49,7 @@ General Kai
 
 [![](/images/skins/cards/ling/lord-shen.webp)Лорд ШэньЛинг · 2022](https://boostmlbb.ru/skins/ling/lord-shen.html)[![](/images/skins/cards/akai/kung-fu-panda.webp)Кунг-фу ПандаАкай · 2022](https://boostmlbb.ru/skins/akai/kung-fu-panda.html)
 
-**Поднимем ранг на герое Тамуз**Цена считается в калькуляторе
+**Сколько стоит буст на герое Тамуз?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

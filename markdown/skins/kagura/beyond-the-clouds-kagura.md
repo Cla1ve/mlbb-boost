@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kagura/beyond-the-clouds-kagura.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Кагуры](https://boostmlbb.ru/skins/kagura.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Кагура](https://boostmlbb.ru/skins/kagura.html)/Кагура «За облаками»
 
@@ -46,7 +46,7 @@ Beyond the Clouds Kagura
 
 [![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Ксавьер «За облаками»Ксавьер · 2024](https://boostmlbb.ru/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/edith/beyond-the-clouds-edith.webp)Эдит «За облаками»Эдит · 2024](https://boostmlbb.ru/skins/edith/beyond-the-clouds-edith.html)
 
-**Поднимем ранг на герое Кагура**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кагура?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

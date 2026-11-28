@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/kagura/beyond-the-clouds-kagura.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Kagura skins](https://boostmlbb.ru/en/skins/kagura.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Kagura](https://boostmlbb.ru/en/skins/kagura.html)/Beyond the Clouds Kagura
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Beyond the Clouds XavierXavier · 2024](https://boostmlbb.ru/en/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/edith/beyond-the-clouds-edith.webp)Beyond the Clouds EdithEdith · 2024](https://boostmlbb.ru/en/skins/edith/beyond-the-clouds-edith.html)
 
-**Rank up on Kagura**The calculator shows the price
+**How much is a rank boost on Kagura?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

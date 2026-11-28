@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/silvanna/meowkin-warden.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Сильваны](https://boostmlbb.ru/skins/silvanna.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Сильвана](https://boostmlbb.ru/skins/silvanna.html)/Стражница Мяукинов
 
@@ -46,7 +46,7 @@ Meowkin Warden
 
 [![](/images/skins/cards/julian/meowkin-tracker.webp)Следопыт МяукиновДжулиан · 2025](https://boostmlbb.ru/skins/julian/meowkin-tracker.html)[![](/images/skins/cards/lesley/meowkin-hunter.webp)Охотница из МяукиновЛесли · 2025](https://boostmlbb.ru/skins/lesley/meowkin-hunter.html)
 
-**Поднимем ранг на герое Сильвана**Цена считается в калькуляторе
+**Сколько стоит буст на герое Сильвана?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

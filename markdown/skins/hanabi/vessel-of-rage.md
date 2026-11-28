@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/hanabi/vessel-of-rage.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ханаби](https://boostmlbb.ru/skins/hanabi.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ханаби](https://boostmlbb.ru/skins/hanabi.html)/Сосуд ярости
 
@@ -48,7 +48,7 @@ Vessel of Rage
 
 [![](/images/skins/cards/aamon/vessel-of-deceit.webp)Сосуд обманаЭймон · 2023](https://boostmlbb.ru/skins/aamon/vessel-of-deceit.html)
 
-**Поднимем ранг на герое Ханаби**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ханаби?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

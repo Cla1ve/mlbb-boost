@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/brody/apbren.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Броуди](https://boostmlbb.ru/skins/brody.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Броуди](https://boostmlbb.ru/skins/brody.html)/APBren
 
@@ -44,7 +44,7 @@ language: ru
 
 [![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsХарит · 2025](https://boostmlbb.ru/skins/harith/evos-legends.html)[![](/images/skins/cards/estes/blacklist-international.webp)Blacklist Interna­tionalЭстес · 2024](https://boostmlbb.ru/skins/estes/blacklist-international.html)[![](/images/skins/cards/chou/echo.webp)ECHOЧу · 2023](https://boostmlbb.ru/skins/chou/echo.html)[![](/images/skins/cards/lancelot/bren-esports.webp)Bren EsportsЛанселот · 2020](https://boostmlbb.ru/skins/lancelot/bren-esports.html)
 
-**Поднимем ранг на герое Броуди**Цена считается в калькуляторе
+**Сколько стоит буст на герое Броуди?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

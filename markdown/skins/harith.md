@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harith.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Харит
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsДелюкс · 2025](https://boostmlbb.ru/skins/harith/evos-legends.html)[![](/images/skins/cards/harith/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2025](https://boostmlbb.ru/skins/harith/christmas-carnival.html)[![](/images/skins/cards/harith/killua.webp)КиллуаГрандиозный · 2025](https://boostmlbb.ru/skins/harith/killua.html)[![](/images/skins/cards/harith/psychic.webp)ЭкстрасенсИзысканный · 2024](https://boostmlbb.ru/skins/harith/psychic.html)[![](/images/skins/cards/harith/fashion-expert.webp)Знаток модыИсключительный · 2021](https://boostmlbb.ru/skins/harith/fashion-expert.html)[![](/images/skins/cards/harith/lightborn-inspirer.webp)Рождённый светом: Вдохно­вительДелюкс · 2018](https://boostmlbb.ru/skins/harith/lightborn-inspirer.html)[![](/images/skins/cards/harith/savannah-cat.webp)Кот саванныОбычный · 2018](https://boostmlbb.ru/skins/harith/savannah-cat.html)[![](/images/skins/cards/harith/stardust.webp)Звёздная пыльОбычный · 2018](https://boostmlbb.ru/skins/harith/stardust.html)
 
-**Поднимем ранг на герое Харит**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харит?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

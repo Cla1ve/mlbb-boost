@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/fredrinn/sparkle-fredrinn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фредрина](https://boostmlbb.ru/skins/fredrinn.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фредрин](https://boostmlbb.ru/skins/fredrinn.html)/Фредрин SPARKLE
 
@@ -46,7 +46,7 @@ SPARKLE Fredrinn
 
 [![](/images/skins/cards/melissa/sparkle-melissa.webp)Мелисса SPARKLEМелисса · 2024](https://boostmlbb.ru/skins/melissa/sparkle-melissa.html)[![](/images/skins/cards/estes/sparkle-estes.webp)Эстес SPARKLEЭстес · 2024](https://boostmlbb.ru/skins/estes/sparkle-estes.html)
 
-**Поднимем ранг на герое Фредрин**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фредрин?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

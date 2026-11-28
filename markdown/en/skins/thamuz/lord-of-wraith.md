@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/thamuz/lord-of-wraith.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Thamuz skins](https://boostmlbb.ru/en/skins/thamuz.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Thamuz](https://boostmlbb.ru/en/skins/thamuz.html)/Lord of Wraith
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/thamuz/the-annihilator.webp)The Annihi­latorGrand · 2025](https://boostmlbb.ru/en/skins/thamuz/the-annihilator.html)[![](/images/skins/cards/thamuz/abyssal-reaper.webp)Abyssal ReaperExceptional · 2025](https://boostmlbb.ru/en/skins/thamuz/abyssal-reaper.html)[![](/images/skins/cards/thamuz/sanctified-flame.webp)Sanctified FlameExceptional · 2023](https://boostmlbb.ru/en/skins/thamuz/sanctified-flame.html)[![](/images/skins/cards/thamuz/general-kai.webp)General KaiGrand · 2023](https://boostmlbb.ru/en/skins/thamuz/general-kai.html)[![](/images/skins/cards/thamuz/lord-of-wraith.webp)Lord of WraithCommon · 2022](https://boostmlbb.ru/en/skins/thamuz/lord-of-wraith.html)[![](/images/skins/cards/thamuz/liquid-fire.webp)Liquid FireCommon · 2019](https://boostmlbb.ru/en/skins/thamuz/liquid-fire.html)
 
-**Rank up on Thamuz**The calculator shows the price
+**How much is a rank boost on Thamuz?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

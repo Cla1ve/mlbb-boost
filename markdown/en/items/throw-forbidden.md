@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/en/items/throw-forbidden.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
-
 [All items](https://boostmlbb.ru/en/items/)
 
 ![Throw Forbidden item icon](/images/mlbb/items/1111.webp)

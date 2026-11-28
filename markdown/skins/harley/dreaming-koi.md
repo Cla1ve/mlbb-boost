@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/harley/dreaming-koi.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Харли](https://boostmlbb.ru/skins/harley.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Харли](https://boostmlbb.ru/skins/harley.html)/Мечтательный кои
 
@@ -42,7 +42,7 @@ Dreaming Koi
 
 [![](/images/skins/cards/kalea/tideborn-sailor.webp)Морячка, рождённая приливомКалеа · 2026](https://boostmlbb.ru/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/hayabusa/kitsune-s-shadow.webp)Тень кицунэХаябуса · 2026](https://boostmlbb.ru/skins/hayabusa/kitsune-s-shadow.html)[![](/images/skins/cards/hanzo/fangs-of-slaughter.webp)Клыки резниХанзо · 2026](https://boostmlbb.ru/skins/hanzo/fangs-of-slaughter.html)[![](/images/skins/cards/belerick/smouldering-fortress.webp)Тлеющая крепостьБелерик · 2026](https://boostmlbb.ru/skins/belerick/smouldering-fortress.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Магитех­нический призракОбсидия · 2026](https://boostmlbb.ru/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/zetian/elysian-luminance.webp)Элизийское сияниеЦзэтянь · 2026](https://boostmlbb.ru/skins/zetian/elysian-luminance.html)[![](/images/skins/cards/hilda/guardian-battalion.webp)Батальон стражейХильда · 2026](https://boostmlbb.ru/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/fredrinn/royal-marshal.webp)Коро­левский маршалФредрин · 2025](https://boostmlbb.ru/skins/fredrinn/royal-marshal.html)
 
-**Поднимем ранг на герое Харли**Цена считается в калькуляторе
+**Сколько стоит буст на герое Харли?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

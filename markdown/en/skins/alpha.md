@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/alpha.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Alpha
 
@@ -33,7 +33,7 @@ AllSupremeGrandExquisiteExceptionalCommon
 
 [![](/images/skins/cards/alpha/revenant-of-roses.webp)Revenant of RosesSupreme · 2025](https://boostmlbb.ru/en/skins/alpha/revenant-of-roses.html)[![](/images/skins/cards/alpha/mecha-king-perseus.webp)Mecha-King PerseusExquisite · 2024](https://boostmlbb.ru/en/skins/alpha/mecha-king-perseus.html)[![](/images/skins/cards/alpha/general-void.webp)General VoidGrand · 2023](https://boostmlbb.ru/en/skins/alpha/general-void.html)[![](/images/skins/cards/alpha/star-enforcer.webp)Star EnforcerExceptional · 2023](https://boostmlbb.ru/en/skins/alpha/star-enforcer.html)[![](/images/skins/cards/alpha/crimson-warrior.webp)Crimson WarriorExceptional · 2020](https://boostmlbb.ru/en/skins/alpha/crimson-warrior.html)[![](/images/skins/cards/alpha/sea-gladiator.webp)Sea GladiatorCommon · 2018](https://boostmlbb.ru/en/skins/alpha/sea-gladiator.html)[![](/images/skins/cards/alpha/fierce-dragon.webp)Fierce DragonCommon · 2017](https://boostmlbb.ru/en/skins/alpha/fierce-dragon.html)[![](/images/skins/cards/alpha/onimusha-commander.webp)Onimusha CommanderExquisite · 2017](https://boostmlbb.ru/en/skins/alpha/onimusha-commander.html)[![](/images/skins/cards/alpha/edict-of-the-sands.webp)Edict of the Sands](https://boostmlbb.ru/en/skins/alpha/edict-of-the-sands.html)
 
-**Rank up on Alpha**The calculator shows the price
+**How much is a rank boost on Alpha?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/esmeralda/lady-thief.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Esmeralda skins](https://boostmlbb.ru/en/skins/esmeralda.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Esmeralda](https://boostmlbb.ru/en/skins/esmeralda.html)/Lady Thief
 
@@ -50,7 +50,7 @@ The same skin in other colours. A painted version needs the skin itself.
 
 [![](/images/skins/cards/claude/heart-aflame.webp)Heart AflameClaude · 2024](https://boostmlbb.ru/en/skins/claude/heart-aflame.html)[![](/images/skins/cards/granger/alluring-enigma.webp)Alluring EnigmaGranger · 2024](https://boostmlbb.ru/en/skins/granger/alluring-enigma.html)[![](/images/skins/cards/silvanna/alluring-mystique.webp)Alluring MystiqueSilvanna · 2024](https://boostmlbb.ru/en/skins/silvanna/alluring-mystique.html)[![](/images/skins/cards/khufra/gentleman-thief.webp)Gentleman ThiefKhufra · 2023](https://boostmlbb.ru/en/skins/khufra/gentleman-thief.html)[![](/images/skins/cards/fanny/heart-afloat.webp)Heart AfloatFanny · 2022](https://boostmlbb.ru/en/skins/fanny/heart-afloat.html)[![](/images/skins/cards/carmilla/phantom-countess.webp)Phantom CountessCarmilla · 2021](https://boostmlbb.ru/en/skins/carmilla/phantom-countess.html)[![](/images/skins/cards/cecilion/phantom-count.webp)Phantom CountCecilion · 2021](https://boostmlbb.ru/en/skins/cecilion/phantom-count.html)[![](/images/skins/cards/lesley/dangerous-love.webp)Dangerous LoveLesley · 2019](https://boostmlbb.ru/en/skins/lesley/dangerous-love.html)
 
-**Rank up on Esmeralda**The calculator shows the price
+**How much is a rank boost on Esmeralda?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

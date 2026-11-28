@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hanzo/the-pale-phantom.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Hanzo skins](https://boostmlbb.ru/en/skins/hanzo.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Hanzo](https://boostmlbb.ru/en/skins/hanzo.html)/The Pale Phantom
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/hanzo/fangs-of-slaughter.webp)Fangs of SlaughterExceptional · 2026](https://boostmlbb.ru/en/skins/hanzo/fangs-of-slaughter.html)[![](/images/skins/cards/hanzo/soulfire-netherlord.webp)Soulfire NetherlordExquisite · 2025](https://boostmlbb.ru/en/skins/hanzo/soulfire-netherlord.html)[![](/images/skins/cards/hanzo/undead-king.webp)Undead KingCommon · 2023](https://boostmlbb.ru/en/skins/hanzo/undead-king.html)[![](/images/skins/cards/hanzo/the-pale-phantom.webp)The Pale PhantomCommon · 2022](https://boostmlbb.ru/en/skins/hanzo/the-pale-phantom.html)[![](/images/skins/cards/hanzo/insidious-tutor.webp)Insidious TutorExceptional · 2020](https://boostmlbb.ru/en/skins/hanzo/insidious-tutor.html)
 
-**Rank up on Hanzo**The calculator shows the price
+**How much is a rank boost on Hanzo?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

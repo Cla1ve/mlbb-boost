@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/zhuxin/p-ace-zhuxin.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Чжусинь](https://boostmlbb.ru/skins/zhuxin.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Чжусинь](https://boostmlbb.ru/skins/zhuxin.html)/Чжусинь P.ACE
 
@@ -50,7 +50,7 @@ P.ACE Zhuxin
 
 [![](/images/skins/cards/cici/p-ace-cici.webp)Чичи P.ACEЧичи · 2025](https://boostmlbb.ru/skins/cici/p-ace-cici.html)[![](/images/skins/cards/fanny/p-ace-fanny.webp)Фанни P.ACEФанни · 2025](https://boostmlbb.ru/skins/fanny/p-ace-fanny.html)
 
-**Поднимем ранг на герое Чжусинь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Чжусинь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

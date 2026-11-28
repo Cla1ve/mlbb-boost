@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/fanny/p-ace-fanny.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Fanny skins](https://boostmlbb.ru/en/skins/fanny.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Fanny](https://boostmlbb.ru/en/skins/fanny.html)/P.ACE Fanny
 
@@ -44,7 +44,7 @@ Released
 
 [![](/images/skins/cards/cici/p-ace-cici.webp)P.ACE CiciCici · 2025](https://boostmlbb.ru/en/skins/cici/p-ace-cici.html)[![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)P.ACE ZhuxinZhuxin · 2025](https://boostmlbb.ru/en/skins/zhuxin/p-ace-zhuxin.html)
 
-**Rank up on Fanny**The calculator shows the price
+**How much is a rank boost on Fanny?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

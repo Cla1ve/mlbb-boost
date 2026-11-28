@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/faramis/enigmatic-wayfarer.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Фарамиса](https://boostmlbb.ru/skins/faramis.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Фарамис](https://boostmlbb.ru/skins/faramis.html)/Загадочный путник
 
@@ -42,7 +42,7 @@ Enigmatic Wayfarer
 
 [![](/images/skins/cards/valentina/grand-gala.webp)Большой гала-вечерВалентина · 2025](https://boostmlbb.ru/skins/valentina/grand-gala.html)
 
-**Поднимем ранг на герое Фарамис**Цена считается в калькуляторе
+**Сколько стоит буст на герое Фарамис?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

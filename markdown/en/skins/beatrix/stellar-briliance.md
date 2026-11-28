@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/beatrix/stellar-briliance.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Beatrix skins](https://boostmlbb.ru/en/skins/beatrix.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Beatrix](https://boostmlbb.ru/en/skins/beatrix.html)/Stellar Briliance
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/claude/cosmic-blaze.webp)Cosmic BlazeClaude · 2024](https://boostmlbb.ru/en/skins/claude/cosmic-blaze.html)[![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Cosmic DragonYu Zhong · 2023](https://boostmlbb.ru/en/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Fiend HunterRoger · 2021](https://boostmlbb.ru/en/skins/roger/fiend-hunter.html)[![](/images/skins/cards/granger/cosmic-finality.webp)Cosmic FinalityGranger](https://boostmlbb.ru/en/skins/granger/cosmic-finality.html)
 
-**Rank up on Beatrix**The calculator shows the price
+**How much is a rank boost on Beatrix?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

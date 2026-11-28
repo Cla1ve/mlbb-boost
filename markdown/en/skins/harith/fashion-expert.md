@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/harith/fashion-expert.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Harith skins](https://boostmlbb.ru/en/skins/harith.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Harith](https://boostmlbb.ru/en/skins/harith.html)/Fashion Expert
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/zilong/storm-rider.webp)Storm RiderZilong · 2022](https://boostmlbb.ru/en/skins/zilong/storm-rider.html)
 
-**Rank up on Harith**The calculator shows the price
+**How much is a rank boost on Harith?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

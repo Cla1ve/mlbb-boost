@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/edith.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Эдит
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/edith/prismatic-sentinel.webp)Призмати­ческая часоваяИсключительный · 2025](https://boostmlbb.ru/skins/edith/prismatic-sentinel.html)[![](/images/skins/cards/edith/red-bastion.webp)Красный бастионИзысканный · 2024](https://boostmlbb.ru/skins/edith/red-bastion.html)[![](/images/skins/cards/edith/beyond-the-clouds-edith.webp)Эдит «За облаками»Изысканный · 2024](https://boostmlbb.ru/skins/edith/beyond-the-clouds-edith.html)[![](/images/skins/cards/edith/ancient-warden.webp)Древняя стражницаИсключительный · 2023](https://boostmlbb.ru/skins/edith/ancient-warden.html)[![](/images/skins/cards/edith/celestial-safeguard.webp)Небесная защитницаОбычный · 2021](https://boostmlbb.ru/skins/edith/celestial-safeguard.html)
 
-**Поднимем ранг на герое Эдит**Цена считается в калькуляторе
+**Сколько стоит буст на герое Эдит?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

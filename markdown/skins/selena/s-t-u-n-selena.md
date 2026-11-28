@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/selena/s-t-u-n-selena.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Селены](https://boostmlbb.ru/skins/selena.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Селена](https://boostmlbb.ru/skins/selena.html)/Селена S.T.U.N.
 
@@ -45,7 +45,7 @@ S.T.U.N. Selena
 
 [![](/images/skins/cards/brody/s-t-u-n-brody.webp)Броуди S.T.U.N.Броуди · 2021](https://boostmlbb.ru/skins/brody/s-t-u-n-brody.html)[![](/images/skins/cards/chou/s-t-u-n-chou.webp)Чу S.T.U.N.Чу · 2021](https://boostmlbb.ru/skins/chou/s-t-u-n-chou.html)
 
-**Поднимем ранг на герое Селена**Цена считается в калькуляторе
+**Сколько стоит буст на герое Селена?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

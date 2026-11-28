@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hylos.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Hylos
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/hylos/lord-of-the-tundra.webp)Lord of the TundraDeluxe · 2025](https://boostmlbb.ru/en/skins/hylos/lord-of-the-tundra.html)[![](/images/skins/cards/hylos/bloodhoof-marauder.webp)Bloodhoof MarauderCommon · 2024](https://boostmlbb.ru/en/skins/hylos/bloodhoof-marauder.html)[![](/images/skins/cards/hylos/iron-steed.webp)Iron SteedDeluxe · 2021](https://boostmlbb.ru/en/skins/hylos/iron-steed.html)[![](/images/skins/cards/hylos/jungle-watcher.webp)Jungle WatcherCommon · 2019](https://boostmlbb.ru/en/skins/hylos/jungle-watcher.html)[![](/images/skins/cards/hylos/phantom-seer.webp)Phantom SeerExceptional · 2018](https://boostmlbb.ru/en/skins/hylos/phantom-seer.html)[![](/images/skins/cards/hylos/abyssal-shaman.webp)Abyssal ShamanCommon · 2018](https://boostmlbb.ru/en/skins/hylos/abyssal-shaman.html)
 
-**Rank up on Hylos**The calculator shows the price
+**How much is a rank boost on Hylos?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

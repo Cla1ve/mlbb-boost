@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/estes/rattan-dragon.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Estes skins](https://boostmlbb.ru/en/skins/estes.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Estes](https://boostmlbb.ru/en/skins/estes.html)/Rattan Dragon
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/kimmy/frost-wing.webp)Frost WingKimmy · 2025](https://boostmlbb.ru/en/skins/kimmy/frost-wing.html)[![](/images/skins/cards/ling/night-shade.webp)Night ShadeLing · 2024](https://boostmlbb.ru/en/skins/ling/night-shade.html)[![](/images/skins/cards/lancelot/empyrean-flame.webp)Empyrean FlameLancelot · 2021](https://boostmlbb.ru/en/skins/lancelot/empyrean-flame.html)[![](/images/skins/cards/masha/dragon-armor.webp)Dragon ArmorMasha · 2020](https://boostmlbb.ru/en/skins/masha/dragon-armor.html)[![](/images/skins/cards/valir/draconic-flame.webp)Draconic FlameValir · 2019](https://boostmlbb.ru/en/skins/valir/draconic-flame.html)
 
-**Rank up on Estes**The calculator shows the price
+**How much is a rank boost on Estes?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

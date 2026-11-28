@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/floryn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Флорин
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/floryn/herald-of-autumn.webp)Вестница осениГрандиозный · 2026](https://boostmlbb.ru/skins/floryn/herald-of-autumn.html)[![](/images/skins/cards/floryn/melody-of-light.webp)Мелодия светаИзысканный · 2025](https://boostmlbb.ru/skins/floryn/melody-of-light.html)[![](/images/skins/cards/floryn/yatai-waitress.webp)Официантка ятайИсключительный · 2024](https://boostmlbb.ru/skins/floryn/yatai-waitress.html)[![](/images/skins/cards/floryn/paw-power.webp)Сила лапокОбычный · 2023](https://boostmlbb.ru/skins/floryn/paw-power.html)[![](/images/skins/cards/floryn/fluffy-dream.webp)Пушистая мечтаГрандиозный · 2022](https://boostmlbb.ru/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/floryn/springtide.webp)Весенний приливОбычный · 2021](https://boostmlbb.ru/skins/floryn/springtide.html)
 
-**Поднимем ранг на герое Флорин**Цена считается в калькуляторе
+**Сколько стоит буст на герое Флорин?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

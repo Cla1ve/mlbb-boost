@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lesley.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Лесли
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/lesley/meowkin-hunter.webp)Охотница из МяукиновДелюкс · 2025](https://boostmlbb.ru/skins/lesley/meowkin-hunter.html)[![](/images/skins/cards/lesley/duchess-of-tides.webp)Герцогиня приливовДелюкс · 2025](https://boostmlbb.ru/skins/lesley/duchess-of-tides.html)[![](/images/skins/cards/lesley/deadeye-spectre.webp)Меткий призракГрандиозный · 2024](https://boostmlbb.ru/skins/lesley/deadeye-spectre.html)[![](/images/skins/cards/lesley/hawk-eyed-sniper.webp)Зоркий снайперИзысканный · 2021](https://boostmlbb.ru/skins/lesley/hawk-eyed-sniper.html)[![](/images/skins/cards/lesley/falcon-mistress.webp)Повели­тельница соколовИзысканный · 2021](https://boostmlbb.ru/skins/lesley/falcon-mistress.html)[![](/images/skins/cards/lesley/lethal-lady.webp)Смерто­носная ледиИсключительный · 2020](https://boostmlbb.ru/skins/lesley/lethal-lady.html)[![](/images/skins/cards/lesley/angelic-agent.webp)Ангельский агентВысший · 2019](https://boostmlbb.ru/skins/lesley/angelic-agent.html)[![](/images/skins/cards/lesley/dangerous-love.webp)Опасная любовьИсключительный · 2019](https://boostmlbb.ru/skins/lesley/dangerous-love.html)[![](/images/skins/cards/lesley/stellaris-ghost.webp)Призрак СтелларисИзысканный · 2018](https://boostmlbb.ru/skins/lesley/stellaris-ghost.html)[![](/images/skins/cards/lesley/cheergunner.webp)Стрелок-чирлидерИсключительный · 2018](https://boostmlbb.ru/skins/lesley/cheergunner.html)[![](/images/skins/cards/lesley/royal-musketeer.webp)Коро­левский мушкетёрОбычный · 2018](https://boostmlbb.ru/skins/lesley/royal-musketeer.html)[![](/images/skins/cards/lesley/general-rosa.webp)Генерал РозаОбычный · 2018](https://boostmlbb.ru/skins/lesley/general-rosa.html)
 
-**Поднимем ранг на герое Лесли**Цена считается в калькуляторе
+**Сколько стоит буст на герое Лесли?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

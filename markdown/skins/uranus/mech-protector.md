@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/uranus/mech-protector.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Урануса](https://boostmlbb.ru/skins/uranus.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Уранус](https://boostmlbb.ru/skins/uranus.html)/Механический защитник
 
@@ -42,7 +42,7 @@ Mech Protector
 
 [![](/images/skins/cards/lolita/starwatcher.webp)ЗвездочётЛолита · 2024](https://boostmlbb.ru/skins/lolita/starwatcher.html)
 
-**Поднимем ранг на герое Уранус**Цена считается в калькуляторе
+**Сколько стоит буст на герое Уранус?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

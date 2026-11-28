@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/floryn/herald-of-autumn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Флорин](https://boostmlbb.ru/skins/floryn.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Флорин](https://boostmlbb.ru/skins/floryn.html)/Вестница осени
 
@@ -50,7 +50,7 @@ Herald of Autumn
 
 [![](/images/skins/cards/miya/arrow-of-springs.webp)Стрела весныМия · 2026](https://boostmlbb.ru/skins/miya/arrow-of-springs.html)
 
-**Поднимем ранг на герое Флорин**Цена считается в калькуляторе
+**Сколько стоит буст на герое Флорин?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/claude/bad-bro.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Клауда](https://boostmlbb.ru/skins/claude.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Клауд](https://boostmlbb.ru/skins/claude.html)/Плохой бро
 
@@ -45,7 +45,7 @@ Bad Bro
 
 [![](/images/skins/cards/floryn/fluffy-dream.webp)Пушистая мечтаФлорин · 2022](https://boostmlbb.ru/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/change/moon-artist.webp)Лунная художницаЧан'Э · 2022](https://boostmlbb.ru/skins/change/moon-artist.html)[![](/images/skins/cards/angela/heartstring.webp)Струны сердцаАнгела · 2022](https://boostmlbb.ru/skins/angela/heartstring.html)
 
-**Поднимем ранг на герое Клауд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Клауд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

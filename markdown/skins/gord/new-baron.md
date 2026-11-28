@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/gord/new-baron.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Горда](https://boostmlbb.ru/skins/gord.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Горд](https://boostmlbb.ru/skins/gord.html)/Новый барон
 
@@ -38,7 +38,7 @@ New Baron
 
 [![](/images/skins/cards/gord/imperator-vitalis.webp)Император ВиталисИсключительный · 2025](https://boostmlbb.ru/skins/gord/imperator-vitalis.html)[![](/images/skins/cards/gord/cyber-hacker.webp)Кибер-хакерДелюкс · 2024](https://boostmlbb.ru/skins/gord/cyber-hacker.html)[![](/images/skins/cards/gord/new-baron.webp)Новый баронОбычный · 2021](https://boostmlbb.ru/skins/gord/new-baron.html)[![](/images/skins/cards/gord/no-1-controller.webp)Контролёр №1Изысканный · 2019](https://boostmlbb.ru/skins/gord/no-1-controller.html)[![](/images/skins/cards/gord/conqueror.webp)Завое­вательВысший · 2018](https://boostmlbb.ru/skins/gord/conqueror.html)[![](/images/skins/cards/gord/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2016](https://boostmlbb.ru/skins/gord/christmas-carnival.html)[![](/images/skins/cards/gord/professor-of-hell.webp)Профессор адаОбычный · 2016](https://boostmlbb.ru/skins/gord/professor-of-hell.html)
 
-**Поднимем ранг на герое Горд**Цена считается в калькуляторе
+**Сколько стоит буст на герое Горд?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

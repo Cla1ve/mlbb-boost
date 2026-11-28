@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kimmy/first-order-jet-trooper.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Кимми](https://boostmlbb.ru/skins/kimmy.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Кимми](https://boostmlbb.ru/skins/kimmy.html)/Реактивный штурмовик Первого ордена
 
@@ -49,7 +49,7 @@ First Order Jet Trooper
 
 [![](/images/skins/cards/argus/darth-vader.webp)Дарт ВейдерАргус · 2021](https://boostmlbb.ru/skins/argus/darth-vader.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Мастер ЙодаЦиклоп · 2021](https://boostmlbb.ru/skins/cyclops/master-yoda.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Оби-Ван КенобиАлукард · 2021](https://boostmlbb.ru/skins/alucard/obi-wan-kenobi.html)
 
-**Поднимем ранг на герое Кимми**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кимми?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

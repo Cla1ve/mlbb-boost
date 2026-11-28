@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/ruby/crescent-dervish.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Ruby skins](https://boostmlbb.ru/en/skins/ruby.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Ruby](https://boostmlbb.ru/en/skins/ruby.html)/Crescent Dervish
 
@@ -40,7 +40,7 @@ Released
 
 [![](/images/skins/cards/hanabi/twin-crescent.webp)Twin CrescentHanabi · 2026](https://boostmlbb.ru/en/skins/hanabi/twin-crescent.html)[![](/images/skins/cards/ruby/neon-edge.webp)Neon EdgeRuby · 2025](https://boostmlbb.ru/en/skins/ruby/neon-edge.html)
 
-**Rank up on Ruby**The calculator shows the price
+**How much is a rank boost on Ruby?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

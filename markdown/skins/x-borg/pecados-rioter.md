@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/x-borg/pecados-rioter.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Икс.Борга](https://boostmlbb.ru/skins/x-borg.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Икс.Борг](https://boostmlbb.ru/skins/x-borg.html)/Бунтарь Пекадос
 
@@ -46,7 +46,7 @@ Pecados Rioter
 
 [![](/images/skins/cards/karina/keyforged-champion.webp)Чемпионка ключаКарина · 2025](https://boostmlbb.ru/skins/karina/keyforged-champion.html)
 
-**Поднимем ранг на герое Икс.Борг**Цена считается в калькуляторе
+**Сколько стоит буст на герое Икс.Борг?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

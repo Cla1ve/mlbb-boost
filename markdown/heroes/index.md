@@ -5,8 +5,6 @@ canonical: https://boostmlbb.ru/heroes/
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
-
 # Тир-лист MLBB
 
 133 персонажа · Обновлено 27 ноября

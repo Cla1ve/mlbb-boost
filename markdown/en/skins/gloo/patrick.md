@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/gloo/patrick.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Gloo skins](https://boostmlbb.ru/en/skins/gloo.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Gloo](https://boostmlbb.ru/en/skins/gloo.html)/Patrick
 
@@ -45,7 +45,7 @@ Released
 
 [![](/images/skins/cards/cyclops/spongebob.webp)SpongeBobCyclops · 2025](https://boostmlbb.ru/en/skins/cyclops/spongebob.html)
 
-**Rank up on Gloo**The calculator shows the price
+**How much is a rank boost on Gloo?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

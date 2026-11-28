@@ -24,6 +24,7 @@ Orders are arranged through Telegram. Check the website prices and calculator fo
 - [MLBB tier list: all 133 heroes, builds and counters | MLBB Boost](https://boostmlbb.ru/en/heroes/)
 - [MLBB items: all 97 items, prices and builds | MLBB Boost](https://boostmlbb.ru/en/items/)
 - [MLBB skins: all 946 hero skins, prices and how to get them | MLBB Boost](https://boostmlbb.ru/en/skins/)
+- [MLBB nickname and font generator | MLBB Boost](https://boostmlbb.ru/en/nickname-generator/)
 
 ## Machine-readable public resources
 - [Full content in Markdown](https://boostmlbb.ru/llms-full.txt)

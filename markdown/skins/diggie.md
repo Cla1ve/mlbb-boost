@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/diggie.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Дигги
 
@@ -31,7 +31,7 @@ language: ru
 
 [![](/images/skins/cards/diggie/underwood-steward.webp)Хранитель подлескаОбычный · 2024](https://boostmlbb.ru/skins/diggie/underwood-steward.html)[![](/images/skins/cards/diggie/fairytaler.webp)СказочникДелюкс · 2022](https://boostmlbb.ru/skins/diggie/fairytaler.html)[![](/images/skins/cards/diggie/circus-clown.webp)Цирковой клоунОбычный · 2021](https://boostmlbb.ru/skins/diggie/circus-clown.html)[![](/images/skins/cards/diggie/constellation.webp)СозвездиеИсключительный · 2019](https://boostmlbb.ru/skins/diggie/constellation.html)[![](/images/skins/cards/diggie/pigeoneer.webp)ГолубятникОбычный · 2017](https://boostmlbb.ru/skins/diggie/pigeoneer.html)
 
-**Поднимем ранг на герое Дигги**Цена считается в калькуляторе
+**Сколько стоит буст на герое Дигги?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

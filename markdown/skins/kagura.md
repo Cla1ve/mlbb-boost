@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/kagura.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Кагура
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/kagura/lady-parasol.webp)Леди с зонтикомИсключительный · 2025](https://boostmlbb.ru/skins/kagura/lady-parasol.html)[![](/images/skins/cards/kagura/jade-blossom.webp)Нефритовый цветокДелюкс · 2024](https://boostmlbb.ru/skins/kagura/jade-blossom.html)[![](/images/skins/cards/kagura/beyond-the-clouds-kagura.webp)Кагура «За облаками»Изысканный · 2023](https://boostmlbb.ru/skins/kagura/beyond-the-clouds-kagura.html)[![](/images/skins/cards/kagura/exorcist-kagura.webp)Экзор­цистка КагураГрандиозный · 2022](https://boostmlbb.ru/skins/kagura/exorcist-kagura.html)[![](/images/skins/cards/kagura/water-lily.webp)КувшинкаИзысканный · 2021](https://boostmlbb.ru/skins/kagura/water-lily.html)[![](/images/skins/cards/kagura/rainy-walk.webp)Прогулка под дождёмИсключительный · 2021](https://boostmlbb.ru/skins/kagura/rainy-walk.html)[![](/images/skins/cards/kagura/summer-festival.webp)Летний фестивальИсключительный · 2019](https://boostmlbb.ru/skins/kagura/summer-festival.html)[![](/images/skins/cards/kagura/dragon-maiden.webp)Дева драконаИзысканный · 2018](https://boostmlbb.ru/skins/kagura/dragon-maiden.html)[![](/images/skins/cards/kagura/cherry-witch.webp)Вишнёвая ведьмаИсключительный · 2017](https://boostmlbb.ru/skins/kagura/cherry-witch.html)[![](/images/skins/cards/kagura/flower-season.webp)Сезон цветовОбычный · 2016](https://boostmlbb.ru/skins/kagura/flower-season.html)[![](/images/skins/cards/kagura/feast-of-eternity.webp)Пир вечности](https://boostmlbb.ru/skins/kagura/feast-of-eternity.html)
 
-**Поднимем ранг на герое Кагура**Цена считается в калькуляторе
+**Сколько стоит буст на герое Кагура?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

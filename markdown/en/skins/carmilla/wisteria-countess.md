@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/carmilla/wisteria-countess.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Carmilla skins](https://boostmlbb.ru/en/skins/carmilla.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Carmilla](https://boostmlbb.ru/en/skins/carmilla.html)/Wisteria Countess
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/carmilla/astral-arcana.webp)Astral ArcanaDeluxe · 2024](https://boostmlbb.ru/en/skins/carmilla/astral-arcana.html)[![](/images/skins/cards/carmilla/phantom-countess.webp)Phantom CountessExceptional · 2021](https://boostmlbb.ru/en/skins/carmilla/phantom-countess.html)[![](/images/skins/cards/carmilla/magician-girl.webp)Magician GirlCommon · 2020](https://boostmlbb.ru/en/skins/carmilla/magician-girl.html)[![](/images/skins/cards/carmilla/wisteria-countess.webp)Wisteria CountessCommon · 2020](https://boostmlbb.ru/en/skins/carmilla/wisteria-countess.html)
 
-**Rank up on Carmilla**The calculator shows the price
+**How much is a rank boost on Carmilla?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

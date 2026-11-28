@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/yin/yuji-itadori.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Иня](https://boostmlbb.ru/skins/yin.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Инь](https://boostmlbb.ru/skins/yin.html)/Юдзи Итадори
 
@@ -49,7 +49,7 @@ Yuji Itadori
 
 [![](/images/skins/cards/julian/megumi-fushiguro.webp)Мегуми ФушигуроДжулиан · 2023](https://boostmlbb.ru/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Сатору ГоджоКсавьер · 2023](https://boostmlbb.ru/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Нобара КугисакиМелисса · 2023](https://boostmlbb.ru/skins/melissa/nobara-kugisaki.html)
 
-**Поднимем ранг на герое Инь**Цена считается в калькуляторе
+**Сколько стоит буст на герое Инь?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

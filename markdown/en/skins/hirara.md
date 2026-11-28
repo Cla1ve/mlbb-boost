@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/hirara.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[All skins](https://boostmlbb.ru/en/skins/)
 
 [Skins](https://boostmlbb.ru/en/skins/)/Hirara
 
@@ -31,7 +31,7 @@ Latest
 
 [![](/images/skins/cards/hirara/gilded-embers.webp)Gilded EmbersCommon · 2026](https://boostmlbb.ru/en/skins/hirara/gilded-embers.html)
 
-**Rank up on Hirara**The calculator shows the price
+**How much is a rank boost on Hirara?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

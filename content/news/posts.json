@@ -5593,10 +5593,10 @@
     {
       "slug": "mlbb-change-nickname",
       "status": "published",
-      "title": "Ники для MLBB: генератор красивых ников и шрифтов",
-      "seoTitle": "Ники для MLBB: генератор ников и шрифтов",
-      "description": "Генератор ников для Mobile Legends: красивые, парные и японские, для парней и девушек, на русском и английском. Шрифты, предпросмотр и как сменить ник.",
-      "excerpt": "Выберите, для кого ник и в каком стиле, примерьте шрифт и украшения и скопируйте. Ниже инструкция, как сменить ник в игре.",
+      "title": "Как сменить ник в Mobile Legends",
+      "seoTitle": "Как сменить ник в Mobile Legends | MLBB Boost",
+      "description": "Где изменить имя в профиле MLBB, сколько стоит карта смены имени и какие символы принимает игра.",
+      "excerpt": "Где изменить имя в профиле MLBB, сколько стоит карта смены имени и какие символы принимает игра.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -5607,7 +5607,7 @@
         "Невидимый ник"
       ],
       "datePublished": "2026-11-22T23:03:00+03:00",
-      "dateModified": "2026-11-26T17:48:15+03:00",
+      "dateModified": "2026-11-28T08:00:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-change-nickname.jpg",
         "width": 1600,
@@ -5888,10 +5888,10 @@
       "editorialNote": "Шаги и цены сверены 22 ноября 2026 года по гайдам ONE Esports, aesthetic.name и Katadata. Официальной справки MOONTON о смене ника и цене карточки мы не нашли, поэтому цену проверяйте в игровом магазине.",
       "translations": {
         "en": {
-          "title": "MLBB names: a stylish nickname generator and fonts",
-          "seoTitle": "MLBB name generator: stylish names and fonts",
-          "description": "Mobile Legends name generator: stylish, matching and Japanese names for guys and girls, with fonts, a preview and how to change your name.",
-          "excerpt": "Choose who the name is for and a style, try a font and symbols, then copy it. Renaming steps are below.",
+          "title": "How to change your nickname in Mobile Legends",
+          "seoTitle": "How to change your nickname in Mobile Legends | MLBB Boost",
+          "description": "Find the rename option in your MLBB profile, check rename card costs and see which symbols the game accepts.",
+          "excerpt": "Find the rename option in your MLBB profile, check rename card costs and see which symbols the game accepts.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -6147,8 +6147,7 @@
           ],
           "editorialNote": "Steps and prices were checked on 22 November 2026 against guides by ONE Esports, aesthetic.name and Katadata. We found no official MOONTON help page on renaming or the card price, so check the price in the in-game shop."
         }
-      },
-      "tool": "nicknames"
+      }
     },
     {
       "slug": "mlbb-new-heroes-2026",

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/skins/freya/dark-rose.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+[Freya skins](https://boostmlbb.ru/en/skins/freya.html)
 
 [Skins](https://boostmlbb.ru/en/skins/)/[Freya](https://boostmlbb.ru/en/skins/freya.html)/Dark Rose
 
@@ -37,7 +37,7 @@ Released
 
 [![](/images/skins/cards/freya/galactic-vanquisher.webp)Galactic VanquisherSupreme · 2024](https://boostmlbb.ru/en/skins/freya/galactic-vanquisher.html)[![](/images/skins/cards/freya/s-a-b-e-r-manhunter.webp)S.A.B.E.R. ManhunterDeluxe · 2022](https://boostmlbb.ru/en/skins/freya/s-a-b-e-r-manhunter.html)[![](/images/skins/cards/freya/raven-shogun.webp)Raven ShogunDeluxe · 2020](https://boostmlbb.ru/en/skins/freya/raven-shogun.html)[![](/images/skins/cards/freya/christmas-carnival.webp)Christmas CarnivalExceptional · 2018](https://boostmlbb.ru/en/skins/freya/christmas-carnival.html)[![](/images/skins/cards/freya/gladiator.webp)GladiatorCommon · 2018](https://boostmlbb.ru/en/skins/freya/gladiator.html)[![](/images/skins/cards/freya/dragon-hunter.webp)Dragon HunterExceptional · 2017](https://boostmlbb.ru/en/skins/freya/dragon-hunter.html)[![](/images/skins/cards/freya/war-angel.webp)War AngelExquisite · 2017](https://boostmlbb.ru/en/skins/freya/war-angel.html)[![](/images/skins/cards/freya/beach-sweetheart.webp)Beach SweetheartExceptional · 2017](https://boostmlbb.ru/en/skins/freya/beach-sweetheart.html)[![](/images/skins/cards/freya/dark-rose.webp)Dark RoseCommon · 2017](https://boostmlbb.ru/en/skins/freya/dark-rose.html)
 
-**Rank up on Freya**The calculator shows the price
+**How much is a rank boost on Freya?**Choose your current and target ranks to see the price here.
 
 [Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 

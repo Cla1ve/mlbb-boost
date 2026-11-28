@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/brody/neobeast-brody.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Броуди](https://boostmlbb.ru/skins/brody.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Броуди](https://boostmlbb.ru/skins/brody.html)/Броуди Neobeast
 
@@ -49,7 +49,7 @@ Neobeast Brody
 
 [![](/images/skins/cards/ling/neobeast-ling.webp)Линг NeobeastЛинг · 2025](https://boostmlbb.ru/skins/ling/neobeast-ling.html)[![](/images/skins/cards/pharsa/neobeast-pharsa.webp)Фаша NeobeastФаша · 2025](https://boostmlbb.ru/skins/pharsa/neobeast-pharsa.html)
 
-**Поднимем ранг на герое Броуди**Цена считается в калькуляторе
+**Сколько стоит буст на герое Броуди?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

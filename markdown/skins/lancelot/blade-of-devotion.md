@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/lancelot/blade-of-devotion.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ланселота](https://boostmlbb.ru/skins/lancelot.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ланселот](https://boostmlbb.ru/skins/lancelot.html)/Клинок преданности
 
@@ -47,7 +47,7 @@ Blade of Devotion
 
 [![](/images/skins/cards/odette/song-of-devotion.webp)Песнь предан­ностиОдетта · 2026](https://boostmlbb.ru/skins/odette/song-of-devotion.html)
 
-**Поднимем ранг на герое Ланселот**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ланселот?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

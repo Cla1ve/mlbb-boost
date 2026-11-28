@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/wanwan/flying-swallow.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Скины Ванван](https://boostmlbb.ru/skins/wanwan.html)
 
 [Скины](https://boostmlbb.ru/skins/)/[Ванван](https://boostmlbb.ru/skins/wanwan.html)/Летящая ласточка
 
@@ -49,7 +49,7 @@ Flying Swallow
 
 [![](/images/skins/cards/nolan/the-navigator.webp)НавигаторНолан · 2024](https://boostmlbb.ru/skins/nolan/the-navigator.html)[![](/images/skins/cards/gusion/dimension-walker.webp)Странник измеренийГоссен · 2023](https://boostmlbb.ru/skins/gusion/dimension-walker.html)[![](/images/skins/cards/hayabusa/shura.webp)ШураХаябуса · 2021](https://boostmlbb.ru/skins/hayabusa/shura.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Маньяк ТеслыИкс.Борг · 2020](https://boostmlbb.ru/skins/x-borg/tesla-maniac.html)
 
-**Поднимем ранг на герое Ванван**Цена считается в калькуляторе
+**Сколько стоит буст на герое Ванван?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

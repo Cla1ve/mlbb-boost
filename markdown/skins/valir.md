@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/valir.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Валир
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/valir/kyo-kusanagi.webp)Кё КусанагиГрандиозный · 2024](https://boostmlbb.ru/skins/valir/kyo-kusanagi.html)[![](/images/skins/cards/valir/phoenix-ikki.webp)Феникс ИккиДелюкс · 2022](https://boostmlbb.ru/skins/valir/phoenix-ikki.html)[![](/images/skins/cards/valir/leo-ikki.webp)Лев ИккиГрандиозный · 2022](https://boostmlbb.ru/skins/valir/leo-ikki.html)[![](/images/skins/cards/valir/shikigami-sumonner.webp)Призы­ватель сикигамиИсключительный · 2022](https://boostmlbb.ru/skins/valir/shikigami-sumonner.html)[![](/images/skins/cards/valir/infernal-blaze.webp)Адское пламяВысший · 2022](https://boostmlbb.ru/skins/valir/infernal-blaze.html)[![](/images/skins/cards/valir/demonlord.webp)Повелитель демоновИзысканный · 2021](https://boostmlbb.ru/skins/valir/demonlord.html)[![](/images/skins/cards/valir/dictator.webp)ДиктаторИсключительный · 2020](https://boostmlbb.ru/skins/valir/dictator.html)[![](/images/skins/cards/valir/draconic-flame.webp)Драконье пламяДелюкс · 2019](https://boostmlbb.ru/skins/valir/draconic-flame.html)[![](/images/skins/cards/valir/arcane-seeker.webp)Искатель тайнОбычный · 2018](https://boostmlbb.ru/skins/valir/arcane-seeker.html)[![](/images/skins/cards/valir/pale-flame.webp)Бледное пламяОбычный · 2018](https://boostmlbb.ru/skins/valir/pale-flame.html)
 
-**Поднимем ранг на герое Валир**Цена считается в калькуляторе
+**Сколько стоит буст на герое Валир?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 

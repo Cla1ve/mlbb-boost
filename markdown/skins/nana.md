@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/skins/nana.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Все скины](https://boostmlbb.ru/skins/)
 
 [Скины](https://boostmlbb.ru/skins/)/Нана
 
@@ -33,7 +33,7 @@ language: ru
 
 [![](/images/skins/cards/nana/mistbender-nana.webp)Нана, заклина­тельница туманаГрандиозный · 2023](https://boostmlbb.ru/skins/nana/mistbender-nana.html)[![](/images/skins/cards/nana/cyclone-clash.webp)Столкно­вение циклоновИсключительный · 2022](https://boostmlbb.ru/skins/nana/cyclone-clash.html)[![](/images/skins/cards/nana/aqua-pura.webp)Аква ПураИзысканный · 2021](https://boostmlbb.ru/skins/nana/aqua-pura.html)[![](/images/skins/cards/nana/mecha-baby.webp)Меха-малышкаДелюкс · 2020](https://boostmlbb.ru/skins/nana/mecha-baby.html)[![](/images/skins/cards/nana/sundress.webp)Летнее платьеИсключительный · 2019](https://boostmlbb.ru/skins/nana/sundress.html)[![](/images/skins/cards/nana/wind-fairy.webp)Фея ветраИсключительный · 2018](https://boostmlbb.ru/skins/nana/wind-fairy.html)[![](/images/skins/cards/nana/slumber-party.webp)Пижамная вечеринкаОбычный · 2017](https://boostmlbb.ru/skins/nana/slumber-party.html)[![](/images/skins/cards/nana/graveyard-party.webp)Вечеринка на кладбищеОбычный · 2016](https://boostmlbb.ru/skins/nana/graveyard-party.html)[![](/images/skins/cards/nana/clockwork-maid.webp)Заводная горничнаяОбычный · 2016](https://boostmlbb.ru/skins/nana/clockwork-maid.html)
 
-**Поднимем ранг на герое Нана**Цена считается в калькуляторе
+**Сколько стоит буст на герое Нана?**Выберите текущий и желаемый ранг. Стоимость появится на сайте.
 
 [Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 
