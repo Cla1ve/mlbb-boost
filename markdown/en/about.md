@@ -5,31 +5,21 @@ canonical: https://boostmlbb.ru/en/about.html
 language: en
 ---
 
-About
-
 # About MLBB Boost
 
 Mobile Legends rank boosting since November 2025. Ordering, payment and boost progress happen in the Telegram bot, with a review after every order.
-
-01
 
 ### Order coordination
 
 We help confirm the route, price and assigned player. The public offer explains the service’s role and terms.
 
-02
-
 ### Account access terms
 
 Sharing access carries risks. With party play you play yourself; read the security policy and disclaimer for other formats.
 
-03
-
 ### Completion timing
 
 Timing depends on the route, format, account requirements and player availability. The calculator estimate is preliminary.
-
-04
 
 ### Telegram support
 

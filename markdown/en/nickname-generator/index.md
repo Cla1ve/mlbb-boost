@@ -60,4 +60,4 @@ Copy name
 
 Check the name in the rename field before buying a card: the game tells you right away if a character is not allowed.
 
-[How to change your nickname in MLBB](https://boostmlbb.ru/en/news/mlbb-change-nickname/)
+[📖**How to change your nickname in MLBB**Where to find the rename option and what a Rename Card costs](https://boostmlbb.ru/en/news/mlbb-change-nickname/)

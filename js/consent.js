@@ -194,11 +194,19 @@
     const a = e.target.closest?.('a[href^="https://t.me/cla1ve_boost_bot"]');
     if (a) a.href = tracked(a.href);
   }, true);
-  document.addEventListener('click', e => {
-    if (!e.target.closest('.game-menu')) document.querySelector('.game-menu details[open]')?.removeAttribute('open');
-  });
-  document.addEventListener('keydown', e => {
-    const open = document.querySelector('.game-menu details[open]');
-    if (open && e.key === 'Escape') { open.open = false; open.querySelector('summary').focus(); }
-  });
+  const sectionsMenu = document.querySelector('.game-menu details');
+  if (sectionsMenu) {
+    const closeOutside = (event) => {
+      if (sectionsMenu.open && !sectionsMenu.contains(event.target)) sectionsMenu.open = false;
+    };
+    document.addEventListener('click', closeOutside);
+    document.addEventListener('focusin', closeOutside);
+    document.addEventListener('keydown', event => {
+      if (event.key !== 'Escape' || !sectionsMenu.open) return;
+      event.preventDefault();
+      event.stopPropagation();
+      sectionsMenu.open = false;
+      sectionsMenu.querySelector('summary').focus();
+    }, true);
+  }
 })();

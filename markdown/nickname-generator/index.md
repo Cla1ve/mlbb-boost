@@ -60,4 +60,4 @@ Aether
 
 Проверьте ник в поле смены имени до покупки карточки: если знак не подходит, игра скажет об этом сразу.
 
-[Как сменить ник в MLBB](https://boostmlbb.ru/news/mlbb-change-nickname/)
+[📖**Как сменить ник в MLBB**Где сменить имя и сколько стоит карта смены ника](https://boostmlbb.ru/news/mlbb-change-nickname/)

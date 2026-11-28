@@ -3,6 +3,22 @@
   "directoryListing": false,
   "rewrites": [
     {
+      "source": "/nickname-generator/",
+      "destination": "/nickname-generator/index.html"
+    },
+    {
+      "source": "/nickname-generator",
+      "destination": "/nickname-generator/index.html"
+    },
+    {
+      "source": "/en/nickname-generator/",
+      "destination": "/en/nickname-generator/index.html"
+    },
+    {
+      "source": "/en/nickname-generator",
+      "destination": "/en/nickname-generator/index.html"
+    },
+    {
       "source": "/",
       "destination": "/index.html"
     },

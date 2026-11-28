@@ -1392,9 +1392,9 @@ function renderNavigation(active = 'news', locale = 'ru', languageTargets = null
     ['/services.html', copy.nav.services, 'fas fa-star', 'services'],
     ['/prices.html', copy.nav.prices, 'fas fa-tags', 'prices'],
     ['/reviews.html', copy.nav.reviews, 'fas fa-comments', 'reviews'],
-    ['/news/', copy.nav.news, 'fas fa-newspaper', 'news'],
     ['/faq.html', copy.nav.faq, 'fas fa-question-circle', 'faq'],
-    ['/about.html', copy.nav.about, 'fas fa-users', 'about']
+    ['/about.html', copy.nav.about, 'fas fa-users', 'about'],
+    ['/news/', copy.nav.news, 'fas fa-newspaper', 'news']
   ];
   const targets = languageTargets ?? {
     ru: localeRootUrl('ru'),
@@ -1416,7 +1416,7 @@ function renderNavigation(active = 'news', locale = 'ru', languageTargets = null
         </a>
         <div class="nav-menu" id="news-navigation">
           <ul class="nav-list">
-            ${items.map(([href, label, icon, key]) => key === 'news' ? gameMenu(locale) : `
+            ${items.map(([href, label, icon, key]) => key === 'news' ? gameMenu(locale, new URL(targets[locale], SITE_ORIGIN).pathname) : `
             <li><a href="${siteHref(href, locale)}" class="nav-link${key === active ? ' active' : ''}"${key === active ? ' aria-current="page"' : ''}>
               <i class="${icon}" aria-hidden="true"></i>${escapeHtml(label)}
             </a></li>`).join('')}
@@ -1528,14 +1528,14 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=34">
+  <link rel="stylesheet" href="/styles/ui.css?v=35">
   <link rel="stylesheet" href="/styles/arena.css?v=9">
   <link rel="stylesheet" href="/styles/journal.css?v=7">`;
 }
 
 function renderScripts() {
   return `
-  <script defer src="/js/consent.js?v=32"></script>
+  <script defer src="/js/consent.js?v=33"></script>
   <script defer src="/js/news-language.js?v=1"></script>
   <script defer src="/js/news.js?v=9"></script>`;
 }

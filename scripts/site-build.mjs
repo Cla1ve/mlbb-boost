@@ -292,7 +292,7 @@ function guideArticle(guide, lang) {
   const faq = rawFaq.map(([q, a]) => [q, fillTokens(a, lang)]);
   const crumbs = guide.crumb ? [localized(guide.crumb[0], lang), en ? guide.crumb[2] : guide.crumb[1]] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
-  if (guide.kind === 'tool') return `<article class="news-page nickname-page"><header class="container"><h1>${guide[lang][0].split(' | ')[0]}</h1><p>${guide[lang][1]}</p></header>${renderNickTool(lang)}<p class="container"><a href="${localized('/news/mlbb-change-nickname/', lang)}">${en ? 'How to change your nickname in MLBB' : 'Как сменить ник в MLBB'}</a></p></article>`;
+  if (guide.kind === 'tool') return `<article class="news-page nickname-page"><header class="container nickname-intro"><h1>${guide[lang][0].split(' | ')[0]}</h1><p>${guide[lang][1]}</p></header>${renderNickTool(lang)}<aside class="container nickname-guide"><a href="${localized('/news/mlbb-change-nickname/', lang)}"><span class="nickname-guide__icon" aria-hidden="true">📖</span><span><strong>${en ? 'How to change your nickname in MLBB' : 'Как сменить ник в MLBB'}</strong><small>${en ? 'Where to find the rename option and what a Rename Card costs' : 'Где сменить имя и сколько стоит карта смены ника'}</small></span></a></aside></article>`;
   if (guide.kind === 'hero') {
     const head = guide[lang][4];
     const profile = Boolean(head.portrait);
@@ -393,7 +393,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
   for (const lang of ['ru', 'en']) {
     const { document } = parseHTML(source);
     const navigation = document.querySelector('.nav-list');
-    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/news/', 'Новости', 'fa-newspaper'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
+    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users'], ['/news/', 'Новости', 'fa-newspaper']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
     for (const element of document.querySelectorAll('.channel-title, .site-footer a')) {
       element.innerHTML = element.innerHTML.replace(/\d+\+? отзывов/g, `${data.reviewStats.count} отзывов`).replace(/Отзывы \(\d+\+?\)/g, `Отзывы (${data.reviewStats.count})`);
     }
@@ -423,7 +423,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     const description = metadata?.[1] || (lang === 'en' ? translate(document.querySelector('meta[name="description"]')?.content || '', file) : document.querySelector('meta[name="description"]')?.content || '');
     if (guide) document.querySelector('main').innerHTML = guideArticle(guide, lang);
     if (guide?.kind === 'tool') {
-      for (const href of ['/styles/arena.css?v=9','/styles/journal.css?v=7','/styles/nicknames.css?v=5']) {
+      for (const href of ['/styles/arena.css?v=9','/styles/journal.css?v=7','/styles/nicknames.css?v=6']) {
         const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = href; document.head.append(style);
       }
     }
@@ -520,7 +520,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelector('link[rel="stylesheet"]')?.before(font);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
-    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=34'; document.head.append(interfaceStyle);
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=35'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
@@ -531,7 +531,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '34' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '32' : asset.pathname === '/js/prices.js' ? '31' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '34' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '33' : asset.pathname === '/js/prices.js' ? '31' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -622,7 +622,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelectorAll('[data-news-en-alt]').forEach(el => el.setAttribute('alt', el.getAttribute('data-news-en-alt')));
     }
     const newsLink = navigation?.querySelector('a[href$="/news/"]');
-    if (newsLink) newsLink.parentElement.outerHTML = gameMenu(lang);
+    if (newsLink) newsLink.parentElement.outerHTML = gameMenu(lang, localized(filePath(file), lang));
     schema(document, file, lang, title, description, canonical);
     const output = lang === 'en' ? 'en/' + file : file;
     await save(output, '<!DOCTYPE html>\n' + document.documentElement.outerHTML + '\n');

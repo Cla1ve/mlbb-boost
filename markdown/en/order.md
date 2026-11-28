@@ -9,25 +9,15 @@ JavaScript is required for automatic calculation. [View prices](https://boostmlb
 
 # Calculate boost price
 
-[
-
-Main channel News and promos
-
-](https://t.me/Cla1ve_boost_mlbb)[
-
-1327 reviews Real clients
-
-](https://t.me/cla1ve_boost)
-
-Standard Popular
+Standard
 
 Role
 
-In party Duo
+In party
 
 MMR
 
-Rising Hot
+Rising
 
 ### Standard boost
 
@@ -164,6 +154,16 @@ Your price: 0 ₽
 Discount **10%** on your first order!
 
 [Place order Open the Telegram bot](https://t.me/Cla1ve)
+
+[
+
+Main channel News and promos
+
+](https://t.me/Cla1ve_boost_mlbb)[
+
+1327 reviews Real clients
+
+](https://t.me/cla1ve_boost)
 
 ### Why players choose us
 
