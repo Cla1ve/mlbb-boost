@@ -152,22 +152,41 @@
     return url.href;
   }
   window.mlbbSiteBotLink = tracked;
-  function measure(event) {
+  function measure(event, details = {}) {
     try {
       if (localStorage.getItem('mlbb_consent_accepted') !== 'true') return;
       const section = routes[code[1]] || (code ? code.slice(2) || 'home' : 'unknown');
-      const params = { first_section: section, content_language: document.documentElement.lang };
+      const params = { first_section: section, content_language: document.documentElement.lang, ...details };
       window.gtag?.('event', event, params);
       window.ym?.(99684184, 'reachGoal', event, params);
     } catch { /* Measurement must not interrupt navigation. */ }
   }
   window.mlbbMeasure = measure;
-  if (location.pathname.endsWith('/order.html')) measure('calculator_open');
+  const offerSelector = '.rank-cta, .hero-cta';
+  function startMeasurement() {
+    if (!hasStoredConsent()) return;
+    if (location.pathname.endsWith('/order.html')) measure('calculator_open');
+    if (!window.IntersectionObserver) return;
+    const observer = new IntersectionObserver(entries => {
+      for (const entry of entries) if (entry.intersectionRatio >= 0.5) {
+        measure('rank_offer_view', { offer_position: entry.target.matches('.rank-cta') ? 'article' : 'profile' });
+        observer.unobserve(entry.target);
+      }
+    }, { threshold: 0.5 });
+    document.querySelectorAll(offerSelector).forEach(offer => {
+      if (offer.querySelector('a[href*="order.html"]')) observer.observe(offer);
+    });
+  }
+  function hasStoredConsent() {
+    try { return localStorage.getItem('mlbb_consent_accepted') === 'true'; } catch { return false; }
+  }
+  if (hasStoredConsent()) startMeasurement();
+  else window.addEventListener('mlbb:consent-granted', startMeasurement, { once: true });
   document.addEventListener('click', event => {
     const link = event.target.closest?.('a[href]');
     if (!link) return;
     if (link.hostname === 't.me' && link.pathname === '/cla1ve_boost_bot') measure('site_bot_click');
-    if (link.origin === location.origin && link.pathname.endsWith('/order.html')) measure('calculator_link_click');
+    if (link.origin === location.origin && link.pathname.endsWith('/order.html')) measure('calculator_link_click', { offer_position: link.closest('.rank-cta') ? 'article' : link.closest('.hero-cta') ? 'profile' : 'other' });
   }, true);
   const decorate = () => document.querySelectorAll('a[href^="https://t.me/cla1ve_boost_bot"]').forEach(a => { a.href = tracked(a.href); });
   decorate();
