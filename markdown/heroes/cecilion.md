@@ -1,6 +1,6 @@
 ---
 title: "Сесилион MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Сесилион, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сесилиона. Маг, 50,60% побед, тир C."
+description: "Сесилион, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сесилиона. Маг, 50,59% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/cecilion.html
 language: ru
 ---
@@ -43,24 +43,14 @@ C
 -   Поук
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **50,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,1%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**20 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие мидеры MLBB**18 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+-   [Лучшие маги MLBB**19 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**17 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 
@@ -374,7 +364,7 @@ C
 
 Какой процент побед у Сесилиона сейчас?
 
-50,60% в Мифической славе за последние 7 дней и 50,85% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,59% в Мифической славе за последние 7 дней и 50,83% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Сесилиона?
 
@@ -382,7 +372,7 @@ C
 
 Стоит ли брать Сесилиона в текущей мете?
 
-Тир C, 77-е место из 133 героев и 20-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
+Тир C, 76-е место из 133 героев и 19-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
 
 Какая сборка на Сесилиона лучшая?
 

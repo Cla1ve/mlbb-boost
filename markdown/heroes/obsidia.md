@@ -1,6 +1,6 @@
 ---
 title: "Обсидия MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Обсидия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Обсидию. Стрелок, 52,55% побед, тир S."
+description: "Обсидия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Обсидию. Стрелок, 52,51% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/obsidia.html
 language: ru
 ---
@@ -23,11 +23,11 @@ S
 
 Выбор
 
-2,4%
+2,3%
 
 Баны
 
-65,6%
+65,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -48,7 +48,7 @@ S
 1.  **51,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **53,8%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **53,9%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **52,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -336,7 +336,7 @@ S
 
 ### Кто контрит Обсидию
 
-[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
 ### Кого контрит Обсидия
 
@@ -362,7 +362,7 @@ S
 
 Кто контрит Обсидию в MLBB?
 
-За последние 30 дней Обсидию чаще всего обыгрывают Хелкарт, Бенедетта, Алдос, Инь и Наталья.
+За последние 30 дней Обсидию чаще всего обыгрывают Хелкарт, Бенедетта, Алдос, Инь и Ханзо.
 
 Как играть за Обсидию?
 
@@ -370,7 +370,7 @@ S
 
 Какой процент побед у Обсидии сейчас?
 
-52,55% в Мифической славе за последние 7 дней и 53,11% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+52,51% в Мифической славе за последние 7 дней и 53,09% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Обсидии?
 
@@ -378,7 +378,7 @@ S
 
 Стоит ли брать Обсидию в текущей мете?
 
-Тир S, 7-е место из 133 героев и 1-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 65,6% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 44,8% катков.
+Тир S, 7-е место из 133 героев и 1-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 65,9% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 44,8% катков.
 
 Какая сборка на Обсидию лучшая?
 

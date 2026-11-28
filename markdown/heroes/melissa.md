@@ -43,16 +43,6 @@ B
 -   Добивание
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **47,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие стрелки этой линии
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
@@ -393,7 +383,7 @@ B
 
 Какой процент побед у Мелиссы сейчас?
 
-52,42% в Мифической славе за последние 7 дней и 50,39% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+52,42% в Мифической славе за последние 7 дней и 50,46% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Мелиссы?
 

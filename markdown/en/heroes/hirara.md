@@ -1,6 +1,6 @@
 ---
 title: "Hirara MLBB: build, combos and counters | MLBB Boost"
-description: "Hirara in Mobile Legends: ranked build, skill combos, how to play and who counters Hirara. Assassin, 49.53% win rate, tier S."
+description: "Hirara in Mobile Legends: ranked build, skill combos, how to play and who counters Hirara. Assassin, 49.54% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/hirara.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Finisher
-
-### Win rate by rank, 30 days
-
-1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **50.5%**![](/images/ranks/Legend.webp)Legend
-3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -324,7 +314,7 @@ After a short delay, she deals damage again at the target location, dealing 2 ti
 
 ### Who counters Hirara
 
-[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)
 
 ## Hirara skins
 
@@ -346,7 +336,7 @@ After a short delay, she deals damage again at the target location, dealing 2 ti
 
 Who counters Hirara in MLBB?
 
-Over the last 30 days the toughest opponents are Karina, Hanzo, X.Borg, Yin and Lolita.
+Over the last 30 days the toughest opponents are Karina, Hanzo, X.Borg, Yin and Sun.
 
 How do you play Hirara?
 
@@ -354,7 +344,7 @@ Level "Meisen-e" first and take the ultimate whenever it is available. Stronger 
 
 What is Hirara’s win rate right now?
 
-49.53% at Mythical Glory over the last 7 days and 50.04% across all ranks over 30 days, as of 26 November 2026.
+49.54% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Hirara play?
 

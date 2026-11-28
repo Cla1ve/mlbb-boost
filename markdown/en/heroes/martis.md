@@ -1,6 +1,6 @@
 ---
 title: "Martis MLBB: build, combos and counters | MLBB Boost"
-description: "Martis in Mobile Legends: ranked build, skill combos, how to play and who counters Martis. Fighter, 47.42% win rate, tier C."
+description: "Martis in Mobile Legends: ranked build, skill combos, how to play and who counters Martis. Fighter, 47.41% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/martis.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Finisher
 -   Charge
 
-### Win rate by rank, 30 days
-
-1.  **46.6%**![](/images/ranks/Epic.webp)Epic
-2.  **46.7%**![](/images/ranks/Legend.webp)Legend
-3.  **47.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.4%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -341,7 +331,7 @@ If the enemy is killed by this skill, Martis can cast the skill again within 10s
 
 ### Who Martis counters
 
-[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Martis skins
 
@@ -371,7 +361,7 @@ Level "Asura Aura" first and take the ultimate whenever it is available. Stronge
 
 What is Martis’s win rate right now?
 
-47.42% at Mythical Glory over the last 7 days and 47.20% across all ranks over 30 days, as of 26 November 2026.
+47.41% at Mythical Glory over the last 7 days and 47.19% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Martis play?
 

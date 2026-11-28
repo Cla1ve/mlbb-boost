@@ -11,11 +11,11 @@ language: en
 
 # Best MLBB heroes for beginners
 
-34 heroes · Updated 26 November
+17 heroes · Updated 27 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-A beginner has an easier start with heroes rated 10 to 30 out of 100 in difficulty in the game. There are 43 of them, and 34 win at least 49% in Epic and Legend. Marcel, Masha and Belerick win the most.
+A beginner has an easier start with heroes rated 10 to 30 out of 100 in difficulty in the game. There are 43 of them, and 17 win at least 49% in Epic and Legend. Marcel, Masha and Belerick win the most.
 
 ## Three heroes to start with
 
@@ -29,7 +29,7 @@ S
 
 Win, Epic
 
-55.5%
+55.4%
 
 Win, Legend
 
@@ -87,7 +87,7 @@ Win, Epic
 
 Win, Legend
 
-57.7%
+57.6%
 
 Difficulty
 
@@ -187,39 +187,32 @@ Win rate in Epic and Legend over 30 days.
 
 ### ![](/images/mlbb/filters/tank.webp)Easy tanks
 
-1.  [![](/images/heroes/masha.webp)Masha56.0%](https://boostmlbb.ru/en/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Masha55.9%](https://boostmlbb.ru/en/heroes/masha.html)
 2.  [![](/images/heroes/belerick.webp)Belerick55.3%](https://boostmlbb.ru/en/heroes/belerick.html)
 3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Carmilla54.3%](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Easy fighters
 
-1.  [![](/images/heroes/masha.webp)Masha56.0%](https://boostmlbb.ru/en/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Masha55.9%](https://boostmlbb.ru/en/heroes/masha.html)
 2.  [![](/images/heroes/hilda.webp)Hilda54.2%](https://boostmlbb.ru/en/heroes/hilda.html)
-3.  [![](/images/heroes/minsitthar.webp)Minsitthar53.2%](https://boostmlbb.ru/en/heroes/minsitthar.html)
+3.  [![](/images/heroes/minsitthar.webp)Minsitthar53.3%](https://boostmlbb.ru/en/heroes/minsitthar.html)
 4.  [![](/images/heroes/silvanna.webp)Silvanna52.2%](https://boostmlbb.ru/en/heroes/silvanna.html)
-
-### ![](/images/mlbb/filters/assassin.webp)Easy assassins
-
-1.  [![](/images/heroes/saber.webp)Saber49.2%](https://boostmlbb.ru/en/heroes/saber.html)
 
 ### ![](/images/mlbb/filters/mage.webp)Easy mages
 
 1.  [![](/images/heroes/valir.webp)Valir54.2%](https://boostmlbb.ru/en/heroes/valir.html)
 2.  [![](/images/heroes/gord.webp)Gord52.5%](https://boostmlbb.ru/en/heroes/gord.html)
-3.  [![](/images/heroes/zetian.webp)Zetian51.5%](https://boostmlbb.ru/en/heroes/zetian.html)
-4.  [![](/images/heroes/vale.webp)Vale51.2%](https://boostmlbb.ru/en/heroes/vale.html)
+3.  [![](/images/heroes/vale.webp)Vale51.2%](https://boostmlbb.ru/en/heroes/vale.html)
 
 ### ![](/images/mlbb/filters/marksman.webp)Easy marksmen
 
 1.  [![](/images/heroes/hanabi.webp)Hanabi54.2%](https://boostmlbb.ru/en/heroes/hanabi.html)
 2.  [![](/images/heroes/obsidia.webp)Obsidia52.2%](https://boostmlbb.ru/en/heroes/obsidia.html)
-3.  [![](/images/heroes/irithel.webp)Irithel51.2%](https://boostmlbb.ru/en/heroes/irithel.html)
-4.  [![](/images/heroes/layla.webp)Layla50.5%](https://boostmlbb.ru/en/heroes/layla.html)
 
 ### ![](/images/mlbb/filters/support.webp)Easy supports
 
-1.  [![](/images/heroes/marcel.webp)Marcel56.2%](https://boostmlbb.ru/en/heroes/marcel.html)
+1.  [![](/images/heroes/marcel.webp)Marcel56.1%](https://boostmlbb.ru/en/heroes/marcel.html)
 2.  [![](/images/heroes/floryn.webp)Floryn55.0%](https://boostmlbb.ru/en/heroes/floryn.html)
 3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Carmilla54.3%](https://boostmlbb.ru/en/heroes/carmilla.html)
@@ -246,7 +239,7 @@ support
 
 30
 
-55.5%
+55.4%
 
 56.8%
 
@@ -260,7 +253,7 @@ tank, fighter
 
 54.3%
 
-57.7%
+57.6%
 
 0.5%
 
@@ -322,7 +315,7 @@ mage
 
 54.2%
 
-1.2%
+1.3%
 
 [![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
@@ -344,7 +337,7 @@ marksman
 
 54.4%
 
-53.9%
+54.0%
 
 2.4%
 
@@ -378,7 +371,7 @@ mage
 
 30
 
-52.4%
+52.5%
 
 52.6%
 
@@ -408,77 +401,17 @@ marksman
 
 2.1%
 
-[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
-
-fighter
-
-20
-
-51.5%
-
-52.3%
-
-0.7%
-
-[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)
-
-mage
-
-10
-
-50.9%
-
-52.1%
-
-1.6%
-
-[![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
-
-tank, fighter
-
-20
-
-51.2%
-
-51.6%
-
-0.3%
-
-[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
-
-tank
-
-30
-
-51.4%
-
-51.2%
-
-0.3%
-
 [![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 tank
 
 20
 
-51.7%
+51.8%
 
 50.9%
 
 0.3%
-
-[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
-
-marksman
-
-30
-
-50.3%
-
-52.1%
-
-0.4%
 
 [![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
@@ -492,161 +425,17 @@ mage
 
 0.5%
 
-[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
-
-support
-
-30
-
-50.9%
-
-51.4%
-
-0.2%
-
 [![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 fighter
 
 30
 
-51.7%
+51.8%
 
 50.4%
 
 0.3%
-
-[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)
-
-fighter
-
-30
-
-50.6%
-
-51.2%
-
-0.8%
-
-[![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)
-
-marksman
-
-20
-
-50.9%
-
-50.2%
-
-1.9%
-
-[![](/images/heroes/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)
-
-marksman
-
-30
-
-50.3%
-
-50.6%
-
-0.3%
-
-[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)
-
-fighter
-
-30
-
-50.1%
-
-50.5%
-
-1.3%
-
-[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
-
-fighter
-
-20
-
-50.0%
-
-50.0%
-
-0.7%
-
-[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)
-
-mage
-
-10
-
-50.1%
-
-49.8%
-
-1.5%
-
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)
-
-mage
-
-20
-
-49.5%
-
-50.1%
-
-1.8%
-
-[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)
-
-marksman
-
-30
-
-49.3%
-
-50.0%
-
-0.8%
-
-[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
-
-fighter
-
-10
-
-50.2%
-
-49.0%
-
-1.3%
-
-[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
-
-mage
-
-20
-
-49.9%
-
-48.5%
-
-1.7%
-
-[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
-
-assassin
-
-30
-
-48.4%
-
-50.0%
-
-1.0%
 
 ## Which roles are easier
 

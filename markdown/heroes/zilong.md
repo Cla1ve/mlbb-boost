@@ -1,6 +1,6 @@
 ---
 title: "Зилонг MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Зилонг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Зилонга. Боец и убийца, 44,82% побед, тир C."
+description: "Зилонг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Зилонга. Боец и убийца, 44,78% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/zilong.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Преследование
 -   Урон
-
-### Победы по рангам, 30 дней
-
-1.  **47,2%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **46,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **45,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **44,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
@@ -339,7 +329,7 @@ C
 
 ### Кого контрит Зилонг
 
-[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## Скины Зилонга
 
@@ -369,7 +359,7 @@ C
 
 Какой процент побед у Зилонга сейчас?
 
-44,82% в Мифической славе за последние 7 дней и 46,27% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+44,78% в Мифической славе за последние 7 дней и 46,26% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Зилонга?
 

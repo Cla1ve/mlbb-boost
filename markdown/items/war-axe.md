@@ -54,8 +54,8 @@ War Axe
 -   [![](/images/heroes/freya.webp)Фрейя60,0%](https://boostmlbb.ru/heroes/freya.html#build)
 -   [![](/images/heroes/aulus.webp)Аулус52,7%](https://boostmlbb.ru/heroes/aulus.html#build)
 -   [![](/images/heroes/barats.webp)Бартс59,4%](https://boostmlbb.ru/heroes/barats.html#build)
--   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Су Ё53,5%](https://boostmlbb.ru/heroes/suyou.html#build)
+-   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/cici.webp)Чичи58,3%](https://boostmlbb.ru/heroes/cici.html#build)
 -   [![](/images/heroes/saber.webp)Сабер59,8%](https://boostmlbb.ru/heroes/saber.html#build)
 -   [![](/images/heroes/sora.webp)Сора53,7%](https://boostmlbb.ru/heroes/sora.html#build)
@@ -107,4 +107,4 @@ War Axe
 
 Каким героям собирать «Топор войны»?
 
-Предмет есть в популярных сборках 28 героев в рейтинге, среди них Хирара, Фрейя, Аулус, Бартс, Лукас и Су Ё.
+Предмет есть в популярных сборках 28 героев в рейтинге, среди них Хирара, Фрейя, Аулус, Бартс, Су Ё и Лукас.

@@ -1,6 +1,6 @@
 ---
 title: "Хилос MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Хилос, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хилоса. Танк, 47,00% побед, тир D."
+description: "Хилос, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хилоса. Танк, 46,97% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/hylos.html
 language: ru
 ---
@@ -13,7 +13,7 @@ language: ru
 
 # Хилос
 
-D
+C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/roam.webp)Роум
 
@@ -23,7 +23,7 @@ D
 
 Выбор
 
-0,2%
+0,3%
 
 Баны
 
@@ -42,16 +42,6 @@ D
 
 -   Защита
 -   Инициатор
-
-### Победы по рангам, 30 дней
-
-1.  **51,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **46,6%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -335,7 +325,7 @@ D
 
 ### Кто контрит Хилоса
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 ### Кого контрит Хилос
 
@@ -361,7 +351,7 @@ D
 
 Кто контрит Хилоса в MLBB?
 
-За последние 30 дней Хилоса чаще всего обыгрывают Зилонг, Лейла, Инь, Нана и Вэйл.
+За последние 30 дней Хилоса чаще всего обыгрывают Лейла, Зилонг, Инь, Нана и Сильвана.
 
 Как играть за Хилоса?
 
@@ -369,7 +359,7 @@ D
 
 Какой процент побед у Хилоса сейчас?
 
-47,00% в Мифической славе за последние 7 дней и 48,54% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+46,97% в Мифической славе за последние 7 дней и 48,54% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Хилоса?
 
@@ -377,7 +367,7 @@ D
 
 Стоит ли брать Хилоса в текущей мете?
 
-Тир D, 117-е место из 133 героев и 20-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,0% побед. В профессиональных матчах за месяц героя драфтуют в 2,5% катков.
+Тир C, 117-е место из 133 героев и 20-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,0% побед. В профессиональных матчах за месяц героя драфтуют в 2,5% катков.
 
 Какая сборка на Хилоса лучшая?
 

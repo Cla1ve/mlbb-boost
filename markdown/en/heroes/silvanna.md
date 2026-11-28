@@ -48,7 +48,7 @@ Ban rate
 1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **52.4%**![](/images/ranks/Legend.webp)Legend
 3.  **52.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -338,7 +338,7 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
 ### Who counters Silvanna
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)
 
 ### Who Silvanna counters
 
@@ -364,7 +364,7 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
 Who counters Silvanna in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Rafaela and Valentina.
+Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Valentina and Rafaela.
 
 How do you play Silvanna?
 
@@ -372,7 +372,7 @@ Level "Spiral Strangling" first and take the ultimate whenever it is available. 
 
 What is Silvanna’s win rate right now?
 
-50.28% at Mythical Glory over the last 7 days and 51.39% across all ranks over 30 days, as of 26 November 2026.
+50.28% at Mythical Glory over the last 7 days and 51.39% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Silvanna play?
 

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T10:59:11.434Z",
+  "checkedAt": "2026-11-28T10:36:13.014Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,7 +283,7 @@
     }
   ],
   "reviewStats": {
-    "count": 1325,
+    "count": 1327,
     "rating": 5,
     "satisfaction": 99
   },

@@ -1,6 +1,6 @@
 ---
 title: "Phoveus MLBB: build, combos and counters | MLBB Boost"
-description: "Phoveus in Mobile Legends: ranked build, skill combos, how to play and who counters Phoveus. Fighter, 48.56% win rate, tier B."
+description: "Phoveus in Mobile Legends: ranked build, skill combos, how to play and who counters Phoveus. Fighter, 48.57% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Regen
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **49.3%**![](/images/ranks/Epic.webp)Epic
-2.  **48.4%**![](/images/ranks/Legend.webp)Legend
-3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.3%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -337,7 +327,7 @@ Infernal Pursuit can only be used when there are enemies with Sinner's Mark near
 
 ### Who Phoveus counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Phoveus skins
 
@@ -367,7 +357,7 @@ Level "Demonic Impact" first and take the ultimate whenever it is available. Eve
 
 What is Phoveus’s win rate right now?
 
-48.56% at Mythical Glory over the last 7 days and 48.23% across all ranks over 30 days, as of 26 November 2026.
+48.57% at Mythical Glory over the last 7 days and 48.23% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Phoveus play?
 

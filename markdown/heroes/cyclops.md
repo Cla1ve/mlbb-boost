@@ -1,6 +1,6 @@
 ---
 title: "Циклоп MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Циклоп, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Циклопа. Маг, 51,10% побед, тир C."
+description: "Циклоп, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Циклопа. Маг, 51,07% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/cyclops.html
 language: ru
 ---
@@ -48,14 +48,14 @@ C
 1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **52,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **50,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Места в рейтингах
 
@@ -329,7 +329,7 @@ C
 
 ### Кто контрит Циклопа
 
-[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ### Кого контрит Циклоп
 
@@ -355,7 +355,7 @@ C
 
 Кто контрит Циклопа в MLBB?
 
-За последние 30 дней Циклопа чаще всего обыгрывают Наталья, Марсель, Ванван, Джой и Линг.
+За последние 30 дней Циклопа чаще всего обыгрывают Наталья, Марсель, Ванван, Джой и Матильда.
 
 Как играть за Циклопа?
 
@@ -363,7 +363,7 @@ C
 
 Какой процент побед у Циклопа сейчас?
 
-51,10% в Мифической славе за последние 7 дней и 51,72% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,07% в Мифической славе за последние 7 дней и 51,72% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Циклопа?
 

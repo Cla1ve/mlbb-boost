@@ -1,6 +1,6 @@
 ---
 title: "X.Borg MLBB: build, combos and counters | MLBB Boost"
-description: "X.Borg in Mobile Legends: ranked build, skill combos, how to play and who counters X.Borg. Fighter, 48.98% win rate, tier C."
+description: "X.Borg in Mobile Legends: ranked build, skill combos, how to play and who counters X.Borg. Fighter, 48.97% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/x-borg.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Regen
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **51.3%**![](/images/ranks/Legend.webp)Legend
-3.  **50.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -340,7 +330,7 @@ After 3s, his mecha suit detonates, dealing 300 (+ 15% target's ) True Damage. I
 
 ### Who X.Borg counters
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## X.Borg skins
 
@@ -370,7 +360,7 @@ Level "Fire Missiles" first and take the ultimate whenever it is available. Stro
 
 What is X.Borg’s win rate right now?
 
-48.98% at Mythical Glory over the last 7 days and 49.94% across all ranks over 30 days, as of 26 November 2026.
+48.97% at Mythical Glory over the last 7 days and 49.93% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does X.Borg play?
 

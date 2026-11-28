@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.5%**![](/images/ranks/Epic.webp)Epic
+1.  **55.4%**![](/images/ranks/Epic.webp)Epic
 2.  **56.8%**![](/images/ranks/Legend.webp)Legend
-3.  **57.5%**![](/images/ranks/Mythic.webp)Mythic
+3.  **57.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **57.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **57.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **57.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -373,7 +373,7 @@ Level "Framed Moment" first and take the ultimate whenever it is available. Stro
 
 What is Marcel’s win rate right now?
 
-56.93% at Mythical Glory over the last 7 days and 57.37% across all ranks over 30 days, as of 26 November 2026.
+56.93% at Mythical Glory over the last 7 days and 57.35% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Marcel play?
 

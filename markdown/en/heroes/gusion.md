@@ -1,6 +1,6 @@
 ---
 title: "Gusion MLBB: build, combos and counters | MLBB Boost"
-description: "Gusion in Mobile Legends: ranked build, skill combos, how to play and who counters Gusion. Assassin, 48.91% win rate, tier B."
+description: "Gusion in Mobile Legends: ranked build, skill combos, how to play and who counters Gusion. Assassin, 48.93% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-1.1%
+1.2%
 
 Ban rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Burst
 -   Magic Damage
-
-### Win rate by rank, 30 days
-
-1.  **48.9%**![](/images/ranks/Epic.webp)Epic
-2.  **48.5%**![](/images/ranks/Legend.webp)Legend
-3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -312,7 +302,7 @@ Level "Shadowblade Slaughter" first and take the ultimate whenever it is availab
 
 What is Gusion’s win rate right now?
 
-48.91% at Mythical Glory over the last 7 days and 48.65% across all ranks over 30 days, as of 26 November 2026.
+48.93% at Mythical Glory over the last 7 days and 48.65% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Gusion play?
 

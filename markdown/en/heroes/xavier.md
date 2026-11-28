@@ -1,6 +1,6 @@
 ---
 title: "Xavier MLBB: build, combos and counters | MLBB Boost"
-description: "Xavier in Mobile Legends: ranked build, skill combos, how to play and who counters Xavier. Mage, 53.32% win rate, tier B."
+description: "Xavier in Mobile Legends: ranked build, skill combos, how to play and who counters Xavier. Mage, 53.25% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
@@ -23,11 +23,11 @@ Win rate
 
 Pick rate
 
-1.8%
+1.9%
 
 Ban rate
 
-1.4%
+1.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,24 +43,14 @@ Ban rate
 -   Damage
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **48.8%**![](/images/ranks/Epic.webp)Epic
-2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **50.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.9%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
 [![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Places in the rankings
 
--   [Best MLBB mages**10 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB mid laners**8 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+-   [Best MLBB mages**9 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**7 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 
@@ -370,7 +360,7 @@ Level "Infinite Extension" first and take the ultimate whenever it is available.
 
 What is Xavier’s win rate right now?
 
-53.32% at Mythical Glory over the last 7 days and 52.02% across all ranks over 30 days, as of 26 November 2026.
+53.25% at Mythical Glory over the last 7 days and 52.08% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Xavier play?
 
@@ -378,7 +368,7 @@ Mage, played in the Mid Lane.
 
 Is Xavier strong in the current meta?
 
-Tier B, #37 of 133 heroes and #10 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 53.3% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
+Tier B, #36 of 133 heroes and #9 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 53.3% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Xavier?
 

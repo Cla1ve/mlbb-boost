@@ -1,6 +1,6 @@
 ---
 title: "Beatrix MLBB: build, combos and counters | MLBB Boost"
-description: "Beatrix in Mobile Legends: ranked build, skill combos, how to play and who counters Beatrix. Marksman, 50.52% win rate, tier C."
+description: "Beatrix in Mobile Legends: ranked build, skill combos, how to play and who counters Beatrix. Marksman, 50.49% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/beatrix.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Finisher
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **51.0%**![](/images/ranks/Epic.webp)Epic
-2.  **49.9%**![](/images/ranks/Legend.webp)Legend
-3.  **49.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.7%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -352,7 +342,7 @@ Her weapon selection is interrupted if she commits any action or is controlled d
 
 ### Who Beatrix counters
 
-[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
+[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ## Beatrix skins
 
@@ -382,7 +372,7 @@ Level "Renner's Apathy" first and take the ultimate whenever it is available. Ev
 
 What is Beatrix’s win rate right now?
 
-50.52% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 26 November 2026.
+50.49% at Mythical Glory over the last 7 days and 50.30% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Beatrix play?
 

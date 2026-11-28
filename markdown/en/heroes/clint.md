@@ -1,6 +1,6 @@
 ---
 title: "Clint MLBB: build, combos and counters | MLBB Boost"
-description: "Clint in Mobile Legends: ranked build, skill combos, how to play and who counters Clint. Marksman, 50.16% win rate, tier B."
+description: "Clint in Mobile Legends: ranked build, skill combos, how to play and who counters Clint. Marksman, 50.13% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/clint.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-50.2%
+50.1%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Finisher
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **47.5%**![](/images/ranks/Epic.webp)Epic
-2.  **49.2%**![](/images/ranks/Legend.webp)Legend
-3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -335,7 +325,7 @@ Clint gains a grenade charge every 10s (up to 3).
 
 ### Who counters Clint
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ### Who Clint counters
 
@@ -361,7 +351,7 @@ Clint gains a grenade charge every 10s (up to 3).
 
 Who counters Clint in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Karina, Belerick, Baxia and Lunox.
+Over the last 30 days the toughest opponents are Lolita, Karina, Belerick, Lunox and Baxia.
 
 How do you play Clint?
 
@@ -369,7 +359,7 @@ Level "Quick Draw" first and take the ultimate whenever it is available. Stronge
 
 What is Clint’s win rate right now?
 
-50.16% at Mythical Glory over the last 7 days and 50.28% across all ranks over 30 days, as of 26 November 2026.
+50.13% at Mythical Glory over the last 7 days and 50.25% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Clint play?
 
@@ -377,7 +367,7 @@ Marksman, played in the Gold Lane.
 
 Is Clint strong in the current meta?
 
-Tier B, #41 of 133 heroes and #5 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 22.1% of them.
+Tier B, #41 of 133 heroes and #5 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 22.1% of them.
 
 What is the best build for Clint?
 

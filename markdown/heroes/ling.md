@@ -1,6 +1,6 @@
 ---
 title: "Линг MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Линг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Линга. Убийца, 51,78% побед, тир B."
+description: "Линг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Линга. Убийца, 51,76% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/ling.html
 language: ru
 ---
@@ -45,7 +45,7 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **54,6%**![](/images/ranks/Epic.webp)Эпик
+1.  **54,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,1%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -341,7 +341,7 @@ B
 
 ### Кого контрит Линг
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Скины Линга
 
@@ -371,7 +371,7 @@ B
 
 Какой процент побед у Линга сейчас?
 
-51,78% в Мифической славе за последние 7 дней и 52,49% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,76% в Мифической славе за последние 7 дней и 52,47% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Линга?
 

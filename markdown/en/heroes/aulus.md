@@ -1,6 +1,6 @@
 ---
 title: "Aulus MLBB: build, combos and counters | MLBB Boost"
-description: "Aulus in Mobile Legends: ranked build, skill combos, how to play and who counters Aulus. Fighter, 53.10% win rate, tier S."
+description: "Aulus in Mobile Legends: ranked build, skill combos, how to play and who counters Aulus. Fighter, 53.13% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
@@ -23,11 +23,11 @@ Win rate
 
 Pick rate
 
-0.8%
+0.7%
 
 Ban rate
 
-18.6%
+17.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ Ban rate
 -   Damage
 -   Charge
 
-### Win rate by rank, 30 days
-
-1.  **51.5%**![](/images/ranks/Epic.webp)Epic
-2.  **52.3%**![](/images/ranks/Legend.webp)Legend
-3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **54.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **53.4%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ### Places in the rankings
 
@@ -343,7 +333,7 @@ During this skill, Aulus gains 20% Damage Reduction and a short burst of Movemen
 
 ### Who counters Aulus
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Aulus skins
 
@@ -365,7 +355,7 @@ During this skill, Aulus gains 20% Damage Reduction and a short burst of Movemen
 
 Who counters Aulus in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Lolita and Natalia.
+Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Natalia and Lolita.
 
 How do you play Aulus?
 
@@ -373,7 +363,7 @@ Level "The Power of Axe" first and take the ultimate whenever it is available. S
 
 What is Aulus’s win rate right now?
 
-53.10% at Mythical Glory over the last 7 days and 53.38% across all ranks over 30 days, as of 26 November 2026.
+53.13% at Mythical Glory over the last 7 days and 53.36% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Aulus play?
 
@@ -381,7 +371,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Aulus strong in the current meta?
 
-Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 18.6% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
+Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 17.5% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
 
 What is the best build for Aulus?
 

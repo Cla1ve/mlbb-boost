@@ -27,7 +27,7 @@ A
 
 Баны
 
-35,4%
+35,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -45,9 +45,9 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **55,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **55,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **55,4%**![](/images/ranks/Mythic.webp)Мифик
+1.  **55,3%**![](/images/ranks/Epic.webp)Эпик
+2.  **55,7%**![](/images/ranks/Legend.webp)Легенда
+3.  **55,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,0%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -338,11 +338,11 @@ A
 
 ### Кто контрит Глу
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
 
 ### Кого контрит Глу
 
-[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
 
 ## Скины Глу
 
@@ -364,7 +364,7 @@ A
 
 Кто контрит Глу в MLBB?
 
-За последние 30 дней Глу чаще всего обыгрывают Эймон, Джонсон, Кусака, Чан'Э и Нана.
+За последние 30 дней Глу чаще всего обыгрывают Эймон, Джонсон, Кусака, Нана и Чан'Э.
 
 Как играть за Глу?
 
@@ -372,7 +372,7 @@ A
 
 Какой процент побед у Глу сейчас?
 
-50,06% в Мифической славе за последние 7 дней и 53,08% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,06% в Мифической славе за последние 7 дней и 52,98% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Глу?
 
@@ -380,7 +380,7 @@ A
 
 Стоит ли брать Глу в текущей мете?
 
-Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 35,4% матчей, 50,1% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
+Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 35,1% матчей, 50,1% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
 
 Какая сборка на Глу лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Natan MLBB: build, combos and counters | MLBB Boost"
-description: "Natan in Mobile Legends: ranked build, skill combos, how to play and who counters Natan. Marksman, 51.46% win rate, tier C."
+description: "Natan in Mobile Legends: ranked build, skill combos, how to play and who counters Natan. Marksman, 51.42% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/natan.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-51.5%
+51.4%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Burst
 -   Magic Damage
-
-### Win rate by rank, 30 days
-
-1.  **50.3%**![](/images/ranks/Epic.webp)Epic
-2.  **50.6%**![](/images/ranks/Legend.webp)Legend
-3.  **51.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -370,7 +360,7 @@ Level "Superposition" first and take the ultimate whenever it is available. Stro
 
 What is Natan’s win rate right now?
 
-51.46% at Mythical Glory over the last 7 days and 51.37% across all ranks over 30 days, as of 26 November 2026.
+51.42% at Mythical Glory over the last 7 days and 51.37% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Natan play?
 
@@ -378,7 +368,7 @@ Marksman, played in the Gold Lane.
 
 Is Natan strong in the current meta?
 
-Tier C, #93 of 133 heroes and #19 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
+Tier C, #93 of 133 heroes and #19 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Natan?
 

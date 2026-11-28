@@ -1,6 +1,6 @@
 ---
 title: "Lapu-Lapu MLBB: build, combos and counters | MLBB Boost"
-description: "Lapu-Lapu in Mobile Legends: ranked build, skill combos, how to play and who counters Lapu-Lapu. Fighter, 47.13% win rate, tier C."
+description: "Lapu-Lapu in Mobile Legends: ranked build, skill combos, how to play and who counters Lapu-Lapu. Fighter, 47.08% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lapu-lapu.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **49.4%**![](/images/ranks/Legend.webp)Legend
-3.  **48.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -372,7 +362,7 @@ Level "Justice Blades" first and take the ultimate whenever it is available. Str
 
 What is Lapu-Lapu’s win rate right now?
 
-47.13% at Mythical Glory over the last 7 days and 48.01% across all ranks over 30 days, as of 26 November 2026.
+47.08% at Mythical Glory over the last 7 days and 47.99% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Lapu-Lapu play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Нана MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Нана, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Нану. Маг, 45,18% побед, тир C."
+description: "Нана, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Нану. Маг, 45,20% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/nana.html
 language: ru
 ---
@@ -43,19 +43,9 @@ C
 -   Поук
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **49,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **46,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,1%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Места в рейтингах
 
@@ -274,7 +264,7 @@ C
 
 ### Кто контрит Нану
 
-[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
+[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ### Кого контрит Нана
 
@@ -300,7 +290,7 @@ C
 
 Кто контрит Нану в MLBB?
 
-За последние 30 дней Нану чаще всего обыгрывают Одетта, Сабер, Лолита, Дариус и Мелисса.
+За последние 30 дней Нану чаще всего обыгрывают Одетта, Лолита, Сабер, Дариус и Мелисса.
 
 Как играть за Нану?
 
@@ -308,7 +298,7 @@ C
 
 Какой процент побед у Наны сейчас?
 
-45,18% в Мифической славе за последние 7 дней и 47,22% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+45,20% в Мифической славе за последние 7 дней и 47,21% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Наны?
 

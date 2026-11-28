@@ -49,8 +49,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/nolan.webp)Nolan51.9%](https://boostmlbb.ru/en/heroes/nolan.html#build)
 -   [![](/images/heroes/hirara.webp)Hirara56.1%](https://boostmlbb.ru/en/heroes/hirara.html#build)
 -   [![](/images/heroes/paquito.webp)Paquito53.5%](https://boostmlbb.ru/en/heroes/paquito.html#build)
--   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Suyou53.5%](https://boostmlbb.ru/en/heroes/suyou.html#build)
+-   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/cici.webp)Cici58.3%](https://boostmlbb.ru/en/heroes/cici.html#build)
 -   [![](/images/heroes/saber.webp)Saber59.8%](https://boostmlbb.ru/en/heroes/saber.html#build)
 -   [![](/images/heroes/yu-zhong.webp)Yu Zhong55.1%](https://boostmlbb.ru/en/heroes/yu-zhong.html#build)
@@ -60,8 +60,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/hayabusa.webp)Hayabusa51.4%](https://boostmlbb.ru/en/heroes/hayabusa.html#build)
 -   [![](/images/heroes/benedetta.webp)Benedetta54.3%](https://boostmlbb.ru/en/heroes/benedetta.html#build)
 -   [![](/images/heroes/granger.webp)Granger46.3%](https://boostmlbb.ru/en/heroes/granger.html#build)
--   [![](/images/heroes/helcurt.webp)Helcurt51.9%](https://boostmlbb.ru/en/heroes/helcurt.html#build)
 -   [![](/images/heroes/bane.webp)Bane50.5%](https://boostmlbb.ru/en/heroes/bane.html#build)
+-   [![](/images/heroes/helcurt.webp)Helcurt51.9%](https://boostmlbb.ru/en/heroes/helcurt.html#build)
 -   [![](/images/heroes/yin.webp)Yin53.3%](https://boostmlbb.ru/en/heroes/yin.html#build)
 -   [![](/images/heroes/alucard.webp)Alucard59.1%](https://boostmlbb.ru/en/heroes/alucard.html#build)
 -   [![](/images/heroes/lapu-lapu.webp)Lapu-Lapu54.6%](https://boostmlbb.ru/en/heroes/lapu-lapu.html#build)
@@ -95,4 +95,4 @@ What does Hunter Strike give?
 
 Which heroes build Hunter Strike?
 
-It is in the popular ranked builds of 20 heroes, among them Nolan, Hirara, Paquito, Lukas, Suyou and Cici.
+It is in the popular ranked builds of 20 heroes, among them Nolan, Hirara, Paquito, Suyou, Lukas and Cici.

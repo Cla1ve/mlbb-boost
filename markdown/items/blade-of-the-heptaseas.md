@@ -57,8 +57,8 @@ Blade of the Heptaseas
 -   [![](/images/heroes/benedetta.webp)Бенедетта54,3%](https://boostmlbb.ru/heroes/benedetta.html#build)
 -   [![](/images/heroes/aldous.webp)Алдос59,2%](https://boostmlbb.ru/heroes/aldous.html#build)
 -   [![](/images/heroes/helcurt.webp)Хелкарт51,9%](https://boostmlbb.ru/heroes/helcurt.html#build)
--   [![](/images/heroes/natalia.webp)Наталья60,6%](https://boostmlbb.ru/heroes/natalia.html#build)
 -   [![](/images/heroes/yin.webp)Инь53,7%](https://boostmlbb.ru/heroes/yin.html#build)
+-   [![](/images/heroes/natalia.webp)Наталья60,6%](https://boostmlbb.ru/heroes/natalia.html#build)
 -   [![](/images/heroes/jawhead.webp)Кусака57,1%](https://boostmlbb.ru/heroes/jawhead.html#build)
 
 ## История

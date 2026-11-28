@@ -61,8 +61,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/aldous.webp)Aldous59.2%](https://boostmlbb.ru/en/heroes/aldous.html#build)
 -   [![](/images/heroes/granger.webp)Granger46.3%](https://boostmlbb.ru/en/heroes/granger.html#build)
 -   [![](/images/heroes/bane.webp)Bane51.6%](https://boostmlbb.ru/en/heroes/bane.html#build)
--   [![](/images/heroes/natalia.webp)Natalia60.6%](https://boostmlbb.ru/en/heroes/natalia.html#build)
 -   [![](/images/heroes/yin.webp)Yin53.7%](https://boostmlbb.ru/en/heroes/yin.html#build)
+-   [![](/images/heroes/natalia.webp)Natalia60.6%](https://boostmlbb.ru/en/heroes/natalia.html#build)
 -   [![](/images/heroes/jawhead.webp)Jawhead57.1%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
 
 ## Story

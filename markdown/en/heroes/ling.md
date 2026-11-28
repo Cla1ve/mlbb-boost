@@ -1,6 +1,6 @@
 ---
 title: "Ling MLBB: build, combos and counters | MLBB Boost"
-description: "Ling in Mobile Legends: ranked build, skill combos, how to play and who counters Ling. Assassin, 51.78% win rate, tier B."
+description: "Ling in Mobile Legends: ranked build, skill combos, how to play and who counters Ling. Assassin, 51.76% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.6%**![](/images/ranks/Epic.webp)Epic
+1.  **54.7%**![](/images/ranks/Epic.webp)Epic
 2.  **53.8%**![](/images/ranks/Legend.webp)Legend
 3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.1%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -341,7 +341,7 @@ Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can
 
 ### Who Ling counters
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Ling skins
 
@@ -371,7 +371,7 @@ Level "Defiant Sword" first and take the ultimate whenever it is available. Stro
 
 What is Ling’s win rate right now?
 
-51.78% at Mythical Glory over the last 7 days and 52.49% across all ranks over 30 days, as of 26 November 2026.
+51.76% at Mythical Glory over the last 7 days and 52.47% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Ling play?
 

@@ -11,7 +11,7 @@ language: en
 
 # Best MLBB roamers
 
-34 heroes · Updated 26 November
+34 heroes · Updated 27 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -91,7 +91,7 @@ Pick rate
 
 Ban rate
 
-14.6%
+14.5%
 
 [
 
@@ -145,7 +145,7 @@ Pick rate
 
 Ban rate
 
-37.3%
+37.4%
 
 [
 
@@ -223,7 +223,7 @@ S
 
 0.9%
 
-14.6%
+14.5%
 
 99.7%
 
@@ -237,7 +237,7 @@ S
 
 1.6%
 
-37.3%
+37.4%
 
 54.1%
 
@@ -251,7 +251,7 @@ S
 
 1.7%
 
-56.7%
+56.9%
 
 38.0%
 
@@ -265,7 +265,7 @@ A
 
 1.0%
 
-8.2%
+8.0%
 
 75.1%
 
@@ -279,7 +279,7 @@ A
 
 0.7%
 
-35.4%
+35.1%
 
 26.6%
 
@@ -293,7 +293,7 @@ A
 
 0.6%
 
-32.7%
+32.9%
 
 14.9%
 
@@ -305,7 +305,7 @@ A
 
 53.6%
 
-1.4%
+1.3%
 
 10.3%
 
@@ -321,7 +321,7 @@ B
 
 0.9%
 
-30.8%
+30.6%
 
 0.7%
 
@@ -335,7 +335,7 @@ B
 
 1.3%
 
-14.0%
+14.2%
 
 —
 
@@ -349,7 +349,7 @@ B
 
 0.9%
 
-13.6%
+13.9%
 
 5.2%
 
@@ -363,7 +363,7 @@ B
 
 0.8%
 
-8.9%
+8.8%
 
 7.7%
 
@@ -391,7 +391,7 @@ B
 
 1.5%
 
-5.1%
+5.2%
 
 2.7%
 
@@ -415,7 +415,7 @@ B
 
 B
 
-54.9%
+55.0%
 
 0.6%
 
@@ -445,7 +445,7 @@ B
 
 45.1%
 
-1.6%
+1.7%
 
 5.0%
 
@@ -461,7 +461,7 @@ C
 
 0.4%
 
-4.1%
+4.2%
 
 3.5%
 
@@ -485,7 +485,7 @@ C
 
 C
 
-46.7%
+46.8%
 
 0.4%
 
@@ -517,7 +517,7 @@ D
 
 0.2%
 
-1.1%
+1.2%
 
 —
 
@@ -527,7 +527,7 @@ D
 
 C
 
-49.3%
+49.4%
 
 0.3%
 
@@ -541,7 +541,7 @@ C
 
 D
 
-48.9%
+49.0%
 
 0.1%
 
@@ -553,11 +553,11 @@ D
 
 [![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
-D
+C
 
 47.0%
 
-0.2%
+0.3%
 
 0.1%
 
@@ -583,7 +583,7 @@ D
 
 C
 
-45.8%
+45.9%
 
 0.3%
 
@@ -611,7 +611,7 @@ C
 
 D
 
-52.4%
+52.5%
 
 0.1%
 
@@ -639,7 +639,7 @@ D
 
 D
 
-48.2%
+48.1%
 
 0.1%
 
@@ -694,19 +694,19 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 2.  [![](/images/heroes/rafaela.webp)Rafaela54.8%](https://boostmlbb.ru/en/heroes/rafaela.html)
 3.  [![](/images/heroes/khufra.webp)Khufra54.7%](https://boostmlbb.ru/en/heroes/khufra.html)
 4.  [![](/images/heroes/floryn.webp)Floryn54.2%](https://boostmlbb.ru/en/heroes/floryn.html)
-5.  [![](/images/heroes/atlas.webp)Atlas53.8%](https://boostmlbb.ru/en/heroes/atlas.html)
-6.  [![](/images/heroes/hilda.webp)Hilda53.0%](https://boostmlbb.ru/en/heroes/hilda.html)
+5.  [![](/images/heroes/atlas.webp)Atlas53.7%](https://boostmlbb.ru/en/heroes/atlas.html)
+6.  [![](/images/heroes/hilda.webp)Hilda53.1%](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Who beats roamers
 
 How many heroes of this list it beats, by official counters.
 
 1.  [![](/images/heroes/johnson.webp)Johnson8 of 34](https://boostmlbb.ru/en/heroes/johnson.html)
-2.  [![](/images/heroes/zilong.webp)Zilong7 of 34](https://boostmlbb.ru/en/heroes/zilong.html)
-3.  [![](/images/heroes/helcurt.webp)Helcurt6 of 34](https://boostmlbb.ru/en/heroes/helcurt.html)
-4.  [![](/images/heroes/alice.webp)Alice5 of 34](https://boostmlbb.ru/en/heroes/alice.html)
-5.  [![](/images/heroes/natalia.webp)Natalia5 of 34](https://boostmlbb.ru/en/heroes/natalia.html)
-6.  [![](/images/heroes/saber.webp)Saber5 of 34](https://boostmlbb.ru/en/heroes/saber.html)
+2.  [![](/images/heroes/helcurt.webp)Helcurt6 of 34](https://boostmlbb.ru/en/heroes/helcurt.html)
+3.  [![](/images/heroes/saber.webp)Saber6 of 34](https://boostmlbb.ru/en/heroes/saber.html)
+4.  [![](/images/heroes/zilong.webp)Zilong6 of 34](https://boostmlbb.ru/en/heroes/zilong.html)
+5.  [![](/images/heroes/alice.webp)Alice5 of 34](https://boostmlbb.ru/en/heroes/alice.html)
+6.  [![](/images/heroes/natalia.webp)Natalia5 of 34](https://boostmlbb.ru/en/heroes/natalia.html)
 
 **We can rank up on any of the roamers**The calculator shows the price
 
@@ -716,7 +716,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best roamer in MLBB right now?
 
-Marcel: tier S, 56.9% win rate, banned in 69.9% of Mythical Glory games over 7 days. Kalea and Carmilla follow. Data as of 26 November 2026.
+Marcel: tier S, 56.9% win rate, banned in 69.9% of Mythical Glory games over 7 days. Kalea and Carmilla follow. Data as of 27 November 2026.
 
 Which of the roamers should a beginner pick?
 
@@ -724,11 +724,11 @@ Carmilla, Belerick and Tigreal are the easiest to play: their difficulty on the 
 
 Which roamers get banned most?
 
-Marcel (69.9%), Belerick (56.7%) and Carmilla (37.3%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Marcel (69.9%), Belerick (56.9%) and Carmilla (37.4%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many roamers are there in Mobile Legends?
 
-34 of 133 heroes as of 26 November 2026. The list has every hero that plays roam, according to the game.
+34 of 133 heroes as of 27 November 2026. The list has every hero that plays roam, according to the game.
 
 Which items do roamers build most often?
 

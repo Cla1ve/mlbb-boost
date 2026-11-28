@@ -1,6 +1,6 @@
 ---
 title: "Vale MLBB: build, combos and counters | MLBB Boost"
-description: "Vale in Mobile Legends: ranked build, skill combos, how to play and who counters Vale. Mage, 48.85% win rate, tier C."
+description: "Vale in Mobile Legends: ranked build, skill combos, how to play and who counters Vale. Mage, 48.89% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vale.html
 language: en
 ---
@@ -55,7 +55,7 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -331,7 +331,7 @@ The remaining whirlwinds will also be pulled into the center.
 
 ### Who Vale counters
 
-[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Vale skins
 
@@ -361,7 +361,7 @@ Level "Wind Blade" first and take the ultimate whenever it is available. Stronge
 
 What is Vale’s win rate right now?
 
-48.85% at Mythical Glory over the last 7 days and 50.12% across all ranks over 30 days, as of 26 November 2026.
+48.89% at Mythical Glory over the last 7 days and 50.12% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Vale play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Hanzo MLBB: build, combos and counters | MLBB Boost"
-description: "Hanzo in Mobile Legends: ranked build, skill combos, how to play and who counters Hanzo. Assassin, 49.25% win rate, tier C."
+description: "Hanzo in Mobile Legends: ranked build, skill combos, how to play and who counters Hanzo. Assassin, 49.21% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-49.3%
+49.2%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Poke
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.9%**![](/images/ranks/Legend.webp)Legend
-3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -337,7 +327,7 @@ While in Hanekage form, Hanzo's body is invincible, while Hanekage ignores obsta
 
 ### Who Hanzo counters
 
-[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Hanzo skins
 
@@ -367,7 +357,7 @@ Level "Ninjutsu: Demon Feast" first and take the ultimate whenever it is availab
 
 What is Hanzo’s win rate right now?
 
-49.25% at Mythical Glory over the last 7 days and 49.90% across all ranks over 30 days, as of 26 November 2026.
+49.21% at Mythical Glory over the last 7 days and 49.90% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Hanzo play?
 
@@ -375,7 +365,7 @@ Assassin, played in the jungle.
 
 Is Hanzo strong in the current meta?
 
-Tier C, #90 of 133 heroes and #20 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #90 of 133 heroes and #20 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 49.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Hanzo?
 

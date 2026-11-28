@@ -1,6 +1,6 @@
 ---
 title: "Kadita MLBB: build, combos and counters | MLBB Boost"
-description: "Kadita in Mobile Legends: ranked build, skill combos, how to play and who counters Kadita. Assassin and mage, 51.14% win rate, tier B."
+description: "Kadita in Mobile Legends: ranked build, skill combos, how to play and who counters Kadita. Assassin and mage, 51.17% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kadita.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-51.1%
+51.2%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Burst
 -   Charge
-
-### Win rate by rank, 30 days
-
-1.  **49.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.4%**![](/images/ranks/Legend.webp)Legend
-3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -308,7 +298,7 @@ Level "Ocean Ode" first and take the ultimate whenever it is available. Stronger
 
 What is Kadita’s win rate right now?
 
-51.14% at Mythical Glory over the last 7 days and 51.20% across all ranks over 30 days, as of 26 November 2026.
+51.17% at Mythical Glory over the last 7 days and 51.18% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Kadita play?
 
@@ -316,7 +306,7 @@ Assassin and mage, played in the Mid Lane.
 
 Is Kadita strong in the current meta?
 
-Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Kadita?
 

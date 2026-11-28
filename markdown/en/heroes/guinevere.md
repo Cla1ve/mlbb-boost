@@ -1,6 +1,6 @@
 ---
 title: "Guinevere MLBB: build, combos and counters | MLBB Boost"
-description: "Guinevere in Mobile Legends: ranked build, skill combos, how to play and who counters Guinevere. Fighter, 51.32% win rate, tier B."
+description: "Guinevere in Mobile Legends: ranked build, skill combos, how to play and who counters Guinevere. Fighter, 51.28% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **52.1%**![](/images/ranks/Epic.webp)Epic
-2.  **50.9%**![](/images/ranks/Legend.webp)Legend
+2.  **51.0%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -340,7 +340,7 @@ Airborne enemies hit will be knocked airborne again, up to 8 additional times.
 
 ### Who Guinevere counters
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
+[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
 
 ## Guinevere skins
 
@@ -370,7 +370,7 @@ Level "Energy Wave" first and take the ultimate whenever it is available. Strong
 
 What is Guinevere’s win rate right now?
 
-51.32% at Mythical Glory over the last 7 days and 51.24% across all ranks over 30 days, as of 26 November 2026.
+51.28% at Mythical Glory over the last 7 days and 51.23% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Guinevere play?
 

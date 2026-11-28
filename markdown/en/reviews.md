@@ -11,13 +11,13 @@ language: en
 
 ●●●●●
 
-1325 Reviews
+1327 Reviews
 
 99% Positive ratings
 
 ### All reviews on Telegram!
 
-1325 published reviews with screenshots
+1327 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
 
@@ -31,7 +31,7 @@ You can leave a review only after a purchase
 
 ## Latest customer reviews
 
-1325 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+1327 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
 
 K
 

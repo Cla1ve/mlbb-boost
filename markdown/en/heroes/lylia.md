@@ -1,6 +1,6 @@
 ---
 title: "Lylia MLBB: build, combos and counters | MLBB Boost"
-description: "Lylia in Mobile Legends: ranked build, skill combos, how to play and who counters Lylia. Mage, 47.60% win rate, tier B."
+description: "Lylia in Mobile Legends: ranked build, skill combos, how to play and who counters Lylia. Mage, 47.62% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lylia.html
 language: en
 ---
@@ -43,24 +43,14 @@ Ban rate
 -   Push
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **51.0%**![](/images/ranks/Epic.webp)Epic
-2.  **50.6%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
 [![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Places in the rankings
 
--   [Best MLBB mages**9 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB mid laners**7 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+-   [Best MLBB mages**10 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**8 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 
@@ -341,10 +331,6 @@ She also gains 20% Movement Speed for 2s.
 
 [![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
 
-### Who Lylia counters
-
-[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
-
 ## Lylia skins
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Phantasmal RevelryDeluxe · 2026](https://boostmlbb.ru/en/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/lylia/magitech-arsenal.webp)Magitech ArsenalExceptional · 2024](https://boostmlbb.ru/en/skins/lylia/magitech-arsenal.html)[![](/images/skins/cards/lylia/neobeast-lylia.webp)Neobeast LyliaGrand · 2023](https://boostmlbb.ru/en/skins/lylia/neobeast-lylia.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Haunted DollExceptional · 2020](https://boostmlbb.ru/en/skins/lylia/haunted-doll.html)[![](/images/skins/cards/lylia/future-star.webp)Future StarExceptional · 2020](https://boostmlbb.ru/en/skins/lylia/future-star.html)[![](/images/skins/cards/lylia/star-student.webp)Star StudentCommon · 2020](https://boostmlbb.ru/en/skins/lylia/star-student.html)[![](/images/skins/cards/lylia/school-idol.webp)School IdolCommon · 2019](https://boostmlbb.ru/en/skins/lylia/school-idol.html)
@@ -373,7 +359,7 @@ Level "Shadow Energy" first and take the ultimate whenever it is available. Stro
 
 What is Lylia’s win rate right now?
 
-47.60% at Mythical Glory over the last 7 days and 49.20% across all ranks over 30 days, as of 26 November 2026.
+47.62% at Mythical Glory over the last 7 days and 49.17% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Lylia play?
 
@@ -381,7 +367,7 @@ Mage, played in the Mid Lane.
 
 Is Lylia strong in the current meta?
 
-Tier B, #36 of 133 heroes and #9 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 47.6% win rate. In professional games over the last month the hero is drafted in 37.3% of them.
+Tier B, #37 of 133 heroes and #10 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 47.6% win rate. In professional games over the last month the hero is drafted in 37.3% of them.
 
 What is the best build for Lylia?
 

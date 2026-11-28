@@ -1,6 +1,6 @@
 ---
 title: "Harith MLBB: build, combos and counters | MLBB Boost"
-description: "Harith in Mobile Legends: ranked build, skill combos, how to play and who counters Harith. Mage, 48.71% win rate, tier C."
+description: "Harith in Mobile Legends: ranked build, skill combos, how to play and who counters Harith. Mage, 48.70% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **45.7%**![](/images/ranks/Epic.webp)Epic
-2.  **45.0%**![](/images/ranks/Legend.webp)Legend
-3.  **44.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More mages on this lane
 
@@ -369,7 +359,7 @@ Level "Synchro Fission" first and take the ultimate whenever it is available. St
 
 What is Harith’s win rate right now?
 
-48.71% at Mythical Glory over the last 7 days and 47.07% across all ranks over 30 days, as of 26 November 2026.
+48.70% at Mythical Glory over the last 7 days and 47.10% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Harith play?
 

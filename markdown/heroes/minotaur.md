@@ -1,6 +1,6 @@
 ---
 title: "Минотавр MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Минотавр, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Минотавра. Танк и поддержка, 53,58% побед, тир A."
+description: "Минотавр, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Минотавра. Танк и поддержка, 53,60% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/minotaur.html
 language: ru
 ---
@@ -23,7 +23,7 @@ A
 
 Выбор
 
-1,4%
+1,3%
 
 Баны
 
@@ -47,7 +47,7 @@ A
 1.  **53,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **54,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **54,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **54,4%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **53,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -335,7 +335,7 @@ A
 
 ### Кто контрит Минотавра
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
 ### Кого контрит Минотавр
 
@@ -361,7 +361,7 @@ A
 
 Кто контрит Минотавра в MLBB?
 
-За последние 30 дней Минотавра чаще всего обыгрывают Лолита, Сильвана, Джонсон, Циклоп и Хуфра.
+За последние 30 дней Минотавра чаще всего обыгрывают Лолита, Сильвана, Циклоп, Джонсон и Хуфра.
 
 Как играть за Минотавра?
 
@@ -369,7 +369,7 @@ A
 
 Какой процент побед у Минотавра сейчас?
 
-53,58% в Мифической славе за последние 7 дней и 53,77% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,60% в Мифической славе за последние 7 дней и 53,78% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Минотавра?
 

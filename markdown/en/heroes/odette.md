@@ -1,6 +1,6 @@
 ---
 title: "Odette MLBB: build, combos and counters | MLBB Boost"
-description: "Odette in Mobile Legends: ranked build, skill combos, how to play and who counters Odette. Mage, 51.14% win rate, tier C."
+description: "Odette in Mobile Legends: ranked build, skill combos, how to play and who counters Odette. Mage, 51.17% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-51.1%
+51.2%
 
 Pick rate
 
@@ -43,19 +43,9 @@ Ban rate
 -   Burst
 -   Poke
 
-### Win rate by rank, 30 days
-
-1.  **47.9%**![](/images/ranks/Epic.webp)Epic
-2.  **48.5%**![](/images/ranks/Legend.webp)Legend
-3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -337,7 +327,7 @@ Use again to cancel. Only high-level control effects can interrupt this skill.
 
 ### Who Odette counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
 
 ## Odette skins
 
@@ -367,7 +357,7 @@ Level "Avian Authority" first and take the ultimate whenever it is available. Ev
 
 What is Odette’s win rate right now?
 
-51.14% at Mythical Glory over the last 7 days and 49.75% across all ranks over 30 days, as of 26 November 2026.
+51.17% at Mythical Glory over the last 7 days and 49.77% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Odette play?
 
@@ -375,7 +365,7 @@ Mage, played in the Mid Lane.
 
 Is Odette strong in the current meta?
 
-Tier C, #96 of 133 heroes and #23 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #96 of 133 heroes and #23 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Odette?
 

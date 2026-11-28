@@ -1,6 +1,6 @@
 ---
 title: "Грейнджер MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Грейнджер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Грейнджера. Стрелок, 44,02% побед, тир C."
+description: "Грейнджер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Грейнджера. Стрелок, 44,03% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/granger.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Разрушительный урон
 -   Добивание
-
-### Победы по рангам, 30 дней
-
-1.  **43,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **41,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **41,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **41,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **44,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие стрелки этой линии
 
@@ -335,11 +325,11 @@ C
 
 ### Кто контрит Грейнджера
 
-[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ### Кого контрит Грейнджер
 
-[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 ## Скины Грейнджера
 
@@ -361,7 +351,7 @@ C
 
 Кто контрит Грейнджера в MLBB?
 
-За последние 30 дней Грейнджера чаще всего обыгрывают Карина, Беатрис, Иксия, Дигги и Ив.
+За последние 30 дней Грейнджера чаще всего обыгрывают Карина, Беатрис, Дигги, Иксия и Ив.
 
 Как играть за Грейнджера?
 
@@ -369,7 +359,7 @@ C
 
 Какой процент побед у Грейнджера сейчас?
 
-44,02% в Мифической славе за последние 7 дней и 42,93% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+44,03% в Мифической славе за последние 7 дней и 42,93% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Грейнджера?
 

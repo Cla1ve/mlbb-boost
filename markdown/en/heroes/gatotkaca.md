@@ -1,6 +1,6 @@
 ---
 title: "Gatotkaca MLBB: build, combos and counters | MLBB Boost"
-description: "Gatotkaca in Mobile Legends: ranked build, skill combos, how to play and who counters Gatotkaca. Tank and fighter, 44.21% win rate, tier C."
+description: "Gatotkaca in Mobile Legends: ranked build, skill combos, how to play and who counters Gatotkaca. Tank and fighter, 44.24% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Crowd Control
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **48.9%**![](/images/ranks/Epic.webp)Epic
-2.  **46.0%**![](/images/ranks/Legend.webp)Legend
-3.  **45.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -334,7 +324,7 @@ The camera will move with the skill indicator but won't grant extra sight.
 
 ### Who Gatotkaca counters
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Gatotkaca skins
 
@@ -364,7 +354,7 @@ Level "Blast Iron Fist" first and take the ultimate whenever it is available. St
 
 What is Gatotkaca’s win rate right now?
 
-44.21% at Mythical Glory over the last 7 days and 45.38% across all ranks over 30 days, as of 26 November 2026.
+44.24% at Mythical Glory over the last 7 days and 45.39% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Gatotkaca play?
 

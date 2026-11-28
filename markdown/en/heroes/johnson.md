@@ -1,6 +1,6 @@
 ---
 title: "Johnson MLBB: build, combos and counters | MLBB Boost"
-description: "Johnson in Mobile Legends: ranked build, skill combos, how to play and who counters Johnson. Tank and support, 48.00% win rate, tier C."
+description: "Johnson in Mobile Legends: ranked build, skill combos, how to play and who counters Johnson. Tank and support, 48.05% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/johnson.html
 language: en
 ---
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.8%**![](/images/ranks/Epic.webp)Epic
+1.  **52.9%**![](/images/ranks/Epic.webp)Epic
 2.  **51.1%**![](/images/ranks/Legend.webp)Legend
-3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **47.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -336,7 +336,7 @@ Johnson's location is revealed to enemies for 3s when he casts this skill.
 
 ### Who Johnson counters
 
-[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
 
 ## Johnson skins
 
@@ -366,7 +366,7 @@ Level "Electromagnetic Waves" first and take the ultimate whenever it is availab
 
 What is Johnson’s win rate right now?
 
-48.00% at Mythical Glory over the last 7 days and 49.39% across all ranks over 30 days, as of 26 November 2026.
+48.05% at Mythical Glory over the last 7 days and 49.44% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Johnson play?
 
@@ -374,7 +374,7 @@ Tank and support, played on roam.
 
 Is Johnson strong in the current meta?
 
-Tier C, #99 of 133 heroes and #16 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 48.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #100 of 133 heroes and #16 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 48.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Johnson?
 

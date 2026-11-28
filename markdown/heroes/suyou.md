@@ -1,6 +1,6 @@
 ---
 title: "Су Ё MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Су Ё, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Су Ё. Боец и убийца, 49,42% побед, тир B."
+description: "Су Ё, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Су Ё. Боец и убийца, 49,40% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/suyou.html
 language: ru
 ---
@@ -27,7 +27,7 @@ B
 
 Баны
 
-1,9%
+2,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,24 +43,14 @@ B
 -   Преследование
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,4%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
 [![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**9 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие бойцы MLBB**9 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие лесники MLBB**8 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие бойцы MLBB**8 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 -   [Лучшие убийцы MLBB**5 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
@@ -373,7 +363,7 @@ B
 
 Какой процент побед у Су Ё сейчас?
 
-49,42% в Мифической славе за последние 7 дней и 49,69% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,40% в Мифической славе за последние 7 дней и 49,68% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Су Ё?
 
@@ -381,7 +371,7 @@ B
 
 Стоит ли брать Су Ё в текущей мете?
 
-Тир B, 28-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 25,3% катков.
+Тир B, 27-е место из 133 героев и 8-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,0% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 25,3% катков.
 
 Какая сборка на Су Ё лучшая?
 

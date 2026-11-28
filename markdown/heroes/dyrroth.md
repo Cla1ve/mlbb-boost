@@ -1,6 +1,6 @@
 ---
 title: "Дариус MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Дариус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Дариуса. Боец, 51,42% побед, тир B."
+description: "Дариус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Дариуса. Боец, 51,38% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/dyrroth.html
 language: ru
 ---
@@ -43,19 +43,9 @@ B
 -   Рывок
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -345,7 +335,7 @@ B
 
 ### Кто контрит Дариуса
 
-[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)
 
 ### Кого контрит Дариус
 
@@ -371,7 +361,7 @@ B
 
 Кто контрит Дариуса в MLBB?
 
-За последние 30 дней Дариуса чаще всего обыгрывают Эсмеральда, Уранус, Алиса, Чжусинь и Валентина.
+За последние 30 дней Дариуса чаще всего обыгрывают Эсмеральда, Уранус, Алиса, Валентина и Москов.
 
 Как играть за Дариуса?
 
@@ -379,7 +369,7 @@ B
 
 Какой процент побед у Дариуса сейчас?
 
-51,42% в Мифической славе за последние 7 дней и 49,34% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,38% в Мифической славе за последние 7 дней и 49,35% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Дариуса?
 
@@ -387,7 +377,7 @@ B
 
 Стоит ли брать Дариуса в текущей мете?
 
-Тир B, 52-е место из 133 героев и 15-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,0% матчей, 51,4% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
+Тир B, 51-е место из 133 героев и 15-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,0% матчей, 51,4% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
 
 Какая сборка на Дариуса лучшая?
 

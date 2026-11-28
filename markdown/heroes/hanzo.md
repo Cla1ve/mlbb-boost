@@ -1,6 +1,6 @@
 ---
 title: "Ханзо MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ханзо, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханзо. Убийца, 49,25% побед, тир C."
+description: "Ханзо, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханзо. Убийца, 49,21% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/hanzo.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-49,3%
+49,2%
 
 Выбор
 
@@ -42,16 +42,6 @@ C
 
 -   Поук
 -   Разрушительный урон
-
-### Победы по рангам, 30 дней
-
-1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
@@ -337,7 +327,7 @@ C
 
 ### Кого контрит Ханзо
 
-[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## Скины Ханзо
 
@@ -367,7 +357,7 @@ C
 
 Какой процент побед у Ханзо сейчас?
 
-49,25% в Мифической славе за последние 7 дней и 49,90% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,21% в Мифической славе за последние 7 дней и 49,90% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Ханзо?
 
@@ -375,7 +365,7 @@ C
 
 Стоит ли брать Ханзо в текущей мете?
 
-Тир C, 90-е место из 133 героев и 20-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,1% матчей, 49,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 90-е место из 133 героев и 20-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,1% матчей, 49,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Ханзо лучшая?
 

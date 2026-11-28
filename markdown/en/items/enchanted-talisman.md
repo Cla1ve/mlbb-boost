@@ -58,8 +58,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/estes.webp)Estes58.9%](https://boostmlbb.ru/en/heroes/estes.html#build)
 -   [![](/images/heroes/rafaela.webp)Rafaela57.0%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
 -   [![](/images/heroes/angela.webp)Angela56.7%](https://boostmlbb.ru/en/heroes/angela.html#build)
--   [![](/images/heroes/lylia.webp)Lylia52.4%](https://boostmlbb.ru/en/heroes/lylia.html#build)
 -   [![](/images/heroes/xavier.webp)Xavier59.4%](https://boostmlbb.ru/en/heroes/xavier.html#build)
+-   [![](/images/heroes/lylia.webp)Lylia52.4%](https://boostmlbb.ru/en/heroes/lylia.html#build)
 -   [![](/images/heroes/cyclops.webp)Cyclops57.9%](https://boostmlbb.ru/en/heroes/cyclops.html#build)
 -   [![](/images/heroes/cecilion.webp)Cecilion55.4%](https://boostmlbb.ru/en/heroes/cecilion.html#build)
 -   [![](/images/heroes/faramis.webp)Faramis54.1%](https://boostmlbb.ru/en/heroes/faramis.html#build)
@@ -94,4 +94,4 @@ What does Enchanted Talisman give?
 
 Which heroes build Enchanted Talisman?
 
-It is in the popular ranked builds of 11 heroes, among them Esmeralda, Estes, Rafaela, Angela, Lylia and Xavier.
+It is in the popular ranked builds of 11 heroes, among them Esmeralda, Estes, Rafaela, Angela, Xavier and Lylia.

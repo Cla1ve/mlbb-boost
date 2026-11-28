@@ -1,6 +1,6 @@
 ---
 title: "Yi Sun-shin MLBB: build, combos and counters | MLBB Boost"
-description: "Yi Sun-shin in Mobile Legends: ranked build, skill combos, how to play and who counters Yi Sun-shin. Assassin and marksman, 48.52% win rate, tier B."
+description: "Yi Sun-shin in Mobile Legends: ranked build, skill combos, how to play and who counters Yi Sun-shin. Assassin and marksman, 48.51% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
@@ -345,7 +345,7 @@ Casting this skill immediately triggers Weapon Mastery.
 
 ### Who counters Yi Sun-shin
 
-[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
+[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Yi Sun-shin skins
 
@@ -367,7 +367,7 @@ Casting this skill immediately triggers Weapon Mastery.
 
 Who counters Yi Sun-shin in MLBB?
 
-Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Melissa and Nana.
+Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Nana and Melissa.
 
 How do you play Yi Sun-shin?
 
@@ -375,7 +375,7 @@ Level "Traceless" first and take the ultimate whenever it is available. Stronger
 
 What is Yi Sun-shin’s win rate right now?
 
-48.52% at Mythical Glory over the last 7 days and 49.03% across all ranks over 30 days, as of 26 November 2026.
+48.51% at Mythical Glory over the last 7 days and 49.01% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Yi Sun-shin play?
 

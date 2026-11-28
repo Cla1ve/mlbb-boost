@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-37.3%
+37.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -365,7 +365,7 @@ Level "Crimson Flower" first and take the ultimate whenever it is available. Str
 
 What is Carmilla’s win rate right now?
 
-52.20% at Mythical Glory over the last 7 days and 53.18% across all ranks over 30 days, as of 26 November 2026.
+52.20% at Mythical Glory over the last 7 days and 53.15% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Carmilla play?
 
@@ -373,7 +373,7 @@ Tank and support, played on roam.
 
 Is Carmilla strong in the current meta?
 
-Tier S, #9 of 133 heroes and #2 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.3% of matches, 52.2% win rate. In professional games over the last month the hero is drafted in 54.1% of them.
+Tier S, #9 of 133 heroes and #2 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.4% of matches, 52.2% win rate. In professional games over the last month the hero is drafted in 54.1% of them.
 
 What is the best build for Carmilla?
 

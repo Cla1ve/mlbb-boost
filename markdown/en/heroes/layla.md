@@ -1,6 +1,6 @@
 ---
 title: "Layla MLBB: build, combos and counters | MLBB Boost"
-description: "Layla in Mobile Legends: ranked build, skill combos, how to play and who counters Layla. Marksman, 48.27% win rate, tier C."
+description: "Layla in Mobile Legends: ranked build, skill combos, how to play and who counters Layla. Marksman, 48.26% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Finisher
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **50.2%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -332,7 +322,7 @@ Cooldown **37 Mana Cost: 130 s**
 
 ### Who counters Layla
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ### Who Layla counters
 
@@ -358,7 +348,7 @@ Cooldown **37 Mana Cost: 130 s**
 
 Who counters Layla in MLBB?
 
-Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Phoveus and Odette.
+Over the last 30 days the toughest opponents are Diggie, Rafaela, Edith, Phoveus and Odette.
 
 How do you play Layla?
 
@@ -366,7 +356,7 @@ Level "Malefic Bomb" first and take the ultimate whenever it is available. Stron
 
 What is Layla’s win rate right now?
 
-48.27% at Mythical Glory over the last 7 days and 49.43% across all ranks over 30 days, as of 26 November 2026.
+48.26% at Mythical Glory over the last 7 days and 49.44% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Layla play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Zetian MLBB: build, combos and counters | MLBB Boost"
-description: "Zetian in Mobile Legends: ranked build, skill combos, how to play and who counters Zetian. Mage, 50.07% win rate, tier A."
+description: "Zetian in Mobile Legends: ranked build, skill combos, how to play and who counters Zetian. Mage, 50.10% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zetian.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Damage
 -   Crowd Control
 
-### Win rate by rank, 30 days
-
-1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **52.1%**![](/images/ranks/Legend.webp)Legend
-3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Places in the rankings
 
@@ -367,7 +357,7 @@ Level "Phoenix Strike" first and take the ultimate whenever it is available. Eve
 
 What is Zetian’s win rate right now?
 
-50.07% at Mythical Glory over the last 7 days and 50.84% across all ranks over 30 days, as of 26 November 2026.
+50.10% at Mythical Glory over the last 7 days and 50.84% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Zetian play?
 

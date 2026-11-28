@@ -1,6 +1,6 @@
 ---
 title: "Хирара MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Хирара, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хирару. Убийца, 49,53% побед, тир S."
+description: "Хирара, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хирару. Убийца, 49,54% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/hirara.html
 language: ru
 ---
@@ -42,16 +42,6 @@ S
 
 -   Преследование
 -   Добивание
-
-### Победы по рангам, 30 дней
-
-1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
@@ -324,7 +314,7 @@ S
 
 ### Кто контрит Хирару
 
-[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)
 
 ## Скины Хирары
 
@@ -346,7 +336,7 @@ S
 
 Кто контрит Хирару в MLBB?
 
-За последние 30 дней Хирару чаще всего обыгрывают Карина, Ханзо, Икс.Борг, Инь и Лолита.
+За последние 30 дней Хирару чаще всего обыгрывают Карина, Ханзо, Икс.Борг, Инь и Сан.
 
 Как играть за Хирару?
 
@@ -354,7 +344,7 @@ S
 
 Какой процент побед у Хирары сейчас?
 
-49,53% в Мифической славе за последние 7 дней и 50,04% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,54% в Мифической славе за последние 7 дней и 50,03% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Хирары?
 

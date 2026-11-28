@@ -1,6 +1,6 @@
 ---
 title: "Karina MLBB: build, combos and counters | MLBB Boost"
-description: "Karina in Mobile Legends: ranked build, skill combos, how to play and who counters Karina. Assassin, 49.12% win rate, tier B."
+description: "Karina in Mobile Legends: ranked build, skill combos, how to play and who counters Karina. Assassin, 49.04% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/karina.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-49.1%
+49.0%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.9%
+5.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,16 +43,6 @@ Ban rate
 -   Finisher
 -   Magic Damage
 
-### Win rate by rank, 30 days
-
-1.  **50.1%**![](/images/ranks/Epic.webp)Epic
-2.  **49.1%**![](/images/ranks/Legend.webp)Legend
-3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More assassins on this lane
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
@@ -60,7 +50,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB junglers**15 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB assassins**14 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB assassins**13 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
 
@@ -341,7 +331,7 @@ The Shadow Sigil and Shadowform both last 5s. If the target dies during this tim
 
 ### Who counters Karina
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ### Who Karina counters
 
@@ -367,7 +357,7 @@ The Shadow Sigil and Shadowform both last 5s. If the target dies during this tim
 
 Who counters Karina in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, Kimmy, Marcel, Ling and Helcurt.
+Over the last 30 days the toughest opponents are Natalia, Kimmy, Ling, Marcel and Helcurt.
 
 How do you play Karina?
 
@@ -375,7 +365,7 @@ Level "Dance of Death" first and take the ultimate whenever it is available. Str
 
 What is Karina’s win rate right now?
 
-49.12% at Mythical Glory over the last 7 days and 48.78% across all ranks over 30 days, as of 26 November 2026.
+49.04% at Mythical Glory over the last 7 days and 48.82% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Karina play?
 
@@ -383,7 +373,7 @@ Assassin, played in the jungle.
 
 Is Karina strong in the current meta?
 
-Tier B, #64 of 133 heroes and #14 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.9% of matches, 49.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #63 of 133 heroes and #13 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.1% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Karina?
 

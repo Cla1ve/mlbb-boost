@@ -1,6 +1,6 @@
 ---
 title: "Джой MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Джой, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джой. Убийца, 49,41% побед, тир D."
+description: "Джой, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джой. Убийца, 49,45% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-49,4%
+49,5%
 
 Выбор
 
@@ -42,16 +42,6 @@ D
 
 -   Преследование
 -   Урон
-
-### Победы по рангам, 30 дней
-
-1.  **47,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **46,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
@@ -331,7 +321,7 @@ D
 
 ### Кто контрит Джой
 
-[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ### Кого контрит Джой
 
@@ -357,7 +347,7 @@ D
 
 Кто контрит Джой в MLBB?
 
-За последние 30 дней Джой чаще всего обыгрывают Сан, Лолита, Икс.Борг, Ив и Лилия.
+За последние 30 дней Джой чаще всего обыгрывают Сан, Икс.Борг, Лолита, Ив и Ханаби.
 
 Как играть за Джой?
 
@@ -365,7 +355,7 @@ D
 
 Какой процент побед у Джой сейчас?
 
-49,41% в Мифической славе за последние 7 дней и 48,77% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,45% в Мифической славе за последние 7 дней и 48,77% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Джой?
 
@@ -373,7 +363,7 @@ D
 
 Стоит ли брать Джой в текущей мете?
 
-Тир D, 115-е место из 133 героев и 26-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир D, 115-е место из 133 героев и 26-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на Джой лучшая?
 

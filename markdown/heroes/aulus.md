@@ -1,6 +1,6 @@
 ---
 title: "Аулус MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Аулус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Аулуса. Боец, 53,10% побед, тир S."
+description: "Аулус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Аулуса. Боец, 53,13% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/aulus.html
 language: ru
 ---
@@ -23,11 +23,11 @@ S
 
 Выбор
 
-0,8%
+0,7%
 
 Баны
 
-18,6%
+17,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ S
 -   Урон
 -   Рывок
 
-### Победы по рангам, 30 дней
-
-1.  **51,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **54,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **53,4%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -343,7 +333,7 @@ S
 
 ### Кто контрит Аулуса
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## Скины Аулуса
 
@@ -365,7 +355,7 @@ S
 
 Кто контрит Аулуса в MLBB?
 
-За последние 30 дней Аулуса чаще всего обыгрывают Глу, Минситтар, Тигрил, Лолита и Наталья.
+За последние 30 дней Аулуса чаще всего обыгрывают Глу, Минситтар, Тигрил, Наталья и Лолита.
 
 Как играть за Аулуса?
 
@@ -373,7 +363,7 @@ S
 
 Какой процент побед у Аулуса сейчас?
 
-53,10% в Мифической славе за последние 7 дней и 53,38% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,13% в Мифической славе за последние 7 дней и 53,36% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Аулуса?
 
@@ -381,7 +371,7 @@ S
 
 Стоит ли брать Аулуса в текущей мете?
 
-Тир S, 8-е место из 133 героев и 4-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 18,6% матчей, 53,1% побед. В профессиональных матчах за месяц героя драфтуют в 77,8% катков.
+Тир S, 8-е место из 133 героев и 4-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 17,5% матчей, 53,1% побед. В профессиональных матчах за месяц героя драфтуют в 77,8% катков.
 
 Какая сборка на Аулуса лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Лукас MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Лукас, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лукаса. Боец, 50,83% побед, тир A."
+description: "Лукас, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лукаса. Боец, 50,82% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lukas.html
 language: ru
 ---
@@ -13,7 +13,7 @@ language: ru
 
 # Лукас
 
-A
+B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
@@ -27,7 +27,7 @@ A
 
 Баны
 
-29,7%
+28,6%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,24 +43,14 @@ A
 -   Регенерация
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **50,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,8%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
 [![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**8 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие бойцы MLBB**8 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие лесники MLBB**9 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие бойцы MLBB**9 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 
 ## Сборка
 
@@ -345,7 +335,7 @@ A
 
 ### Кто контрит Лукаса
 
-[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
 
 ### Кого контрит Лукас
 
@@ -371,7 +361,7 @@ A
 
 Кто контрит Лукаса в MLBB?
 
-За последние 30 дней Лукаса чаще всего обыгрывают Линг, Наталья, Фанни, Арлотт и Хелкарт.
+За последние 30 дней Лукаса чаще всего обыгрывают Линг, Наталья, Фанни, Хелкарт и Арлотт.
 
 Как играть за Лукаса?
 
@@ -379,7 +369,7 @@ A
 
 Какой процент побед у Лукаса сейчас?
 
-50,83% в Мифической славе за последние 7 дней и 51,73% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,82% в Мифической славе за последние 7 дней и 51,67% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Лукаса?
 
@@ -387,7 +377,7 @@ A
 
 Стоит ли брать Лукаса в текущей мете?
 
-Тир A, 27-е место из 133 героев и 8-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 29,7% матчей, 50,8% побед. В профессиональных матчах за месяц героя драфтуют в 2,9% катков.
+Тир B, 28-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 28,6% матчей, 50,8% побед. В профессиональных матчах за месяц героя драфтуют в 2,9% катков.
 
 Какая сборка на Лукаса лучшая?
 

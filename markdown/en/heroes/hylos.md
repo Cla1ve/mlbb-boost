@@ -1,6 +1,6 @@
 ---
 title: "Hylos MLBB: build, combos and counters | MLBB Boost"
-description: "Hylos in Mobile Legends: ranked build, skill combos, how to play and who counters Hylos. Tank, 47.00% win rate, tier D."
+description: "Hylos in Mobile Legends: ranked build, skill combos, how to play and who counters Hylos. Tank, 46.97% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hylos.html
 language: en
 ---
@@ -13,7 +13,7 @@ language: en
 
 # Hylos
 
-D
+C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/roam.webp)Roam
 
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-0.2%
+0.3%
 
 Ban rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Guard
 -   Initiator
-
-### Win rate by rank, 30 days
-
-1.  **51.4%**![](/images/ranks/Epic.webp)Epic
-2.  **50.7%**![](/images/ranks/Legend.webp)Legend
-3.  **49.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.6%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -335,7 +325,7 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 
 ### Who counters Hylos
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ### Who Hylos counters
 
@@ -361,7 +351,7 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 
 Who counters Hylos in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Nana and Vale.
+Over the last 30 days the toughest opponents are Layla, Zilong, Yin, Nana and Silvanna.
 
 How do you play Hylos?
 
@@ -369,7 +359,7 @@ Level "Ring of Punishment" first and take the ultimate whenever it is available.
 
 What is Hylos’s win rate right now?
 
-47.00% at Mythical Glory over the last 7 days and 48.54% across all ranks over 30 days, as of 26 November 2026.
+46.97% at Mythical Glory over the last 7 days and 48.54% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Hylos play?
 
@@ -377,7 +367,7 @@ Tank, played on roam.
 
 Is Hylos strong in the current meta?
 
-Tier D, #117 of 133 heroes and #20 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.0% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
+Tier C, #117 of 133 heroes and #20 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.0% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
 
 What is the best build for Hylos?
 

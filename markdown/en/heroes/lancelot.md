@@ -1,6 +1,6 @@
 ---
 title: "Lancelot MLBB: build, combos and counters | MLBB Boost"
-description: "Lancelot in Mobile Legends: ranked build, skill combos, how to play and who counters Lancelot. Assassin, 42.18% win rate, tier C."
+description: "Lancelot in Mobile Legends: ranked build, skill combos, how to play and who counters Lancelot. Assassin, 42.21% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lancelot.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.1%
+0.2%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **45.4%**![](/images/ranks/Epic.webp)Epic
-2.  **44.1%**![](/images/ranks/Legend.webp)Legend
-3.  **43.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **43.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **42.3%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -328,7 +318,7 @@ After a short delay, Lancelot performs an executioner's strike in the target dir
 
 ### Who counters Lancelot
 
-[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
+[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ### Who Lancelot counters
 
@@ -354,7 +344,7 @@ After a short delay, Lancelot performs an executioner's strike in the target dir
 
 Who counters Lancelot in MLBB?
 
-Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, X.Borg and Johnson.
+Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, Johnson and X.Borg.
 
 How do you play Lancelot?
 
@@ -362,7 +352,7 @@ Level "Thorned Rose" first and take the ultimate whenever it is available. Stron
 
 What is Lancelot’s win rate right now?
 
-42.18% at Mythical Glory over the last 7 days and 43.07% across all ranks over 30 days, as of 26 November 2026.
+42.21% at Mythical Glory over the last 7 days and 43.05% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Lancelot play?
 
@@ -370,7 +360,7 @@ Assassin, played in the jungle.
 
 Is Lancelot strong in the current meta?
 
-Tier C, #132 of 133 heroes and #29 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 42.2% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
+Tier C, #132 of 133 heroes and #29 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 42.2% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
 
 What is the best build for Lancelot?
 

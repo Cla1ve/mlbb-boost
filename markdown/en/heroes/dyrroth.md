@@ -1,6 +1,6 @@
 ---
 title: "Dyrroth MLBB: build, combos and counters | MLBB Boost"
-description: "Dyrroth in Mobile Legends: ranked build, skill combos, how to play and who counters Dyrroth. Fighter, 51.42% win rate, tier B."
+description: "Dyrroth in Mobile Legends: ranked build, skill combos, how to play and who counters Dyrroth. Fighter, 51.38% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Charge
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **47.7%**![](/images/ranks/Epic.webp)Epic
-2.  **47.8%**![](/images/ranks/Legend.webp)Legend
-3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -345,7 +335,7 @@ Damage dealt to non-hero enemies is capped at 1500.
 
 ### Who counters Dyrroth
 
-[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)
 
 ### Who Dyrroth counters
 
@@ -371,7 +361,7 @@ Damage dealt to non-hero enemies is capped at 1500.
 
 Who counters Dyrroth in MLBB?
 
-Over the last 30 days the toughest opponents are Esmeralda, Uranus, Alice, Zhuxin and Valentina.
+Over the last 30 days the toughest opponents are Esmeralda, Uranus, Alice, Valentina and Moskov.
 
 How do you play Dyrroth?
 
@@ -379,7 +369,7 @@ Level "Burst Strike" first and take the ultimate whenever it is available. Stron
 
 What is Dyrroth’s win rate right now?
 
-51.42% at Mythical Glory over the last 7 days and 49.34% across all ranks over 30 days, as of 26 November 2026.
+51.38% at Mythical Glory over the last 7 days and 49.35% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Dyrroth play?
 
@@ -387,7 +377,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Dyrroth strong in the current meta?
 
-Tier B, #52 of 133 heroes and #15 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.0% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
+Tier B, #51 of 133 heroes and #15 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.0% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Dyrroth?
 

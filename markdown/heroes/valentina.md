@@ -43,19 +43,9 @@ B
 -   Разрушительный урон
 -   Добивание
 
-### Победы по рангам, 30 дней
-
-1.  **42,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **42,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **42,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **44,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Места в рейтингах
 
@@ -340,7 +330,7 @@ B
 
 ### Кто контрит Валентину
 
-[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ### Кого контрит Валентина
 
@@ -366,7 +356,7 @@ B
 
 Кто контрит Валентину в MLBB?
 
-За последние 30 дней Валентину чаще всего обыгрывают Кармилла, Атлас, Икс.Борг, Лолита и Лукас.
+За последние 30 дней Валентину чаще всего обыгрывают Кармилла, Атлас, Икс.Борг, Лукас и Лолита.
 
 Как играть за Валентину?
 
@@ -374,7 +364,7 @@ B
 
 Какой процент побед у Валентины сейчас?
 
-44,60% в Мифической славе за последние 7 дней и 44,61% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+44,60% в Мифической славе за последние 7 дней и 44,58% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Валентины?
 
@@ -382,7 +372,7 @@ B
 
 Стоит ли брать Валентину в текущей мете?
 
-Тир B, 55-е место из 133 героев и 13-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 44,6% побед. В профессиональных матчах за месяц героя драфтуют в 32,8% катков.
+Тир B, 56-е место из 133 героев и 13-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 44,6% побед. В профессиональных матчах за месяц героя драфтуют в 32,8% катков.
 
 Какая сборка на Валентину лучшая?
 

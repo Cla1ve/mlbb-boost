@@ -1,6 +1,6 @@
 ---
 title: "Ланселот MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ланселот, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ланселота. Убийца, 42,18% побед, тир C."
+description: "Ланселот, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ланселота. Убийца, 42,21% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/lancelot.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 Баны
 
-0,1%
+0,2%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ C
 
 -   Преследование
 -   Разрушительный урон
-
-### Победы по рангам, 30 дней
-
-1.  **45,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **44,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **43,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **43,2%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **42,3%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
@@ -328,7 +318,7 @@ C
 
 ### Кто контрит Ланселота
 
-[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
 
 ### Кого контрит Ланселот
 
@@ -354,7 +344,7 @@ C
 
 Кто контрит Ланселота в MLBB?
 
-За последние 30 дней Ланселота чаще всего обыгрывают Атлас, Инь, Альфа, Икс.Борг и Джонсон.
+За последние 30 дней Ланселота чаще всего обыгрывают Атлас, Инь, Альфа, Джонсон и Икс.Борг.
 
 Как играть за Ланселота?
 
@@ -362,7 +352,7 @@ C
 
 Какой процент побед у Ланселота сейчас?
 
-42,18% в Мифической славе за последние 7 дней и 43,07% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+42,21% в Мифической славе за последние 7 дней и 43,05% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Ланселота?
 
@@ -370,7 +360,7 @@ C
 
 Стоит ли брать Ланселота в текущей мете?
 
-Тир C, 132-е место из 133 героев и 29-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 42,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
+Тир C, 132-е место из 133 героев и 29-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 42,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
 
 Какая сборка на Ланселота лучшая?
 

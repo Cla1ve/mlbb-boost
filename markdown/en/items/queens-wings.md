@@ -1,6 +1,6 @@
 ---
 title: "Queen's Wings MLBB: 2,250 gold, recipe and effect | MLBB Boost"
-description: "Queen's Wings in Mobile Legends: +750 HP, +30 Adaptive Attack, +10% Cooldown Reduction. Unique passive Demonize. Builds from Expert Gloves, Ares Belt and Hero's Ring. Built by Hirara, Barats and Lukas."
+description: "Queen's Wings in Mobile Legends: +750 HP, +30 Adaptive Attack, +10% Cooldown Reduction. Unique passive Demonize. Builds from Expert Gloves, Ares Belt and Hero's Ring. Built by Hirara, Barats and Suyou."
 canonical: https://boostmlbb.ru/en/items/queens-wings.html
 language: en
 ---
@@ -55,8 +55,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 
 -   [![](/images/heroes/hirara.webp)Hirara52.6%](https://boostmlbb.ru/en/heroes/hirara.html#build)
 -   [![](/images/heroes/barats.webp)Barats59.4%](https://boostmlbb.ru/en/heroes/barats.html#build)
--   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Suyou53.5%](https://boostmlbb.ru/en/heroes/suyou.html#build)
+-   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/sora.webp)Sora54.2%](https://boostmlbb.ru/en/heroes/sora.html#build)
 -   [![](/images/heroes/rafaela.webp)Rafaela61.9%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
 -   [![](/images/heroes/yu-zhong.webp)Yu Zhong55.1%](https://boostmlbb.ru/en/heroes/yu-zhong.html#build)
@@ -101,4 +101,4 @@ What does Queen's Wings give?
 
 Which heroes build Queen's Wings?
 
-It is in the popular ranked builds of 19 heroes, among them Hirara, Barats, Lukas, Suyou, Sora and Rafaela.
+It is in the popular ranked builds of 19 heroes, among them Hirara, Barats, Suyou, Lukas, Sora and Rafaela.

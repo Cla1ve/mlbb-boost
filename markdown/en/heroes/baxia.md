@@ -1,6 +1,6 @@
 ---
 title: "Baxia MLBB: build, combos and counters | MLBB Boost"
-description: "Baxia in Mobile Legends: ranked build, skill combos, how to play and who counters Baxia. Tank, 45.99% win rate, tier D."
+description: "Baxia in Mobile Legends: ranked build, skill combos, how to play and who counters Baxia. Tank, 45.95% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Support
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **48.6%**![](/images/ranks/Epic.webp)Epic
-2.  **47.0%**![](/images/ranks/Legend.webp)Legend
-3.  **45.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.8%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -336,11 +326,11 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 
 ### Who counters Baxia
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)
 
 ### Who Baxia counters
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Baxia skins
 
@@ -362,7 +352,7 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 
 Who counters Baxia in MLBB?
 
-Over the last 30 days the toughest opponents are Obsidia, Alice, Saber, Lukas and Zhask.
+Over the last 30 days the toughest opponents are Obsidia, Alice, Saber, Lukas and Minsitthar.
 
 How do you play Baxia?
 
@@ -370,7 +360,7 @@ Level "Shield of Spirit" first and take the ultimate whenever it is available. E
 
 What is Baxia’s win rate right now?
 
-45.99% at Mythical Glory over the last 7 days and 45.83% across all ranks over 30 days, as of 26 November 2026.
+45.95% at Mythical Glory over the last 7 days and 45.81% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Baxia play?
 

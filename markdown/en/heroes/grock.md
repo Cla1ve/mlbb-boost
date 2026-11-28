@@ -1,6 +1,6 @@
 ---
 title: "Grock MLBB: build, combos and counters | MLBB Boost"
-description: "Grock in Mobile Legends: ranked build, skill combos, how to play and who counters Grock. Tank and fighter, 45.84% win rate, tier C."
+description: "Grock in Mobile Legends: ranked build, skill combos, how to play and who counters Grock. Tank and fighter, 45.87% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-45.8%
+45.9%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Crowd Control
 -   Initiator
-
-### Win rate by rank, 30 days
-
-1.  **49.8%**![](/images/ranks/Epic.webp)Epic
-2.  **47.9%**![](/images/ranks/Legend.webp)Legend
-3.  **47.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -335,7 +325,7 @@ Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physic
 
 ### Who counters Grock
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ### Who Grock counters
 
@@ -361,7 +351,7 @@ Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physic
 
 Who counters Grock in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Diggie and Odette.
+Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Odette and Diggie.
 
 How do you play Grock?
 
@@ -369,7 +359,7 @@ Level "Mighty Swing" first and take the ultimate whenever it is available. Stron
 
 What is Grock’s win rate right now?
 
-45.84% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 26 November 2026.
+45.87% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Grock play?
 
@@ -377,7 +367,7 @@ Tank and fighter, played on roam.
 
 Is Grock strong in the current meta?
 
-Tier C, #119 of 133 heroes and #21 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 45.8% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
+Tier C, #119 of 133 heroes and #21 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 45.9% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Grock?
 

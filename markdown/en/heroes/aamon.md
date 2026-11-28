@@ -1,6 +1,6 @@
 ---
 title: "Aamon MLBB: build, combos and counters | MLBB Boost"
-description: "Aamon in Mobile Legends: ranked build, skill combos, how to play and who counters Aamon. Assassin, 49.69% win rate, tier C."
+description: "Aamon in Mobile Legends: ranked build, skill combos, how to play and who counters Aamon. Assassin, 49.49% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-49.7%
+49.5%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.9%
+1.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Magic Damage
-
-### Win rate by rank, 30 days
-
-1.  **49.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.0%**![](/images/ranks/Legend.webp)Legend
-3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.3%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -343,7 +333,7 @@ The damage dealt increases with the target's lost , to the max when the target's
 
 ### Who Aamon counters
 
-[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Aamon skins
 
@@ -373,7 +363,7 @@ Level "Soul Shards" first and take the ultimate whenever it is available. Even t
 
 What is Aamon’s win rate right now?
 
-49.69% at Mythical Glory over the last 7 days and 50.09% across all ranks over 30 days, as of 26 November 2026.
+49.49% at Mythical Glory over the last 7 days and 50.05% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Aamon play?
 
@@ -381,7 +371,7 @@ Assassin, played in the jungle.
 
 Is Aamon strong in the current meta?
 
-Tier C, #84 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 49.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #84 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.0% of matches, 49.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aamon?
 

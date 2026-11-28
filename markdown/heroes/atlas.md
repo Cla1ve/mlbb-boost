@@ -1,6 +1,6 @@
 ---
 title: "Атлас MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Атлас, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Атласа. Танк, 48,86% побед, тир A."
+description: "Атлас, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Атласа. Танк, 48,90% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/atlas.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-8,2%
+8,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -45,9 +45,9 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **55,4%**![](/images/ranks/Epic.webp)Эпик
+1.  **55,3%**![](/images/ranks/Epic.webp)Эпик
 2.  **54,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,1%**![](/images/ranks/Mythic.webp)Мифик
+3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -339,7 +339,7 @@ A
 
 ### Кого контрит Атлас
 
-[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
+[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
 
 ## Скины Атласа
 
@@ -369,7 +369,7 @@ A
 
 Какой процент побед у Атласа сейчас?
 
-48,86% в Мифической славе за последние 7 дней и 51,15% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,90% в Мифической славе за последние 7 дней и 51,08% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Атласа?
 
@@ -377,7 +377,7 @@ A
 
 Стоит ли брать Атласа в текущей мете?
 
-Тир A, 12-е место из 133 героев и 4-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,2% матчей, 48,9% побед. В профессиональных матчах за месяц героя драфтуют в 75,1% катков.
+Тир A, 12-е место из 133 героев и 4-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,0% матчей, 48,9% побед. В профессиональных матчах за месяц героя драфтуют в 75,1% катков.
 
 Какая сборка на Атласа лучшая?
 

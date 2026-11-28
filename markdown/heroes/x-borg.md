@@ -1,6 +1,6 @@
 ---
 title: "Икс.Борг MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Икс.Борг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Икс.Борга. Боец, 48,98% побед, тир C."
+description: "Икс.Борг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Икс.Борга. Боец, 48,97% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/x-borg.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Регенерация
 -   Разрушительный урон
-
-### Победы по рангам, 30 дней
-
-1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,2%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
@@ -340,7 +330,7 @@ C
 
 ### Кого контрит Икс.Борг
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## Скины Икс.Борга
 
@@ -370,7 +360,7 @@ C
 
 Какой процент побед у Икс.Борга сейчас?
 
-48,98% в Мифической славе за последние 7 дней и 49,94% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,97% в Мифической славе за последние 7 дней и 49,93% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Икс.Борга?
 

@@ -1,6 +1,6 @@
 ---
 title: "Hilda MLBB: build, combos and counters | MLBB Boost"
-description: "Hilda in Mobile Legends: ranked build, skill combos, how to play and who counters Hilda. Tank and fighter, 48.65% win rate, tier C."
+description: "Hilda in Mobile Legends: ranked build, skill combos, how to play and who counters Hilda. Tank and fighter, 48.60% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hilda.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.1%
+4.2%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -48,7 +48,7 @@ Ban rate
 1.  **54.9%**![](/images/ranks/Epic.webp)Epic
 2.  **53.5%**![](/images/ranks/Legend.webp)Legend
 3.  **52.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **50.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -367,7 +367,7 @@ Level "Art of Hunting" first and take the ultimate whenever it is available. Str
 
 What is Hilda’s win rate right now?
 
-48.65% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 26 November 2026.
+48.60% at Mythical Glory over the last 7 days and 51.08% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Hilda play?
 
@@ -375,7 +375,7 @@ Tank and fighter, played in the EXP Lane or on roam.
 
 Is Hilda strong in the current meta?
 
-Tier C, #75 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.1% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
+Tier C, #74 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.2% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
 
 What is the best build for Hilda?
 

@@ -1,6 +1,6 @@
 ---
 title: "Angela MLBB: build, combos and counters | MLBB Boost"
-description: "Angela in Mobile Legends: ranked build, skill combos, how to play and who counters Angela. Support, 49.63% win rate, tier B."
+description: "Angela in Mobile Legends: ranked build, skill combos, how to play and who counters Angela. Support, 49.58% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/angela.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.7%**![](/images/ranks/Epic.webp)Epic
-2.  **50.7%**![](/images/ranks/Legend.webp)Legend
+2.  **50.8%**![](/images/ranks/Legend.webp)Legend
 3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -368,7 +368,7 @@ Level "Puppet-on-a-String" first and take the ultimate whenever it is available.
 
 What is Angela’s win rate right now?
 
-49.63% at Mythical Glory over the last 7 days and 50.02% across all ranks over 30 days, as of 26 November 2026.
+49.58% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Angela play?
 

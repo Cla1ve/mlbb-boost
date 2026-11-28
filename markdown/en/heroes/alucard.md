@@ -1,6 +1,6 @@
 ---
 title: "Alucard MLBB: build, combos and counters | MLBB Boost"
-description: "Alucard in Mobile Legends: ranked build, skill combos, how to play and who counters Alucard. Fighter and assassin, 49.38% win rate, tier C."
+description: "Alucard in Mobile Legends: ranked build, skill combos, how to play and who counters Alucard. Fighter and assassin, 49.39% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alucard.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Chase
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **48.8%**![](/images/ranks/Epic.webp)Epic
-2.  **49.0%**![](/images/ranks/Legend.webp)Legend
-3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.1%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ### Places in the rankings
 
@@ -311,7 +301,7 @@ Level "Whirling Smash" first and take the ultimate whenever it is available. Str
 
 What is Alucard’s win rate right now?
 
-49.38% at Mythical Glory over the last 7 days and 48.95% across all ranks over 30 days, as of 26 November 2026.
+49.39% at Mythical Glory over the last 7 days and 48.97% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Alucard play?
 

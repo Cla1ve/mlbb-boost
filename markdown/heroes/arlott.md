@@ -1,6 +1,6 @@
 ---
 title: "Арлотт MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Арлотт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Арлотта. Боец и убийца, 48,04% побед, тир B."
+description: "Арлотт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Арлотта. Боец и убийца, 48,06% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/arlott.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-48,0%
+48,1%
 
 Выбор
 
@@ -43,16 +43,6 @@ B
 -   Рывок
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **46,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **46,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
 [![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
@@ -60,7 +50,7 @@ B
 ### Места в рейтингах
 
 -   [Лучшие бойцы MLBB**18 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
--   [Лучшие убийцы MLBB**13 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие убийцы MLBB**14 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 
@@ -368,7 +358,7 @@ B
 
 Какой процент побед у Арлотта сейчас?
 
-48,04% в Мифической славе за последние 7 дней и 47,46% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,06% в Мифической славе за последние 7 дней и 47,46% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Арлотта?
 
@@ -376,7 +366,7 @@ B
 
 Стоит ли брать Арлотта в текущей мете?
 
-Тир B, 63-е место из 133 героев и 18-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 48,0% побед. В профессиональных матчах за месяц героя драфтуют в 12,5% катков.
+Тир B, 64-е место из 133 героев и 18-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 48,1% побед. В профессиональных матчах за месяц героя драфтуют в 12,5% катков.
 
 Какая сборка на Арлотта лучшая?
 

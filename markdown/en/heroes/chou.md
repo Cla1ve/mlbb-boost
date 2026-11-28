@@ -1,6 +1,6 @@
 ---
 title: "Chou MLBB: build, combos and counters | MLBB Boost"
-description: "Chou in Mobile Legends: ranked build, skill combos, how to play and who counters Chou. Fighter, 44.62% win rate, tier B."
+description: "Chou in Mobile Legends: ranked build, skill combos, how to play and who counters Chou. Fighter, 44.63% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Control
-
-### Win rate by rank, 30 days
-
-1.  **45.4%**![](/images/ranks/Epic.webp)Epic
-2.  **45.4%**![](/images/ranks/Legend.webp)Legend
-3.  **45.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **45.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.7%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -361,7 +351,7 @@ Level "Jeet Kune Do" first and take the ultimate whenever it is available. Stron
 
 What is Chou’s win rate right now?
 
-44.62% at Mythical Glory over the last 7 days and 45.08% across all ranks over 30 days, as of 26 November 2026.
+44.63% at Mythical Glory over the last 7 days and 45.07% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Chou play?
 

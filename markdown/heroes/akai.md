@@ -1,6 +1,6 @@
 ---
 title: "Акай MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Акай, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Акая. Танк, 49,34% побед, тир C."
+description: "Акай, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Акая. Танк, 49,37% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/akai.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-49,3%
+49,4%
 
 Выбор
 
@@ -43,23 +43,13 @@ C
 -   Защита
 -   Массовый контроль
 
-### Победы по рангам, 30 дней
-
-1.  **51,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,4%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие танки этой линии
 
 [![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ### Места в рейтингах
 
--   [Лучшие танки MLBB**19 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
+-   [Лучшие танки MLBB**18 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
 -   [Лучшие роумеры MLBB**24 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
@@ -370,7 +360,7 @@ C
 
 Какой процент побед у Акая сейчас?
 
-49,34% в Мифической славе за последние 7 дней и 50,17% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,37% в Мифической славе за последние 7 дней и 50,18% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Акая?
 
@@ -378,7 +368,7 @@ C
 
 Стоит ли брать Акая в текущей мете?
 
-Тир C, 108-е место из 133 героев и 19-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 106-е место из 133 героев и 18-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Акая лучшая?
 

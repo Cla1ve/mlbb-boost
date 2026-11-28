@@ -1,6 +1,6 @@
 ---
 title: "Гвиневра MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Гвиневра, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Гвиневру. Боец, 51,32% побед, тир B."
+description: "Гвиневра, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Гвиневру. Боец, 51,28% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/guinevere.html
 language: ru
 ---
@@ -46,7 +46,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
+2.  **51,0%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,2%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -340,7 +340,7 @@ B
 
 ### Кого контрит Гвиневра
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
+[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
 
 ## Скины Гвиневры
 
@@ -370,7 +370,7 @@ B
 
 Какой процент побед у Гвиневры сейчас?
 
-51,32% в Мифической славе за последние 7 дней и 51,24% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,28% в Мифической славе за последние 7 дней и 51,23% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Гвиневры?
 

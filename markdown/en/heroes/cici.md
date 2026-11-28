@@ -1,6 +1,6 @@
 ---
 title: "Cici MLBB: build, combos and counters | MLBB Boost"
-description: "Cici in Mobile Legends: ranked build, skill combos, how to play and who counters Cici. Fighter, 48.47% win rate, tier B."
+description: "Cici in Mobile Legends: ranked build, skill combos, how to play and who counters Cici. Fighter, 48.42% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
@@ -19,11 +19,11 @@ B
 
 Win rate
 
-48.5%
+48.4%
 
 Pick rate
 
-0.8%
+0.7%
 
 Ban rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Damage
 -   Regen
-
-### Win rate by rank, 30 days
-
-1.  **50.0%**![](/images/ranks/Epic.webp)Epic
-2.  **50.0%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -365,7 +355,7 @@ Level "Yo-Yo Blitz" first and take the ultimate whenever it is available. Even t
 
 What is Cici’s win rate right now?
 
-48.47% at Mythical Glory over the last 7 days and 49.30% across all ranks over 30 days, as of 26 November 2026.
+48.42% at Mythical Glory over the last 7 days and 49.28% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Cici play?
 
@@ -373,7 +363,7 @@ Fighter, played in the EXP Lane.
 
 Is Cici strong in the current meta?
 
-Tier B, #29 of 133 heroes and #10 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 40.8% of them.
+Tier B, #29 of 133 heroes and #10 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 40.8% of them.
 
 What is the best build for Cici?
 

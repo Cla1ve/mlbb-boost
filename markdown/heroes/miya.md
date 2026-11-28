@@ -1,6 +1,6 @@
 ---
 title: "Мия MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Мия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мию. Стрелок, 50,05% побед, тир B."
+description: "Мия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мию. Стрелок, 50,03% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/miya.html
 language: ru
 ---
@@ -42,16 +42,6 @@ B
 
 -   Добивание
 -   Урон
-
-### Победы по рангам, 30 дней
-
-1.  **48,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие стрелки этой линии
 
@@ -334,7 +324,7 @@ B
 
 ### Кто контрит Мию
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ### Кого контрит Мия
 
@@ -360,7 +350,7 @@ B
 
 Кто контрит Мию в MLBB?
 
-За последние 30 дней Мию чаще всего обыгрывают Сабер, Обсидия, Москов, Иритель и Харит.
+За последние 30 дней Мию чаще всего обыгрывают Сабер, Обсидия, Москов, Харит и Иритель.
 
 Как играть за Мию?
 
@@ -368,7 +358,7 @@ B
 
 Какой процент побед у Мии сейчас?
 
-50,05% в Мифической славе за последние 7 дней и 49,68% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,03% в Мифической славе за последние 7 дней и 49,67% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Мии?
 

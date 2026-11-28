@@ -1,6 +1,6 @@
 ---
 title: "Diggie MLBB: build, combos and counters | MLBB Boost"
-description: "Diggie in Mobile Legends: ranked build, skill combos, how to play and who counters Diggie. Support, 56.06% win rate, tier B."
+description: "Diggie in Mobile Legends: ranked build, skill combos, how to play and who counters Diggie. Support, 56.10% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Guard
 -   Poke
-
-### Win rate by rank, 30 days
-
-1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **51.4%**![](/images/ranks/Legend.webp)Legend
-3.  **52.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **55.6%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More supports on this lane
 
@@ -334,7 +324,7 @@ Diggie removes all debuffs on nearby allied heroes (including himself) and grant
 
 ### Who Diggie counters
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ## Diggie skins
 
@@ -364,7 +354,7 @@ Level "Auto Alarm Bomb" first and take the ultimate whenever it is available. St
 
 What is Diggie’s win rate right now?
 
-56.06% at Mythical Glory over the last 7 days and 54.42% across all ranks over 30 days, as of 26 November 2026.
+56.10% at Mythical Glory over the last 7 days and 54.45% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Diggie play?
 

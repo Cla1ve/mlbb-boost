@@ -1,6 +1,6 @@
 ---
 title: "Гатоткача MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Гатоткача, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Гатоткачу. Танк и боец, 44,21% побед, тир C."
+description: "Гатоткача, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Гатоткачу. Танк и боец, 44,24% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/gatotkaca.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Массовый контроль
 -   Разрушительный урон
-
-### Победы по рангам, 30 дней
-
-1.  **48,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **45,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **44,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **44,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -334,7 +324,7 @@ C
 
 ### Кого контрит Гатоткача
 
-[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 ## Скины Гатоткачи
 
@@ -364,7 +354,7 @@ C
 
 Какой процент побед у Гатоткачи сейчас?
 
-44,21% в Мифической славе за последние 7 дней и 45,38% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+44,24% в Мифической славе за последние 7 дней и 45,39% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Гатоткачи?
 

@@ -1,6 +1,6 @@
 ---
 title: "Эймон MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Эймон, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эймона. Убийца, 49,69% побед, тир C."
+description: "Эймон, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эймона. Убийца, 49,49% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aamon.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-49,7%
+49,5%
 
 Выбор
 
@@ -27,7 +27,7 @@ C
 
 Баны
 
-0,9%
+1,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ C
 
 -   Преследование
 -   Магический урон
-
-### Победы по рангам, 30 дней
-
-1.  **49,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,3%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
@@ -343,7 +333,7 @@ C
 
 ### Кого контрит Эймон
 
-[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ## Скины Эймона
 
@@ -373,7 +363,7 @@ C
 
 Какой процент побед у Эймона сейчас?
 
-49,69% в Мифической славе за последние 7 дней и 50,09% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,49% в Мифической славе за последние 7 дней и 50,05% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Эймона?
 
@@ -381,7 +371,7 @@ C
 
 Стоит ли брать Эймона в текущей мете?
 
-Тир C, 84-е место из 133 героев и 19-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 49,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 84-е место из 133 героев и 19-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,0% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Эймона лучшая?
 

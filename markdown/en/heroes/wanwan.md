@@ -1,6 +1,6 @@
 ---
 title: "Wanwan MLBB: build, combos and counters | MLBB Boost"
-description: "Wanwan in Mobile Legends: ranked build, skill combos, how to play and who counters Wanwan. Marksman, 47.07% win rate, tier D."
+description: "Wanwan in Mobile Legends: ranked build, skill combos, how to play and who counters Wanwan. Marksman, 47.06% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/wanwan.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Finisher
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **45.6%**![](/images/ranks/Epic.webp)Epic
-2.  **48.0%**![](/images/ranks/Legend.webp)Legend
-3.  **47.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -285,11 +275,11 @@ Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit 
 
 ### Who counters Wanwan
 
-[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)
 
 ### Who Wanwan counters
 
-[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Wanwan skins
 
@@ -311,7 +301,7 @@ Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit 
 
 Who counters Wanwan in MLBB?
 
-Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and Hanabi.
+Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and Gloo.
 
 How do you play Wanwan?
 
@@ -319,7 +309,7 @@ Level "Swallow’s Path" first and take the ultimate whenever it is available. S
 
 What is Wanwan’s win rate right now?
 
-47.07% at Mythical Glory over the last 7 days and 47.50% across all ranks over 30 days, as of 26 November 2026.
+47.06% at Mythical Glory over the last 7 days and 47.49% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Wanwan play?
 

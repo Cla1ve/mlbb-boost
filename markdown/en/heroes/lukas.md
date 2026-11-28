@@ -1,6 +1,6 @@
 ---
 title: "Lukas MLBB: build, combos and counters | MLBB Boost"
-description: "Lukas in Mobile Legends: ranked build, skill combos, how to play and who counters Lukas. Fighter, 50.83% win rate, tier A."
+description: "Lukas in Mobile Legends: ranked build, skill combos, how to play and who counters Lukas. Fighter, 50.82% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
@@ -13,7 +13,7 @@ language: en
 
 # Lukas
 
-A
+B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-29.7%
+28.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,24 +43,14 @@ Ban rate
 -   Regen
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **50.6%**![](/images/ranks/Epic.webp)Epic
-2.  **51.2%**![](/images/ranks/Legend.webp)Legend
-3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**8 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**8 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**9 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**9 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -345,7 +335,7 @@ Ultimate
 
 ### Who counters Lukas
 
-[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ### Who Lukas counters
 
@@ -371,7 +361,7 @@ Ultimate
 
 Who counters Lukas in MLBB?
 
-Over the last 30 days the toughest opponents are Ling, Natalia, Fanny, Arlott and Helcurt.
+Over the last 30 days the toughest opponents are Ling, Natalia, Fanny, Helcurt and Arlott.
 
 How do you play Lukas?
 
@@ -379,7 +369,7 @@ Level "Flash Combo" first and take the ultimate whenever it is available. Strong
 
 What is Lukas’s win rate right now?
 
-50.83% at Mythical Glory over the last 7 days and 51.73% across all ranks over 30 days, as of 26 November 2026.
+50.82% at Mythical Glory over the last 7 days and 51.67% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Lukas play?
 
@@ -387,7 +377,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Lukas strong in the current meta?
 
-Tier A, #27 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 29.7% of matches, 50.8% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
+Tier B, #28 of 133 heroes and #9 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 28.6% of matches, 50.8% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
 
 What is the best build for Lukas?
 

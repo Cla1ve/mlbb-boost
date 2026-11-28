@@ -1,6 +1,6 @@
 ---
 title: "Pharsa MLBB: build, combos and counters | MLBB Boost"
-description: "Pharsa in Mobile Legends: ranked build, skill combos, how to play and who counters Pharsa. Mage, 46.65% win rate, tier D."
+description: "Pharsa in Mobile Legends: ranked build, skill combos, how to play and who counters Pharsa. Mage, 46.70% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/pharsa.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-46.6%
+46.7%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.0%
+0.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ Ban rate
 -   Burst
 -   Poke
 
-### Win rate by rank, 30 days
-
-1.  **48.0%**![](/images/ranks/Epic.webp)Epic
-2.  **47.4%**![](/images/ranks/Legend.webp)Legend
-3.  **47.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -344,7 +334,7 @@ This state ends immediately when she is controlled or uses a Basic Attack or ski
 
 ### Who counters Pharsa
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
 
 ## Pharsa skins
 
@@ -366,7 +356,7 @@ This state ends immediately when she is controlled or uses a Basic Attack or ski
 
 Who counters Pharsa in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Diggie, Melissa, Yve and Valir.
+Over the last 30 days the toughest opponents are Lolita, Melissa, Diggie, Yve and Valir.
 
 How do you play Pharsa?
 
@@ -374,7 +364,7 @@ Level "Feathered Air Strike" first and take the ultimate whenever it is availabl
 
 What is Pharsa’s win rate right now?
 
-46.65% at Mythical Glory over the last 7 days and 47.18% across all ranks over 30 days, as of 26 November 2026.
+46.70% at Mythical Glory over the last 7 days and 47.17% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Pharsa play?
 
@@ -382,7 +372,7 @@ Mage, played in the Mid Lane.
 
 Is Pharsa strong in the current meta?
 
-Tier D, #123 of 133 heroes and #31 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.6% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
+Tier D, #123 of 133 heroes and #31 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
 
 What is the best build for Pharsa?
 

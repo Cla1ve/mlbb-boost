@@ -1,6 +1,6 @@
 ---
 title: "Arlott MLBB: build, combos and counters | MLBB Boost"
-description: "Arlott in Mobile Legends: ranked build, skill combos, how to play and who counters Arlott. Fighter and assassin, 48.04% win rate, tier B."
+description: "Arlott in Mobile Legends: ranked build, skill combos, how to play and who counters Arlott. Fighter and assassin, 48.06% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-48.0%
+48.1%
 
 Pick rate
 
@@ -43,16 +43,6 @@ Ban rate
 -   Charge
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **46.6%**![](/images/ranks/Epic.webp)Epic
-2.  **46.4%**![](/images/ranks/Legend.webp)Legend
-3.  **46.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
@@ -60,7 +50,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB fighters**18 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
--   [Best MLBB assassins**13 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB assassins**14 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
 
@@ -368,7 +358,7 @@ Level "Vengeance" first and take the ultimate whenever it is available. Stronger
 
 What is Arlott’s win rate right now?
 
-48.04% at Mythical Glory over the last 7 days and 47.46% across all ranks over 30 days, as of 26 November 2026.
+48.06% at Mythical Glory over the last 7 days and 47.46% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Arlott play?
 
@@ -376,7 +366,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Arlott strong in the current meta?
 
-Tier B, #63 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 48.0% win rate. In professional games over the last month the hero is drafted in 12.5% of them.
+Tier B, #64 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 12.5% of them.
 
 What is the best build for Arlott?
 

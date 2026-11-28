@@ -1,6 +1,6 @@
 ---
 title: "Suyou MLBB: build, combos and counters | MLBB Boost"
-description: "Suyou in Mobile Legends: ranked build, skill combos, how to play and who counters Suyou. Fighter and assassin, 49.42% win rate, tier B."
+description: "Suyou in Mobile Legends: ranked build, skill combos, how to play and who counters Suyou. Fighter and assassin, 49.40% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/suyou.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-1.9%
+2.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,24 +43,14 @@ Ban rate
 -   Chase
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **50.2%**![](/images/ranks/Legend.webp)Legend
-3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.4%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**9 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**9 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**8 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**8 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB assassins**5 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
@@ -373,7 +363,7 @@ Level "Soul Sever" first and take the ultimate whenever it is available. Stronge
 
 What is Suyou’s win rate right now?
 
-49.42% at Mythical Glory over the last 7 days and 49.69% across all ranks over 30 days, as of 26 November 2026.
+49.40% at Mythical Glory over the last 7 days and 49.68% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Suyou play?
 
@@ -381,7 +371,7 @@ Fighter and assassin, played in the jungle.
 
 Is Suyou strong in the current meta?
 
-Tier B, #28 of 133 heroes and #9 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
+Tier B, #27 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.0% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
 
 What is the best build for Suyou?
 

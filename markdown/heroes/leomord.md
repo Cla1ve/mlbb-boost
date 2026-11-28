@@ -1,6 +1,6 @@
 ---
 title: "Леоморд MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Леоморд, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Леоморда. Боец, 49,99% побед, тир C."
+description: "Леоморд, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Леоморда. Боец, 50,02% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/leomord.html
 language: ru
 ---
@@ -45,7 +45,7 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **51,7%**![](/images/ranks/Epic.webp)Эпик
+1.  **51,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,0%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -55,7 +55,7 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
 
 ### Места в рейтингах
 
@@ -373,7 +373,7 @@ C
 
 Какой процент побед у Леоморда сейчас?
 
-49,99% в Мифической славе за последние 7 дней и 50,02% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,02% в Мифической славе за последние 7 дней и 50,01% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Леоморда?
 

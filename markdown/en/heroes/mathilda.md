@@ -43,16 +43,6 @@ Ban rate
 -   Initiator
 -   Guard
 
-### Win rate by rank, 30 days
-
-1.  **46.9%**![](/images/ranks/Epic.webp)Epic
-2.  **45.4%**![](/images/ranks/Legend.webp)Legend
-3.  **45.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **45.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **43.9%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More assassins on this lane
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
@@ -341,7 +331,7 @@ Mathilda gains Control Immunity and a 400 (+180% Total Magic Power) shield for t
 
 ### Who Mathilda counters
 
-[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
 ## Mathilda skins
 
@@ -371,7 +361,7 @@ Level "Soul Bloom" first and take the ultimate whenever it is available. Stronge
 
 What is Mathilda’s win rate right now?
 
-44.01% at Mythical Glory over the last 7 days and 44.46% across all ranks over 30 days, as of 26 November 2026.
+44.01% at Mythical Glory over the last 7 days and 44.45% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Mathilda play?
 

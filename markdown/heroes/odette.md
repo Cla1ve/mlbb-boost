@@ -1,6 +1,6 @@
 ---
 title: "Одетта MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Одетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Одетту. Маг, 51,14% побед, тир C."
+description: "Одетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Одетту. Маг, 51,17% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/odette.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-51,1%
+51,2%
 
 Выбор
 
@@ -43,19 +43,9 @@ C
 -   Разрушительный урон
 -   Поук
 
-### Победы по рангам, 30 дней
-
-1.  **47,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Места в рейтингах
 
@@ -337,7 +327,7 @@ C
 
 ### Кого контрит Одетта
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
 
 ## Скины Одетты
 
@@ -367,7 +357,7 @@ C
 
 Какой процент побед у Одетты сейчас?
 
-51,14% в Мифической славе за последние 7 дней и 49,75% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,17% в Мифической славе за последние 7 дней и 49,77% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Одетты?
 
@@ -375,7 +365,7 @@ C
 
 Стоит ли брать Одетту в текущей мете?
 
-Тир C, 96-е место из 133 героев и 23-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 96-е место из 133 героев и 23-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Одетту лучшая?
 

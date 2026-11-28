@@ -1,6 +1,6 @@
 ---
 title: "Leomord MLBB: build, combos and counters | MLBB Boost"
-description: "Leomord in Mobile Legends: ranked build, skill combos, how to play and who counters Leomord. Fighter, 49.99% win rate, tier C."
+description: "Leomord in Mobile Legends: ranked build, skill combos, how to play and who counters Leomord. Fighter, 50.02% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/leomord.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.7%**![](/images/ranks/Epic.webp)Epic
+1.  **51.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.4%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.0%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -55,7 +55,7 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ### Places in the rankings
 
@@ -373,7 +373,7 @@ Level "Momentum" first and take the ultimate whenever it is available. Even thro
 
 What is Leomord’s win rate right now?
 
-49.99% at Mythical Glory over the last 7 days and 50.02% across all ranks over 30 days, as of 26 November 2026.
+50.02% at Mythical Glory over the last 7 days and 50.01% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Leomord play?
 

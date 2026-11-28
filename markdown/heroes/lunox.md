@@ -1,6 +1,6 @@
 ---
 title: "Люнокс MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Люнокс, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Люнокс. Маг, 51,91% побед, тир B."
+description: "Люнокс, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Люнокс. Маг, 51,89% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lunox.html
 language: ru
 ---
@@ -43,19 +43,9 @@ B
 -   Разрушительный урон
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **50,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
@@ -382,7 +372,7 @@ B
 
 Какой процент побед у Люнокс сейчас?
 
-51,91% в Мифической славе за последние 7 дней и 51,04% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,89% в Мифической славе за последние 7 дней и 51,12% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Люнокс?
 
@@ -390,7 +380,7 @@ B
 
 Стоит ли брать Люнокс в текущей мете?
 
-Тир B, 51-е место из 133 героев и 12-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 51,9% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
+Тир B, 52-е место из 133 героев и 12-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 51,9% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
 
 Какая сборка на Люнокс лучшая?
 

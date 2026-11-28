@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие стрелки MLBB
 
-23 героя · Обновлено 26 ноября
+23 героя · Обновлено 27 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,5% побед и бан в 65,6% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
+Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,5% побед и бан в 65,9% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -33,11 +33,11 @@ S
 
 Выбор
 
-2,4%
+2,3%
 
 Баны
 
-65,6%
+65,9%
 
 [
 
@@ -137,7 +137,7 @@ A
 
 Победы
 
-54,4%
+54,5%
 
 Выбор
 
@@ -145,7 +145,7 @@ A
 
 Баны
 
-0,5%
+0,6%
 
 [
 
@@ -207,9 +207,9 @@ S
 
 52,5%
 
-2,4%
+2,3%
 
-65,6%
+65,9%
 
 44,8%
 
@@ -233,11 +233,11 @@ A
 
 A
 
-54,4%
+54,5%
 
 1,0%
 
-0,5%
+0,6%
 
 37,0%
 
@@ -247,11 +247,11 @@ A
 
 B
 
-48,8%
+48,7%
 
 2,0%
 
-5,4%
+5,5%
 
 6,8%
 
@@ -261,7 +261,7 @@ B
 
 B
 
-50,2%
+50,1%
 
 0,9%
 
@@ -289,7 +289,7 @@ B
 
 B
 
-51,4%
+51,5%
 
 1,6%
 
@@ -317,7 +317,7 @@ B
 
 B
 
-48,5%
+48,4%
 
 1,0%
 
@@ -429,7 +429,7 @@ C
 
 C
 
-49,0%
+49,2%
 
 0,6%
 
@@ -457,7 +457,7 @@ C
 
 C
 
-51,5%
+51,4%
 
 0,4%
 
@@ -485,11 +485,11 @@ C
 
 C
 
-48,7%
+48,9%
 
 0,3%
 
-0,8%
+0,7%
 
 —
 
@@ -513,7 +513,7 @@ D
 
 D
 
-46,3%
+46,4%
 
 0,2%
 
@@ -536,11 +536,11 @@ D
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
-1.  [![](/images/heroes/hanabi.webp)Ханаби53,6%](https://boostmlbb.ru/heroes/hanabi.html)
-2.  [![](/images/heroes/edith.webp)Эдит53,5%](https://boostmlbb.ru/heroes/edith.html)
-3.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,4%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
-4.  [![](/images/heroes/irithel.webp)Иритель52,7%](https://boostmlbb.ru/heroes/irithel.html)
-5.  [![](/images/heroes/bruno.webp)Бруно52,5%](https://boostmlbb.ru/heroes/bruno.html)
+1.  [![](/images/heroes/hanabi.webp)Ханаби53,7%](https://boostmlbb.ru/heroes/hanabi.html)
+2.  [![](/images/heroes/edith.webp)Эдит53,6%](https://boostmlbb.ru/heroes/edith.html)
+3.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,2%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+4.  [![](/images/heroes/irithel.webp)Иритель52,6%](https://boostmlbb.ru/heroes/irithel.html)
+5.  [![](/images/heroes/bruno.webp)Бруно52,4%](https://boostmlbb.ru/heroes/bruno.html)
 6.  [![](/images/heroes/natan.webp)Натан50,9%](https://boostmlbb.ru/heroes/natan.html)
 
 ## Кто обыгрывает стрелков
@@ -562,7 +562,7 @@ D
 
 Кто лучший стрелок в MLBB сейчас?
 
-Обсидия: тир S, 52,5% побед, бан в 65,6% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 26 ноября 2026 года.
+Обсидия: тир S, 52,5% побед, бан в 65,9% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 27 ноября 2026 года.
 
 Что выбрать новичку среди стрелков?
 
@@ -570,11 +570,11 @@ D
 
 Каких стрелков чаще всего банят?
 
-Обсидия (65,6%), Лесли (5,4%) и Мия (1,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Обсидия (65,9%), Лесли (5,5%) и Мия (1,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько стрелков в Mobile Legends?
 
-23 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Стрелок».
+23 из 133 героев на 27 ноября 2026 года. В списке все герои роли «Стрелок».
 
 Какие предметы чаще всего собирают на стрелках?
 

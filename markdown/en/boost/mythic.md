@@ -33,7 +33,7 @@ Total**6,250 ₽**
 
 **about 6 h**median Mythic order
 
-**1,325**reviews on Telegram
+**1,327**reviews on Telegram
 
 **120 ₽**per Mythic star
 

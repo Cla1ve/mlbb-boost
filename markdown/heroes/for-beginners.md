@@ -11,11 +11,11 @@ language: ru
 
 # Лучшие герои для новичков в MLBB
 
-34 героя · Обновлено 26 ноября
+17 героев · Обновлено 27 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Новичку проще начинать с героев, у которых в игре сложность от 10 до 30 из 100. Таких героев 43, и у 34 из них в Эпике и Легенде не меньше 49% побед. Лучше всех выигрывают Марсель, Маша и Белерик.
+Новичку проще начинать с героев, у которых в игре сложность от 10 до 30 из 100. Таких героев 43, и у 17 из них в Эпике и Легенде не меньше 49% побед. Лучше всех выигрывают Марсель, Маша и Белерик.
 
 ## Три героя для старта
 
@@ -29,7 +29,7 @@ S
 
 Победы, Эпик
 
-55,5%
+55,4%
 
 Победы, Легенда
 
@@ -87,7 +87,7 @@ S
 
 Победы, Легенда
 
-57,7%
+57,6%
 
 Сложность
 
@@ -187,39 +187,32 @@ S
 
 ### ![](/images/mlbb/filters/tank.webp)Простые танки
 
-1.  [![](/images/heroes/masha.webp)Маша56,0%](https://boostmlbb.ru/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Маша55,9%](https://boostmlbb.ru/heroes/masha.html)
 2.  [![](/images/heroes/belerick.webp)Белерик55,3%](https://boostmlbb.ru/heroes/belerick.html)
 3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Кармилла54,3%](https://boostmlbb.ru/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Простые бойцы
 
-1.  [![](/images/heroes/masha.webp)Маша56,0%](https://boostmlbb.ru/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Маша55,9%](https://boostmlbb.ru/heroes/masha.html)
 2.  [![](/images/heroes/hilda.webp)Хильда54,2%](https://boostmlbb.ru/heroes/hilda.html)
-3.  [![](/images/heroes/minsitthar.webp)Минситтар53,2%](https://boostmlbb.ru/heroes/minsitthar.html)
+3.  [![](/images/heroes/minsitthar.webp)Минситтар53,3%](https://boostmlbb.ru/heroes/minsitthar.html)
 4.  [![](/images/heroes/silvanna.webp)Сильвана52,2%](https://boostmlbb.ru/heroes/silvanna.html)
-
-### ![](/images/mlbb/filters/assassin.webp)Простые убийцы
-
-1.  [![](/images/heroes/saber.webp)Сабер49,2%](https://boostmlbb.ru/heroes/saber.html)
 
 ### ![](/images/mlbb/filters/mage.webp)Простые маги
 
 1.  [![](/images/heroes/valir.webp)Валир54,2%](https://boostmlbb.ru/heroes/valir.html)
 2.  [![](/images/heroes/gord.webp)Горд52,5%](https://boostmlbb.ru/heroes/gord.html)
-3.  [![](/images/heroes/zetian.webp)Цзэтянь51,5%](https://boostmlbb.ru/heroes/zetian.html)
-4.  [![](/images/heroes/vale.webp)Вэйл51,2%](https://boostmlbb.ru/heroes/vale.html)
+3.  [![](/images/heroes/vale.webp)Вэйл51,2%](https://boostmlbb.ru/heroes/vale.html)
 
 ### ![](/images/mlbb/filters/marksman.webp)Простые стрелки
 
 1.  [![](/images/heroes/hanabi.webp)Ханаби54,2%](https://boostmlbb.ru/heroes/hanabi.html)
 2.  [![](/images/heroes/obsidia.webp)Обсидия52,2%](https://boostmlbb.ru/heroes/obsidia.html)
-3.  [![](/images/heroes/irithel.webp)Иритель51,2%](https://boostmlbb.ru/heroes/irithel.html)
-4.  [![](/images/heroes/layla.webp)Лейла50,5%](https://boostmlbb.ru/heroes/layla.html)
 
 ### ![](/images/mlbb/filters/support.webp)Простые герои поддержки
 
-1.  [![](/images/heroes/marcel.webp)Марсель56,2%](https://boostmlbb.ru/heroes/marcel.html)
+1.  [![](/images/heroes/marcel.webp)Марсель56,1%](https://boostmlbb.ru/heroes/marcel.html)
 2.  [![](/images/heroes/floryn.webp)Флорин55,0%](https://boostmlbb.ru/heroes/floryn.html)
 3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Кармилла54,3%](https://boostmlbb.ru/heroes/carmilla.html)
@@ -246,7 +239,7 @@ S
 
 30
 
-55,5%
+55,4%
 
 56,8%
 
@@ -260,7 +253,7 @@ S
 
 54,3%
 
-57,7%
+57,6%
 
 0,5%
 
@@ -322,7 +315,7 @@ S
 
 54,2%
 
-1,2%
+1,3%
 
 [![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
@@ -344,7 +337,7 @@ S
 
 54,4%
 
-53,9%
+54,0%
 
 2,4%
 
@@ -378,7 +371,7 @@ S
 
 30
 
-52,4%
+52,5%
 
 52,6%
 
@@ -408,77 +401,17 @@ S
 
 2,1%
 
-[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)
-
-боец
-
-20
-
-51,5%
-
-52,3%
-
-0,7%
-
-[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)
-
-маг
-
-10
-
-50,9%
-
-52,1%
-
-1,6%
-
-[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
-
-танк, боец
-
-20
-
-51,2%
-
-51,6%
-
-0,3%
-
-[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
-
-танк
-
-30
-
-51,4%
-
-51,2%
-
-0,3%
-
 [![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 танк
 
 20
 
-51,7%
+51,8%
 
 50,9%
 
 0,3%
-
-[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
-
-стрелок
-
-30
-
-50,3%
-
-52,1%
-
-0,4%
 
 [![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
 
@@ -492,161 +425,17 @@ S
 
 0,5%
 
-[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
-
-поддержка
-
-30
-
-50,9%
-
-51,4%
-
-0,2%
-
 [![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 боец
 
 30
 
-51,7%
+51,8%
 
 50,4%
 
 0,3%
-
-[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)
-
-боец
-
-30
-
-50,6%
-
-51,2%
-
-0,8%
-
-[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)
-
-стрелок
-
-20
-
-50,9%
-
-50,2%
-
-1,9%
-
-[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
-
-стрелок
-
-30
-
-50,3%
-
-50,6%
-
-0,3%
-
-[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)
-
-боец
-
-30
-
-50,1%
-
-50,5%
-
-1,3%
-
-[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
-
-боец
-
-20
-
-50,0%
-
-50,0%
-
-0,7%
-
-[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)
-
-маг
-
-10
-
-50,1%
-
-49,8%
-
-1,5%
-
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)
-
-маг
-
-20
-
-49,5%
-
-50,1%
-
-1,8%
-
-[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)
-
-стрелок
-
-30
-
-49,3%
-
-50,0%
-
-0,8%
-
-[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
-
-боец
-
-10
-
-50,2%
-
-49,0%
-
-1,3%
-
-[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
-
-маг
-
-20
-
-49,9%
-
-48,5%
-
-1,7%
-
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
-
-убийца
-
-30
-
-48,4%
-
-50,0%
-
-1,0%
 
 ## Какие роли проще
 

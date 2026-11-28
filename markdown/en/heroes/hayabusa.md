@@ -43,16 +43,6 @@ Ban rate
 -   Chase
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **47.4%**![](/images/ranks/Epic.webp)Epic
-2.  **47.8%**![](/images/ranks/Legend.webp)Legend
-3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More assassins on this lane
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
@@ -338,7 +328,7 @@ The attacks prioritize enemies with Shadow Mark and each will consume a mark to 
 
 ### Who counters Hayabusa
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)
 
 ### Who Hayabusa counters
 
@@ -364,7 +354,7 @@ The attacks prioritize enemies with Shadow Mark and each will consume a mark to 
 
 Who counters Hayabusa in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and X.Borg.
+Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and Karrie.
 
 How do you play Hayabusa?
 
@@ -372,7 +362,7 @@ Level "Ninjutsu: Phantom Shuriken" first and take the ultimate whenever it is av
 
 What is Hayabusa’s win rate right now?
 
-48.40% at Mythical Glory over the last 7 days and 48.19% across all ranks over 30 days, as of 26 November 2026.
+48.40% at Mythical Glory over the last 7 days and 48.19% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Hayabusa play?
 

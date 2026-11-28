@@ -1,6 +1,6 @@
 ---
 title: "Kaja MLBB: build, combos and counters | MLBB Boost"
-description: "Kaja in Mobile Legends: ranked build, skill combos, how to play and who counters Kaja. Support, 49.58% win rate, tier B."
+description: "Kaja in Mobile Legends: ranked build, skill combos, how to play and who counters Kaja. Support, 49.61% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kaja.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-30.8%
+30.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Initiator
 -   Charge
-
-### Win rate by rank, 30 days
-
-1.  **48.5%**![](/images/ranks/Epic.webp)Epic
-2.  **48.7%**![](/images/ranks/Legend.webp)Legend
-3.  **49.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.8%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More supports on this lane
 
@@ -333,7 +323,7 @@ While active, Kaja can drag the lasso, shrinking its radius and pulling enemies 
 
 ### Who counters Kaja
 
-[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)
 
 ### Who Kaja counters
 
@@ -359,7 +349,7 @@ While active, Kaja can drag the lasso, shrinking its radius and pulling enemies 
 
 Who counters Kaja in MLBB?
 
-Over the last 30 days the toughest opponents are Valir, Akai, Grock, Baxia and Beatrix.
+Over the last 30 days the toughest opponents are Valir, Akai, Grock, Baxia and Gloo.
 
 How do you play Kaja?
 
@@ -367,7 +357,7 @@ Level "Ring of Order" first and take the ultimate whenever it is available. Stro
 
 What is Kaja’s win rate right now?
 
-49.58% at Mythical Glory over the last 7 days and 49.73% across all ranks over 30 days, as of 26 November 2026.
+49.61% at Mythical Glory over the last 7 days and 49.71% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Kaja play?
 
@@ -375,7 +365,7 @@ Support, played on roam.
 
 Is Kaja strong in the current meta?
 
-Tier B, #30 of 133 heroes and #6 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 30.8% of matches, 49.6% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
+Tier B, #30 of 133 heroes and #6 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 30.6% of matches, 49.6% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
 
 What is the best build for Kaja?
 

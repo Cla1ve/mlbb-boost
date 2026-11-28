@@ -1,6 +1,6 @@
 ---
 title: "Popol and Kupa MLBB: build, combos and counters | MLBB Boost"
-description: "Popol and Kupa in Mobile Legends: ranked build, skill combos, how to play and who counters Popol and Kupa. Marksman, 48.72% win rate, tier C."
+description: "Popol and Kupa in Mobile Legends: ranked build, skill combos, how to play and who counters Popol and Kupa. Marksman, 48.88% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/popol-and-kupa.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-48.7%
+48.9%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-0.8%
+0.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,10 +45,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.2%**![](/images/ranks/Epic.webp)Epic
-2.  **53.8%**![](/images/ranks/Legend.webp)Legend
-3.  **52.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+1.  **54.1%**![](/images/ranks/Epic.webp)Epic
+2.  **53.7%**![](/images/ranks/Legend.webp)Legend
+3.  **52.8%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -358,7 +358,7 @@ During this time, Kupa turns into Alpha Wolf Form.
 
 ### Who Popol and Kupa counters
 
-[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
+[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 ## Popol and Kupa skins
 
@@ -388,7 +388,7 @@ Level "Bite 'em, Kupa!" first and take the ultimate whenever it is available. St
 
 What is Popol and Kupa’s win rate right now?
 
-48.72% at Mythical Glory over the last 7 days and 51.62% across all ranks over 30 days, as of 26 November 2026.
+48.88% at Mythical Glory over the last 7 days and 51.50% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Popol and Kupa play?
 
@@ -396,7 +396,7 @@ Marksman, played in the Gold Lane or in the jungle.
 
 Is Popol and Kupa strong in the current meta?
 
-Tier C, #111 of 133 heroes and #21 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #111 of 133 heroes and #21 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 48.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Popol and Kupa?
 

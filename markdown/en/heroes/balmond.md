@@ -1,6 +1,6 @@
 ---
 title: "Balmond MLBB: build, combos and counters | MLBB Boost"
-description: "Balmond in Mobile Legends: ranked build, skill combos, how to play and who counters Balmond. Fighter, 45.05% win rate, tier C."
+description: "Balmond in Mobile Legends: ranked build, skill combos, how to play and who counters Balmond. Fighter, 45.03% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/balmond.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Damage
 -   Regen
 
-### Win rate by rank, 30 days
-
-1.  **47.2%**![](/images/ranks/Epic.webp)Epic
-2.  **47.5%**![](/images/ranks/Legend.webp)Legend
-3.  **47.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -333,7 +323,7 @@ Damage dealt to non-hero units is capped at 1000 True Damage.
 
 ### Who counters Balmond
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
 ### Who Balmond counters
 
@@ -359,7 +349,7 @@ Damage dealt to non-hero units is capped at 1000 True Damage.
 
 Who counters Balmond in MLBB?
 
-Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and Phoveus.
+Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and Martis.
 
 How do you play Balmond?
 
@@ -367,7 +357,7 @@ Level "Cyclone Sweep" first and take the ultimate whenever it is available. Stro
 
 What is Balmond’s win rate right now?
 
-45.05% at Mythical Glory over the last 7 days and 46.60% across all ranks over 30 days, as of 26 November 2026.
+45.03% at Mythical Glory over the last 7 days and 46.59% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Balmond play?
 

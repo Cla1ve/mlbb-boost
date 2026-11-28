@@ -1,6 +1,6 @@
 ---
 title: "Masha MLBB: build, combos and counters | MLBB Boost"
-description: "Masha in Mobile Legends: ranked build, skill combos, how to play and who counters Masha. Tank and fighter, 58.84% win rate, tier S."
+description: "Masha in Mobile Legends: ranked build, skill combos, how to play and who counters Masha. Tank and fighter, 58.87% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
@@ -19,7 +19,7 @@ S
 
 Win rate
 
-58.8%
+58.9%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-66.8%
+66.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,10 +46,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **54.3%**![](/images/ranks/Epic.webp)Epic
-2.  **57.7%**![](/images/ranks/Legend.webp)Legend
-3.  **59.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **60.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **60.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+2.  **57.6%**![](/images/ranks/Legend.webp)Legend
+3.  **59.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **60.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **60.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -343,7 +343,7 @@ Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Dam
 
 ### Who Masha counters
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
 ## Masha skins
 
@@ -373,7 +373,7 @@ Level "Claw Strike" first and take the ultimate whenever it is available. Even t
 
 What is Masha’s win rate right now?
 
-58.84% at Mythical Glory over the last 7 days and 60.12% across all ranks over 30 days, as of 26 November 2026.
+58.87% at Mythical Glory over the last 7 days and 60.04% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Masha play?
 
@@ -381,7 +381,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Masha strong in the current meta?
 
-Tier S, #1 of 133 heroes and #1 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 66.8% of matches, 58.8% win rate. In professional games over the last month the hero is drafted in 100.0% of them.
+Tier S, #1 of 133 heroes and #1 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 66.5% of matches, 58.9% win rate. In professional games over the last month the hero is drafted in 100.0% of them.
 
 What is the best build for Masha?
 

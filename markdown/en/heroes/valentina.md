@@ -43,19 +43,9 @@ Ban rate
 -   Burst
 -   Finisher
 
-### Win rate by rank, 30 days
-
-1.  **42.5%**![](/images/ranks/Epic.webp)Epic
-2.  **42.3%**![](/images/ranks/Legend.webp)Legend
-3.  **42.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -340,7 +330,7 @@ If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Powe
 
 ### Who counters Valentina
 
-[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ### Who Valentina counters
 
@@ -366,7 +356,7 @@ If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Powe
 
 Who counters Valentina in MLBB?
 
-Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lolita and Lukas.
+Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lukas and Lolita.
 
 How do you play Valentina?
 
@@ -374,7 +364,7 @@ Level "Shadow Strike" first and take the ultimate whenever it is available. Even
 
 What is Valentina’s win rate right now?
 
-44.60% at Mythical Glory over the last 7 days and 44.61% across all ranks over 30 days, as of 26 November 2026.
+44.60% at Mythical Glory over the last 7 days and 44.58% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Valentina play?
 
@@ -382,7 +372,7 @@ Mage, played in the Mid Lane.
 
 Is Valentina strong in the current meta?
 
-Tier B, #55 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 44.6% win rate. In professional games over the last month the hero is drafted in 32.8% of them.
+Tier B, #56 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 44.6% win rate. In professional games over the last month the hero is drafted in 32.8% of them.
 
 What is the best build for Valentina?
 

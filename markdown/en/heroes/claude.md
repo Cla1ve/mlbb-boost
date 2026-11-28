@@ -1,6 +1,6 @@
 ---
 title: "Claude MLBB: build, combos and counters | MLBB Boost"
-description: "Claude in Mobile Legends: ranked build, skill combos, how to play and who counters Claude. Marksman, 48.46% win rate, tier B."
+description: "Claude in Mobile Legends: ranked build, skill combos, how to play and who counters Claude. Marksman, 48.42% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-48.5%
+48.4%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Burst
 -   Chase
-
-### Win rate by rank, 30 days
-
-1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **49.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.4%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -364,7 +354,7 @@ Level "Art of Thievery" first and take the ultimate whenever it is available. St
 
 What is Claude’s win rate right now?
 
-48.46% at Mythical Glory over the last 7 days and 48.84% across all ranks over 30 days, as of 26 November 2026.
+48.42% at Mythical Glory over the last 7 days and 48.84% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Claude play?
 
@@ -372,7 +362,7 @@ Marksman, played in the Gold Lane.
 
 Is Claude strong in the current meta?
 
-Tier B, #50 of 133 heroes and #9 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 16.4% of them.
+Tier B, #50 of 133 heroes and #9 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 16.4% of them.
 
 What is the best build for Claude?
 

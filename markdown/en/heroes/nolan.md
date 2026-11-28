@@ -1,6 +1,6 @@
 ---
 title: "Nolan MLBB: build, combos and counters | MLBB Boost"
-description: "Nolan in Mobile Legends: ranked build, skill combos, how to play and who counters Nolan. Assassin, 50.49% win rate, tier S."
+description: "Nolan in Mobile Legends: ranked build, skill combos, how to play and who counters Nolan. Assassin, 50.52% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
@@ -23,11 +23,11 @@ Win rate
 
 Pick rate
 
-2.5%
+2.4%
 
 Ban rate
 
-40.5%
+41.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Burst
-
-### Win rate by rank, 30 days
-
-1.  **48.7%**![](/images/ranks/Epic.webp)Epic
-2.  **48.3%**![](/images/ranks/Legend.webp)Legend
-3.  **48.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.4%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -366,7 +356,7 @@ Level "Expansion" first and take the ultimate whenever it is available. Stronger
 
 What is Nolan’s win rate right now?
 
-50.49% at Mythical Glory over the last 7 days and 49.75% across all ranks over 30 days, as of 26 November 2026.
+50.52% at Mythical Glory over the last 7 days and 49.76% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Nolan play?
 
@@ -374,7 +364,7 @@ Assassin, played in the jungle.
 
 Is Nolan strong in the current meta?
 
-Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 40.5% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
+Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 41.5% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
 
 What is the best build for Nolan?
 

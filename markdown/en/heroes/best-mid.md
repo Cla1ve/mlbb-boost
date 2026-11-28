@@ -11,7 +11,7 @@ language: en
 
 # Best MLBB mid laners
 
-29 heroes · Updated 26 November
+29 heroes · Updated 27 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -91,7 +91,7 @@ Pick rate
 
 Ban rate
 
-33.1%
+32.9%
 
 [
 
@@ -137,7 +137,7 @@ A
 
 Win rate
 
-49.5%
+49.6%
 
 Pick rate
 
@@ -223,7 +223,7 @@ A
 
 1.6%
 
-33.1%
+32.9%
 
 24.7%
 
@@ -233,7 +233,7 @@ A
 
 A
 
-49.5%
+49.6%
 
 0.3%
 
@@ -251,7 +251,7 @@ A
 
 1.3%
 
-4.1%
+4.2%
 
 40.7%
 
@@ -275,15 +275,29 @@ A
 
 A
 
-48.4%
+48.3%
 
 1.4%
 
-3.5%
+3.4%
 
 32.9%
 
 7
+
+[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
+
+B
+
+53.3%
+
+1.9%
+
+1.5%
+
+1.0%
+
+8
 
 [![](/images/heroes/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)
 
@@ -296,20 +310,6 @@ B
 0.2%
 
 37.3%
-
-8
-
-[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
-
-B
-
-53.3%
-
-1.8%
-
-1.4%
-
-1.0%
 
 9
 
@@ -363,7 +363,7 @@ B
 
 1.1%
 
-1.4%
+1.5%
 
 0.5%
 
@@ -387,7 +387,7 @@ B
 
 B
 
-51.1%
+51.2%
 
 0.9%
 
@@ -403,7 +403,7 @@ B
 
 48.9%
 
-1.1%
+1.2%
 
 1.8%
 
@@ -425,20 +425,6 @@ C
 
 17
 
-[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)
-
-C
-
-48.5%
-
-1.1%
-
-0.4%
-
-—
-
-18
-
 [![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 C
@@ -451,13 +437,27 @@ C
 
 1.4%
 
+18
+
+[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)
+
+C
+
+48.5%
+
+1.1%
+
+0.4%
+
+—
+
 19
 
 [![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 C
 
-51.6%
+51.5%
 
 0.1%
 
@@ -485,7 +485,7 @@ C
 
 C
 
-51.1%
+51.2%
 
 0.4%
 
@@ -513,7 +513,7 @@ C
 
 C
 
-48.7%
+48.6%
 
 0.5%
 
@@ -583,11 +583,11 @@ C
 
 D
 
-46.6%
+46.7%
 
 0.2%
 
-0.0%
+0.1%
 
 0.6%
 
@@ -646,7 +646,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best mid laner in MLBB right now?
 
-Kimmy: tier A, 48.1% win rate, banned in 0.5% of Mythical Glory games over 7 days. Eudora and Zhuxin follow. Data as of 26 November 2026.
+Kimmy: tier A, 48.1% win rate, banned in 0.5% of Mythical Glory games over 7 days. Eudora and Zhuxin follow. Data as of 27 November 2026.
 
 Which of the mid laners should a beginner pick?
 
@@ -654,11 +654,11 @@ Zetian, Vexana and Vale are the easiest to play: their difficulty on the in-game
 
 Which mid laners get banned most?
 
-Eudora (33.1%), Valir (4.1%) and Selena (3.5%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Eudora (32.9%), Valir (4.2%) and Selena (3.4%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many mid laners are there in Mobile Legends?
 
-29 of 133 heroes as of 26 November 2026. The list has every hero that plays the mid lane, according to the game.
+29 of 133 heroes as of 27 November 2026. The list has every hero that plays the mid lane, according to the game.
 
 Which items do mid laners build most often?
 

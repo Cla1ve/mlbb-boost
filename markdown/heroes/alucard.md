@@ -1,6 +1,6 @@
 ---
 title: "Алукард MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Алукард, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алукарда. Боец и убийца, 49,38% побед, тир C."
+description: "Алукард, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алукарда. Боец и убийца, 49,39% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/alucard.html
 language: ru
 ---
@@ -43,19 +43,9 @@ C
 -   Преследование
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **48,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,1%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
 
 ### Места в рейтингах
 
@@ -311,7 +301,7 @@ C
 
 Какой процент побед у Алукарда сейчас?
 
-49,38% в Мифической славе за последние 7 дней и 48,95% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,39% в Мифической славе за последние 7 дней и 48,97% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Алукарда?
 

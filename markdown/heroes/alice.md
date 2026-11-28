@@ -1,6 +1,6 @@
 ---
 title: "Алиса MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Алиса, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алису. Танк и маг, 50,30% побед, тир A."
+description: "Алиса, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алису. Танк и маг, 50,31% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/alice.html
 language: ru
 ---
@@ -42,16 +42,6 @@ A
 
 -   Рывок
 -   Регенерация
-
-### Победы по рангам, 30 дней
-
-1.  **50,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,7%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -345,7 +335,7 @@ A
 
 ### Кого контрит Алиса
 
-[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
 
 ## Скины Алисы
 
@@ -375,7 +365,7 @@ A
 
 Какой процент побед у Алисы сейчас?
 
-50,30% в Мифической славе за последние 7 дней и 50,61% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,31% в Мифической славе за последние 7 дней и 50,58% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Алисы?
 

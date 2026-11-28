@@ -1,6 +1,6 @@
 ---
 title: "Джулиан MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Джулиан, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джулиана. Боец и убийца, 49,27% побед, тир C."
+description: "Джулиан, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джулиана. Боец и убийца, 49,26% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/julian.html
 language: ru
 ---
@@ -43,19 +43,9 @@ C
 -   Преследование
 -   Магический урон
 
-### Победы по рангам, 30 дней
-
-1.  **51,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -368,7 +358,7 @@ C
 
 Какой процент побед у Джулиана сейчас?
 
-49,27% в Мифической славе за последние 7 дней и 49,91% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,26% в Мифической славе за последние 7 дней и 49,90% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Джулиана?
 

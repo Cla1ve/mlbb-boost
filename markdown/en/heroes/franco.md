@@ -1,6 +1,6 @@
 ---
 title: "Franco MLBB: build, combos and counters | MLBB Boost"
-description: "Franco in Mobile Legends: ranked build, skill combos, how to play and who counters Franco. Tank, 40.53% win rate, tier C."
+description: "Franco in Mobile Legends: ranked build, skill combos, how to play and who counters Franco. Tank, 40.49% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/franco.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Initiator
 -   Control
-
-### Win rate by rank, 30 days
-
-1.  **44.1%**![](/images/ranks/Epic.webp)Epic
-2.  **42.2%**![](/images/ranks/Legend.webp)Legend
-3.  **41.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **41.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **40.1%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -363,7 +353,7 @@ Level "Iron Hook" first and take the ultimate whenever it is available. Stronger
 
 What is Franco’s win rate right now?
 
-40.53% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 26 November 2026.
+40.49% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Franco play?
 

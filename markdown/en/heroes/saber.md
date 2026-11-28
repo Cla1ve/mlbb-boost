@@ -1,6 +1,6 @@
 ---
 title: "Saber MLBB: build, combos and counters | MLBB Boost"
-description: "Saber in Mobile Legends: ranked build, skill combos, how to play and who counters Saber. Assassin, 53.71% win rate, tier B."
+description: "Saber in Mobile Legends: ranked build, skill combos, how to play and who counters Saber. Assassin, 53.69% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/saber.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-13.6%
+13.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Charge
 -   Finisher
-
-### Win rate by rank, 30 days
-
-1.  **48.4%**![](/images/ranks/Epic.webp)Epic
-2.  **50.0%**![](/images/ranks/Legend.webp)Legend
-3.  **51.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **53.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -335,7 +325,7 @@ Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffec
 
 ### Who Saber counters
 
-[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
+[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
 ## Saber skins
 
@@ -365,7 +355,7 @@ Level "Orbiting Swords" first and take the ultimate whenever it is available. St
 
 What is Saber’s win rate right now?
 
-53.71% at Mythical Glory over the last 7 days and 51.29% across all ranks over 30 days, as of 26 November 2026.
+53.69% at Mythical Glory over the last 7 days and 51.31% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Saber play?
 
@@ -373,7 +363,7 @@ Assassin, played in the jungle or on roam.
 
 Is Saber strong in the current meta?
 
-Tier B, #32 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.6% of matches, 53.7% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
+Tier B, #32 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.9% of matches, 53.7% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Saber?
 

@@ -11,7 +11,7 @@ language: ru
 
 # Лучшие роумеры MLBB
 
-34 героя · Обновлено 26 ноября
+34 героя · Обновлено 27 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -91,7 +91,7 @@ S
 
 Баны
 
-14,6%
+14,5%
 
 [
 
@@ -145,7 +145,7 @@ S
 
 Баны
 
-37,3%
+37,4%
 
 [
 
@@ -223,7 +223,7 @@ S
 
 0,9%
 
-14,6%
+14,5%
 
 99,7%
 
@@ -237,7 +237,7 @@ S
 
 1,6%
 
-37,3%
+37,4%
 
 54,1%
 
@@ -251,7 +251,7 @@ S
 
 1,7%
 
-56,7%
+56,9%
 
 38,0%
 
@@ -265,7 +265,7 @@ A
 
 1,0%
 
-8,2%
+8,0%
 
 75,1%
 
@@ -279,7 +279,7 @@ A
 
 0,7%
 
-35,4%
+35,1%
 
 26,6%
 
@@ -293,7 +293,7 @@ A
 
 0,6%
 
-32,7%
+32,9%
 
 14,9%
 
@@ -305,7 +305,7 @@ A
 
 53,6%
 
-1,4%
+1,3%
 
 10,3%
 
@@ -321,7 +321,7 @@ B
 
 0,9%
 
-30,8%
+30,6%
 
 0,7%
 
@@ -335,7 +335,7 @@ B
 
 1,3%
 
-14,0%
+14,2%
 
 —
 
@@ -349,7 +349,7 @@ B
 
 0,9%
 
-13,6%
+13,9%
 
 5,2%
 
@@ -363,7 +363,7 @@ B
 
 0,8%
 
-8,9%
+8,8%
 
 7,7%
 
@@ -391,7 +391,7 @@ B
 
 1,5%
 
-5,1%
+5,2%
 
 2,7%
 
@@ -415,7 +415,7 @@ B
 
 B
 
-54,9%
+55,0%
 
 0,6%
 
@@ -445,7 +445,7 @@ B
 
 45,1%
 
-1,6%
+1,7%
 
 5,0%
 
@@ -461,7 +461,7 @@ C
 
 0,4%
 
-4,1%
+4,2%
 
 3,5%
 
@@ -485,7 +485,7 @@ C
 
 C
 
-46,7%
+46,8%
 
 0,4%
 
@@ -517,7 +517,7 @@ D
 
 0,2%
 
-1,1%
+1,2%
 
 —
 
@@ -527,7 +527,7 @@ D
 
 C
 
-49,3%
+49,4%
 
 0,3%
 
@@ -541,7 +541,7 @@ C
 
 D
 
-48,9%
+49,0%
 
 0,1%
 
@@ -553,11 +553,11 @@ D
 
 [![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
-D
+C
 
 47,0%
 
-0,2%
+0,3%
 
 0,1%
 
@@ -583,7 +583,7 @@ D
 
 C
 
-45,8%
+45,9%
 
 0,3%
 
@@ -611,7 +611,7 @@ C
 
 D
 
-52,4%
+52,5%
 
 0,1%
 
@@ -639,7 +639,7 @@ D
 
 D
 
-48,2%
+48,1%
 
 0,1%
 
@@ -694,19 +694,19 @@ D
 2.  [![](/images/heroes/rafaela.webp)Рафаэль54,8%](https://boostmlbb.ru/heroes/rafaela.html)
 3.  [![](/images/heroes/khufra.webp)Хуфра54,7%](https://boostmlbb.ru/heroes/khufra.html)
 4.  [![](/images/heroes/floryn.webp)Флорин54,2%](https://boostmlbb.ru/heroes/floryn.html)
-5.  [![](/images/heroes/atlas.webp)Атлас53,8%](https://boostmlbb.ru/heroes/atlas.html)
-6.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
+5.  [![](/images/heroes/atlas.webp)Атлас53,7%](https://boostmlbb.ru/heroes/atlas.html)
+6.  [![](/images/heroes/hilda.webp)Хильда53,1%](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Кто обыгрывает роумеров
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
 1.  [![](/images/heroes/johnson.webp)Джонсон8 из 34](https://boostmlbb.ru/heroes/johnson.html)
-2.  [![](/images/heroes/zilong.webp)Зилонг7 из 34](https://boostmlbb.ru/heroes/zilong.html)
-3.  [![](/images/heroes/helcurt.webp)Хелкарт6 из 34](https://boostmlbb.ru/heroes/helcurt.html)
-4.  [![](/images/heroes/alice.webp)Алиса5 из 34](https://boostmlbb.ru/heroes/alice.html)
-5.  [![](/images/heroes/natalia.webp)Наталья5 из 34](https://boostmlbb.ru/heroes/natalia.html)
-6.  [![](/images/heroes/saber.webp)Сабер5 из 34](https://boostmlbb.ru/heroes/saber.html)
+2.  [![](/images/heroes/helcurt.webp)Хелкарт6 из 34](https://boostmlbb.ru/heroes/helcurt.html)
+3.  [![](/images/heroes/saber.webp)Сабер6 из 34](https://boostmlbb.ru/heroes/saber.html)
+4.  [![](/images/heroes/zilong.webp)Зилонг6 из 34](https://boostmlbb.ru/heroes/zilong.html)
+5.  [![](/images/heroes/alice.webp)Алиса5 из 34](https://boostmlbb.ru/heroes/alice.html)
+6.  [![](/images/heroes/natalia.webp)Наталья5 из 34](https://boostmlbb.ru/heroes/natalia.html)
 
 **Поднимем ранг на любом из роумеров**Цена считается в калькуляторе
 
@@ -716,7 +716,7 @@ D
 
 Кто лучший роумер в MLBB сейчас?
 
-Марсель: тир S, 56,9% побед, бан в 69,9% матчей Мифической славы за 7 дней. Следом идут Калеа и Кармилла. Данные на 26 ноября 2026 года.
+Марсель: тир S, 56,9% побед, бан в 69,9% матчей Мифической славы за 7 дней. Следом идут Калеа и Кармилла. Данные на 27 ноября 2026 года.
 
 Что выбрать новичку среди роумеров?
 
@@ -724,11 +724,11 @@ D
 
 Каких роумеров чаще всего банят?
 
-Марсель (69,9%), Белерик (56,7%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Марсель (69,9%), Белерик (56,9%) и Кармилла (37,4%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько роумеров в Mobile Legends?
 
-34 из 133 героев на 26 ноября 2026 года. В списке все, кто играет роум по данным игры.
+34 из 133 героев на 27 ноября 2026 года. В списке все, кто играет роум по данным игры.
 
 Какие предметы чаще всего собирают на роумерах?
 

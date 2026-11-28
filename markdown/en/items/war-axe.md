@@ -52,8 +52,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/freya.webp)Freya60.0%](https://boostmlbb.ru/en/heroes/freya.html#build)
 -   [![](/images/heroes/aulus.webp)Aulus52.7%](https://boostmlbb.ru/en/heroes/aulus.html#build)
 -   [![](/images/heroes/barats.webp)Barats59.4%](https://boostmlbb.ru/en/heroes/barats.html#build)
--   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Suyou53.5%](https://boostmlbb.ru/en/heroes/suyou.html#build)
+-   [![](/images/heroes/lukas.webp)Lukas54.9%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/cici.webp)Cici58.3%](https://boostmlbb.ru/en/heroes/cici.html#build)
 -   [![](/images/heroes/saber.webp)Saber59.8%](https://boostmlbb.ru/en/heroes/saber.html#build)
 -   [![](/images/heroes/sora.webp)Sora53.7%](https://boostmlbb.ru/en/heroes/sora.html#build)
@@ -105,4 +105,4 @@ What does War Axe give?
 
 Which heroes build War Axe?
 
-It is in the popular ranked builds of 28 heroes, among them Hirara, Freya, Aulus, Barats, Lukas and Suyou.
+It is in the popular ranked builds of 28 heroes, among them Hirara, Freya, Aulus, Barats, Suyou and Lukas.

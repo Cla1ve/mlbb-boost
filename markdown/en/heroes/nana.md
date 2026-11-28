@@ -1,6 +1,6 @@
 ---
 title: "Nana MLBB: build, combos and counters | MLBB Boost"
-description: "Nana in Mobile Legends: ranked build, skill combos, how to play and who counters Nana. Mage, 45.18% win rate, tier C."
+description: "Nana in Mobile Legends: ranked build, skill combos, how to play and who counters Nana. Mage, 45.20% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Poke
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **49.9%**![](/images/ranks/Epic.webp)Epic
-2.  **48.5%**![](/images/ranks/Legend.webp)Legend
-3.  **47.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.1%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -274,7 +264,7 @@ Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
 ### Who counters Nana
 
-[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
+[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ### Who Nana counters
 
@@ -300,7 +290,7 @@ Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
 Who counters Nana in MLBB?
 
-Over the last 30 days the toughest opponents are Odette, Saber, Lolita, Dyrroth and Melissa.
+Over the last 30 days the toughest opponents are Odette, Lolita, Saber, Dyrroth and Melissa.
 
 How do you play Nana?
 
@@ -308,7 +298,7 @@ Level "Magic Boomerang" first and take the ultimate whenever it is available. Ev
 
 What is Nana’s win rate right now?
 
-45.18% at Mythical Glory over the last 7 days and 47.22% across all ranks over 30 days, as of 26 November 2026.
+45.20% at Mythical Glory over the last 7 days and 47.21% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Nana play?
 

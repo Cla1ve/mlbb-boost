@@ -1,6 +1,6 @@
 ---
 title: "Кимми MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Кимми, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Кимми. Маг и стрелок, 48,08% побед, тир A."
+description: "Кимми, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Кимми. Маг и стрелок, 48,11% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/kimmy.html
 language: ru
 ---
@@ -43,19 +43,9 @@ A
 -   Урон
 -   Магический урон
 
-### Победы по рангам, 30 дней
-
-1.  **48,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
@@ -372,7 +362,7 @@ A
 
 Какой процент побед у Кимми сейчас?
 
-48,08% в Мифической славе за последние 7 дней и 48,59% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,11% в Мифической славе за последние 7 дней и 48,56% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Кимми?
 

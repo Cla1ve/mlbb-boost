@@ -27,7 +27,7 @@ B
 
 Баны
 
-14,0%
+14,2%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -49,7 +49,7 @@ B
 2.  **54,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **53,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **53,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -332,7 +332,7 @@ B
 
 ### Кого контрит Флорин
 
-[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## Скины Флорин
 
@@ -362,7 +362,7 @@ B
 
 Какой процент побед у Флорин сейчас?
 
-53,95% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,95% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Флорин?
 
@@ -370,7 +370,7 @@ B
 
 Стоит ли брать Флорин в текущей мете?
 
-Тир B, 31-е место из 133 героев и 7-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,0% матчей, 54,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 31-е место из 133 героев и 7-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,2% матчей, 54,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Флорин лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Роджер MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Роджер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Роджера. Боец и стрелок, 46,34% побед, тир D."
+description: "Роджер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Роджера. Боец и стрелок, 46,35% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/roger.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-46,3%
+46,4%
 
 Выбор
 
@@ -43,19 +43,9 @@ D
 -   Добивание
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **50,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **46,1%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
 
 ### Места в рейтингах
 
@@ -372,7 +362,7 @@ D
 
 Какой процент побед у Роджера сейчас?
 
-46,34% в Мифической славе за последние 7 дней и 48,28% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+46,35% в Мифической славе за последние 7 дней и 48,27% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Роджера?
 
@@ -380,7 +370,7 @@ D
 
 Стоит ли брать Роджера в текущей мете?
 
-Тир D, 126-е место из 133 героев и 43-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир D, 126-е место из 133 героев и 43-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Роджера лучшая?
 

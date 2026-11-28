@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-35.4%
+35.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,9 +45,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.4%**![](/images/ranks/Epic.webp)Epic
-2.  **55.8%**![](/images/ranks/Legend.webp)Legend
-3.  **55.4%**![](/images/ranks/Mythic.webp)Mythic
+1.  **55.3%**![](/images/ranks/Epic.webp)Epic
+2.  **55.7%**![](/images/ranks/Legend.webp)Legend
+3.  **55.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **54.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -338,11 +338,11 @@ While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra
 
 ### Who counters Gloo
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
 
 ### Who Gloo counters
 
-[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
 
 ## Gloo skins
 
@@ -364,7 +364,7 @@ While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra
 
 Who counters Gloo in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Chang'e and Nana.
+Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Nana and Chang'e.
 
 How do you play Gloo?
 
@@ -372,7 +372,7 @@ Level "Slam, Slam" first and take the ultimate whenever it is available. Stronge
 
 What is Gloo’s win rate right now?
 
-50.06% at Mythical Glory over the last 7 days and 53.08% across all ranks over 30 days, as of 26 November 2026.
+50.06% at Mythical Glory over the last 7 days and 52.98% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Gloo play?
 
@@ -380,7 +380,7 @@ Tank, played in the EXP Lane or on roam.
 
 Is Gloo strong in the current meta?
 
-Tier A, #18 of 133 heroes and #7 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 35.4% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 26.6% of them.
+Tier A, #18 of 133 heroes and #7 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 35.1% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 26.6% of them.
 
 What is the best build for Gloo?
 

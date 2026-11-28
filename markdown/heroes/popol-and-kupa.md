@@ -1,6 +1,6 @@
 ---
 title: "Пополь и Купа MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Пополь и Купа, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пополя и Купу. Стрелок, 48,72% побед, тир C."
+description: "Пополь и Купа, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пополя и Купу. Стрелок, 48,88% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/popol-and-kupa.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-48,7%
+48,9%
 
 Выбор
 
@@ -27,7 +27,7 @@ C
 
 Баны
 
-0,8%
+0,7%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -45,10 +45,10 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **54,2%**![](/images/ranks/Epic.webp)Эпик
-2.  **53,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+1.  **54,1%**![](/images/ranks/Epic.webp)Эпик
+2.  **53,7%**![](/images/ranks/Legend.webp)Легенда
+3.  **52,8%**![](/images/ranks/Mythic.webp)Мифик
+4.  **52,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -358,7 +358,7 @@ C
 
 ### Кого контрит Пополь и Купа
 
-[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 ## Скины Пополя и Купы
 
@@ -388,7 +388,7 @@ C
 
 Какой процент побед у Пополя и Купы сейчас?
 
-48,72% в Мифической славе за последние 7 дней и 51,62% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,88% в Мифической славе за последние 7 дней и 51,50% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Пополя и Купы?
 
@@ -396,7 +396,7 @@ C
 
 Стоит ли брать Пополя и Купу в текущей мете?
 
-Тир C, 111-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 111-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Пополя и Купу лучшая?
 

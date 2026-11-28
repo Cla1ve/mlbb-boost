@@ -46,7 +46,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **53.6%**![](/images/ranks/Epic.webp)Epic
-2.  **53.5%**![](/images/ranks/Legend.webp)Legend
+2.  **53.6%**![](/images/ranks/Legend.webp)Legend
 3.  **53.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.0%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -371,7 +371,7 @@ Level "Earth Shatter" first and take the ultimate whenever it is available. Stro
 
 What is Edith’s win rate right now?
 
-52.36% at Mythical Glory over the last 7 days and 52.76% across all ranks over 30 days, as of 26 November 2026.
+52.36% at Mythical Glory over the last 7 days and 52.79% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Edith play?
 
@@ -379,7 +379,7 @@ Tank and marksman, played in the EXP Lane.
 
 Is Edith strong in the current meta?
 
-Tier C, #100 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #101 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Edith?
 

@@ -1,6 +1,6 @@
 ---
 title: "Маша MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Маша, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Машу. Танк и боец, 58,84% побед, тир S."
+description: "Маша, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Машу. Танк и боец, 58,87% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/masha.html
 language: ru
 ---
@@ -19,7 +19,7 @@ S
 
 Победы
 
-58,8%
+58,9%
 
 Выбор
 
@@ -27,7 +27,7 @@ S
 
 Баны
 
-66,8%
+66,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -46,10 +46,10 @@ S
 ### Победы по рангам, 30 дней
 
 1.  **54,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **57,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **59,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **60,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **60,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+2.  **57,6%**![](/images/ranks/Legend.webp)Легенда
+3.  **59,1%**![](/images/ranks/Mythic.webp)Мифик
+4.  **60,8%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **60,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -343,7 +343,7 @@ S
 
 ### Кого контрит Маша
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
 
 ## Скины Маши
 
@@ -373,7 +373,7 @@ S
 
 Какой процент побед у Маши сейчас?
 
-58,84% в Мифической славе за последние 7 дней и 60,12% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+58,87% в Мифической славе за последние 7 дней и 60,04% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Маши?
 
@@ -381,7 +381,7 @@ S
 
 Стоит ли брать Машу в текущей мете?
 
-Тир S, 1-е место из 133 героев и 1-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 66,8% матчей, 58,8% побед. В профессиональных матчах за месяц героя драфтуют в 100,0% катков.
+Тир S, 1-е место из 133 героев и 1-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 66,5% матчей, 58,9% побед. В профессиональных матчах за месяц героя драфтуют в 100,0% катков.
 
 Какая сборка на Машу лучшая?
 

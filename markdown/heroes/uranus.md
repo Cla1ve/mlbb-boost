@@ -1,6 +1,6 @@
 ---
 title: "Уранус MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Уранус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Урануса. Танк, 48,70% побед, тир B."
+description: "Уранус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Урануса. Танк, 48,72% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/uranus.html
 language: ru
 ---
@@ -44,11 +44,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **51,7%**![](/images/ranks/Epic.webp)Эпик
+1.  **51,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,3%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **49,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **48,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -332,7 +332,7 @@ B
 
 ### Кто контрит Урануса
 
-[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)
 
 ### Кого контрит Уранус
 
@@ -358,7 +358,7 @@ B
 
 Кто контрит Урануса в MLBB?
 
-За последние 30 дней Урануса чаще всего обыгрывают Аргус, Гатоткача, Инь, Заск и Дигги.
+За последние 30 дней Урануса чаще всего обыгрывают Аргус, Гатоткача, Инь, Заск и Грейнджер.
 
 Как играть за Урануса?
 
@@ -366,7 +366,7 @@ B
 
 Какой процент побед у Урануса сейчас?
 
-48,70% в Мифической славе за последние 7 дней и 49,38% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,72% в Мифической славе за последние 7 дней и 49,39% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Урануса?
 
@@ -374,7 +374,7 @@ B
 
 Стоит ли брать Урануса в текущей мете?
 
-Тир B, 39-е место из 133 героев и 10-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 39,0% катков.
+Тир B, 40-е место из 133 героев и 10-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 39,0% катков.
 
 Какая сборка на Урануса лучшая?
 

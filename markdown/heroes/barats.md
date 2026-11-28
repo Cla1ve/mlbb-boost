@@ -1,6 +1,6 @@
 ---
 title: "Бартс MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Бартс, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бартса. Танк и боец, 51,59% побед, тир A."
+description: "Бартс, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бартса. Танк и боец, 51,58% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/barats.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-3,0%
+2,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ A
 
 -   Урон
 -   Массовый контроль
-
-### Победы по рангам, 30 дней
-
-1.  **50,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,6%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -337,7 +327,7 @@ A
 
 ### Кого контрит Бартс
 
-[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## Скины Бартса
 
@@ -367,7 +357,7 @@ A
 
 Какой процент побед у Бартса сейчас?
 
-51,59% в Мифической славе за последние 7 дней и 51,65% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,58% в Мифической славе за последние 7 дней и 51,64% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Бартса?
 
@@ -375,7 +365,7 @@ A
 
 Стоит ли брать Бартса в текущей мете?
 
-Тир A, 24-е место из 133 героев и 8-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,0% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 42,2% катков.
+Тир A, 24-е место из 133 героев и 8-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,9% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 42,2% катков.
 
 Какая сборка на Бартса лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Lolita MLBB: build, combos and counters | MLBB Boost"
-description: "Lolita in Mobile Legends: ranked build, skill combos, how to play and who counters Lolita. Tank and support, 52.36% win rate, tier D."
+description: "Lolita in Mobile Legends: ranked build, skill combos, how to play and who counters Lolita. Tank and support, 52.45% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/lolita.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-52.4%
+52.5%
 
 Pick rate
 
@@ -45,9 +45,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.1%**![](/images/ranks/Epic.webp)Epic
+1.  **54.0%**![](/images/ranks/Epic.webp)Epic
 2.  **55.2%**![](/images/ranks/Legend.webp)Legend
-3.  **54.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **54.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -337,7 +337,7 @@ Cooldown **55 Mana Cost: 100 s**
 
 ### Who Lolita counters
 
-[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)
+[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)
 
 ## Lolita skins
 
@@ -367,7 +367,7 @@ Level "Power Charge" first and take the ultimate whenever it is available. Even 
 
 What is Lolita’s win rate right now?
 
-52.36% at Mythical Glory over the last 7 days and 53.30% across all ranks over 30 days, as of 26 November 2026.
+52.45% at Mythical Glory over the last 7 days and 53.32% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Lolita play?
 
@@ -375,7 +375,7 @@ Tank and support, played on roam.
 
 Is Lolita strong in the current meta?
 
-Tier D, #122 of 133 heroes and #22 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier D, #122 of 133 heroes and #22 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 52.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Lolita?
 

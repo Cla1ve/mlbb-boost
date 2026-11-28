@@ -1,6 +1,6 @@
 ---
 title: "Карина MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Карина, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Карину. Убийца, 49,12% побед, тир B."
+description: "Карина, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Карину. Убийца, 49,04% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/karina.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-49,1%
+49,0%
 
 Выбор
 
@@ -27,7 +27,7 @@ B
 
 Баны
 
-4,9%
+5,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,16 +43,6 @@ B
 -   Добивание
 -   Магический урон
 
-### Победы по рангам, 30 дней
-
-1.  **50,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,4%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие убийцы этой линии
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
@@ -60,7 +50,7 @@ B
 ### Места в рейтингах
 
 -   [Лучшие лесники MLBB**15 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие убийцы MLBB**14 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие убийцы MLBB**13 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 
@@ -341,7 +331,7 @@ B
 
 ### Кто контрит Карину
 
-[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ### Кого контрит Карина
 
@@ -367,7 +357,7 @@ B
 
 Кто контрит Карину в MLBB?
 
-За последние 30 дней Карину чаще всего обыгрывают Наталья, Кимми, Марсель, Линг и Хелкарт.
+За последние 30 дней Карину чаще всего обыгрывают Наталья, Кимми, Линг, Марсель и Хелкарт.
 
 Как играть за Карину?
 
@@ -375,7 +365,7 @@ B
 
 Какой процент побед у Карины сейчас?
 
-49,12% в Мифической славе за последние 7 дней и 48,78% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,04% в Мифической славе за последние 7 дней и 48,82% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Карины?
 
@@ -383,7 +373,7 @@ B
 
 Стоит ли брать Карину в текущей мете?
 
-Тир B, 64-е место из 133 героев и 14-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,9% матчей, 49,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 63-е место из 133 героев и 13-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,1% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Карину лучшая?
 

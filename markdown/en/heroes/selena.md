@@ -1,6 +1,6 @@
 ---
 title: "Selena MLBB: build, combos and counters | MLBB Boost"
-description: "Selena in Mobile Legends: ranked build, skill combos, how to play and who counters Selena. Assassin and mage, 48.35% win rate, tier A."
+description: "Selena in Mobile Legends: ranked build, skill combos, how to play and who counters Selena. Assassin and mage, 48.34% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
@@ -19,7 +19,7 @@ A
 
 Win rate
 
-48.4%
+48.3%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-3.5%
+3.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Initiator
 -   Finisher
-
-### Win rate by rank, 30 days
-
-1.  **50.3%**![](/images/ranks/Epic.webp)Epic
-2.  **49.0%**![](/images/ranks/Legend.webp)Legend
-3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -377,7 +367,7 @@ Level "Abyssal Trap" first and take the ultimate whenever it is available. Stron
 
 What is Selena’s win rate right now?
 
-48.35% at Mythical Glory over the last 7 days and 48.44% across all ranks over 30 days, as of 26 November 2026.
+48.34% at Mythical Glory over the last 7 days and 48.46% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Selena play?
 
@@ -385,7 +375,7 @@ Assassin and mage, played in the Mid Lane.
 
 Is Selena strong in the current meta?
 
-Tier A, #25 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.5% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
+Tier A, #25 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.4% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
 
 What is the best build for Selena?
 

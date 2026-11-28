@@ -51,8 +51,8 @@ Hunter Strike
 -   [![](/images/heroes/nolan.webp)Нолан51,9%](https://boostmlbb.ru/heroes/nolan.html#build)
 -   [![](/images/heroes/hirara.webp)Хирара56,1%](https://boostmlbb.ru/heroes/hirara.html#build)
 -   [![](/images/heroes/paquito.webp)Пакито53,5%](https://boostmlbb.ru/heroes/paquito.html#build)
--   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Су Ё53,5%](https://boostmlbb.ru/heroes/suyou.html#build)
+-   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/cici.webp)Чичи58,3%](https://boostmlbb.ru/heroes/cici.html#build)
 -   [![](/images/heroes/saber.webp)Сабер59,8%](https://boostmlbb.ru/heroes/saber.html#build)
 -   [![](/images/heroes/yu-zhong.webp)Чонг55,1%](https://boostmlbb.ru/heroes/yu-zhong.html#build)
@@ -62,8 +62,8 @@ Hunter Strike
 -   [![](/images/heroes/hayabusa.webp)Хаябуса51,4%](https://boostmlbb.ru/heroes/hayabusa.html#build)
 -   [![](/images/heroes/benedetta.webp)Бенедетта54,3%](https://boostmlbb.ru/heroes/benedetta.html#build)
 -   [![](/images/heroes/granger.webp)Грейнджер46,3%](https://boostmlbb.ru/heroes/granger.html#build)
--   [![](/images/heroes/helcurt.webp)Хелкарт51,9%](https://boostmlbb.ru/heroes/helcurt.html#build)
 -   [![](/images/heroes/bane.webp)Бэйн50,5%](https://boostmlbb.ru/heroes/bane.html#build)
+-   [![](/images/heroes/helcurt.webp)Хелкарт51,9%](https://boostmlbb.ru/heroes/helcurt.html#build)
 -   [![](/images/heroes/yin.webp)Инь53,3%](https://boostmlbb.ru/heroes/yin.html#build)
 -   [![](/images/heroes/alucard.webp)Алукард59,1%](https://boostmlbb.ru/heroes/alucard.html#build)
 -   [![](/images/heroes/lapu-lapu.webp)Лапу-Лапу54,6%](https://boostmlbb.ru/heroes/lapu-lapu.html#build)
@@ -97,4 +97,4 @@ Hunter Strike
 
 Каким героям собирать «Удар охотника»?
 
-Предмет есть в популярных сборках 20 героев в рейтинге, среди них Нолан, Хирара, Пакито, Лукас, Су Ё и Чичи.
+Предмет есть в популярных сборках 20 героев в рейтинге, среди них Нолан, Хирара, Пакито, Су Ё, Лукас и Чичи.

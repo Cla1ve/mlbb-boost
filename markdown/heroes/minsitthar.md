@@ -1,6 +1,6 @@
 ---
 title: "Минситтар MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Минситтар, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Минситтара. Боец, 52,11% побед, тир B."
+description: "Минситтар, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Минситтара. Боец, 52,09% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/minsitthar.html
 language: ru
 ---
@@ -334,7 +334,7 @@ B
 
 ### Кого контрит Минситтар
 
-[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## Скины Минситтара
 
@@ -364,7 +364,7 @@ B
 
 Какой процент побед у Минситтара сейчас?
 
-52,11% в Мифической славе за последние 7 дней и 52,18% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+52,09% в Мифической славе за последние 7 дней и 52,20% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Минситтара?
 

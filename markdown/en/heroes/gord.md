@@ -45,17 +45,17 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.4%**![](/images/ranks/Epic.webp)Epic
+1.  **52.5%**![](/images/ranks/Epic.webp)Epic
 2.  **52.6%**![](/images/ranks/Legend.webp)Legend
 3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **52.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -362,7 +362,7 @@ Level "Mystic Injunction" first and take the ultimate whenever it is available. 
 
 What is Gord’s win rate right now?
 
-51.92% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 26 November 2026.
+51.92% at Mythical Glory over the last 7 days and 52.52% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Gord play?
 

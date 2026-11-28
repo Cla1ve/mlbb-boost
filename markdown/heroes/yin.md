@@ -43,25 +43,15 @@ C
 -   Разрушительный урон
 -   Контроль
 
-### Победы по рангам, 30 дней
-
-1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,6%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,9%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**29 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**28 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие бойцы MLBB**33 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
--   [Лучшие убийцы MLBB**24 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие убийцы MLBB**23 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 
@@ -342,7 +332,7 @@ C
 
 ### Кто контрит Иня
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
 
 ### Кого контрит Инь
 
@@ -368,7 +358,7 @@ C
 
 Кто контрит Иня в MLBB?
 
-За последние 30 дней Иня чаще всего обыгрывают Дигги, Минситтар, Иксия, Флорин и Эстес.
+За последние 30 дней Иня чаще всего обыгрывают Минситтар, Дигги, Флорин, Иксия и Эстес.
 
 Как играть за Иня?
 
@@ -376,7 +366,7 @@ C
 
 Какой процент побед у Иня сейчас?
 
-49,94% в Мифической славе за последние 7 дней и 49,68% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,94% в Мифической славе за последние 7 дней и 49,69% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Иня?
 
@@ -384,7 +374,7 @@ C
 
 Стоит ли брать Иня в текущей мете?
 
-Тир C, 105-е место из 133 героев и 33-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 104-е место из 133 героев и 33-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Иня лучшая?
 

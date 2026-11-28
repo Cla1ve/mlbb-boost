@@ -1,6 +1,6 @@
 ---
 title: "Yve MLBB: build, combos and counters | MLBB Boost"
-description: "Yve in Mobile Legends: ranked build, skill combos, how to play and who counters Yve. Mage, 51.64% win rate, tier C."
+description: "Yve in Mobile Legends: ranked build, skill combos, how to play and who counters Yve. Mage, 51.50% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-51.6%
+51.5%
 
 Pick rate
 
@@ -45,17 +45,17 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.2%**![](/images/ranks/Epic.webp)Epic
+1.  **52.3%**![](/images/ranks/Epic.webp)Epic
 2.  **51.5%**![](/images/ranks/Legend.webp)Legend
-3.  **51.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **52.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -337,7 +337,7 @@ Yve cannot be displaced while the Starfield is active, and the Starfield will re
 
 ### Who counters Yve
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
 
 ### Who Yve counters
 
@@ -363,7 +363,7 @@ Yve cannot be displaced while the Starfield is active, and the Starfield will re
 
 Who counters Yve in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, Alice and X.Borg.
+Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, X.Borg and Alice.
 
 How do you play Yve?
 
@@ -371,7 +371,7 @@ Level "Void Blast" first and take the ultimate whenever it is available. Stronge
 
 What is Yve’s win rate right now?
 
-51.64% at Mythical Glory over the last 7 days and 52.13% across all ranks over 30 days, as of 26 November 2026.
+51.50% at Mythical Glory over the last 7 days and 52.09% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Yve play?
 
@@ -379,7 +379,7 @@ Mage, played in the Mid Lane.
 
 Is Yve strong in the current meta?
 
-Tier C, #85 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
+Tier C, #85 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
 
 What is the best build for Yve?
 

@@ -60,8 +60,8 @@ Enchanted Talisman
 -   [![](/images/heroes/estes.webp)Эстес58,9%](https://boostmlbb.ru/heroes/estes.html#build)
 -   [![](/images/heroes/rafaela.webp)Рафаэль57,0%](https://boostmlbb.ru/heroes/rafaela.html#build)
 -   [![](/images/heroes/angela.webp)Ангела56,7%](https://boostmlbb.ru/heroes/angela.html#build)
--   [![](/images/heroes/lylia.webp)Лилия52,4%](https://boostmlbb.ru/heroes/lylia.html#build)
 -   [![](/images/heroes/xavier.webp)Ксавьер59,4%](https://boostmlbb.ru/heroes/xavier.html#build)
+-   [![](/images/heroes/lylia.webp)Лилия52,4%](https://boostmlbb.ru/heroes/lylia.html#build)
 -   [![](/images/heroes/cyclops.webp)Циклоп57,9%](https://boostmlbb.ru/heroes/cyclops.html#build)
 -   [![](/images/heroes/cecilion.webp)Сесилион55,4%](https://boostmlbb.ru/heroes/cecilion.html#build)
 -   [![](/images/heroes/faramis.webp)Фарамис54,1%](https://boostmlbb.ru/heroes/faramis.html#build)
@@ -96,4 +96,4 @@ Enchanted Talisman
 
 Каким героям собирать «Зачарованный талисман»?
 
-Предмет есть в популярных сборках 11 героев в рейтинге, среди них Эсмеральда, Эстес, Рафаэль, Ангела, Лилия и Ксавьер.
+Предмет есть в популярных сборках 11 героев в рейтинге, среди них Эсмеральда, Эстес, Рафаэль, Ангела, Ксавьер и Лилия.

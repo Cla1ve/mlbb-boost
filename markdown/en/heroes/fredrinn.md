@@ -1,6 +1,6 @@
 ---
 title: "Fredrinn MLBB: build, combos and counters | MLBB Boost"
-description: "Fredrinn in Mobile Legends: ranked build, skill combos, how to play and who counters Fredrinn. Tank and fighter, 52.46% win rate, tier C."
+description: "Fredrinn in Mobile Legends: ranked build, skill combos, how to play and who counters Fredrinn. Tank and fighter, 52.49% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Damage
 -   Chase
-
-### Win rate by rank, 30 days
-
-1.  **50.0%**![](/images/ranks/Epic.webp)Epic
-2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -346,7 +336,7 @@ This skill costs 3 Combo Points.
 
 ### Who counters Fredrinn
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ### Who Fredrinn counters
 
@@ -372,7 +362,7 @@ This skill costs 3 Combo Points.
 
 Who counters Fredrinn in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Alucard, Joy, Lunox and Esmeralda.
+Over the last 30 days the toughest opponents are Gloo, Alucard, Lunox, Joy and Esmeralda.
 
 How do you play Fredrinn?
 
@@ -380,7 +370,7 @@ Level "Piercing Strike" first and take the ultimate whenever it is available. St
 
 What is Fredrinn’s win rate right now?
 
-52.46% at Mythical Glory over the last 7 days and 51.30% across all ranks over 30 days, as of 26 November 2026.
+52.49% at Mythical Glory over the last 7 days and 51.31% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Fredrinn play?
 

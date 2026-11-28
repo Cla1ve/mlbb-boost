@@ -1,6 +1,6 @@
 ---
 title: "Мартис MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Мартис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мартиса. Боец, 47,42% побед, тир C."
+description: "Мартис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Мартиса. Боец, 47,41% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/martis.html
 language: ru
 ---
@@ -43,19 +43,9 @@ C
 -   Добивание
 -   Рывок
 
-### Победы по рангам, 30 дней
-
-1.  **46,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,4%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -341,7 +331,7 @@ C
 
 ### Кого контрит Мартис
 
-[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
+[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
 
 ## Скины Мартиса
 
@@ -371,7 +361,7 @@ C
 
 Какой процент побед у Мартиса сейчас?
 
-47,42% в Мифической славе за последние 7 дней и 47,20% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+47,41% в Мифической славе за последние 7 дней и 47,19% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Мартиса?
 

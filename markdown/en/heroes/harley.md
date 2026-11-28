@@ -1,6 +1,6 @@
 ---
 title: "Harley MLBB: build, combos and counters | MLBB Boost"
-description: "Harley in Mobile Legends: ranked build, skill combos, how to play and who counters Harley. Assassin and mage, 48.77% win rate, tier B."
+description: "Harley in Mobile Legends: ranked build, skill combos, how to play and who counters Harley. Assassin and mage, 48.80% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Burst
 -   Poke
-
-### Win rate by rank, 30 days
-
-1.  **48.0%**![](/images/ranks/Epic.webp)Epic
-2.  **48.1%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More assassins on this lane
 
@@ -370,7 +360,7 @@ Level "Poker Trick" first and take the ultimate whenever it is available. Strong
 
 What is Harley’s win rate right now?
 
-48.77% at Mythical Glory over the last 7 days and 48.28% across all ranks over 30 days, as of 26 November 2026.
+48.80% at Mythical Glory over the last 7 days and 48.29% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Harley play?
 

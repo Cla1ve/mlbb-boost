@@ -63,8 +63,8 @@ Malefic Roar
 -   [![](/images/heroes/aldous.webp)Алдос59,2%](https://boostmlbb.ru/heroes/aldous.html#build)
 -   [![](/images/heroes/granger.webp)Грейнджер46,3%](https://boostmlbb.ru/heroes/granger.html#build)
 -   [![](/images/heroes/bane.webp)Бэйн51,6%](https://boostmlbb.ru/heroes/bane.html#build)
--   [![](/images/heroes/natalia.webp)Наталья60,6%](https://boostmlbb.ru/heroes/natalia.html#build)
 -   [![](/images/heroes/yin.webp)Инь53,7%](https://boostmlbb.ru/heroes/yin.html#build)
+-   [![](/images/heroes/natalia.webp)Наталья60,6%](https://boostmlbb.ru/heroes/natalia.html#build)
 -   [![](/images/heroes/jawhead.webp)Кусака57,1%](https://boostmlbb.ru/heroes/jawhead.html#build)
 
 ## История

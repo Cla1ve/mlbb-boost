@@ -1,6 +1,6 @@
 ---
 title: "Aldous MLBB: build, combos and counters | MLBB Boost"
-description: "Aldous in Mobile Legends: ranked build, skill combos, how to play and who counters Aldous. Fighter, 53.35% win rate, tier C."
+description: "Aldous in Mobile Legends: ranked build, skill combos, how to play and who counters Aldous. Fighter, 53.30% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-53.4%
+53.3%
 
 Pick rate
 
@@ -45,11 +45,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.2%**![](/images/ranks/Epic.webp)Epic
-2.  **52.3%**![](/images/ranks/Legend.webp)Legend
-3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **52.3%**![](/images/ranks/Epic.webp)Epic
+2.  **52.4%**![](/images/ranks/Legend.webp)Legend
+3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -341,7 +341,7 @@ Aldous can interrupt the target's Recall while dashing.
 
 ### Who counters Aldous
 
-[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
+[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ### Who Aldous counters
 
@@ -367,7 +367,7 @@ Aldous can interrupt the target's Recall while dashing.
 
 Who counters Aldous in MLBB?
 
-Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg and Gatotkaca.
+Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg and Hanzo.
 
 How do you play Aldous?
 
@@ -375,7 +375,7 @@ Level "Contract: Soul Steal" first and take the ultimate whenever it is availabl
 
 What is Aldous’s win rate right now?
 
-53.35% at Mythical Glory over the last 7 days and 52.29% across all ranks over 30 days, as of 26 November 2026.
+53.30% at Mythical Glory over the last 7 days and 52.38% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Aldous play?
 
@@ -383,7 +383,7 @@ Fighter, played in the EXP Lane.
 
 Is Aldous strong in the current meta?
 
-Tier C, #82 of 133 heroes and #24 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 53.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #82 of 133 heroes and #24 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 53.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aldous?
 

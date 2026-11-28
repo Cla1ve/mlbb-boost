@@ -43,16 +43,6 @@ C
 -   Рывок
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **47,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
 [![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
@@ -364,7 +354,7 @@ C
 
 Какой процент побед у Кусаки сейчас?
 
-47,56% в Мифической славе за последние 7 дней и 47,91% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+47,56% в Мифической славе за последние 7 дней и 47,92% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Кусаки?
 

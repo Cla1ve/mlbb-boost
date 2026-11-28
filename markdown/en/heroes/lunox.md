@@ -1,6 +1,6 @@
 ---
 title: "Lunox MLBB: build, combos and counters | MLBB Boost"
-description: "Lunox in Mobile Legends: ranked build, skill combos, how to play and who counters Lunox. Mage, 51.91% win rate, tier B."
+description: "Lunox in Mobile Legends: ranked build, skill combos, how to play and who counters Lunox. Mage, 51.89% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lunox.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Burst
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **50.1%**![](/images/ranks/Epic.webp)Epic
-2.  **50.2%**![](/images/ranks/Legend.webp)Legend
-3.  **50.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Places in the rankings
 
@@ -382,7 +372,7 @@ Level "Starlight Pulse" first and take the ultimate whenever it is available. St
 
 What is Lunox’s win rate right now?
 
-51.91% at Mythical Glory over the last 7 days and 51.04% across all ranks over 30 days, as of 26 November 2026.
+51.89% at Mythical Glory over the last 7 days and 51.12% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Lunox play?
 
@@ -390,7 +380,7 @@ Mage, played in the Mid Lane.
 
 Is Lunox strong in the current meta?
 
-Tier B, #51 of 133 heroes and #12 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
+Tier B, #52 of 133 heroes and #12 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Lunox?
 

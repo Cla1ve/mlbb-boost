@@ -1,6 +1,6 @@
 ---
 title: "Hanabi MLBB: build, combos and counters | MLBB Boost"
-description: "Hanabi in Mobile Legends: ranked build, skill combos, how to play and who counters Hanabi. Marksman, 51.44% win rate, tier B."
+description: "Hanabi in Mobile Legends: ranked build, skill combos, how to play and who counters Hanabi. Marksman, 51.47% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-51.4%
+51.5%
 
 Pick rate
 
@@ -46,9 +46,9 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **54.4%**![](/images/ranks/Epic.webp)Epic
-2.  **53.9%**![](/images/ranks/Legend.webp)Legend
-3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+2.  **54.0%**![](/images/ranks/Legend.webp)Legend
+3.  **53.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -332,11 +332,11 @@ Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physi
 
 ### Who counters Hanabi
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)
 
 ### Who Hanabi counters
 
-[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Hanabi skins
 
@@ -358,7 +358,7 @@ Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physi
 
 Who counters Hanabi in MLBB?
 
-Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, Balmond and Akai.
+Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, Akai and Balmond.
 
 How do you play Hanabi?
 
@@ -366,7 +366,7 @@ Level "Ninjutsu: Soul Scroll" first and take the ultimate whenever it is availab
 
 What is Hanabi’s win rate right now?
 
-51.44% at Mythical Glory over the last 7 days and 52.72% across all ranks over 30 days, as of 26 November 2026.
+51.47% at Mythical Glory over the last 7 days and 52.74% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Hanabi play?
 
@@ -374,7 +374,7 @@ Marksman, played in the Gold Lane.
 
 Is Hanabi strong in the current meta?
 
-Tier B, #45 of 133 heroes and #7 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
+Tier B, #45 of 133 heroes and #7 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
 
 What is the best build for Hanabi?
 

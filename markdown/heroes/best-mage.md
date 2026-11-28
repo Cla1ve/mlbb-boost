@@ -11,7 +11,7 @@ language: ru
 
 # Лучшие маги MLBB
 
-32 героя · Обновлено 26 ноября
+32 героя · Обновлено 27 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -83,7 +83,7 @@ A
 
 Победы
 
-46,5%
+46,6%
 
 Выбор
 
@@ -91,7 +91,7 @@ A
 
 Баны
 
-1,3%
+1,4%
 
 [
 
@@ -219,11 +219,11 @@ A
 
 A
 
-46,5%
+46,6%
 
 0,9%
 
-1,3%
+1,4%
 
 76,4%
 
@@ -251,7 +251,7 @@ A
 
 1,6%
 
-33,1%
+32,9%
 
 24,7%
 
@@ -261,7 +261,7 @@ A
 
 A
 
-49,5%
+49,6%
 
 0,3%
 
@@ -279,7 +279,7 @@ A
 
 1,3%
 
-4,1%
+4,2%
 
 40,7%
 
@@ -303,15 +303,29 @@ A
 
 A
 
-48,4%
+48,3%
 
 1,4%
 
-3,5%
+3,4%
 
 32,9%
 
 9
+
+[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
+
+B
+
+53,3%
+
+1,9%
+
+1,5%
+
+1,0%
+
+10
 
 [![](/images/heroes/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)
 
@@ -324,20 +338,6 @@ B
 0,2%
 
 37,3%
-
-10
-
-[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
-
-B
-
-53,3%
-
-1,8%
-
-1,4%
-
-1,0%
 
 11
 
@@ -391,7 +391,7 @@ B
 
 1,1%
 
-1,4%
+1,5%
 
 0,5%
 
@@ -415,7 +415,7 @@ B
 
 B
 
-51,1%
+51,2%
 
 0,9%
 
@@ -453,20 +453,6 @@ C
 
 19
 
-[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)
-
-C
-
-48,5%
-
-1,1%
-
-0,4%
-
-—
-
-20
-
 [![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
 
 C
@@ -479,13 +465,27 @@ C
 
 1,4%
 
+20
+
+[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)
+
+C
+
+48,5%
+
+1,1%
+
+0,4%
+
+—
+
 21
 
 [![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 C
 
-51,6%
+51,5%
 
 0,1%
 
@@ -513,7 +513,7 @@ C
 
 C
 
-51,1%
+51,2%
 
 0,4%
 
@@ -537,20 +537,6 @@ C
 
 25
 
-[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)
-
-C
-
-48,7%
-
-0,5%
-
-0,1%
-
-0,3%
-
-26
-
 [![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
 C
@@ -562,6 +548,20 @@ C
 0,1%
 
 —
+
+26
+
+[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)
+
+C
+
+48,6%
+
+0,5%
+
+0,1%
+
+0,3%
 
 27
 
@@ -625,11 +625,11 @@ C
 
 D
 
-46,6%
+46,7%
 
 0,2%
 
-0,0%
+0,1%
 
 0,6%
 
@@ -667,7 +667,7 @@ D
 3.  [![](/images/heroes/gord.webp)Горд52,8%](https://boostmlbb.ru/heroes/gord.html)
 4.  [![](/images/heroes/cyclops.webp)Циклоп52,4%](https://boostmlbb.ru/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Цзэтянь52,1%](https://boostmlbb.ru/heroes/zetian.html)
-6.  [![](/images/heroes/bane.webp)Бэйн51,5%](https://boostmlbb.ru/heroes/bane.html)
+6.  [![](/images/heroes/bane.webp)Бэйн51,6%](https://boostmlbb.ru/heroes/bane.html)
 
 ## Кто обыгрывает магов
 
@@ -688,7 +688,7 @@ D
 
 Кто лучший маг в MLBB сейчас?
 
-Алиса: тир A, 50,3% побед, бан в 8,3% матчей Мифической славы за 7 дней. Следом идут Эсмеральда и Кимми. Данные на 26 ноября 2026 года.
+Алиса: тир A, 50,3% побед, бан в 8,3% матчей Мифической славы за 7 дней. Следом идут Эсмеральда и Кимми. Данные на 27 ноября 2026 года.
 
 Что выбрать новичку среди магов?
 
@@ -696,11 +696,11 @@ D
 
 Каких магов чаще всего банят?
 
-Эйдора (33,1%), Алиса (8,3%) и Валир (4,1%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (32,9%), Алиса (8,3%) и Валир (4,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько магов в Mobile Legends?
 
-32 из 133 героев на 26 ноября 2026 года. В списке все герои роли «Маг».
+32 из 133 героев на 27 ноября 2026 года. В списке все герои роли «Маг».
 
 Какие предметы чаще всего собирают на магах?
 

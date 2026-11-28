@@ -1,6 +1,6 @@
 ---
 title: "Сан MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Сан, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сана. Боец, 53,06% побед, тир B."
+description: "Сан, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сана. Боец, 53,05% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-53,1%
+53,0%
 
 Выбор
 
@@ -27,7 +27,7 @@ B
 
 Баны
 
-59,0%
+59,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -46,16 +46,16 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **55,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **55,6%**![](/images/ranks/Legend.webp)Легенда
+2.  **55,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **53,2%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **53,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **52,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -351,7 +351,7 @@ B
 
 ### Кого контрит Сан
 
-[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Скины Сана
 
@@ -381,7 +381,7 @@ B
 
 Какой процент побед у Сана сейчас?
 
-53,06% в Мифической славе за последние 7 дней и 53,88% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,05% в Мифической славе за последние 7 дней и 53,92% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Сана?
 
@@ -389,7 +389,7 @@ B
 
 Стоит ли брать Сана в текущей мете?
 
-Тир B, 17-е место из 133 героев и 6-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 59,0% матчей, 53,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 17-е место из 133 героев и 6-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 59,5% матчей, 53,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Сана лучшая?
 

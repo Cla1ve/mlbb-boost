@@ -1,6 +1,6 @@
 ---
 title: "Sun MLBB: build, combos and counters | MLBB Boost"
-description: "Sun in Mobile Legends: ranked build, skill combos, how to play and who counters Sun. Fighter, 53.06% win rate, tier B."
+description: "Sun in Mobile Legends: ranked build, skill combos, how to play and who counters Sun. Fighter, 53.05% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
@@ -19,7 +19,7 @@ B
 
 Win rate
 
-53.1%
+53.0%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-59.0%
+59.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,16 +46,16 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **55.9%**![](/images/ranks/Epic.webp)Epic
-2.  **55.6%**![](/images/ranks/Legend.webp)Legend
+2.  **55.7%**![](/images/ranks/Legend.webp)Legend
 3.  **54.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **53.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ### Places in the rankings
 
@@ -351,7 +351,7 @@ Sun summons a Doppelganger that inherits his attributes, deals 80% damage, and t
 
 ### Who Sun counters
 
-[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Sun skins
 
@@ -381,7 +381,7 @@ Level "Endless Variety" first and take the ultimate whenever it is available. St
 
 What is Sun’s win rate right now?
 
-53.06% at Mythical Glory over the last 7 days and 53.88% across all ranks over 30 days, as of 26 November 2026.
+53.05% at Mythical Glory over the last 7 days and 53.92% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Sun play?
 
@@ -389,7 +389,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Sun strong in the current meta?
 
-Tier B, #17 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 59.0% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #17 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 59.5% of matches, 53.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Sun?
 

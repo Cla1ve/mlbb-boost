@@ -1,6 +1,6 @@
 ---
 title: "Кайя MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Кайя, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Кайю. Поддержка, 49,58% побед, тир B."
+description: "Кайя, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Кайю. Поддержка, 49,61% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/kaja.html
 language: ru
 ---
@@ -27,7 +27,7 @@ B
 
 Баны
 
-30,8%
+30,6%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ B
 
 -   Инициатор
 -   Рывок
-
-### Победы по рангам, 30 дней
-
-1.  **48,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,8%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие герои поддержки этой линии
 
@@ -333,7 +323,7 @@ B
 
 ### Кто контрит Кайю
 
-[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
 
 ### Кого контрит Кайя
 
@@ -359,7 +349,7 @@ B
 
 Кто контрит Кайю в MLBB?
 
-За последние 30 дней Кайю чаще всего обыгрывают Валир, Акай, Грок, Баксий и Беатрис.
+За последние 30 дней Кайю чаще всего обыгрывают Валир, Акай, Грок, Баксий и Глу.
 
 Как играть за Кайю?
 
@@ -367,7 +357,7 @@ B
 
 Какой процент побед у Кайи сейчас?
 
-49,58% в Мифической славе за последние 7 дней и 49,73% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,61% в Мифической славе за последние 7 дней и 49,71% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Кайи?
 
@@ -375,7 +365,7 @@ B
 
 Стоит ли брать Кайю в текущей мете?
 
-Тир B, 30-е место из 133 героев и 6-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 30,8% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
+Тир B, 30-е место из 133 героев и 6-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 30,6% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
 
 Какая сборка на Кайю лучшая?
 

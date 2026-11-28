@@ -1,6 +1,6 @@
 ---
 title: "Валир MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Валир, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Валира. Маг, 53,46% побед, тир A."
+description: "Валир, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Валира. Маг, 53,45% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/valir.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-4,1%
+4,2%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ A
 
 1.  **54,2%**![](/images/ranks/Epic.webp)Эпик
 2.  **54,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **54,6%**![](/images/ranks/Mythic.webp)Мифик
+3.  **54,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,2%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **53,7%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -55,7 +55,7 @@ A
 
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
@@ -313,7 +313,7 @@ A
 
 Какой процент побед у Валира сейчас?
 
-53,46% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,45% в Мифической славе за последние 7 дней и 54,01% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Валира?
 
@@ -321,7 +321,7 @@ A
 
 Стоит ли брать Валира в текущей мете?
 
-Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,1% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
+Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,2% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
 
 Какая сборка на Валира лучшая?
 

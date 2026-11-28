@@ -1,6 +1,6 @@
 ---
 title: "Джонсон MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Джонсон, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джонсона. Танк и поддержка, 48,00% побед, тир C."
+description: "Джонсон, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джонсона. Танк и поддержка, 48,05% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/johnson.html
 language: ru
 ---
@@ -45,11 +45,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **52,8%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **51,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,4%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+3.  **50,3%**![](/images/ranks/Mythic.webp)Мифик
+4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **47,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -336,7 +336,7 @@ C
 
 ### Кого контрит Джонсон
 
-[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
 
 ## Скины Джонсона
 
@@ -366,7 +366,7 @@ C
 
 Какой процент побед у Джонсона сейчас?
 
-48,00% в Мифической славе за последние 7 дней и 49,39% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,05% в Мифической славе за последние 7 дней и 49,44% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Джонсона?
 
@@ -374,7 +374,7 @@ C
 
 Стоит ли брать Джонсона в текущей мете?
 
-Тир C, 99-е место из 133 героев и 16-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 100-е место из 133 героев и 16-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Джонсона лучшая?
 

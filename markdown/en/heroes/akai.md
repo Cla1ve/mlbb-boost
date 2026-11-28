@@ -1,6 +1,6 @@
 ---
 title: "Akai MLBB: build, combos and counters | MLBB Boost"
-description: "Akai in Mobile Legends: ranked build, skill combos, how to play and who counters Akai. Tank, 49.34% win rate, tier C."
+description: "Akai in Mobile Legends: ranked build, skill combos, how to play and who counters Akai. Tank, 49.37% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/akai.html
 language: en
 ---
@@ -19,7 +19,7 @@ C
 
 Win rate
 
-49.3%
+49.4%
 
 Pick rate
 
@@ -43,23 +43,13 @@ Ban rate
 -   Guard
 -   Crowd Control
 
-### Win rate by rank, 30 days
-
-1.  **51.4%**![](/images/ranks/Epic.webp)Epic
-2.  **51.2%**![](/images/ranks/Legend.webp)Legend
-3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.0%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More tanks on this lane
 
 [![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ### Places in the rankings
 
--   [Best MLBB tanks**19 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
+-   [Best MLBB tanks**18 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
 -   [Best MLBB roamers**24 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
 ## Build
@@ -370,7 +360,7 @@ Level "Body Slam" first and take the ultimate whenever it is available. Even thr
 
 What is Akai’s win rate right now?
 
-49.34% at Mythical Glory over the last 7 days and 50.17% across all ranks over 30 days, as of 26 November 2026.
+49.37% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Akai play?
 
@@ -378,7 +368,7 @@ Tank, played on roam.
 
 Is Akai strong in the current meta?
 
-Tier C, #108 of 133 heroes and #19 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #106 of 133 heroes and #18 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Akai?
 

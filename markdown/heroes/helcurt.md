@@ -1,6 +1,6 @@
 ---
 title: "Хелкарт MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Хелкарт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хелкарта. Убийца, 46,74% побед, тир C."
+description: "Хелкарт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хелкарта. Убийца, 46,76% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-46,7%
+46,8%
 
 Выбор
 
@@ -43,23 +43,13 @@ C
 -   Пуш
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **48,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,6%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **46,4%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие убийцы этой линии
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**25 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**26 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие убийцы MLBB**22 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 -   [Лучшие роумеры MLBB**21 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
@@ -344,7 +334,7 @@ C
 
 ### Кого контрит Хелкарт
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
 
 ## Скины Хелкарта
 
@@ -374,7 +364,7 @@ C
 
 Какой процент побед у Хелкарта сейчас?
 
-46,74% в Мифической славе за последние 7 дней и 47,71% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+46,76% в Мифической славе за последние 7 дней и 47,73% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Хелкарта?
 
@@ -382,7 +372,7 @@ C
 
 Стоит ли брать Хелкарта в текущей мете?
 
-Тир C, 98-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 99-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Хелкарта лучшая?
 

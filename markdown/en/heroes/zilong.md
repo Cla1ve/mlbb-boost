@@ -1,6 +1,6 @@
 ---
 title: "Zilong MLBB: build, combos and counters | MLBB Boost"
-description: "Zilong in Mobile Legends: ranked build, skill combos, how to play and who counters Zilong. Fighter and assassin, 44.82% win rate, tier C."
+description: "Zilong in Mobile Legends: ranked build, skill combos, how to play and who counters Zilong. Fighter and assassin, 44.78% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Chase
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **47.2%**![](/images/ranks/Epic.webp)Epic
-2.  **46.8%**![](/images/ranks/Legend.webp)Legend
-3.  **46.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **45.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -339,7 +329,7 @@ During this time, Dragon Flurry triggers every 2 attacks (instead of the previou
 
 ### Who Zilong counters
 
-[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Zilong skins
 
@@ -369,7 +359,7 @@ Level "Spear Strike" first and take the ultimate whenever it is available. Stron
 
 What is Zilong’s win rate right now?
 
-44.82% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 26 November 2026.
+44.78% at Mythical Glory over the last 7 days and 46.26% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Zilong play?
 

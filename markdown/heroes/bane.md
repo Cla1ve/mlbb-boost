@@ -1,6 +1,6 @@
 ---
 title: "Бэйн MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Бэйн, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бэйна. Боец и маг, 51,62% побед, тир C."
+description: "Бэйн, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бэйна. Боец и маг, 51,61% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/bane.html
 language: ru
 ---
@@ -46,21 +46,21 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **52,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,5%**![](/images/ranks/Legend.webp)Легенда
+2.  **51,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **51,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **51,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**26 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие маги MLBB**26 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие лесники MLBB**25 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие маги MLBB**25 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
 -   [Лучшие бойцы MLBB**31 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 
 ## Сборка
@@ -376,7 +376,7 @@ C
 
 Какой процент побед у Бэйна сейчас?
 
-51,62% в Мифической славе за последние 7 дней и 51,62% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,61% в Мифической славе за последние 7 дней и 51,62% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Бэйна?
 
@@ -384,7 +384,7 @@ C
 
 Стоит ли брать Бэйна в текущей мете?
 
-Тир C, 102-е место из 133 героев и 31-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 98-е место из 133 героев и 31-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Бэйна лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Uranus MLBB: build, combos and counters | MLBB Boost"
-description: "Uranus in Mobile Legends: ranked build, skill combos, how to play and who counters Uranus. Tank, 48.70% win rate, tier B."
+description: "Uranus in Mobile Legends: ranked build, skill combos, how to play and who counters Uranus. Tank, 48.72% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/uranus.html
 language: en
 ---
@@ -44,11 +44,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.7%**![](/images/ranks/Epic.webp)Epic
+1.  **51.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **49.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -332,7 +332,7 @@ Uranus directly gains 5 stacks of Radiance, increasing shields received and HP R
 
 ### Who counters Uranus
 
-[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)
 
 ### Who Uranus counters
 
@@ -358,7 +358,7 @@ Uranus directly gains 5 stacks of Radiance, increasing shields received and HP R
 
 Who counters Uranus in MLBB?
 
-Over the last 30 days the toughest opponents are Argus, Gatotkaca, Yin, Zhask and Diggie.
+Over the last 30 days the toughest opponents are Argus, Gatotkaca, Yin, Zhask and Granger.
 
 How do you play Uranus?
 
@@ -366,7 +366,7 @@ Level "Ionic Edge" first and take the ultimate whenever it is available. Stronge
 
 What is Uranus’s win rate right now?
 
-48.70% at Mythical Glory over the last 7 days and 49.38% across all ranks over 30 days, as of 26 November 2026.
+48.72% at Mythical Glory over the last 7 days and 49.39% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Uranus play?
 
@@ -374,7 +374,7 @@ Tank, played in the EXP Lane.
 
 Is Uranus strong in the current meta?
 
-Tier B, #39 of 133 heroes and #10 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 39.0% of them.
+Tier B, #40 of 133 heroes and #10 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 39.0% of them.
 
 What is the best build for Uranus?
 

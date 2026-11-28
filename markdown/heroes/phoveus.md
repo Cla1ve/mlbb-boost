@@ -1,6 +1,6 @@
 ---
 title: "Фовиус MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Фовиус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фовиуса. Боец, 48,56% побед, тир B."
+description: "Фовиус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фовиуса. Боец, 48,57% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/phoveus.html
 language: ru
 ---
@@ -42,16 +42,6 @@ B
 
 -   Регенерация
 -   Урон
-
-### Победы по рангам, 30 дней
-
-1.  **49,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,3%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
@@ -337,7 +327,7 @@ B
 
 ### Кого контрит Фовиус
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
 ## Скины Фовиуса
 
@@ -367,7 +357,7 @@ B
 
 Какой процент побед у Фовиуса сейчас?
 
-48,56% в Мифической славе за последние 7 дней и 48,23% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,57% в Мифической славе за последние 7 дней и 48,23% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Фовиуса?
 

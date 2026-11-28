@@ -1,6 +1,6 @@
 ---
 title: "Roger MLBB: build, combos and counters | MLBB Boost"
-description: "Roger in Mobile Legends: ranked build, skill combos, how to play and who counters Roger. Fighter and marksman, 46.34% win rate, tier D."
+description: "Roger in Mobile Legends: ranked build, skill combos, how to play and who counters Roger. Fighter and marksman, 46.35% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-46.3%
+46.4%
 
 Pick rate
 
@@ -43,19 +43,9 @@ Ban rate
 -   Finisher
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **50.7%**![](/images/ranks/Epic.webp)Epic
-2.  **50.4%**![](/images/ranks/Legend.webp)Legend
-3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.1%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ### Places in the rankings
 
@@ -372,7 +362,7 @@ Level "Open Fire" first and take the ultimate whenever it is available. Even thr
 
 What is Roger’s win rate right now?
 
-46.34% at Mythical Glory over the last 7 days and 48.28% across all ranks over 30 days, as of 26 November 2026.
+46.35% at Mythical Glory over the last 7 days and 48.27% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Roger play?
 
@@ -380,7 +370,7 @@ Fighter and marksman, played in the jungle.
 
 Is Roger strong in the current meta?
 
-Tier D, #126 of 133 heroes and #43 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier D, #126 of 133 heroes and #43 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Roger?
 

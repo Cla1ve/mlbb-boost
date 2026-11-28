@@ -1,6 +1,6 @@
 ---
 title: "Barats MLBB: build, combos and counters | MLBB Boost"
-description: "Barats in Mobile Legends: ranked build, skill combos, how to play and who counters Barats. Tank and fighter, 51.59% win rate, tier A."
+description: "Barats in Mobile Legends: ranked build, skill combos, how to play and who counters Barats. Tank and fighter, 51.58% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/barats.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-3.0%
+2.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Damage
 -   Crowd Control
-
-### Win rate by rank, 30 days
-
-1.  **50.7%**![](/images/ranks/Epic.webp)Epic
-2.  **51.4%**![](/images/ranks/Legend.webp)Legend
-3.  **52.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -337,7 +327,7 @@ If Detona successfully devours an enemy, he immediately gains max stacks of Big 
 
 ### Who Barats counters
 
-[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Barats skins
 
@@ -367,7 +357,7 @@ Level "So-Called Teamwork" first and take the ultimate whenever it is available.
 
 What is Barats’s win rate right now?
 
-51.59% at Mythical Glory over the last 7 days and 51.65% across all ranks over 30 days, as of 26 November 2026.
+51.58% at Mythical Glory over the last 7 days and 51.64% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Barats play?
 
@@ -375,7 +365,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Barats strong in the current meta?
 
-Tier A, #24 of 133 heroes and #8 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.0% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 42.2% of them.
+Tier A, #24 of 133 heroes and #8 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.9% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 42.2% of them.
 
 What is the best build for Barats?
 

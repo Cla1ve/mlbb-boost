@@ -1,6 +1,6 @@
 ---
 title: "Ксавьер MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ксавьер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ксавьера. Маг, 53,32% побед, тир B."
+description: "Ксавьер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ксавьера. Маг, 53,25% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/xavier.html
 language: ru
 ---
@@ -23,11 +23,11 @@ B
 
 Выбор
 
-1,8%
+1,9%
 
 Баны
 
-1,4%
+1,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,24 +43,14 @@ B
 -   Урон
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **48,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,9%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
 [![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**10 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие мидеры MLBB**8 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+-   [Лучшие маги MLBB**9 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**7 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 
@@ -370,7 +360,7 @@ B
 
 Какой процент побед у Ксавьера сейчас?
 
-53,32% в Мифической славе за последние 7 дней и 52,02% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,25% в Мифической славе за последние 7 дней и 52,08% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Ксавьера?
 
@@ -378,7 +368,7 @@ B
 
 Стоит ли брать Ксавьера в текущей мете?
 
-Тир B, 37-е место из 133 героев и 10-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,4% матчей, 53,3% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
+Тир B, 36-е место из 133 героев и 9-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,5% матчей, 53,3% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
 
 Какая сборка на Ксавьера лучшая?
 

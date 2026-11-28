@@ -11,7 +11,7 @@ language: ru
 
 # Лучшие мидеры MLBB
 
-29 героев · Обновлено 26 ноября
+29 героев · Обновлено 27 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -91,7 +91,7 @@ A
 
 Баны
 
-33,1%
+32,9%
 
 [
 
@@ -137,7 +137,7 @@ A
 
 Победы
 
-49,5%
+49,6%
 
 Выбор
 
@@ -223,7 +223,7 @@ A
 
 1,6%
 
-33,1%
+32,9%
 
 24,7%
 
@@ -233,7 +233,7 @@ A
 
 A
 
-49,5%
+49,6%
 
 0,3%
 
@@ -251,7 +251,7 @@ A
 
 1,3%
 
-4,1%
+4,2%
 
 40,7%
 
@@ -275,15 +275,29 @@ A
 
 A
 
-48,4%
+48,3%
 
 1,4%
 
-3,5%
+3,4%
 
 32,9%
 
 7
+
+[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
+
+B
+
+53,3%
+
+1,9%
+
+1,5%
+
+1,0%
+
+8
 
 [![](/images/heroes/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)
 
@@ -296,20 +310,6 @@ B
 0,2%
 
 37,3%
-
-8
-
-[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
-
-B
-
-53,3%
-
-1,8%
-
-1,4%
-
-1,0%
 
 9
 
@@ -363,7 +363,7 @@ B
 
 1,1%
 
-1,4%
+1,5%
 
 0,5%
 
@@ -387,7 +387,7 @@ B
 
 B
 
-51,1%
+51,2%
 
 0,9%
 
@@ -403,7 +403,7 @@ B
 
 48,9%
 
-1,1%
+1,2%
 
 1,8%
 
@@ -425,20 +425,6 @@ C
 
 17
 
-[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)
-
-C
-
-48,5%
-
-1,1%
-
-0,4%
-
-—
-
-18
-
 [![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
 
 C
@@ -451,13 +437,27 @@ C
 
 1,4%
 
+18
+
+[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)
+
+C
+
+48,5%
+
+1,1%
+
+0,4%
+
+—
+
 19
 
 [![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 C
 
-51,6%
+51,5%
 
 0,1%
 
@@ -485,7 +485,7 @@ C
 
 C
 
-51,1%
+51,2%
 
 0,4%
 
@@ -513,7 +513,7 @@ C
 
 C
 
-48,7%
+48,6%
 
 0,5%
 
@@ -583,11 +583,11 @@ C
 
 D
 
-46,6%
+46,7%
 
 0,2%
 
-0,0%
+0,1%
 
 0,6%
 
@@ -646,7 +646,7 @@ D
 
 Кто лучший мидер в MLBB сейчас?
 
-Кимми: тир A, 48,1% побед, бан в 0,5% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 26 ноября 2026 года.
+Кимми: тир A, 48,1% побед, бан в 0,5% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 27 ноября 2026 года.
 
 Что выбрать новичку среди мидеров?
 
@@ -654,11 +654,11 @@ D
 
 Каких мидеров чаще всего банят?
 
-Эйдора (33,1%), Валир (4,1%) и Селена (3,5%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (32,9%), Валир (4,2%) и Селена (3,4%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько мидеров в Mobile Legends?
 
-29 из 133 героев на 26 ноября 2026 года. В списке все, кто играет на средней линии по данным игры.
+29 из 133 героев на 27 ноября 2026 года. В списке все, кто играет на средней линии по данным игры.
 
 Какие предметы чаще всего собирают на мидерах?
 

@@ -1,6 +1,6 @@
 ---
 title: "Ванван MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ванван, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ванван. Стрелок, 47,07% побед, тир D."
+description: "Ванван, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ванван. Стрелок, 47,06% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/wanwan.html
 language: ru
 ---
@@ -42,16 +42,6 @@ D
 
 -   Добивание
 -   Разрушительный урон
-
-### Победы по рангам, 30 дней
-
-1.  **45,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие стрелки этой линии
 
@@ -285,11 +275,11 @@ D
 
 ### Кто контрит Ванван
 
-[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
 
 ### Кого контрит Ванван
 
-[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Скины Ванван
 
@@ -311,7 +301,7 @@ D
 
 Кто контрит Ванван в MLBB?
 
-За последние 30 дней Ванван чаще всего обыгрывают Инь, Иксия, Атлас, Гвиневра и Ханаби.
+За последние 30 дней Ванван чаще всего обыгрывают Инь, Иксия, Атлас, Гвиневра и Глу.
 
 Как играть за Ванван?
 
@@ -319,7 +309,7 @@ D
 
 Какой процент побед у Ванван сейчас?
 
-47,07% в Мифической славе за последние 7 дней и 47,50% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+47,06% в Мифической славе за последние 7 дней и 47,49% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Ванван?
 

@@ -1,6 +1,6 @@
 ---
 title: "Бальмонд MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Бальмонд, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бальмонда. Боец, 45,05% побед, тир C."
+description: "Бальмонд, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бальмонда. Боец, 45,03% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/balmond.html
 language: ru
 ---
@@ -43,19 +43,9 @@ C
 -   Урон
 -   Регенерация
 
-### Победы по рангам, 30 дней
-
-1.  **47,2%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **46,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -333,7 +323,7 @@ C
 
 ### Кто контрит Бальмонда
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
 ### Кого контрит Бальмонд
 
@@ -359,7 +349,7 @@ C
 
 Кто контрит Бальмонда в MLBB?
 
-За последние 30 дней Бальмонда чаще всего обыгрывают Сабер, Лукас, Бартс, Чип и Фовиус.
+За последние 30 дней Бальмонда чаще всего обыгрывают Сабер, Лукас, Бартс, Чип и Мартис.
 
 Как играть за Бальмонда?
 
@@ -367,7 +357,7 @@ C
 
 Какой процент побед у Бальмонда сейчас?
 
-45,05% в Мифической славе за последние 7 дней и 46,60% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+45,03% в Мифической славе за последние 7 дней и 46,59% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Бальмонда?
 

@@ -1,6 +1,6 @@
 ---
 title: "Thamuz MLBB: build, combos and counters | MLBB Boost"
-description: "Thamuz in Mobile Legends: ranked build, skill combos, how to play and who counters Thamuz. Fighter, 48.33% win rate, tier C."
+description: "Thamuz in Mobile Legends: ranked build, skill combos, how to play and who counters Thamuz. Fighter, 48.32% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/thamuz.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Chase
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **48.5%**![](/images/ranks/Epic.webp)Epic
-2.  **48.9%**![](/images/ranks/Legend.webp)Legend
-3.  **49.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -276,7 +266,7 @@ Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the sa
 
 ### Who counters Thamuz
 
-[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ### Who Thamuz counters
 
@@ -302,7 +292,7 @@ Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the sa
 
 Who counters Thamuz in MLBB?
 
-Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber and Faramis.
+Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber and Diggie.
 
 How do you play Thamuz?
 
@@ -310,7 +300,7 @@ Level "Molten Scythes" first and take the ultimate whenever it is available. Str
 
 What is Thamuz’s win rate right now?
 
-48.33% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 26 November 2026.
+48.32% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Thamuz play?
 

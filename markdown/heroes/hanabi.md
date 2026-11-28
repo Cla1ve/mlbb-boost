@@ -1,6 +1,6 @@
 ---
 title: "Ханаби MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ханаби, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханаби. Стрелок, 51,44% побед, тир B."
+description: "Ханаби, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ханаби. Стрелок, 51,47% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/hanabi.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-51,4%
+51,5%
 
 Выбор
 
@@ -46,9 +46,9 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **54,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **53,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,0%**![](/images/ranks/Mythical_Honor.webp)Честь
+2.  **54,0%**![](/images/ranks/Legend.webp)Легенда
+3.  **53,4%**![](/images/ranks/Mythic.webp)Мифик
+4.  **52,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -332,11 +332,11 @@ B
 
 ### Кто контрит Ханаби
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)
 
 ### Кого контрит Ханаби
 
-[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## Скины Ханаби
 
@@ -358,7 +358,7 @@ B
 
 Кто контрит Ханаби в MLBB?
 
-За последние 30 дней Ханаби чаще всего обыгрывают Сабер, Пополь и Купа, Москов, Бальмонд и Акай.
+За последние 30 дней Ханаби чаще всего обыгрывают Сабер, Пополь и Купа, Москов, Акай и Бальмонд.
 
 Как играть за Ханаби?
 
@@ -366,7 +366,7 @@ B
 
 Какой процент побед у Ханаби сейчас?
 
-51,44% в Мифической славе за последние 7 дней и 52,72% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,47% в Мифической славе за последние 7 дней и 52,74% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Ханаби?
 
@@ -374,7 +374,7 @@ B
 
 Стоит ли брать Ханаби в текущей мете?
 
-Тир B, 45-е место из 133 героев и 7-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,6% матчей, 51,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
+Тир B, 45-е место из 133 героев и 7-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,6% матчей, 51,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
 
 Какая сборка на Ханаби лучшая?
 

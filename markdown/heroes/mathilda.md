@@ -43,16 +43,6 @@ D
 -   Инициатор
 -   Защита
 
-### Победы по рангам, 30 дней
-
-1.  **46,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **45,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **45,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **45,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **43,9%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие убийцы этой линии
 
 [![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
@@ -341,7 +331,7 @@ D
 
 ### Кого контрит Матильда
 
-[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
 ## Скины Матильды
 
@@ -371,7 +361,7 @@ D
 
 Какой процент побед у Матильды сейчас?
 
-44,01% в Мифической славе за последние 7 дней и 44,46% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+44,01% в Мифической славе за последние 7 дней и 44,45% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Матильды?
 

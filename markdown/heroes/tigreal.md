@@ -1,6 +1,6 @@
 ---
 title: "Тигрил MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Тигрил, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Тигрила. Танк, 45,10% побед, тир B."
+description: "Тигрил, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Тигрила. Танк, 45,13% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/tigreal.html
 language: ru
 ---
@@ -23,7 +23,7 @@ B
 
 Выбор
 
-1,6%
+1,7%
 
 Баны
 
@@ -41,16 +41,6 @@ B
 -   Сложность**10**
 
 -   Массовый контроль
-
-### Победы по рангам, 30 дней
-
-1.  **48,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **45,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **45,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **44,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -334,7 +324,7 @@ B
 
 ### Кто контрит Тигрила
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)
 
 ### Кого контрит Тигрил
 
@@ -360,7 +350,7 @@ B
 
 Кто контрит Тигрила в MLBB?
 
-За последние 30 дней Тигрила чаще всего обыгрывают Зилонг, Эстес, Алукард, Франко и Лесли.
+За последние 30 дней Тигрила чаще всего обыгрывают Эстес, Зилонг, Алукард, Лесли и Франко.
 
 Как играть за Тигрила?
 
@@ -368,7 +358,7 @@ B
 
 Какой процент побед у Тигрила сейчас?
 
-45,10% в Мифической славе за последние 7 дней и 45,30% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+45,13% в Мифической славе за последние 7 дней и 45,32% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Тигрила?
 

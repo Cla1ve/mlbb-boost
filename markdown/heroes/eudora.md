@@ -1,6 +1,6 @@
 ---
 title: "Эйдора MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Эйдора, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эйдору. Маг, 50,20% побед, тир A."
+description: "Эйдора, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эйдору. Маг, 50,19% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/eudora.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-33,1%
+32,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ A
 -   Контроль
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **49,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,4%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
@@ -369,7 +359,7 @@ A
 
 Какой процент побед у Эйдоры сейчас?
 
-50,20% в Мифической славе за последние 7 дней и 50,27% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,19% в Мифической славе за последние 7 дней и 50,26% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Эйдоры?
 
@@ -377,7 +367,7 @@ A
 
 Стоит ли брать Эйдору в текущей мете?
 
-Тир A, 16-е место из 133 героев и 4-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 33,1% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 24,7% катков.
+Тир A, 16-е место из 133 героев и 4-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,9% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 24,7% катков.
 
 Какая сборка на Эйдору лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Ли Сун-Син MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Ли Сун-Син, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ли Сун-Сина. Убийца и стрелок, 48,52% побед, тир B."
+description: "Ли Сун-Син, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Ли Сун-Сина. Убийца и стрелок, 48,51% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/yi-sun-shin.html
 language: ru
 ---
@@ -345,7 +345,7 @@ B
 
 ### Кто контрит Ли Сун-Сина
 
-[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Скины Ли Сун-Сина
 
@@ -367,7 +367,7 @@ B
 
 Кто контрит Ли Сун-Сина в MLBB?
 
-За последние 30 дней Ли Сун-Сина чаще всего обыгрывают Хуфра, Тамуз, Бенедетта, Мелисса и Нана.
+За последние 30 дней Ли Сун-Сина чаще всего обыгрывают Хуфра, Тамуз, Бенедетта, Нана и Мелисса.
 
 Как играть за Ли Сун-Сина?
 
@@ -375,7 +375,7 @@ B
 
 Какой процент побед у Ли Сун-Сина сейчас?
 
-48,52% в Мифической славе за последние 7 дней и 49,03% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,51% в Мифической славе за последние 7 дней и 49,01% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Ли Сун-Сина?
 

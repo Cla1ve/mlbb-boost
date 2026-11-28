@@ -1,6 +1,6 @@
 ---
 title: "Cyclops MLBB: build, combos and counters | MLBB Boost"
-description: "Cyclops in Mobile Legends: ranked build, skill combos, how to play and who counters Cyclops. Mage, 51.10% win rate, tier C."
+description: "Cyclops in Mobile Legends: ranked build, skill combos, how to play and who counters Cyclops. Mage, 51.07% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
@@ -48,14 +48,14 @@ Ban rate
 1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **52.2%**![](/images/ranks/Legend.webp)Legend
 3.  **52.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **50.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -329,7 +329,7 @@ Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, d
 
 ### Who counters Cyclops
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ### Who Cyclops counters
 
@@ -355,7 +355,7 @@ Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, d
 
 Who counters Cyclops in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, Marcel, Wanwan, Joy and Ling.
+Over the last 30 days the toughest opponents are Natalia, Marcel, Wanwan, Joy and Mathilda.
 
 How do you play Cyclops?
 
@@ -363,7 +363,7 @@ Level "Planets Attack" first and take the ultimate whenever it is available. Str
 
 What is Cyclops’s win rate right now?
 
-51.10% at Mythical Glory over the last 7 days and 51.72% across all ranks over 30 days, as of 26 November 2026.
+51.07% at Mythical Glory over the last 7 days and 51.72% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Cyclops play?
 

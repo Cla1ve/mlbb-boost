@@ -1,6 +1,6 @@
 ---
 title: "Khaleed MLBB: build, combos and counters | MLBB Boost"
-description: "Khaleed in Mobile Legends: ranked build, skill combos, how to play and who counters Khaleed. Fighter, 48.89% win rate, tier D."
+description: "Khaleed in Mobile Legends: ranked build, skill combos, how to play and who counters Khaleed. Fighter, 48.96% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/khaleed.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-48.9%
+49.0%
 
 Pick rate
 
@@ -370,7 +370,7 @@ Level "Desert Tornado" first and take the ultimate whenever it is available. Eve
 
 What is Khaleed’s win rate right now?
 
-48.89% at Mythical Glory over the last 7 days and 50.26% across all ranks over 30 days, as of 26 November 2026.
+48.96% at Mythical Glory over the last 7 days and 50.26% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Khaleed play?
 
@@ -378,7 +378,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Khaleed strong in the current meta?
 
-Tier D, #116 of 133 heroes and #39 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.9% win rate. In professional games over the last month the hero is drafted in 3.0% of them.
+Tier D, #116 of 133 heroes and #39 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 3.0% of them.
 
 What is the best build for Khaleed?
 

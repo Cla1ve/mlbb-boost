@@ -1,6 +1,6 @@
 ---
 title: "Рафаэль MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Рафаэль, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Рафаэль. Поддержка, 53,27% побед, тир B."
+description: "Рафаэль, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Рафаэль. Поддержка, 53,34% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/rafaela.html
 language: ru
 ---
@@ -27,7 +27,7 @@ B
 
 Баны
 
-8,9%
+8,8%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -46,7 +46,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **53,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
+2.  **54,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **55,1%**![](/images/ranks/Mythic.webp)Мифик
 4.  **55,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **53,8%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -328,7 +328,7 @@ B
 
 ### Кто контрит Рафаэль
 
-[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
 
 ### Кого контрит Рафаэль
 
@@ -354,7 +354,7 @@ B
 
 Кто контрит Рафаэль в MLBB?
 
-За последние 30 дней Рафаэль чаще всего обыгрывают Валир, Наталья, Марсель, Чичи и Хилос.
+За последние 30 дней Рафаэль чаще всего обыгрывают Наталья, Валир, Марсель, Хилос и Чичи.
 
 Как играть за Рафаэль?
 
@@ -362,7 +362,7 @@ B
 
 Какой процент побед у Рафаэль сейчас?
 
-53,27% в Мифической славе за последние 7 дней и 54,34% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,34% в Мифической славе за последние 7 дней и 54,30% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Рафаэль?
 
@@ -370,7 +370,7 @@ B
 
 Стоит ли брать Рафаэль в текущей мете?
 
-Тир B, 34-е место из 133 героев и 8-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,9% матчей, 53,3% побед. В профессиональных матчах за месяц героя драфтуют в 7,7% катков.
+Тир B, 34-е место из 133 героев и 8-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,8% матчей, 53,3% побед. В профессиональных матчах за месяц героя драфтуют в 7,7% катков.
 
 Какая сборка на Рафаэль лучшая?
 

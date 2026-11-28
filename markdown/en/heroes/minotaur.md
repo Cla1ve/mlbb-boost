@@ -1,6 +1,6 @@
 ---
 title: "Minotaur MLBB: build, combos and counters | MLBB Boost"
-description: "Minotaur in Mobile Legends: ranked build, skill combos, how to play and who counters Minotaur. Tank and support, 53.58% win rate, tier A."
+description: "Minotaur in Mobile Legends: ranked build, skill combos, how to play and who counters Minotaur. Tank and support, 53.60% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/minotaur.html
 language: en
 ---
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-1.4%
+1.3%
 
 Ban rate
 
@@ -47,7 +47,7 @@ Ban rate
 1.  **53.9%**![](/images/ranks/Epic.webp)Epic
 2.  **54.9%**![](/images/ranks/Legend.webp)Legend
 3.  **54.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **54.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **54.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **53.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -335,7 +335,7 @@ The Enraged state lasts 12s and enhances Minotaur's skills for the duration.
 
 ### Who counters Minotaur
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
 ### Who Minotaur counters
 
@@ -361,7 +361,7 @@ The Enraged state lasts 12s and enhances Minotaur's skills for the duration.
 
 Who counters Minotaur in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Silvanna, Johnson, Cyclops and Khufra.
+Over the last 30 days the toughest opponents are Lolita, Silvanna, Cyclops, Johnson and Khufra.
 
 How do you play Minotaur?
 
@@ -369,7 +369,7 @@ Level "Despair Stomp" first and take the ultimate whenever it is available. Stro
 
 What is Minotaur’s win rate right now?
 
-53.58% at Mythical Glory over the last 7 days and 53.77% across all ranks over 30 days, as of 26 November 2026.
+53.60% at Mythical Glory over the last 7 days and 53.78% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Minotaur play?
 

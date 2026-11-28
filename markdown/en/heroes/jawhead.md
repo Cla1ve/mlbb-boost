@@ -43,16 +43,6 @@ Ban rate
 -   Charge
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **47.6%**![](/images/ranks/Epic.webp)Epic
-2.  **48.3%**![](/images/ranks/Legend.webp)Legend
-3.  **48.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
@@ -364,7 +354,7 @@ Level "Smart Missiles" first and take the ultimate whenever it is available. Eve
 
 What is Jawhead’s win rate right now?
 
-47.56% at Mythical Glory over the last 7 days and 47.91% across all ranks over 30 days, as of 26 November 2026.
+47.56% at Mythical Glory over the last 7 days and 47.92% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Jawhead play?
 

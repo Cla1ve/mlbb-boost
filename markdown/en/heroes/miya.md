@@ -1,6 +1,6 @@
 ---
 title: "Miya MLBB: build, combos and counters | MLBB Boost"
-description: "Miya in Mobile Legends: ranked build, skill combos, how to play and who counters Miya. Marksman, 50.05% win rate, tier B."
+description: "Miya in Mobile Legends: ranked build, skill combos, how to play and who counters Miya. Marksman, 50.03% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/miya.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Finisher
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **48.4%**![](/images/ranks/Epic.webp)Epic
-2.  **49.1%**![](/images/ranks/Legend.webp)Legend
-3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.2%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -334,7 +324,7 @@ Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
 
 ### Who counters Miya
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ### Who Miya counters
 
@@ -360,7 +350,7 @@ Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
 
 Who counters Miya in MLBB?
 
-Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Irithel and Harith.
+Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Harith and Irithel.
 
 How do you play Miya?
 
@@ -368,7 +358,7 @@ Level "Moon Arrow" first and take the ultimate whenever it is available. Stronge
 
 What is Miya’s win rate right now?
 
-50.05% at Mythical Glory over the last 7 days and 49.68% across all ranks over 30 days, as of 26 November 2026.
+50.03% at Mythical Glory over the last 7 days and 49.67% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Miya play?
 

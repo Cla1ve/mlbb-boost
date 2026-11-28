@@ -1,6 +1,6 @@
 ---
 title: "Ruby MLBB: build, combos and counters | MLBB Boost"
-description: "Ruby in Mobile Legends: ranked build, skill combos, how to play and who counters Ruby. Fighter, 48.98% win rate, tier C."
+description: "Ruby in Mobile Legends: ranked build, skill combos, how to play and who counters Ruby. Fighter, 49.01% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/ruby.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Crowd Control
 -   Regen
-
-### Win rate by rank, 30 days
-
-1.  **49.5%**![](/images/ranks/Epic.webp)Epic
-2.  **49.6%**![](/images/ranks/Legend.webp)Legend
-3.  **49.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.7%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -362,7 +352,7 @@ Level "Be Good!" first and take the ultimate whenever it is available. Stronger 
 
 What is Ruby’s win rate right now?
 
-48.98% at Mythical Glory over the last 7 days and 49.09% across all ranks over 30 days, as of 26 November 2026.
+49.01% at Mythical Glory over the last 7 days and 49.09% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Ruby play?
 

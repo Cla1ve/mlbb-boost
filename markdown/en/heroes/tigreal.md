@@ -1,6 +1,6 @@
 ---
 title: "Tigreal MLBB: build, combos and counters | MLBB Boost"
-description: "Tigreal in Mobile Legends: ranked build, skill combos, how to play and who counters Tigreal. Tank, 45.10% win rate, tier B."
+description: "Tigreal in Mobile Legends: ranked build, skill combos, how to play and who counters Tigreal. Tank, 45.13% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/tigreal.html
 language: en
 ---
@@ -23,7 +23,7 @@ Win rate
 
 Pick rate
 
-1.6%
+1.7%
 
 Ban rate
 
@@ -41,16 +41,6 @@ Ban rate
 -   Difficulty**10**
 
 -   Crowd Control
-
-### Win rate by rank, 30 days
-
-1.  **48.8%**![](/images/ranks/Epic.webp)Epic
-2.  **46.2%**![](/images/ranks/Legend.webp)Legend
-3.  **45.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **45.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -334,7 +324,7 @@ The first half of the channeling can be interrupted by control effects, while th
 
 ### Who counters Tigreal
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
+[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)
 
 ### Who Tigreal counters
 
@@ -360,7 +350,7 @@ The first half of the channeling can be interrupted by control effects, while th
 
 Who counters Tigreal in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Estes, Alucard, Franco and Lesley.
+Over the last 30 days the toughest opponents are Estes, Zilong, Alucard, Lesley and Franco.
 
 How do you play Tigreal?
 
@@ -368,7 +358,7 @@ Level "Attack Wave" first and take the ultimate whenever it is available. Strong
 
 What is Tigreal’s win rate right now?
 
-45.10% at Mythical Glory over the last 7 days and 45.30% across all ranks over 30 days, as of 26 November 2026.
+45.13% at Mythical Glory over the last 7 days and 45.32% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Tigreal play?
 

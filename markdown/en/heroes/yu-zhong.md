@@ -1,6 +1,6 @@
 ---
 title: "Yu Zhong MLBB: build, combos and counters | MLBB Boost"
-description: "Yu Zhong in Mobile Legends: ranked build, skill combos, how to play and who counters Yu Zhong. Fighter, 48.69% win rate, tier B."
+description: "Yu Zhong in Mobile Legends: ranked build, skill combos, how to play and who counters Yu Zhong. Fighter, 48.72% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yu-zhong.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Regen
 -   Damage
-
-### Win rate by rank, 30 days
-
-1.  **48.9%**![](/images/ranks/Epic.webp)Epic
-2.  **48.6%**![](/images/ranks/Legend.webp)Legend
-3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -376,7 +366,7 @@ Level "Dragon Tail" first and take the ultimate whenever it is available. Even t
 
 What is Yu Zhong’s win rate right now?
 
-48.69% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 26 November 2026.
+48.72% at Mythical Glory over the last 7 days and 48.89% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Yu Zhong play?
 
@@ -384,7 +374,7 @@ Fighter, played in the EXP Lane.
 
 Is Yu Zhong strong in the current meta?
 
-Tier B, #40 of 133 heroes and #12 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 27.9% of them.
+Tier B, #39 of 133 heroes and #12 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 27.9% of them.
 
 What is the best build for Yu Zhong?
 

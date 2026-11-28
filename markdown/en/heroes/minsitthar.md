@@ -1,6 +1,6 @@
 ---
 title: "Minsitthar MLBB: build, combos and counters | MLBB Boost"
-description: "Minsitthar in Mobile Legends: ranked build, skill combos, how to play and who counters Minsitthar. Fighter, 52.11% win rate, tier B."
+description: "Minsitthar in Mobile Legends: ranked build, skill combos, how to play and who counters Minsitthar. Fighter, 52.09% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/minsitthar.html
 language: en
 ---
@@ -334,7 +334,7 @@ Enemies in the field are slowed by 30% and cannot use movement skills.
 
 ### Who Minsitthar counters
 
-[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Minsitthar skins
 
@@ -364,7 +364,7 @@ Level "Shield Assault" first and take the ultimate whenever it is available. Str
 
 What is Minsitthar’s win rate right now?
 
-52.11% at Mythical Glory over the last 7 days and 52.18% across all ranks over 30 days, as of 26 November 2026.
+52.09% at Mythical Glory over the last 7 days and 52.20% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Minsitthar play?
 

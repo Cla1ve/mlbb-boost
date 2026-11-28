@@ -1,6 +1,6 @@
 ---
 title: "Chip MLBB: build, combos and counters | MLBB Boost"
-description: "Chip in Mobile Legends: ranked build, skill combos, how to play and who counters Chip. Tank and support, 48.17% win rate, tier D."
+description: "Chip in Mobile Legends: ranked build, skill combos, how to play and who counters Chip. Tank and support, 48.13% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/chip.html
 language: en
 ---
@@ -19,7 +19,7 @@ D
 
 Win rate
 
-48.2%
+48.1%
 
 Pick rate
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Support
 -   Crowd Control
-
-### Win rate by rank, 30 days
-
-1.  **46.9%**![](/images/ranks/Epic.webp)Epic
-2.  **47.1%**![](/images/ranks/Legend.webp)Legend
-3.  **47.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -343,7 +333,7 @@ Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to te
 
 ### Who counters Chip
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)
 
 ### Who Chip counters
 
@@ -369,7 +359,7 @@ Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to te
 
 Who counters Chip in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Helcurt, Selena, Mathilda and Valentina.
+Over the last 30 days the toughest opponents are Helcurt, Zilong, Selena, Valentina and Floryn.
 
 How do you play Chip?
 
@@ -377,7 +367,7 @@ Level "Shortcut" first and take the ultimate whenever it is available. Stronger 
 
 What is Chip’s win rate right now?
 
-48.17% at Mythical Glory over the last 7 days and 47.61% across all ranks over 30 days, as of 26 November 2026.
+48.13% at Mythical Glory over the last 7 days and 47.60% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Chip play?
 
@@ -385,7 +375,7 @@ Tank and support, played on roam.
 
 Is Chip strong in the current meta?
 
-Tier D, #129 of 133 heroes and #23 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 1.8% of them.
+Tier D, #129 of 133 heroes and #23 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 1.8% of them.
 
 What is the best build for Chip?
 

@@ -7,7 +7,7 @@ language: en
 
 Trusted service
 
-1325 reviews
+1327 reviews
 
 # Professional boost Mobile Legends by PRO players from MCC tournaments
 
@@ -85,7 +85,7 @@ VPN protection, zero bans throughout our history
 
 Always in touch, we reply within 5 minutes
 
-1325 Reviews
+1327 Reviews
 
 99% Satisfied
 

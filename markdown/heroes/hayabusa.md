@@ -43,16 +43,6 @@ C
 -   Преследование
 -   Разрушительный урон
 
-### Победы по рангам, 30 дней
-
-1.  **47,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие убийцы этой линии
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
@@ -338,7 +328,7 @@ C
 
 ### Кто контрит Хаябусу
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)
 
 ### Кого контрит Хаябуса
 
@@ -364,7 +354,7 @@ C
 
 Кто контрит Хаябусу в MLBB?
 
-За последние 30 дней Хаябусу чаще всего обыгрывают Эймон, Ив, Чжусинь, Нолан и Икс.Борг.
+За последние 30 дней Хаябусу чаще всего обыгрывают Эймон, Ив, Чжусинь, Нолан и Кэрри.
 
 Как играть за Хаябусу?
 
@@ -372,7 +362,7 @@ C
 
 Какой процент побед у Хаябусы сейчас?
 
-48,40% в Мифической славе за последние 7 дней и 48,19% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,40% в Мифической славе за последние 7 дней и 48,19% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Хаябусы?
 

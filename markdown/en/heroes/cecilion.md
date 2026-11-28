@@ -1,6 +1,6 @@
 ---
 title: "Cecilion MLBB: build, combos and counters | MLBB Boost"
-description: "Cecilion in Mobile Legends: ranked build, skill combos, how to play and who counters Cecilion. Mage, 50.60% win rate, tier C."
+description: "Cecilion in Mobile Legends: ranked build, skill combos, how to play and who counters Cecilion. Mage, 50.59% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
@@ -43,24 +43,14 @@ Ban rate
 -   Poke
 -   Burst
 
-### Win rate by rank, 30 days
-
-1.  **50.3%**![](/images/ranks/Epic.webp)Epic
-2.  **49.9%**![](/images/ranks/Legend.webp)Legend
-3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.1%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
--   [Best MLBB mages**20 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB mid laners**18 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+-   [Best MLBB mages**19 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**17 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 
@@ -374,7 +364,7 @@ Level "Bats Feast" first and take the ultimate whenever it is available. Even th
 
 What is Cecilion’s win rate right now?
 
-50.60% at Mythical Glory over the last 7 days and 50.85% across all ranks over 30 days, as of 26 November 2026.
+50.59% at Mythical Glory over the last 7 days and 50.83% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Cecilion play?
 
@@ -382,7 +372,7 @@ Mage, played in the Mid Lane.
 
 Is Cecilion strong in the current meta?
 
-Tier C, #77 of 133 heroes and #20 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
+Tier C, #76 of 133 heroes and #19 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Cecilion?
 

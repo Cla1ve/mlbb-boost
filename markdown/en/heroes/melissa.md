@@ -43,16 +43,6 @@ Ban rate
 -   Finisher
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **47.8%**![](/images/ranks/Epic.webp)Epic
-2.  **48.3%**![](/images/ranks/Legend.webp)Legend
-3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More marksmen on this lane
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
@@ -393,7 +383,7 @@ Level "Falling!" first and take the ultimate whenever it is available. Stronger 
 
 What is Melissa’s win rate right now?
 
-52.42% at Mythical Glory over the last 7 days and 50.39% across all ranks over 30 days, as of 26 November 2026.
+52.42% at Mythical Glory over the last 7 days and 50.46% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Melissa play?
 

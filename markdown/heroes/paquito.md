@@ -1,6 +1,6 @@
 ---
 title: "Пакито MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Пакито, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пакито. Боец и убийца, 50,17% побед, тир A."
+description: "Пакито, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пакито. Боец и убийца, 50,16% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/paquito.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-10,5%
+10,3%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ A
 -   Преследование
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **49,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,4%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,1%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -343,7 +333,7 @@ A
 
 ### Кто контрит Пакито
 
-[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
 
 ## Скины Пакито
 
@@ -365,7 +355,7 @@ A
 
 Кто контрит Пакито в MLBB?
 
-За последние 30 дней Пакито чаще всего обыгрывают Наталья, Икс.Борг, Карина, Хелкарт и Бенедетта.
+За последние 30 дней Пакито чаще всего обыгрывают Наталья, Икс.Борг, Карина, Бенедетта и Ванван.
 
 Как играть за Пакито?
 
@@ -373,7 +363,7 @@ A
 
 Какой процент побед у Пакито сейчас?
 
-50,17% в Мифической славе за последние 7 дней и 50,00% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,16% в Мифической славе за последние 7 дней и 49,99% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Пакито?
 
@@ -381,7 +371,7 @@ A
 
 Стоит ли брать Пакито в текущей мете?
 
-Тир A, 11-е место из 133 героев и 5-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,5% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 69,3% катков.
+Тир A, 11-е место из 133 героев и 5-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,3% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 69,3% катков.
 
 Какая сборка на Пакито лучшая?
 

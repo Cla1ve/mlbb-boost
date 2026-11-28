@@ -1,6 +1,6 @@
 ---
 title: "Крылья королевы в MLBB: цена 2250, сборка и эффект | MLBB Boost"
-description: "Крылья королевы (Queen's Wings) в Mobile Legends: +750 оз, +30 адаптивная атака, +10% сокращение перезарядки. Пассивка «Демонизация». Собирается из: Перчатки эксперта, Пояс Ареса и Кольцо героя. Собирают Хирара, Бартс и Лукас."
+description: "Крылья королевы (Queen's Wings) в Mobile Legends: +750 оз, +30 адаптивная атака, +10% сокращение перезарядки. Пассивка «Демонизация». Собирается из: Перчатки эксперта, Пояс Ареса и Кольцо героя. Собирают Хирара, Бартс и Су Ё."
 canonical: https://boostmlbb.ru/items/queens-wings.html
 language: ru
 ---
@@ -57,8 +57,8 @@ Queen's Wings
 
 -   [![](/images/heroes/hirara.webp)Хирара52,6%](https://boostmlbb.ru/heroes/hirara.html#build)
 -   [![](/images/heroes/barats.webp)Бартс59,4%](https://boostmlbb.ru/heroes/barats.html#build)
--   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Су Ё53,5%](https://boostmlbb.ru/heroes/suyou.html#build)
+-   [![](/images/heroes/lukas.webp)Лукас54,9%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/sora.webp)Сора54,2%](https://boostmlbb.ru/heroes/sora.html#build)
 -   [![](/images/heroes/rafaela.webp)Рафаэль61,9%](https://boostmlbb.ru/heroes/rafaela.html#build)
 -   [![](/images/heroes/yu-zhong.webp)Чонг55,1%](https://boostmlbb.ru/heroes/yu-zhong.html#build)
@@ -103,4 +103,4 @@ Queen's Wings
 
 Каким героям собирать «Крылья королевы»?
 
-Предмет есть в популярных сборках 19 героев в рейтинге, среди них Хирара, Бартс, Лукас, Су Ё, Сора и Рафаэль.
+Предмет есть в популярных сборках 19 героев в рейтинге, среди них Хирара, Бартс, Су Ё, Лукас, Сора и Рафаэль.

@@ -1,6 +1,6 @@
 ---
 title: "Moskov MLBB: build, combos and counters | MLBB Boost"
-description: "Moskov in Mobile Legends: ranked build, skill combos, how to play and who counters Moskov. Marksman, 51.35% win rate, tier B."
+description: "Moskov in Mobile Legends: ranked build, skill combos, how to play and who counters Moskov. Marksman, 51.36% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/moskov.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Finisher
 -   Chase
-
-### Win rate by rank, 30 days
-
-1.  **46.7%**![](/images/ranks/Epic.webp)Epic
-2.  **47.7%**![](/images/ranks/Legend.webp)Legend
-3.  **49.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
@@ -338,7 +328,7 @@ When Spear of Destruction hits an enemy hero, it creates a shadow behind them an
 
 ### Who Moskov counters
 
-[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
+[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
 ## Moskov skins
 
@@ -368,7 +358,7 @@ Level "Abyss Walker" first and take the ultimate whenever it is available. Stron
 
 What is Moskov’s win rate right now?
 
-51.35% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 26 November 2026.
+51.36% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Moskov play?
 

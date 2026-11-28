@@ -1,6 +1,6 @@
 ---
 title: "Беатрис MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Беатрис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Беатрис. Стрелок, 50,52% побед, тир C."
+description: "Беатрис, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Беатрис. Стрелок, 50,49% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/beatrix.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Добивание
 -   Урон
-
-### Победы по рангам, 30 дней
-
-1.  **51,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,7%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие стрелки этой линии
 
@@ -352,7 +342,7 @@ C
 
 ### Кого контрит Беатрис
 
-[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
+[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ## Скины Беатрис
 
@@ -382,7 +372,7 @@ C
 
 Какой процент побед у Беатрис сейчас?
 
-50,52% в Мифической славе за последние 7 дней и 50,32% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,49% в Мифической славе за последние 7 дней и 50,30% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Беатрис?
 

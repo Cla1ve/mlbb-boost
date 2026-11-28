@@ -1,6 +1,6 @@
 ---
 title: "Сора MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Сора, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сору. Боец и убийца, 49,56% побед, тир B."
+description: "Сора, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сору. Боец и убийца, 49,55% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/sora.html
 language: ru
 ---
@@ -19,7 +19,7 @@ B
 
 Победы
 
-49,6%
+49,5%
 
 Выбор
 
@@ -27,7 +27,7 @@ B
 
 Баны
 
-3,0%
+3,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ B
 
 -   Рывок
 -   Разрушительный урон
-
-### Победы по рангам, 30 дней
-
-1.  **48,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,6%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
@@ -340,7 +330,7 @@ B
 
 ### Кто контрит Сору
 
-[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
 
 ### Кого контрит Сора
 
@@ -366,7 +356,7 @@ B
 
 Кто контрит Сору в MLBB?
 
-За последние 30 дней Сору чаще всего обыгрывают Эстес, Пополь и Купа, Рафаэль, Карина и Лолита.
+За последние 30 дней Сору чаще всего обыгрывают Эстес, Пополь и Купа, Рафаэль, Карина и Гвиневра.
 
 Как играть за Сору?
 
@@ -374,7 +364,7 @@ B
 
 Какой процент побед у Соры сейчас?
 
-49,56% в Мифической славе за последние 7 дней и 49,52% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,55% в Мифической славе за последние 7 дней и 49,51% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Соры?
 
@@ -382,7 +372,7 @@ B
 
 Стоит ли брать Сору в текущей мете?
 
-Тир B, 33-е место из 133 героев и 11-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,0% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 23,7% катков.
+Тир B, 33-е место из 133 героев и 11-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,1% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 23,7% катков.
 
 Какая сборка на Сору лучшая?
 

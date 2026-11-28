@@ -1,6 +1,6 @@
 ---
 title: "Дигги MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Дигги, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Дигги. Поддержка, 56,06% побед, тир B."
+description: "Дигги, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Дигги. Поддержка, 56,10% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/diggie.html
 language: ru
 ---
@@ -42,16 +42,6 @@ B
 
 -   Защита
 -   Поук
-
-### Победы по рангам, 30 дней
-
-1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **53,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **55,6%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие герои поддержки этой линии
 
@@ -334,7 +324,7 @@ B
 
 ### Кого контрит Дигги
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ## Скины Дигги
 
@@ -364,7 +354,7 @@ B
 
 Какой процент побед у Дигги сейчас?
 
-56,06% в Мифической славе за последние 7 дней и 54,42% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+56,10% в Мифической славе за последние 7 дней и 54,45% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Дигги?
 

@@ -11,7 +11,7 @@ language: en
 
 # Best MLBB mages
 
-32 heroes · Updated 26 November
+32 heroes · Updated 27 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -83,7 +83,7 @@ A
 
 Win rate
 
-46.5%
+46.6%
 
 Pick rate
 
@@ -91,7 +91,7 @@ Pick rate
 
 Ban rate
 
-1.3%
+1.4%
 
 [
 
@@ -219,11 +219,11 @@ A
 
 A
 
-46.5%
+46.6%
 
 0.9%
 
-1.3%
+1.4%
 
 76.4%
 
@@ -251,7 +251,7 @@ A
 
 1.6%
 
-33.1%
+32.9%
 
 24.7%
 
@@ -261,7 +261,7 @@ A
 
 A
 
-49.5%
+49.6%
 
 0.3%
 
@@ -279,7 +279,7 @@ A
 
 1.3%
 
-4.1%
+4.2%
 
 40.7%
 
@@ -303,15 +303,29 @@ A
 
 A
 
-48.4%
+48.3%
 
 1.4%
 
-3.5%
+3.4%
 
 32.9%
 
 9
+
+[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
+
+B
+
+53.3%
+
+1.9%
+
+1.5%
+
+1.0%
+
+10
 
 [![](/images/heroes/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)
 
@@ -324,20 +338,6 @@ B
 0.2%
 
 37.3%
-
-10
-
-[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
-
-B
-
-53.3%
-
-1.8%
-
-1.4%
-
-1.0%
 
 11
 
@@ -391,7 +391,7 @@ B
 
 1.1%
 
-1.4%
+1.5%
 
 0.5%
 
@@ -415,7 +415,7 @@ B
 
 B
 
-51.1%
+51.2%
 
 0.9%
 
@@ -453,20 +453,6 @@ C
 
 19
 
-[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)
-
-C
-
-48.5%
-
-1.1%
-
-0.4%
-
-—
-
-20
-
 [![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 C
@@ -479,13 +465,27 @@ C
 
 1.4%
 
+20
+
+[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)
+
+C
+
+48.5%
+
+1.1%
+
+0.4%
+
+—
+
 21
 
 [![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 C
 
-51.6%
+51.5%
 
 0.1%
 
@@ -513,7 +513,7 @@ C
 
 C
 
-51.1%
+51.2%
 
 0.4%
 
@@ -537,20 +537,6 @@ C
 
 25
 
-[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)
-
-C
-
-48.7%
-
-0.5%
-
-0.1%
-
-0.3%
-
-26
-
 [![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 C
@@ -562,6 +548,20 @@ C
 0.1%
 
 —
+
+26
+
+[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)
+
+C
+
+48.6%
+
+0.5%
+
+0.1%
+
+0.3%
 
 27
 
@@ -625,11 +625,11 @@ C
 
 D
 
-46.6%
+46.7%
 
 0.2%
 
-0.0%
+0.1%
 
 0.6%
 
@@ -667,7 +667,7 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 3.  [![](/images/heroes/gord.webp)Gord52.8%](https://boostmlbb.ru/en/heroes/gord.html)
 4.  [![](/images/heroes/cyclops.webp)Cyclops52.4%](https://boostmlbb.ru/en/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Zetian52.1%](https://boostmlbb.ru/en/heroes/zetian.html)
-6.  [![](/images/heroes/bane.webp)Bane51.5%](https://boostmlbb.ru/en/heroes/bane.html)
+6.  [![](/images/heroes/bane.webp)Bane51.6%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Who beats mages
 
@@ -688,7 +688,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best mage in MLBB right now?
 
-Alice: tier A, 50.3% win rate, banned in 8.3% of Mythical Glory games over 7 days. Esmeralda and Kimmy follow. Data as of 26 November 2026.
+Alice: tier A, 50.3% win rate, banned in 8.3% of Mythical Glory games over 7 days. Esmeralda and Kimmy follow. Data as of 27 November 2026.
 
 Which of the mages should a beginner pick?
 
@@ -696,11 +696,11 @@ Zetian, Vexana and Vale are the easiest to play: their difficulty on the in-game
 
 Which mages get banned most?
 
-Eudora (33.1%), Alice (8.3%) and Valir (4.1%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Eudora (32.9%), Alice (8.3%) and Valir (4.2%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many mages are there in Mobile Legends?
 
-32 of 133 heroes as of 26 November 2026. The list has every hero with the Mage role.
+32 of 133 heroes as of 27 November 2026. The list has every hero with the Mage role.
 
 Which items do mages build most often?
 

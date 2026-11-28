@@ -48,7 +48,7 @@ C
 1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -338,7 +338,7 @@ C
 
 ### Кто контрит Сильвану
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
 
 ### Кого контрит Сильвана
 
@@ -364,7 +364,7 @@ C
 
 Кто контрит Сильвану в MLBB?
 
-За последние 30 дней Сильвану чаще всего обыгрывают Эймон, Флорин, Ангела, Рафаэль и Валентина.
+За последние 30 дней Сильвану чаще всего обыгрывают Эймон, Флорин, Ангела, Валентина и Рафаэль.
 
 Как играть за Сильвану?
 
@@ -372,7 +372,7 @@ C
 
 Какой процент побед у Сильваны сейчас?
 
-50,28% в Мифической славе за последние 7 дней и 51,39% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,28% в Мифической славе за последние 7 дней и 51,39% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Сильваны?
 

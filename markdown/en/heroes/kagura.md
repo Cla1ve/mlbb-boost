@@ -1,6 +1,6 @@
 ---
 title: "Kagura MLBB: build, combos and counters | MLBB Boost"
-description: "Kagura in Mobile Legends: ranked build, skill combos, how to play and who counters Kagura. Mage, 50.36% win rate, tier B."
+description: "Kagura in Mobile Legends: ranked build, skill combos, how to play and who counters Kagura. Mage, 50.40% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-1.4%
+1.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ Ban rate
 -   Poke
 -   Finisher
 
-### Win rate by rank, 30 days
-
-1.  **51.0%**![](/images/ranks/Epic.webp)Epic
-2.  **51.5%**![](/images/ranks/Legend.webp)Legend
-3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.6%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -331,7 +321,7 @@ Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic P
 
 ### Who counters Kagura
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
 
 ### Who Kagura counters
 
@@ -357,7 +347,7 @@ Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic P
 
 Who counters Kagura in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Silvanna, Hanzo, Hanabi and Valir.
+Over the last 30 days the toughest opponents are Lolita, Silvanna, Hanabi, Hanzo and Valir.
 
 How do you play Kagura?
 
@@ -365,7 +355,7 @@ Level "Seimei Umbrella Open " first and take the ultimate whenever it is availab
 
 What is Kagura’s win rate right now?
 
-50.36% at Mythical Glory over the last 7 days and 50.95% across all ranks over 30 days, as of 26 November 2026.
+50.40% at Mythical Glory over the last 7 days and 50.92% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Kagura play?
 
@@ -373,7 +363,7 @@ Mage, played in the Mid Lane.
 
 Is Kagura strong in the current meta?
 
-Tier B, #58 of 133 heroes and #14 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
+Tier B, #58 of 133 heroes and #14 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Kagura?
 

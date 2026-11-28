@@ -1,6 +1,6 @@
 ---
 title: "Фредрин MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Фредрин, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фредрина. Танк и боец, 52,46% побед, тир C."
+description: "Фредрин, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фредрина. Танк и боец, 52,49% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/fredrinn.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Урон
 -   Преследование
-
-### Победы по рангам, 30 дней
-
-1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,2%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -346,7 +336,7 @@ C
 
 ### Кто контрит Фредрина
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
 
 ### Кого контрит Фредрин
 
@@ -372,7 +362,7 @@ C
 
 Кто контрит Фредрина в MLBB?
 
-За последние 30 дней Фредрина чаще всего обыгрывают Глу, Алукард, Джой, Люнокс и Эсмеральда.
+За последние 30 дней Фредрина чаще всего обыгрывают Глу, Алукард, Люнокс, Джой и Эсмеральда.
 
 Как играть за Фредрина?
 
@@ -380,7 +370,7 @@ C
 
 Какой процент побед у Фредрина сейчас?
 
-52,46% в Мифической славе за последние 7 дней и 51,30% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+52,49% в Мифической славе за последние 7 дней и 51,31% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Фредрина?
 

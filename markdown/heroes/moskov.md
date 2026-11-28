@@ -1,6 +1,6 @@
 ---
 title: "Москов MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Москов, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Москова. Стрелок, 51,35% побед, тир B."
+description: "Москов, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Москова. Стрелок, 51,36% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/moskov.html
 language: ru
 ---
@@ -42,16 +42,6 @@ B
 
 -   Добивание
 -   Преследование
-
-### Победы по рангам, 30 дней
-
-1.  **46,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,3%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие стрелки этой линии
 
@@ -338,7 +328,7 @@ B
 
 ### Кого контрит Москов
 
-[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
 ## Скины Москова
 
@@ -368,7 +358,7 @@ B
 
 Какой процент побед у Москова сейчас?
 
-51,35% в Мифической славе за последние 7 дней и 50,32% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+51,36% в Мифической славе за последние 7 дней и 50,32% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Москова?
 

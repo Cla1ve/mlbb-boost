@@ -1,6 +1,6 @@
 ---
 title: "Valir MLBB: build, combos and counters | MLBB Boost"
-description: "Valir in Mobile Legends: ranked build, skill combos, how to play and who counters Valir. Mage, 53.46% win rate, tier A."
+description: "Valir in Mobile Legends: ranked build, skill combos, how to play and who counters Valir. Mage, 53.45% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-4.1%
+4.2%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ Ban rate
 
 1.  **54.2%**![](/images/ranks/Epic.webp)Epic
 2.  **54.2%**![](/images/ranks/Legend.webp)Legend
-3.  **54.6%**![](/images/ranks/Mythic.webp)Mythic
+3.  **54.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **54.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **53.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -55,7 +55,7 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Places in the rankings
 
@@ -313,7 +313,7 @@ Level "Burst Fireball" first and take the ultimate whenever it is available. Str
 
 What is Valir’s win rate right now?
 
-53.46% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 26 November 2026.
+53.45% at Mythical Glory over the last 7 days and 54.01% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Valir play?
 
@@ -321,7 +321,7 @@ Mage, played in the Mid Lane.
 
 Is Valir strong in the current meta?
 
-Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.1% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
+Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.2% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
 
 What is the best build for Valir?
 

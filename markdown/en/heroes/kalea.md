@@ -1,6 +1,6 @@
 ---
 title: "Kalea MLBB: build, combos and counters | MLBB Boost"
-description: "Kalea in Mobile Legends: ranked build, skill combos, how to play and who counters Kalea. Fighter and support, 51.79% win rate, tier S."
+description: "Kalea in Mobile Legends: ranked build, skill combos, how to play and who counters Kalea. Fighter and support, 51.82% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-14.6%
+14.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ Ban rate
 
 -   Control
 -   Regen
-
-### Win rate by rank, 30 days
-
-1.  **49.1%**![](/images/ranks/Epic.webp)Epic
-2.  **49.0%**![](/images/ranks/Legend.webp)Legend
-3.  **49.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More fighters on this lane
 
@@ -368,7 +358,7 @@ Level "Tidal Strike" first and take the ultimate whenever it is available. Stron
 
 What is Kalea’s win rate right now?
 
-51.79% at Mythical Glory over the last 7 days and 50.54% across all ranks over 30 days, as of 26 November 2026.
+51.82% at Mythical Glory over the last 7 days and 50.57% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Kalea play?
 
@@ -376,7 +366,7 @@ Fighter and support, played on roam.
 
 Is Kalea strong in the current meta?
 
-Tier S, #6 of 133 heroes and #3 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.6% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 99.7% of them.
+Tier S, #6 of 133 heroes and #3 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.5% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 99.7% of them.
 
 What is the best build for Kalea?
 

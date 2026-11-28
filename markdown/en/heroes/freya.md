@@ -1,6 +1,6 @@
 ---
 title: "Freya MLBB: build, combos and counters | MLBB Boost"
-description: "Freya in Mobile Legends: ranked build, skill combos, how to play and who counters Freya. Fighter, 51.88% win rate, tier S."
+description: "Freya in Mobile Legends: ranked build, skill combos, how to play and who counters Freya. Fighter, 51.95% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
@@ -19,7 +19,7 @@ S
 
 Win rate
 
-51.9%
+52.0%
 
 Pick rate
 
@@ -27,7 +27,7 @@ Pick rate
 
 Ban rate
 
-11.6%
+11.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,19 +43,9 @@ Ban rate
 -   Chase
 -   Damage
 
-### Win rate by rank, 30 days
-
-1.  **47.5%**![](/images/ranks/Epic.webp)Epic
-2.  **47.7%**![](/images/ranks/Legend.webp)Legend
-3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More fighters on this lane
 
-[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
+[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ### Places in the rankings
 
@@ -371,7 +361,7 @@ Level "Valkyrie Slash" first and take the ultimate whenever it is available. Str
 
 What is Freya’s win rate right now?
 
-51.88% at Mythical Glory over the last 7 days and 49.61% across all ranks over 30 days, as of 26 November 2026.
+51.95% at Mythical Glory over the last 7 days and 49.68% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Freya play?
 
@@ -379,7 +369,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Freya strong in the current meta?
 
-Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.6% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
+Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.8% of matches, 52.0% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
 
 What is the best build for Freya?
 

@@ -1,6 +1,6 @@
 ---
 title: "Alice MLBB: build, combos and counters | MLBB Boost"
-description: "Alice in Mobile Legends: ranked build, skill combos, how to play and who counters Alice. Tank and mage, 50.30% win rate, tier A."
+description: "Alice in Mobile Legends: ranked build, skill combos, how to play and who counters Alice. Tank and mage, 50.31% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/alice.html
 language: en
 ---
@@ -42,16 +42,6 @@ Ban rate
 
 -   Charge
 -   Regen
-
-### Win rate by rank, 30 days
-
-1.  **50.5%**![](/images/ranks/Epic.webp)Epic
-2.  **50.5%**![](/images/ranks/Legend.webp)Legend
-3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.7%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
 
 ### More tanks on this lane
 
@@ -345,7 +335,7 @@ While charging her Ultimate, Alice cannot use any hero skills other than Scarlet
 
 ### Who Alice counters
 
-[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
 
 ## Alice skins
 
@@ -375,7 +365,7 @@ Level "Doom Waltz" first and take the ultimate whenever it is available. Stronge
 
 What is Alice’s win rate right now?
 
-50.30% at Mythical Glory over the last 7 days and 50.61% across all ranks over 30 days, as of 26 November 2026.
+50.31% at Mythical Glory over the last 7 days and 50.58% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Alice play?
 

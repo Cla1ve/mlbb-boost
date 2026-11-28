@@ -1,6 +1,6 @@
 ---
 title: "Лейла MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Лейла, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лейлу. Стрелок, 48,27% побед, тир C."
+description: "Лейла, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лейлу. Стрелок, 48,26% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/layla.html
 language: ru
 ---
@@ -42,16 +42,6 @@ C
 
 -   Добивание
 -   Урон
-
-### Победы по рангам, 30 дней
-
-1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие стрелки этой линии
 
@@ -332,7 +322,7 @@ C
 
 ### Кто контрит Лейлу
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ### Кого контрит Лейла
 
@@ -358,7 +348,7 @@ C
 
 Кто контрит Лейлу в MLBB?
 
-За последние 30 дней Лейлу чаще всего обыгрывают Дигги, Эдит, Рафаэль, Фовиус и Одетта.
+За последние 30 дней Лейлу чаще всего обыгрывают Дигги, Рафаэль, Эдит, Фовиус и Одетта.
 
 Как играть за Лейлу?
 
@@ -366,7 +356,7 @@ C
 
 Какой процент побед у Лейлы сейчас?
 
-48,27% в Мифической славе за последние 7 дней и 49,43% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,26% в Мифической славе за последние 7 дней и 49,44% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Лейлы?
 

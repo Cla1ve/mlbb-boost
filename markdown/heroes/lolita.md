@@ -1,6 +1,6 @@
 ---
 title: "Лолита MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Лолита, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лолиту. Танк и поддержка, 52,36% побед, тир D."
+description: "Лолита, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лолиту. Танк и поддержка, 52,45% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/lolita.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-52,4%
+52,5%
 
 Выбор
 
@@ -45,9 +45,9 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **54,1%**![](/images/ranks/Epic.webp)Эпик
+1.  **54,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **55,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **54,8%**![](/images/ranks/Mythic.webp)Мифик
+3.  **54,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,9%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -337,7 +337,7 @@ D
 
 ### Кого контрит Лолита
 
-[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)
+[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)
 
 ## Скины Лолиты
 
@@ -367,7 +367,7 @@ D
 
 Какой процент побед у Лолиты сейчас?
 
-52,36% в Мифической славе за последние 7 дней и 53,30% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+52,45% в Мифической славе за последние 7 дней и 53,32% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Лолиты?
 
@@ -375,7 +375,7 @@ D
 
 Стоит ли брать Лолиту в текущей мете?
 
-Тир D, 122-е место из 133 героев и 22-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир D, 122-е место из 133 героев и 22-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на Лолиту лучшая?
 

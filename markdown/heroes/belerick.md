@@ -1,6 +1,6 @@
 ---
 title: "Белерик MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Белерик, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Белерика. Танк, 50,47% побед, тир S."
+description: "Белерик, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Белерика. Танк, 50,48% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/belerick.html
 language: ru
 ---
@@ -27,7 +27,7 @@ S
 
 Баны
 
-56,7%
+56,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -48,7 +48,7 @@ S
 1.  **56,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,4%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **51,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -334,7 +334,7 @@ S
 
 ### Кто контрит Белерика
 
-[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
 
 ### Кого контрит Белерик
 
@@ -360,7 +360,7 @@ S
 
 Кто контрит Белерика в MLBB?
 
-За последние 30 дней Белерика чаще всего обыгрывают Мия, Сильвана, Заск, Джонсон и Зилонг.
+За последние 30 дней Белерика чаще всего обыгрывают Мия, Сильвана, Заск, Джонсон и Сабер.
 
 Как играть за Белерика?
 
@@ -368,7 +368,7 @@ S
 
 Какой процент побед у Белерика сейчас?
 
-50,47% в Мифической славе за последние 7 дней и 51,84% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+50,48% в Мифической славе за последние 7 дней и 51,85% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Белерика?
 
@@ -376,7 +376,7 @@ S
 
 Стоит ли брать Белерика в текущей мете?
 
-Тир S, 10-е место из 133 героев и 3-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,7% матчей, 50,5% побед. В профессиональных матчах за месяц героя драфтуют в 38,0% катков.
+Тир S, 10-е место из 133 героев и 3-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,9% матчей, 50,5% побед. В профессиональных матчах за месяц героя драфтуют в 38,0% катков.
 
 Какая сборка на Белерика лучшая?
 

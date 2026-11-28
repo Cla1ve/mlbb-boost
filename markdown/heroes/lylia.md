@@ -1,6 +1,6 @@
 ---
 title: "Лилия MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Лилия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лилию. Маг, 47,60% побед, тир B."
+description: "Лилия, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лилию. Маг, 47,62% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lylia.html
 language: ru
 ---
@@ -43,24 +43,14 @@ B
 -   Пуш
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **51,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,6%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
 [![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**9 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие мидеры MLBB**7 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+-   [Лучшие маги MLBB**10 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**8 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 
@@ -341,10 +331,6 @@ B
 
 [![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
 
-### Кого контрит Лилия
-
-[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
-
 ## Скины Лилии
 
 [![](/images/skins/cards/lylia/phantasmal-revelry.webp)Призрачное весельеДелюкс · 2026](https://boostmlbb.ru/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/lylia/magitech-arsenal.webp)Магитех­нический арсеналИсключительный · 2024](https://boostmlbb.ru/skins/lylia/magitech-arsenal.html)[![](/images/skins/cards/lylia/neobeast-lylia.webp)Лилия NeobeastГрандиозный · 2023](https://boostmlbb.ru/skins/lylia/neobeast-lylia.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Проклятая куклаИсключительный · 2020](https://boostmlbb.ru/skins/lylia/haunted-doll.html)[![](/images/skins/cards/lylia/future-star.webp)Звезда будущегоИсключительный · 2020](https://boostmlbb.ru/skins/lylia/future-star.html)[![](/images/skins/cards/lylia/star-student.webp)Звёздная ученицаОбычный · 2020](https://boostmlbb.ru/skins/lylia/star-student.html)[![](/images/skins/cards/lylia/school-idol.webp)Школьный кумирОбычный · 2019](https://boostmlbb.ru/skins/lylia/school-idol.html)
@@ -373,7 +359,7 @@ B
 
 Какой процент побед у Лилии сейчас?
 
-47,60% в Мифической славе за последние 7 дней и 49,20% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+47,62% в Мифической славе за последние 7 дней и 49,17% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Лилии?
 
@@ -381,7 +367,7 @@ B
 
 Стоит ли брать Лилию в текущей мете?
 
-Тир B, 36-е место из 133 героев и 9-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,6% побед. В профессиональных матчах за месяц героя драфтуют в 37,3% катков.
+Тир B, 37-е место из 133 героев и 10-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,6% побед. В профессиональных матчах за месяц героя драфтуют в 37,3% катков.
 
 Какая сборка на Лилию лучшая?
 

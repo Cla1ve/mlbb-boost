@@ -1,6 +1,6 @@
 ---
 title: "Чжусинь MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Чжусинь, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чжусинь. Маг, 49,53% побед, тир A."
+description: "Чжусинь, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чжусинь. Маг, 49,62% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/zhuxin.html
 language: ru
 ---
@@ -19,7 +19,7 @@ A
 
 Победы
 
-49,5%
+49,6%
 
 Выбор
 
@@ -43,19 +43,9 @@ A
 -   Урон
 -   Массовый контроль
 
-### Победы по рангам, 30 дней
-
-1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,8%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие маги этой линии
 
-[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Места в рейтингах
 
@@ -337,7 +327,7 @@ A
 
 ### Кого контрит Чжусинь
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Скины Чжусинь
 
@@ -367,7 +357,7 @@ A
 
 Какой процент побед у Чжусинь сейчас?
 
-49,53% в Мифической славе за последние 7 дней и 49,45% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+49,62% в Мифической славе за последние 7 дней и 49,41% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Чжусинь?
 
@@ -375,7 +365,7 @@ A
 
 Стоит ли брать Чжусинь в текущей мете?
 
-Тир A, 19-е место из 133 героев и 5-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 73,9% катков.
+Тир A, 19-е место из 133 героев и 5-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 73,9% катков.
 
 Какая сборка на Чжусинь лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Чип MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Чип, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чипа. Танк и поддержка, 48,17% побед, тир D."
+description: "Чип, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Чипа. Танк и поддержка, 48,13% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/chip.html
 language: ru
 ---
@@ -19,7 +19,7 @@ D
 
 Победы
 
-48,2%
+48,1%
 
 Выбор
 
@@ -42,16 +42,6 @@ D
 
 -   Поддержка
 -   Массовый контроль
-
-### Победы по рангам, 30 дней
-
-1.  **46,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -343,7 +333,7 @@ D
 
 ### Кто контрит Чипа
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)
 
 ### Кого контрит Чип
 
@@ -369,7 +359,7 @@ D
 
 Кто контрит Чипа в MLBB?
 
-За последние 30 дней Чипа чаще всего обыгрывают Зилонг, Хелкарт, Селена, Матильда и Валентина.
+За последние 30 дней Чипа чаще всего обыгрывают Хелкарт, Зилонг, Селена, Валентина и Флорин.
 
 Как играть за Чипа?
 
@@ -377,7 +367,7 @@ D
 
 Какой процент побед у Чипа сейчас?
 
-48,17% в Мифической славе за последние 7 дней и 47,61% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,13% в Мифической славе за последние 7 дней и 47,60% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Чипа?
 
@@ -385,7 +375,7 @@ D
 
 Стоит ли брать Чипа в текущей мете?
 
-Тир D, 129-е место из 133 героев и 23-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 1,8% катков.
+Тир D, 129-е место из 133 героев и 23-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,1% побед. В профессиональных матчах за месяц героя драфтуют в 1,8% катков.
 
 Какая сборка на Чипа лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Тамуз MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Тамуз, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Тамуза. Боец, 48,33% побед, тир C."
+description: "Тамуз, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Тамуза. Боец, 48,32% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/thamuz.html
 language: ru
 ---
@@ -43,19 +43,9 @@ C
 -   Преследование
 -   Урон
 
-### Победы по рангам, 30 дней
-
-1.  **48,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
-
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -276,7 +266,7 @@ C
 
 ### Кто контрит Тамуза
 
-[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ### Кого контрит Тамуз
 
@@ -302,7 +292,7 @@ C
 
 Кто контрит Тамуза в MLBB?
 
-За последние 30 дней Тамуза чаще всего обыгрывают Алукард, Алиса, Одетта, Сабер и Фарамис.
+За последние 30 дней Тамуза чаще всего обыгрывают Алукард, Алиса, Одетта, Сабер и Дигги.
 
 Как играть за Тамуза?
 
@@ -310,7 +300,7 @@ C
 
 Какой процент побед у Тамуза сейчас?
 
-48,33% в Мифической славе за последние 7 дней и 48,90% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+48,32% в Мифической славе за последние 7 дней и 48,90% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Тамуза?
 

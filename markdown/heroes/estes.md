@@ -1,6 +1,6 @@
 ---
 title: "Эстес MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Эстес, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эстеса. Поддержка, 52,62% побед, тир A."
+description: "Эстес, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Эстеса. Поддержка, 52,64% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/estes.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 Баны
 
-32,7%
+32,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -332,7 +332,7 @@ A
 
 ### Кто контрит Эстеса
 
-[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ### Кого контрит Эстес
 
@@ -358,7 +358,7 @@ A
 
 Кто контрит Эстеса в MLBB?
 
-За последние 30 дней Эстеса чаще всего обыгрывают Фарамис, Циклоп, Алиса, Чичи и Дигги.
+За последние 30 дней Эстеса чаще всего обыгрывают Фарамис, Циклоп, Алиса, Чичи и Маша.
 
 Как играть за Эстеса?
 
@@ -366,7 +366,7 @@ A
 
 Какой процент побед у Эстеса сейчас?
 
-52,62% в Мифической славе за последние 7 дней и 52,76% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+52,64% в Мифической славе за последние 7 дней и 52,76% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Эстеса?
 
@@ -374,7 +374,7 @@ A
 
 Стоит ли брать Эстеса в текущей мете?
 
-Тир A, 22-е место из 133 героев и 4-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,7% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 14,9% катков.
+Тир A, 22-е место из 133 героев и 4-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,9% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 14,9% катков.
 
 Какая сборка на Эстеса лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Сабер MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Сабер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сабера. Убийца, 53,71% побед, тир B."
+description: "Сабер, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сабера. Убийца, 53,69% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/saber.html
 language: ru
 ---
@@ -27,7 +27,7 @@ B
 
 Баны
 
-13,6%
+13,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
@@ -42,16 +42,6 @@ B
 
 -   Рывок
 -   Добивание
-
-### Победы по рангам, 30 дней
-
-1.  **48,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **53,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
@@ -335,7 +325,7 @@ B
 
 ### Кого контрит Сабер
 
-[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
 ## Скины Сабера
 
@@ -365,7 +355,7 @@ B
 
 Какой процент побед у Сабера сейчас?
 
-53,71% в Мифической славе за последние 7 дней и 51,29% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+53,69% в Мифической славе за последние 7 дней и 51,31% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Сабера?
 
@@ -373,7 +363,7 @@ B
 
 Стоит ли брать Сабера в текущей мете?
 
-Тир B, 32-е место из 133 героев и 6-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 13,6% матчей, 53,7% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
+Тир B, 32-е место из 133 героев и 6-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 13,9% матчей, 53,7% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
 
 Какая сборка на Сабера лучшая?
 

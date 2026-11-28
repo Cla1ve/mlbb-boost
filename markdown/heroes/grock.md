@@ -1,6 +1,6 @@
 ---
 title: "Грок MLBB: сборка, комбо и контрпики | MLBB Boost"
-description: "Грок, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Грока. Танк и боец, 45,84% побед, тир C."
+description: "Грок, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Грока. Танк и боец, 45,87% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/grock.html
 language: ru
 ---
@@ -19,7 +19,7 @@ C
 
 Победы
 
-45,8%
+45,9%
 
 Выбор
 
@@ -42,16 +42,6 @@ C
 
 -   Массовый контроль
 -   Инициатор
-
-### Победы по рангам, 30 дней
-
-1.  **49,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **47,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **46,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,5%**![](/images/ranks/Mythical_Glory.webp)Слава
-
-Пунктир: 50% побед
 
 ### Другие танки этой линии
 
@@ -335,7 +325,7 @@ C
 
 ### Кто контрит Грока
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ### Кого контрит Грок
 
@@ -361,7 +351,7 @@ C
 
 Кто контрит Грока в MLBB?
 
-За последние 30 дней Грока чаще всего обыгрывают Лолита, Джонсон, Инь, Дигги и Одетта.
+За последние 30 дней Грока чаще всего обыгрывают Лолита, Джонсон, Инь, Одетта и Дигги.
 
 Как играть за Грока?
 
@@ -369,7 +359,7 @@ C
 
 Какой процент побед у Грока сейчас?
 
-45,84% в Мифической славе за последние 7 дней и 46,62% на всех рангах за 30 дней, данные на 26 ноября 2026 года.
+45,87% в Мифической славе за последние 7 дней и 46,62% на всех рангах за 30 дней, данные на 27 ноября 2026 года.
 
 Какая роль и линия у Грока?
 
@@ -377,7 +367,7 @@ C
 
 Стоит ли брать Грока в текущей мете?
 
-Тир C, 119-е место из 133 героев и 21-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 45,8% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир C, 119-е место из 133 героев и 21-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 45,9% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на Грока лучшая?
 

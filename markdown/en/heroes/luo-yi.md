@@ -1,6 +1,6 @@
 ---
 title: "Luo Yi MLBB: build, combos and counters | MLBB Boost"
-description: "Luo Yi in Mobile Legends: ranked build, skill combos, how to play and who counters Luo Yi. Mage, 46.25% win rate, tier D."
+description: "Luo Yi in Mobile Legends: ranked build, skill combos, how to play and who counters Luo Yi. Mage, 46.29% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
@@ -43,19 +43,9 @@ Ban rate
 -   Support
 -   Crowd Control
 
-### Win rate by rank, 30 days
-
-1.  **48.8%**![](/images/ranks/Epic.webp)Epic
-2.  **47.9%**![](/images/ranks/Legend.webp)Legend
-3.  **47.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.5%**![](/images/ranks/Mythical_Glory.webp)Glory
-
-Dashed line: 50% win rate
-
 ### More mages on this lane
 
-[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Places in the rankings
 
@@ -337,7 +327,7 @@ Ultimate
 
 ### Who counters Luo Yi
 
-[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ### Who Luo Yi counters
 
@@ -363,7 +353,7 @@ Ultimate
 
 Who counters Luo Yi in MLBB?
 
-Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Uranus and Fredrinn.
+Over the last 30 days the toughest opponents are Estes, Baxia, Faramis, Fredrinn and Uranus.
 
 How do you play Luo Yi?
 
@@ -371,7 +361,7 @@ Level "Dispersion" first and take the ultimate whenever it is available. Stronge
 
 What is Luo Yi’s win rate right now?
 
-46.25% at Mythical Glory over the last 7 days and 47.23% across all ranks over 30 days, as of 26 November 2026.
+46.29% at Mythical Glory over the last 7 days and 47.20% across all ranks over 30 days, as of 27 November 2026.
 
 What role and lane does Luo Yi play?
 
